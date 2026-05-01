@@ -1,0 +1,33 @@
+name: Tech Digest – 6:30 AM ICT
+
+on:
+  schedule:
+    # 6:30 AM ICT (UTC+7) = 23:30 UTC ngày hôm trước
+    - cron: "30 23 * * *"
+
+  # Chạy thủ công để test
+  workflow_dispatch:
+
+jobs:
+  send-digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install feedparser anthropic requests
+
+      - name: Run digest bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python digest.py
