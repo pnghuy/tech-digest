@@ -5,13 +5,15 @@ Nguồn cố định, lọc chặt, gửi Telegram 6:30 ICT mỗi ngày
 """
 
 import os, re, feedparser, requests
+import google.generativeai as genai
 from datetime import datetime, timedelta, timezone
-from anthropic import Anthropic
 from zoneinfo import ZoneInfo
 
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID   = os.environ["TELEGRAM_CHAT_ID"]
-ANTHROPIC_API_KEY  = os.environ["ANTHROPIC_API_KEY"]
+GEMINI_API_KEY     = os.environ["GEMINI_API_KEY"]
+
+genai.configure(api_key=GEMINI_API_KEY)
 
 ICT = ZoneInfo("Asia/Bangkok")
 
@@ -104,8 +106,7 @@ def fetch_source(source: dict) -> list[dict]:
 
 # ── Claude chọn lọc + viết bản tin ───────────────────────────────────────────
 def build_digest(all_articles: dict[str, list[dict]]) -> str:
-    client = Anthropic(api_key=ANTHROPIC_API_KEY)
-
+    model = genai.GenerativeModel("gemini-2.5-flash")
     today = datetime.now(ICT).strftime("%d/%m/%Y")
 
     # Build context cho từng nguồn
@@ -151,12 +152,8 @@ Nguồn: [tên nguồn] – [URL gốc]
 
 [lặp lại cho đủ 10 tin, mỗi tin cách nhau 1 dòng trống]"""
 
-    response = client.messages.create(
-        model="claude-sonnet-4-20250514",
-        max_tokens=2500,
-        messages=[{"role": "user", "content": prompt}],
-    )
-    return response.content[0].text.strip()
+    response = model.generate_content(prompt)
+    return response.text.strip()
 
 
 # ── Gửi Telegram ─────────────────────────────────────────────────────────────
