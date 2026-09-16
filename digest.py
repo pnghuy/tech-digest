@@ -1,11 +1,17 @@
 #!/usr/bin/env python3
 """
-Tech News Digest Bot – phiên bản nâng cao
+Tech News Digest Bot – phiên bản Gemini 3.8 Flash
 Nguồn cố định, lọc chặt, gửi Telegram 6:30 ICT mỗi ngày
+
+Thay đổi so với bản cũ:
+- Chuyển từ SDK legacy `google-generativeai` sang SDK mới `google-genai`
+- Model chính: gemini-3.8-flash (free tier), thinking_level="low" cho tác vụ tóm tắt
+- Tự fallback: gemini-3.8-flash → gemini-3.7-flash → gemini-2.5-flash nếu lỗi/429
 """
 
-import os, re, feedparser, requests
-import google.generativeai as genai
+import os, re, time, feedparser, requests
+from google import genai
+from google.genai import types
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
@@ -13,9 +19,17 @@ TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID   = os.environ["TELEGRAM_CHAT_ID"]
 GEMINI_API_KEY     = os.environ["GEMINI_API_KEY"]
 
-genai.configure(api_key=GEMINI_API_KEY)
+client = genai.Client(api_key=GEMINI_API_KEY)
 
 ICT = ZoneInfo("Asia/Bangkok")
+
+# ── Model: thử theo thứ tự, model nào chạy được thì dùng ─────────────────────
+# Tất cả đều nằm trong free tier của Gemini API (ai.google.dev/gemini-api/docs/pricing)
+MODEL_CHAIN = [
+    "gemini-3.8-flash",   # mới nhất, thông minh nhất dòng Flash
+    "gemini-3.7-flash",   # nhanh, ổn định
+    "gemini-2.5-flash",   # fallback cuối – bản đang chạy trước đây
+]
 
 # ── Nguồn RSS cố định ────────────────────────────────────────────────────────
 SOURCES = [
@@ -68,7 +82,7 @@ SOURCES = [
 ]
 
 HOURS_LOOKBACK   = 48
-FETCH_PER_SOURCE = 15   # lấy nhiều để Claude có đủ để chọn sau khi lọc
+FETCH_PER_SOURCE = 15   # lấy nhiều để model có đủ để chọn sau khi lọc
 
 
 # ── Fetch RSS ─────────────────────────────────────────────────────────────────
@@ -81,6 +95,10 @@ def fetch_source(source: dict) -> list[dict]:
             pub = None
             if hasattr(entry, "published_parsed") and entry.published_parsed:
                 pub = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+
+            # bỏ bài quá cũ (nếu có ngày)
+            if pub and pub < cutoff:
+                continue
 
             summary = getattr(entry, "summary", "") or ""
             summary = re.sub(r"<[^>]+>", "", summary)[:400].strip()
@@ -104,12 +122,8 @@ def fetch_source(source: dict) -> list[dict]:
     return articles[:FETCH_PER_SOURCE]
 
 
-# ── Claude chọn lọc + viết bản tin ───────────────────────────────────────────
-def build_digest(all_articles: dict[str, list[dict]]) -> str:
-    model = genai.GenerativeModel("gemini-2.5-flash")
-    today = datetime.now(ICT).strftime("%d/%m/%Y")
-
-    # Build context cho từng nguồn
+# ── Prompt ────────────────────────────────────────────────────────────────────
+def build_prompt(all_articles: dict[str, list[dict]], today: str) -> str:
     source_blocks = []
     for src in SOURCES:
         articles = all_articles.get(src["name"], [])
@@ -120,7 +134,7 @@ def build_digest(all_articles: dict[str, list[dict]]) -> str:
 
     articles_text = "\n\n".join(source_blocks)
 
-    prompt = f"""Ngày hôm nay: {today}
+    return f"""Ngày hôm nay: {today}
 
 Dưới đây là danh sách bài báo công nghệ mới nhất từ 5 nguồn, mỗi nguồn đã được chú thích tiêu chí lọc.
 
@@ -152,8 +166,45 @@ Nguồn: [tên nguồn] – [URL gốc]
 
 [lặp lại cho đủ 10 tin, mỗi tin cách nhau 1 dòng trống]"""
 
-    response = model.generate_content(prompt)
-    return response.text.strip()
+
+# ── Gọi Gemini với fallback ───────────────────────────────────────────────────
+def build_digest(all_articles: dict[str, list[dict]]) -> str:
+    today = datetime.now(ICT).strftime("%d/%m/%Y")
+    prompt = build_prompt(all_articles, today)
+
+    last_err = None
+    for model in MODEL_CHAIN:
+        # Gemini 3.x có thinking_level; 2.5 không có → chỉ gửi config khi cần
+        config = None
+        if model.startswith("gemini-3"):
+            config = types.GenerateContentConfig(
+                thinking_config=types.ThinkingConfig(thinking_level="low"),
+            )
+
+        for attempt in range(2):
+            try:
+                print(f"  → Gọi {model} (lần {attempt + 1})...")
+                resp = client.models.generate_content(
+                    model=model,
+                    contents=prompt,
+                    config=config,
+                )
+                text = (resp.text or "").strip()
+                if text:
+                    print(f"  ✅ {model} OK")
+                    return text
+                raise RuntimeError("response rỗng")
+            except Exception as e:
+                last_err = e
+                msg = str(e)
+                print(f"  [WARN] {model}: {msg[:200]}")
+                # 429 = rate limit → chờ rồi thử lại 1 lần, sau đó đổi model
+                if "429" in msg or "RESOURCE_EXHAUSTED" in msg:
+                    time.sleep(30)
+                    continue
+                break  # lỗi khác → sang model tiếp theo
+
+    raise RuntimeError(f"Tất cả model đều lỗi. Lỗi cuối: {last_err}")
 
 
 # ── Gửi Telegram ─────────────────────────────────────────────────────────────
@@ -196,7 +247,7 @@ def main():
         all_articles[src["name"]] = articles
         print(f"  {src['name']}: {len(articles)} bài")
 
-    print("  → Đang gọi Claude để chọn lọc + viết bản tin...")
+    print("  → Đang gọi Gemini để chọn lọc + viết bản tin...")
     digest = build_digest(all_articles)
     print(f"  → Digest ({len(digest)} ký tự):\n{digest[:300]}...\n")
 
