@@ -22,8 +22,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      # google-genai = SDK mới (thay cho google-generativeai đã legacy)
       - name: Install dependencies
-        run: pip install feedparser google-generativeai requests
+        run: pip install -U feedparser google-genai requests
 
       - name: Run digest bot
         env:
