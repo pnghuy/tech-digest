@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T00:10:32.310070+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Lô hàng card đồ họa RTX 5090 trị giá gần nửa triệu USD biến mất tại sân bay Brazil",
+      "summary_vi": "Nhà phân phối linh kiện Oderço thông báo hai pallet card đồ họa Zotac RTX 5090 trị giá khoảng 470.000 đến 500.000 USD đã mất tích bí ẩn sau khi cập cảng hàng không quốc tế São Paulo. Sự việc hy hữu khiến dư luận xôn xao giữa bối cảnh dòng GPU đầu bảng này đang cực kỳ khan hiếm trên thị trường.",
+      "hot_level": 5,
+      "hot_reason": "Vụ biến mất lô hàng RTX 5090 giá trị khủng thu hút sự chú ý cực lớn từ cộng đồng game thủ và phần cứng PC",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers",
+      "source_title": "Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport",
+      "related_urls": [
+        "https://wccftech.com/rtx-5090-shipment-missing-guarulhos-airport/",
+        "https://www.neowin.net/news/nvidia-denies-reports-of-rtx-5090-discontinuation/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "Neowin",
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Qualcomm bác bỏ tin đồn chip Snapdragon 8 Elite Extreme Gen 6 gặp lỗi quá nhiệt",
+      "summary_vi": "Qualcomm khẳng định các thông tin về việc Snapdragon 8 Elite Extreme Gen 6 bị quá nhiệt là không chính xác. Trước đó có báo cáo cho rằng Samsung dự định bỏ qua vi xử lý này để chuyển sang dùng hoàn toàn chip Exynos trên dòng Galaxy S27 Ultra.",
+      "hot_level": 4,
+      "hot_reason": "Tin đồn liên quan trực tiếp đến dòng chip cao cấp nhất của Qualcomm và mẫu flagship Galaxy sắp tới của Samsung",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/",
+      "source_title": "Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are ‘inaccurate’",
+      "related_urls": [
+        "https://www.gsmarena.com/qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100.php"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 2.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Apple có thể ra mắt MacBook màn hình cảm ứng đầu tiên vào đầu tháng 11",
+      "summary_vi": "Sau nhiều năm kiên quyết nói không với màn hình cảm ứng trên dòng laptop, Apple được cho là sẽ ra mắt mẫu MacBook Pro màn hình cảm ứng kết hợp tấm nền OLED sớm nhất vào ngày 6 tháng 11. Sự kiện công bố thiết bị có thể diễn ra vào cuối tháng 10.",
+      "hot_level": 4,
+      "hot_reason": "Bước ngoặt lớn của dòng MacBook sau hơn một thập kỷ luôn thu hút sự quan tâm khổng lồ từ người dùng công nghệ",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/",
+      "source_title": "Apple’s first touchscreen MacBook could debut on November 6: Here’s what to expect",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Mac"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Nhãn năng lượng châu Âu tiết lộ dung lượng pin chính thức của iPhone Duo",
+      "summary_vi": "Dữ liệu nhãn năng lượng từ Liên minh châu Âu xác nhận iPhone Duo sở hữu tổng dung lượng pin là 4.883 mAh. Con số này khớp với các thông tin rò rỉ trước đó về việc thiết bị gập của Apple sử dụng viên pin kép.",
+      "hot_level": 4,
+      "hot_reason": "Thông số pin của mẫu iPhone gập đầu tiên từ Apple là tâm điểm chú ý của đông đảo người dùng",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/",
+      "source_title": "Apple Reveals iPhone Duo's Battery Capacity",
+      "related_urls": [
+        "https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake/"
+      ],
+      "signals": {
+        "outlets": [
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Nhân viên Apple Store cảnh báo iPhone Duo có thể khan hiếm nghiêm trọng ngày mở bán",
+      "summary_vi": "Nhân viên bán lẻ của Apple được yêu cầu khuyến cáo khách hàng rằng iPhone Duo nhiều khả năng sẽ không có sẵn tại cửa hàng nếu chưa đặt trước. Thiết bị gập mới đối mặt với tình trạng thiếu hụt nguồn cung lớn do các thách thức trong khâu sản xuất.",
+      "hot_level": 4,
+      "hot_reason": "Tình hình nguồn cung và lịch mở bán iPhone gập là thông tin người mua tại Việt Nam theo dõi sát sao",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/",
+      "source_title": "iPhone Duo walk-in purchases might be challenging at launch, per report",
+      "related_urls": [
+        "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 2.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Disney đồng ý tiếp nhận phần lớn nhân sự của Character.AI sau khi startup phá sản",
+      "summary_vi": "Sau khi Character.AI nộp đơn xin phá sản, tập đoàn Disney đã đạt thỏa thuận tuyển dụng phần lớn lực lượng lao động của startup chatbot này. Cựu giám đốc điều hành của Character.AI cũng vừa chuyển sang làm lãnh đạo tại Disney.",
+      "hot_level": 3,
+      "hot_reason": "Thương vụ thâu tóm nhân sự AI đáng chú ý từ gã khổng lồ giải trí toàn cầu xuất hiện trên Techmeme",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source_title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "TechCrunch"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Modder đưa thành công bộ tính năng Nvidia DLSS 5 lên card đồ họa AMD Radeon",
+      "summary_vi": "Một dự án cộng đồng độc lập đã đưa thành công trọn bộ tính năng của Nvidia DLSS sang các thế hệ card đồ họa AMD dựa trên kiến trúc RDNA 2 đến RDNA 4. Nhà phát triển đặt mục tiêu tối ưu hiệu năng của GPU AMD tiệm cận mức xử lý gốc trên card Nvidia.",
+      "hot_level": 3,
+      "hot_reason": "Đột phá phần mềm cho phép GPU AMD chạy công nghệ DLSS mới nhất từ đối thủ Nvidia",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/amd-cards-now-run-all-dlss-features-thanks-to-one-developers-project-plans-to-match-native-nvidia-gpu-performance",
+      "source_title": "Modder brings full Nvidia DLSS 5 suite to three generations of AMD gaming GPUs",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Apple dự kiến chuyển sang tiến trình 1,4nm của TSMC trong hai năm tới",
+      "summary_vi": "TSMC đang tăng tốc để tiến tới giai đoạn sản xuất hàng loạt chip tiến trình 1,4nm vào nửa đầu năm 2028 nhằm giải tỏa áp lực thiếu hụt chuỗi cung ứng cho AI. Apple nhiều khả năng sẽ sớm đưa công nghệ bán dẫn mới này lên các thế hệ chip A-series tiếp theo.",
+      "hot_level": 3,
+      "hot_reason": "Lộ trình thu nhỏ tiến trình sản xuất chip bán dẫn giữa Apple và TSMC luôn có sức ảnh hưởng toàn cầu",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/apple-14nm-chips-tsmc-2028-mass-production-ai-supply/",
+      "source_title": "Apple More Likely To Introduce Its First 1.4nm Chips In Two Years As TSMC Races To Mass Production Stage In H1 2028, Trying To Prevent AI Outstripping Supply",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Samsung và TSMC hợp tác phát triển đế bán dẫn 3nm cho bộ nhớ NVHBM của Nvidia",
+      "summary_vi": "Nhu cầu về kiến trúc bộ nhớ tùy biến NVHBM của Nvidia đã khiến hai đối thủ TSMC và Samsung bắt tay hợp tác. Cả hai nhà sản xuất cùng phát triển phần đế bán dẫn trên tiến trình 3nm để tối ưu quy trình đóng gói chip AI.",
+      "hot_level": 3,
+      "hot_reason": "Mối quan hệ hợp tác hiếm có giữa hai đối thủ lớn trong ngành gia công bán dẫn vì đơn hàng của Nvidia",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-custom-hbm-samsung-tsmc-3nm-base-die/",
+      "source_title": "NVIDIA’s Development Of Custom HBM Drops Samsung’s And TSMC’s Foundry Rivalry, As Both Manufacturers Join Forces To Develop “Base Die” On The 3nm Node",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Kỷ lục ép xung Cinebench suốt 12 năm bị phá vỡ bởi chip Core i5 Haswell",
+      "summary_vi": "Chuyên gia ép xung Luumi đã đẩy vi xử lý Intel Core i5 4670K thế hệ Haswell ra mắt từ năm 2013 lên mức xung nhịp 6,3 GHz. Thành tích này đạt 10,8 điểm trong bài kiểm tra Cinebench R11.5 và chính thức lật đổ kỷ lục thế giới đã tồn tại hơn một thập kỷ.",
+      "hot_level": 3,
+      "hot_reason": "Cột mốc ép xung ấn tượng trên mẫu CPU Intel huyền thoại thu hút cộng đồng đam mê phần cứng PC",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/overclocking/cinebench-world-record-that-stood-for-12-years-gets-toppled-oc-expert-scores-10-8cb-in-cinebench-r11-5-using-an-intel-core-i5-4670k-at-6-3-ghz",
+      "source_title": "Cinebench world record that stood for 12 years gets toppled",
+      "related_urls": [
+        "https://wccftech.com/intel-core-i5-4670k-pushed-to-6-3-ghz-setting-a-new-cinebench-r11-5-world-record/"
+      ],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    }
+  ]
+}
