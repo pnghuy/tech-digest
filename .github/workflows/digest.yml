@@ -32,8 +32,11 @@ jobs:
     timeout-minutes: 15
 
     steps:
+      # Lấy main mới nhất (không phải commit kích hoạt) để thấy bản tin vừa tạo, tránh gửi trùng
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Setup Python 3.12
         uses: actions/setup-python@v5
