@@ -383,9 +383,17 @@ def main():
     out_path = os.path.join(DIGEST_DIR, f"{day}.json")
     print(f"[{now_ict:%Y-%m-%d %H:%M} ICT] Bắt đầu...")
 
-    if os.path.exists(out_path) and not FORCE:
-        print(f"  Đã có bản tin {day} – bỏ qua (FORCE_RUN=1 để chạy lại).")
-        return
+    if os.path.exists(out_path):
+        if not FORCE:
+            print(f"  Đã có bản tin {day} – bỏ qua (FORCE_RUN=1 để chạy lại).")
+            return
+        try:   # chống gửi trùng khi bị kích hoạt 2 lần liên tiếp
+            prev = datetime.fromisoformat(json.load(open(out_path, encoding="utf-8"))["generated_at"])
+            if now - prev < timedelta(minutes=30):
+                print(f"  Bản tin vừa tạo lúc {prev:%H:%M} – bỏ qua để tránh gửi trùng.")
+                return
+        except Exception:
+            pass
 
     cutoff = now - timedelta(hours=HOURS_LOOKBACK)
     arts = fetch_sources(cutoff)
