@@ -1,12 +1,30 @@
-name: Tech Digest – 6:30 AM ICT
+name: Tech Digest – 5:00 AM ICT (tin hot)
 
 on:
-  schedule:
-    # 6:30 AM ICT (UTC+7) = 23:30 UTC ngày hôm trước
-    - cron: "30 23 * * *"
+  # Kích hoạt chính: scheduled task của Claude đẩy 1 commit vào trigger/ lúc ~4:55 ICT.
+  # Lịch cron của GitHub thường trễ 2–4 tiếng nên không dùng làm giờ chính.
+  push:
+    branches: [main]
+    paths: ["trigger/**"]
 
-  # Chạy thủ công để test
+  # Dự phòng: nếu 5:00 không có ai kích hoạt, cron này chạy (dù trễ).
+  # Bot tự bỏ qua nếu hôm nay đã có bản tin.
+  schedule:
+    - cron: "40 21 * * *"   # 4:40 ICT danh nghĩa
+
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Chạy lại kể cả khi hôm nay đã có bản tin"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tech-digest
+  cancel-in-progress: false
 
 jobs:
   send-digest:
@@ -22,7 +40,6 @@ jobs:
         with:
           python-version: "3.12"
 
-      # google-genai = SDK mới (thay cho google-generativeai đã legacy)
       - name: Install dependencies
         run: pip install -U feedparser google-genai requests
 
@@ -31,4 +48,20 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
           GEMINI_API_KEY:     ${{ secrets.GEMINI_API_KEY }}
+          FORCE_RUN:          ${{ inputs.force || contains(github.event.head_commit.message, '[force]') }}
         run: python digest.py
+
+      # Lưu bản tin vào repo để bước viết tin 6:00 đọc (và giữ repo luôn "hoạt động",
+      # tránh GitHub tự tắt workflow sau 60 ngày)
+      - name: Commit digest JSON
+        run: |
+          git config user.name  "tech-digest-bot"
+          git config user.email "tech-digest-bot@users.noreply.github.com"
+          git add digests/
+          if git diff --cached --quiet; then
+            echo "Không có thay đổi."
+          else
+            git commit -m "digest $(TZ=Asia/Bangkok date +%F)"
+            git pull --rebase origin main
+            git push
+          fi
