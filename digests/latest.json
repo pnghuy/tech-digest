@@ -1,214 +1,114 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T04:54:58.655503+07:00",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T04:54:20.931978+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Lô card đồ họa Nvidia RTX 5090 trị giá gần nửa triệu USD biến mất tại sân bay Brazil",
-      "summary_vi": "Nhà phân phối linh kiện Oderço thông báo hai pallet chứa các mẫu card Zotac RTX 5090 đã thất lạc bí ẩn sau khi đến sân bay São Paulo. Sự việc xảy ra giữa bối cảnh Nvidia phủ nhận tin đồn ngừng sản xuất dòng GPU đầu bảng này.",
+      "title_vi": "Apple chính thức công bố sự kiện ra mắt sản phẩm mới vào ngày 28/10",
+      "summary_vi": "Apple vừa gửi thư mời sự kiện thứ hai trong tháng 10 mang tên Pro and tell diễn ra tại Los Angeles. Giới thạo tin dự đoán hãng sẽ ra mắt các dòng MacBook Pro mới cùng mẫu iPad mini được làm mới.",
       "hot_level": 5,
-      "hot_reason": "Vụ việc hy hữu liên quan đến dòng GPU đầu bảng RTX 5090 đang rất khan hiếm, được nhiều trang công nghệ lớn đồng loạt đưa tin.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers",
-      "source_title": "Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport",
+      "hot_reason": "Sự kiện phần cứng lớn của Apple được nhiều trang công nghệ hàng đầu đồng loạt đưa tin và người dùng Việt Nam đặc biệt quan tâm",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "source_title": "Apple teases MacBook Pro event next week",
       "related_urls": [
-        "https://wccftech.com/rtx-5090-shipment-missing-guarulhos-airport/",
-        "https://www.neowin.net/news/nvidia-denies-reports-of-rtx-5090-discontinuation/?utm_source=rss"
+        "https://9to5mac.com/2026/10/19/apple-is-launching-major-new-products-next-week-heres-whats-coming/",
+        "https://www.macrumors.com/2026/10/19/apple-pro-and-tell/",
+        "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/"
       ],
       "signals": {
         "outlets": [
-          "Neowin",
-          "Tom's Hardware",
-          "Wccftech"
+          "9to5Mac",
+          "MacRumors",
+          "The Verge"
         ],
-        "techmeme": false,
+        "techmeme": true,
         "hn_points": 0,
         "trends": [],
-        "score": 5.0
+        "score": 8.0
       }
     },
     {
       "rank": 2,
-      "title_vi": "Qualcomm bác bỏ tin đồn Snapdragon 8 Elite Extreme Gen 6 bị quá nhiệt",
-      "summary_vi": "Qualcomm khẳng định các thông tin về việc chip Snapdragon 8 Elite Extreme Gen 6 gặp sự cố quá nhiệt là không chính xác. Trước đó có nguồn tin cho rằng Samsung cân nhắc chuyển hoàn toàn sang chip Exynos trên Galaxy S27 Ultra vì vấn đề nhiệt độ.",
+      "title_vi": "Samsung Galaxy S27 series có thể ra mắt sớm hơn dự kiến",
+      "summary_vi": "Các thông tin rò rỉ cho thấy Samsung có kế hoạch đẩy sớm lịch trình ra mắt dòng Galaxy S27 so với thế hệ trước. Tuy nhiên những quyết định nâng cấp về RAM và bộ nhớ lưu trữ vào phút chót có thể ảnh hưởng đến kế hoạch này.",
       "hot_level": 4,
-      "hot_reason": "Tin tức ảnh hưởng trực tiếp đến cấu hình thế hệ flagship Galaxy S tiếp theo và thế hệ vi xử lý cao cấp nhất của Qualcomm.",
+      "hot_reason": "Dòng flagship Galaxy S của Samsung luôn thu hút lượng người quan tâm và tìm kiếm cực lớn tại thị trường Việt Nam",
       "source": "GSMArena",
-      "url": "https://www.gsmarena.com/qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100.php",
-      "source_title": "Qualcomm denies rumors about Snapdragon 8 Elite Extreme Gen 6 overheating",
+      "url": "https://www.gsmarena.com/samsung_may_launch_galaxy_s27_series_earlier_than_expected_but_memory_questions_still_linger-news-75106.php",
+      "source_title": "Samsung may launch Galaxy S27 series earlier than expected, but memory questions still linger",
       "related_urls": [
-        "https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/"
+        "https://www.androidauthority.com/samsung-galaxy-s27-launch-window-leak-3724822/"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
+          "Android Authority",
           "GSMArena"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 2.0
+        "score": 3.0
       }
     },
     {
       "rank": 3,
-      "title_vi": "Disney đạt thỏa thuận tuyển dụng phần lớn nhân sự Character.AI",
-      "summary_vi": "Disney đã đồng ý tiếp nhận phần lớn lực lượng lao động từ Character.AI sau các đề nghị việc làm được nhân viên công ty AI này chấp thuận. Thỏa thuận này đang ở dạng đấu thầu mở đường và vẫn có thể có bên thứ ba đưa ra mức giá cao hơn.",
+      "title_vi": "Apple phát hành bản Release Candidate cho iOS 27.2 và macOS 27.2",
+      "summary_vi": "Apple đã chính thức tung ra bản cập nhật thử nghiệm cuối cùng Release Candidate của iOS 27.2, iPadOS 27.2 và macOS Golden Gate 27.2 cho các nhà phát triển. Động thái này cho thấy phiên bản hệ điều hành chính thức sắp sửa được phát hành rộng rãi.",
       "hot_level": 4,
-      "hot_reason": "Thương vụ lớn trong ngành AI với sự tham gia của Disney, xuất hiện trên Techmeme.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "source_title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "related_urls": [],
+      "hot_reason": "Bản cập nhật lớn cho hệ sinh thái iOS và macOS sắp ra mắt chính thức được rất nhiều tín đồ công nghệ theo dõi",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/19/apple-releases-ios-27-2-rc/",
+      "source_title": "Apple Releases iOS 27.2 Release Candidate",
+      "related_urls": [
+        "https://9to5mac.com/2026/10/19/first-release-candidate-for-macos-27-2-golden-gate-now-available/",
+        "https://www.macrumors.com/2026/10/19/apple-seeds-macos-golden-gate-27-2-rc/",
+        "https://9to5mac.com/2026/10/19/apple-releases-ios-27-2-rc-for-iphone/"
+      ],
       "signals": {
         "outlets": [
-          "TechCrunch"
+          "9to5Mac",
+          "MacRumors"
         ],
-        "techmeme": true,
+        "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 4.0
+        "score": 3.0
       }
     },
     {
       "rank": 4,
-      "title_vi": "Anthropic cam kết trích 5% cổ phần cho quỹ vì lợi ích cộng đồng",
-      "summary_vi": "Anthropic vừa công bố kế hoạch dành 5% cổ phần của công ty cho một quỹ phục vụ lợi ích cộng đồng. Động thái này nhằm mục tiêu hỗ trợ các hoạt động an toàn và phát triển AI có trách nhiệm.",
+      "title_vi": "Samsung lên tiếng về lỗi mất biểu tượng trên thanh trạng thái của One UI 9",
+      "summary_vi": "Samsung đã xác định được nguyên nhân khiến các biểu tượng trên thanh trạng thái biến mất bất thường trên One UI 9. Hãng cho biết việc xử lý vấn đề này không hề đơn giản và đang tìm giải pháp khắc phục.",
       "hot_level": 4,
-      "hot_reason": "Động thái đáng chú ý từ công ty AI lớn hàng đầu hiện nay và xuất hiện trên Techmeme.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "source_title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "hot_reason": "Lỗi phần mềm trên giao diện One UI mới của Samsung đang nằm trong xu hướng tìm kiếm và ảnh hưởng trực tiếp đến người dùng",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-quickstar-status-bar-icons-bug-3725088/",
+      "source_title": "Samsung has good and bad news about One UI 9’s disappearing status bar icons",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "TechCrunch"
+          "Android Authority"
         ],
-        "techmeme": true,
+        "techmeme": false,
         "hn_points": 0,
-        "trends": [],
-        "score": 4.0
+        "trends": [
+          "a i news (US, ~5,000 lượt tìm)"
+        ],
+        "score": 4.7
       }
     },
     {
       "rank": 5,
-      "title_vi": "Nhân viên Apple Store cảnh báo nguy cơ hết hàng iPhone Duo trong ngày mở bán",
-      "summary_vi": "Nhân viên bán lẻ của Apple được hướng dẫn nhắc nhở khách hàng không nên đến mua trực tiếp nếu chưa đặt trước iPhone Duo vào ngày ra mắt. Tình trạng này xuất phát từ nguồn cung ban đầu gặp nhiều hạn chế do khó khăn trong khâu sản xuất.",
-      "hot_level": 4,
-      "hot_reason": "Sản phẩm màn hình gập đầu tiên của Apple luôn thu hút lượng người theo dõi và quan tâm đặc biệt lớn tại Việt Nam.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
-      "source_title": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases",
-      "related_urls": [
-        "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "MacRumors"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 2.0
-      }
-    },
-    {
-      "rank": 6,
-      "title_vi": "Apple có thể ra mắt MacBook màn hình cảm ứng đầu tiên vào đầu tháng 11",
-      "summary_vi": "Sau nhiều năm kiên quyết từ chối, Apple được kỳ vọng sẽ trình làng mẫu MacBook màn hình cảm ứng đầu tiên sử dụng tấm nền OLED vào ngày 6/11. Thiết bị dự kiến sẽ được công bố chính thức vào cuối tháng 10 cùng đợt nâng cấp phần cứng mới.",
-      "hot_level": 4,
-      "hot_reason": "Bước chuyển mình mang tính lịch sử của dòng máy Mac, được người dùng công nghệ cực kỳ mong đợi.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/",
-      "source_title": "Apple’s first touchscreen MacBook could debut on November 6: Here’s what to expect",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "9to5Mac"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 1.0
-      }
-    },
-    {
-      "rank": 7,
-      "title_vi": "Apple công bố dung lượng pin chính thức của iPhone Duo",
-      "summary_vi": "Nhãn năng lượng EU do Apple công bố xác nhận iPhone Duo sở hữu tổng dung lượng pin là 4.883 mAh. Con số này khớp với rò rỉ trước đó về việc thiết bị sử dụng thiết kế chia hai viên pin rời.",
+      "title_vi": "Arm khẳng định chip AGI CPU vượt trội gấp đôi vi xử lý AMD EPYC trong tác vụ AI",
+      "summary_vi": "Arm tuyên bố mẫu AGI CPU mới mang lại hiệu năng trên mỗi tủ rack cao gần gấp 2 lần so với AMD EPYC 9755 trong các tác vụ agentic AI. Phương pháp đánh giá này được Arm phối hợp phát triển cùng Fujitsu, Meta và OpenAI.",
       "hot_level": 3,
-      "hot_reason": "Thông số pin của mẫu iPhone gập đầu tiên được người dùng đặc biệt quan tâm trước ngày mở bán.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/",
-      "source_title": "Apple Reveals iPhone Duo's Battery Capacity",
-      "related_urls": [
-        "https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake/"
-      ],
-      "signals": {
-        "outlets": [
-          "MacRumors"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 1.0
-      }
-    },
-    {
-      "rank": 8,
-      "title_vi": "Ốp lưng silicon chính hãng của Apple cho iPhone Duo phải dùng keo dán",
-      "summary_vi": "Phụ kiện ốp lưng silicon giá 79 USD dành cho iPhone Duo của Apple đòi hỏi dải keo dính để cố định vào thân máy gập. Thiết kế này khiến nhiều người dùng bất ngờ khi phụ kiện bắt đầu đến tay khách hàng trước ngày mở bán.",
-      "hot_level": 3,
-      "hot_reason": "Thiết kế phụ kiện gây tranh cãi của Apple cho sản phẩm cao cấp mới mở bán.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/apples_official_silicone_case_for_the_iphone_duo_requires_adhesive-news-75099.php",
-      "source_title": "Apple's official silicone case for the iPhone Duo requires adhesive",
-      "related_urls": [
-        "https://9to5mac.com/2026/10/17/iphone-duo-silicone-case-adhesive-psa/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "GSMArena"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 2.0
-      }
-    },
-    {
-      "rank": 9,
-      "title_vi": "OnePlus 16 ra mắt với viên pin khủng 9.000 mAh và sạc nhanh 100W",
-      "summary_vi": "OnePlus chính thức trình làng mẫu flagship OnePlus 16 nổi bật với dung lượng pin lên đến 9.000 mAh hỗ trợ sạc có dây 100W và sạc không dây 50W. Máy được trang bị vi xử lý cao cấp Snapdragon 8 Elite Extreme Gen 6.",
-      "hot_level": 3,
-      "hot_reason": "Cấu hình pin ấn tượng kỷ lục trên dòng điện thoại cao cấp thu hút sự chú ý của tín đồ Android.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/oneplus_16_is_official_with_9000mah_battery_week_42_in_review-news-75092.php",
-      "source_title": "OnePlus 16 is official with 9,000mAh battery, Week 42 in review",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "GSMArena"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 1.0
-      }
-    },
-    {
-      "rank": 10,
-      "title_vi": "Intel Core i5-4670K phá kỷ lục ép xung Cinebench tồn tại suốt 12 năm",
-      "summary_vi": "Chuyên gia ép xung Luumi đã đẩy vi xử lý Haswell Core i5-4670K từ năm 2013 lên mức xung nhịp 6,3 GHz. Thành tích này giúp con chip đạt 10,8 điểm và xô đổ kỷ lục thế giới Cinebench R11.5 đã tồn tại suốt 12 năm qua.",
-      "hot_level": 3,
-      "hot_reason": "Kỷ lục ép xung phần cứng PC ấn tượng được nhiều trang công nghệ chuyên sâu đưa tin.",
+      "hot_reason": "Cuộc đối đầu kiến trúc vi xử lý máy chủ cho tải AI thu hút sự chú ý của giới yêu thích phần cứng và công nghệ cao",
       "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/pc-components/overclocking/cinebench-world-record-that-stood-for-12-years-gets-toppled-oc-expert-scores-10-8cb-in-cinebench-r11-5-using-an-intel-core-i5-4670k-at-6-3-ghz",
-      "source_title": "Cinebench world record that stood for 12 years gets toppled",
+      "url": "https://www.tomshardware.com/pc-components/cpus/arm-claims-agi-cpu-delivers-double-the-performance-per-rack-of-amd-epyc-9755-in-independent-analysis-new-cpu-evaluation-methodology-developed-by-arm-evaluates-agentic-ai-performance-across-seven-workloads",
+      "source_title": "Arm says its AGI CPU delivers nearly 2X the performance per rack of AMD EPYC 9755 in new agentic AI CPU tests",
       "related_urls": [
-        "https://wccftech.com/intel-core-i5-4670k-pushed-to-6-3-ghz-setting-a-new-cinebench-r11-5-world-record/"
+        "https://wccftech.com/arm-pits-agi-cpu-against-amd-zen-5-epyc-turin-claims-a-2x-rack-level-win/"
       ],
       "signals": {
         "outlets": [
@@ -219,6 +119,112 @@
         "hn_points": 0,
         "trends": [],
         "score": 3.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Rò rỉ dung lượng pin và mức giá tại châu Âu của Xiaomi 18 Pro",
+      "summary_vi": "Báo cáo mới nhất đã tiết lộ dung lượng pin cùng mức giá bán tại thị trường châu Âu của bộ đôi Xiaomi 18 Pro và Xiaomi 18 Pro Max. Mức giá rò rỉ này tiếp tục thể hiện xu hướng tăng giá của các dòng máy cao cấp từ Trung Quốc.",
+      "hot_level": 3,
+      "hot_reason": "Xiaomi là thương hiệu smartphone phổ biến hàng đầu tại Việt Nam và các thông tin rò rỉ về flagship của hãng luôn được chú ý",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/xiaomi_18_pro_and_xiaomi_18_pro_max_european_prices_and_battery_capacities_leak-news-75114.php",
+      "source_title": "Xiaomi 18 Pro and Xiaomi 18 Pro Max European prices and battery capacities leak",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Apple Wallet Car Keys sắp hỗ trợ hàng loạt xe hơi thuộc GM",
+      "summary_vi": "Tập đoàn GM công bố tính năng chìa khóa ảo Apple Wallet Car Keys đang bắt đầu được trang bị cho nhiều dòng xe của Cadillac, Chevrolet và GMC. Người dùng có thể sử dụng iPhone để mở khóa và khởi động xe nhanh chóng.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng mở khóa xe hơi qua iPhone là công nghệ kết nối hiện đại được người dùng hệ sinh thái Apple rất quan tâm",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/19/car-keys-in-apple-wallet-coming-soon-to-three-popular-vehicle-brands/",
+      "source_title": "Car Keys in Apple Wallet coming soon to three popular vehicle brands",
+      "related_urls": [
+        "https://www.macrumors.com/2026/10/19/gm-vehicles-iphone-apple-wallet-car-keys/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Tiện ích chặn theo dõi Privacy Badger chính thức có mặt trên Safari macOS",
+      "summary_vi": "Tổ chức Electronic Frontier Foundation vừa phát hành tiện ích mở rộng chống theo dõi Privacy Badger cho trình duyệt Safari trên macOS. Tiện ích miễn phí này giúp người dùng ngăn chặn các trình theo dõi quảng cáo thu thập dữ liệu duyệt web.",
+      "hot_level": 3,
+      "hot_reason": "Công cụ bảo mật quyền riêng tư nổi tiếng xuất hiện trên Safari đáp ứng mong mỏi lâu năm của đông đảo người dùng máy Mac",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/19/eff-privacy-badger-safari/",
+      "source_title": "EFF's Privacy Badger Anti-Tracking Extension Expands to Safari",
+      "related_urls": [
+        "https://www.neowin.net/news/effs-privacy-badger-hits-safari-on-macos-after-years-of-user-requests/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "MacRumors",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Cảnh báo khẩn cấp: Lỗ hổng nghiêm trọng trên máy chủ Plex đang bị tin tặc khai thác",
+      "summary_vi": "Các chuyên gia bảo mật cảnh báo tin tặc đang chuỗi 4 lỗ hổng bảo mật nhằm tấn công và cài mã độc vào các máy chủ truyền thông Plex chưa cập nhật. Người dùng được khuyến cáo phải tiến hành cập nhật bản vá ngay lập tức để bảo vệ dữ liệu.",
+      "hot_level": 3,
+      "hot_reason": "Plex là nền tảng quản lý phim ảnh gia đình rất phổ biến và sự cố mã độc trực tiếp đe dọa dữ liệu người dùng",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+      "source_title": "PSA: Patch your Plex media server before someone hacks it",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Ars Technica"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Galaxy S27 có thể được nâng cấp công nghệ DC Dimming chống mỏi mắt",
+      "summary_vi": "Tin đồn cho thấy màn hình của Samsung Galaxy S27 có khả năng sẽ hỗ trợ công nghệ điều chỉnh độ sáng DC Dimming. Nâng cấp này được kỳ vọng sẽ giải quyết triệt để tình trạng mỏi mắt cho những người dùng nhạy cảm với hiện tượng nhấp nháy màn hình PWM.",
+      "hot_level": 3,
+      "hot_reason": "Cải tiến về công nghệ màn hình trên flagship thế hệ mới của Samsung đánh trúng vấn đề nhạy cảm thị giác của nhiều người dùng",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/19/galaxy-s27-display-dc-dimmed-rumor/",
+      "source_title": "I’ve struggled to use Samsung displays for years, but the Galaxy S27 may finally fix that; here’s why",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Google"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
       }
     }
   ]

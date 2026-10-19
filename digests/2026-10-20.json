@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T04:54:20.931978+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Apple chính thức công bố sự kiện ra mắt sản phẩm mới vào ngày 28/10",
+      "summary_vi": "Apple vừa gửi thư mời sự kiện thứ hai trong tháng 10 mang tên Pro and tell diễn ra tại Los Angeles. Giới thạo tin dự đoán hãng sẽ ra mắt các dòng MacBook Pro mới cùng mẫu iPad mini được làm mới.",
+      "hot_level": 5,
+      "hot_reason": "Sự kiện phần cứng lớn của Apple được nhiều trang công nghệ hàng đầu đồng loạt đưa tin và người dùng Việt Nam đặc biệt quan tâm",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "source_title": "Apple teases MacBook Pro event next week",
+      "related_urls": [
+        "https://9to5mac.com/2026/10/19/apple-is-launching-major-new-products-next-week-heres-whats-coming/",
+        "https://www.macrumors.com/2026/10/19/apple-pro-and-tell/",
+        "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors",
+          "The Verge"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 8.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Samsung Galaxy S27 series có thể ra mắt sớm hơn dự kiến",
+      "summary_vi": "Các thông tin rò rỉ cho thấy Samsung có kế hoạch đẩy sớm lịch trình ra mắt dòng Galaxy S27 so với thế hệ trước. Tuy nhiên những quyết định nâng cấp về RAM và bộ nhớ lưu trữ vào phút chót có thể ảnh hưởng đến kế hoạch này.",
+      "hot_level": 4,
+      "hot_reason": "Dòng flagship Galaxy S của Samsung luôn thu hút lượng người quan tâm và tìm kiếm cực lớn tại thị trường Việt Nam",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/samsung_may_launch_galaxy_s27_series_earlier_than_expected_but_memory_questions_still_linger-news-75106.php",
+      "source_title": "Samsung may launch Galaxy S27 series earlier than expected, but memory questions still linger",
+      "related_urls": [
+        "https://www.androidauthority.com/samsung-galaxy-s27-launch-window-leak-3724822/"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Apple phát hành bản Release Candidate cho iOS 27.2 và macOS 27.2",
+      "summary_vi": "Apple đã chính thức tung ra bản cập nhật thử nghiệm cuối cùng Release Candidate của iOS 27.2, iPadOS 27.2 và macOS Golden Gate 27.2 cho các nhà phát triển. Động thái này cho thấy phiên bản hệ điều hành chính thức sắp sửa được phát hành rộng rãi.",
+      "hot_level": 4,
+      "hot_reason": "Bản cập nhật lớn cho hệ sinh thái iOS và macOS sắp ra mắt chính thức được rất nhiều tín đồ công nghệ theo dõi",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/19/apple-releases-ios-27-2-rc/",
+      "source_title": "Apple Releases iOS 27.2 Release Candidate",
+      "related_urls": [
+        "https://9to5mac.com/2026/10/19/first-release-candidate-for-macos-27-2-golden-gate-now-available/",
+        "https://www.macrumors.com/2026/10/19/apple-seeds-macos-golden-gate-27-2-rc/",
+        "https://9to5mac.com/2026/10/19/apple-releases-ios-27-2-rc-for-iphone/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Samsung lên tiếng về lỗi mất biểu tượng trên thanh trạng thái của One UI 9",
+      "summary_vi": "Samsung đã xác định được nguyên nhân khiến các biểu tượng trên thanh trạng thái biến mất bất thường trên One UI 9. Hãng cho biết việc xử lý vấn đề này không hề đơn giản và đang tìm giải pháp khắc phục.",
+      "hot_level": 4,
+      "hot_reason": "Lỗi phần mềm trên giao diện One UI mới của Samsung đang nằm trong xu hướng tìm kiếm và ảnh hưởng trực tiếp đến người dùng",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-quickstar-status-bar-icons-bug-3725088/",
+      "source_title": "Samsung has good and bad news about One UI 9’s disappearing status bar icons",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [
+          "a i news (US, ~5,000 lượt tìm)"
+        ],
+        "score": 4.7
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Arm khẳng định chip AGI CPU vượt trội gấp đôi vi xử lý AMD EPYC trong tác vụ AI",
+      "summary_vi": "Arm tuyên bố mẫu AGI CPU mới mang lại hiệu năng trên mỗi tủ rack cao gần gấp 2 lần so với AMD EPYC 9755 trong các tác vụ agentic AI. Phương pháp đánh giá này được Arm phối hợp phát triển cùng Fujitsu, Meta và OpenAI.",
+      "hot_level": 3,
+      "hot_reason": "Cuộc đối đầu kiến trúc vi xử lý máy chủ cho tải AI thu hút sự chú ý của giới yêu thích phần cứng và công nghệ cao",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/cpus/arm-claims-agi-cpu-delivers-double-the-performance-per-rack-of-amd-epyc-9755-in-independent-analysis-new-cpu-evaluation-methodology-developed-by-arm-evaluates-agentic-ai-performance-across-seven-workloads",
+      "source_title": "Arm says its AGI CPU delivers nearly 2X the performance per rack of AMD EPYC 9755 in new agentic AI CPU tests",
+      "related_urls": [
+        "https://wccftech.com/arm-pits-agi-cpu-against-amd-zen-5-epyc-turin-claims-a-2x-rack-level-win/"
+      ],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Rò rỉ dung lượng pin và mức giá tại châu Âu của Xiaomi 18 Pro",
+      "summary_vi": "Báo cáo mới nhất đã tiết lộ dung lượng pin cùng mức giá bán tại thị trường châu Âu của bộ đôi Xiaomi 18 Pro và Xiaomi 18 Pro Max. Mức giá rò rỉ này tiếp tục thể hiện xu hướng tăng giá của các dòng máy cao cấp từ Trung Quốc.",
+      "hot_level": 3,
+      "hot_reason": "Xiaomi là thương hiệu smartphone phổ biến hàng đầu tại Việt Nam và các thông tin rò rỉ về flagship của hãng luôn được chú ý",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/xiaomi_18_pro_and_xiaomi_18_pro_max_european_prices_and_battery_capacities_leak-news-75114.php",
+      "source_title": "Xiaomi 18 Pro and Xiaomi 18 Pro Max European prices and battery capacities leak",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Apple Wallet Car Keys sắp hỗ trợ hàng loạt xe hơi thuộc GM",
+      "summary_vi": "Tập đoàn GM công bố tính năng chìa khóa ảo Apple Wallet Car Keys đang bắt đầu được trang bị cho nhiều dòng xe của Cadillac, Chevrolet và GMC. Người dùng có thể sử dụng iPhone để mở khóa và khởi động xe nhanh chóng.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng mở khóa xe hơi qua iPhone là công nghệ kết nối hiện đại được người dùng hệ sinh thái Apple rất quan tâm",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/19/car-keys-in-apple-wallet-coming-soon-to-three-popular-vehicle-brands/",
+      "source_title": "Car Keys in Apple Wallet coming soon to three popular vehicle brands",
+      "related_urls": [
+        "https://www.macrumors.com/2026/10/19/gm-vehicles-iphone-apple-wallet-car-keys/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Tiện ích chặn theo dõi Privacy Badger chính thức có mặt trên Safari macOS",
+      "summary_vi": "Tổ chức Electronic Frontier Foundation vừa phát hành tiện ích mở rộng chống theo dõi Privacy Badger cho trình duyệt Safari trên macOS. Tiện ích miễn phí này giúp người dùng ngăn chặn các trình theo dõi quảng cáo thu thập dữ liệu duyệt web.",
+      "hot_level": 3,
+      "hot_reason": "Công cụ bảo mật quyền riêng tư nổi tiếng xuất hiện trên Safari đáp ứng mong mỏi lâu năm của đông đảo người dùng máy Mac",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/19/eff-privacy-badger-safari/",
+      "source_title": "EFF's Privacy Badger Anti-Tracking Extension Expands to Safari",
+      "related_urls": [
+        "https://www.neowin.net/news/effs-privacy-badger-hits-safari-on-macos-after-years-of-user-requests/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "MacRumors",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Cảnh báo khẩn cấp: Lỗ hổng nghiêm trọng trên máy chủ Plex đang bị tin tặc khai thác",
+      "summary_vi": "Các chuyên gia bảo mật cảnh báo tin tặc đang chuỗi 4 lỗ hổng bảo mật nhằm tấn công và cài mã độc vào các máy chủ truyền thông Plex chưa cập nhật. Người dùng được khuyến cáo phải tiến hành cập nhật bản vá ngay lập tức để bảo vệ dữ liệu.",
+      "hot_level": 3,
+      "hot_reason": "Plex là nền tảng quản lý phim ảnh gia đình rất phổ biến và sự cố mã độc trực tiếp đe dọa dữ liệu người dùng",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+      "source_title": "PSA: Patch your Plex media server before someone hacks it",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Ars Technica"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Galaxy S27 có thể được nâng cấp công nghệ DC Dimming chống mỏi mắt",
+      "summary_vi": "Tin đồn cho thấy màn hình của Samsung Galaxy S27 có khả năng sẽ hỗ trợ công nghệ điều chỉnh độ sáng DC Dimming. Nâng cấp này được kỳ vọng sẽ giải quyết triệt để tình trạng mỏi mắt cho những người dùng nhạy cảm với hiện tượng nhấp nháy màn hình PWM.",
+      "hot_level": 3,
+      "hot_reason": "Cải tiến về công nghệ màn hình trên flagship thế hệ mới của Samsung đánh trúng vấn đề nhạy cảm thị giác của nhiều người dùng",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/19/galaxy-s27-display-dc-dimmed-rumor/",
+      "source_title": "I’ve struggled to use Samsung displays for years, but the Galaxy S27 may finally fix that; here’s why",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Google"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    }
+  ]
+}
