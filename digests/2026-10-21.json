@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T04:55:17.869361+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "AMD mang công nghệ siêu phân giải FSR 4.1 lên card RX 6000, máy chơi game cầm tay và Xbox",
+      "summary_vi": "AMD vừa phát hành phiên bản công nghệ nâng độ phân giải FSR 4.1 hỗ trợ mở rộng cho các dòng card Radeon RX 6000, máy chơi game Xbox Series X/S và chip Ryzen AI. Động thái này giúp phần cứng thế hệ cũ tiếp cận công nghệ xử lý hình ảnh dựa trên máy học tiên tiến.",
+      "hot_level": 5,
+      "hot_reason": "4 trang công nghệ lớn cùng đưa tin và cộng đồng game thủ lẫn người dùng PC phần cứng rất quan tâm",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amds-fsr-4-1-now-works-on-radeon-rx-6000-gpus-xbox-series-x-and-s-and-ryzen-ai-max-ai-9-and-z2-socs-new-release-brings-cutting-edge-tech-to-older-hardware-with-a-small-performance-cost",
+      "source_title": "AMD's FSR 4.1 now works on Radeon RX 6000 cards, Xbox Series X and S, and Ryzen AI Max, AI 9, and Z2 SoCs",
+      "related_urls": [
+        "https://www.engadget.com/2292103/amd-is-bringing-its-next-gen-fsr-41-upscaling-tech-to-xbox/",
+        "https://www.neowin.net/news/amd-fsr-upscaling-is-coming-to-xbox-series-xs-pc-handhelds-vulkan-and-more/?utm_source=rss",
+        "https://wccftech.com/amd-fsr-4-1-comes-to-radeon-rx-6000-gpus-ryzen-apus-handhelds-vulkan-support/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "Neowin",
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 7.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Google đưa trí tuệ nhân tạo cá nhân hóa Gemini lên Android Auto",
+      "summary_vi": "Google đang triển khai tính năng Personal Intelligence của Gemini cho Android Auto và các hệ thống xe hơi tích hợp sẵn Google. Trợ lý AI có thể kết hợp dữ liệu từ Gmail, Lịch hay Maps để đưa ra hỗ trợ cá nhân hóa trực tiếp khi lái xe.",
+      "hot_level": 4,
+      "hot_reason": "Tính năng AI mới của Google mở rộng trực tiếp lên hệ sinh thái ô tô quen thuộc với người dùng",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/",
+      "source_title": "Google upgrading Gemini for Android Auto with Personal Intelligence",
+      "related_urls": [
+        "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+        "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Ars Technica",
+          "Engadget"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Elon Musk thảo luận khả năng sáp nhập Tesla và SpaceX",
+      "summary_vi": "Elon Musk tiết lộ Tesla và SpaceX đã lập các ủy ban đặc biệt để xem xét khả năng sáp nhập giữa hai công ty. Thông tin được đưa ra trong buổi báo cáo kết quả kinh doanh quý 3 của hãng hàng không vũ trụ.",
+      "hot_level": 4,
+      "hot_reason": "Sự kiện rung chuyển giới công nghệ được Techmeme đăng tải và có sức hút truyền thông rất cao",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+      "source_title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "The Verge"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Apple giới hạn mỗi khách hàng chỉ được mua tối đa hai chiếc iPhone Duo",
+      "summary_vi": "Apple áp dụng chính sách giới hạn khách hàng tại Mỹ chỉ được đặt mua tối đa hai thiết bị iPhone Duo nhằm hạn chế tình trạng đầu cơ. Lượng đơn đặt hàng tăng vọt khiến thời gian giao hàng nhanh chóng bị đẩy sang tháng 1 năm sau.",
+      "hot_level": 4,
+      "hot_reason": "Dòng iPhone màn hình gập mới của Apple nhận được sự chú ý đặc biệt từ độc giả",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/19/iphone-duo-order-limit-us/",
+      "source_title": "Apple Limiting U.S. iPhone Duo Orders to Two Per Customer",
+      "related_urls": [
+        "https://www.gsmarena.com/apple_caps_iphone_duo_purchases_at_two_per_person_in_an_attempt_to_tackle_scalpers-news-75135.php",
+        "https://www.macrumors.com/2026/10/20/apple-apps-iphone-duo/"
+      ],
+      "signals": {
+        "outlets": [
+          "GSMArena",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "ChatGPT bổ sung tính năng khóa cuộc trò chuyện bằng mã PIN",
+      "summary_vi": "OpenAI vừa giới thiệu tính năng Locked chats cho phép người dùng bảo vệ những đoạn hội thoại nhạy cảm trên ChatGPT bằng mã bảo mật. Tính năng này giúp tăng tính riêng tư khi chia sẻ thiết bị cho người khác sử dụng.",
+      "hot_level": 4,
+      "hot_reason": "ChatGPT cập nhật tính năng bảo mật thiết thực cho hàng trăm triệu người dùng",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/",
+      "source_title": "ChatGPT now lets you lock sensitive chats behind a PIN",
+      "related_urls": [
+        "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Lộ diện chip APU Zen 6 của AMD với 6 nhân và RAM LPDDR5 tốc độ cao",
+      "summary_vi": "Bản thử nghiệm vi xử lý APU nền tảng Zen 6 của AMD vừa lộ diện trên cơ sở dữ liệu benchmark với thiết lập 6 nhân 12 luồng cùng bộ nhớ RAM LPDDR5 24 GB tốc độ 9600 MT/s. Con chip này chạy ở xung nhịp 2.4 GHz và được dự đoán có thể trang bị trên máy chơi game cầm tay thế hệ mới.",
+      "hot_level": 3,
+      "hot_reason": "Rò rỉ kiến trúc vi xử lý thế hệ mới từ AMD luôn thu hút giới đam mê phần cứng PC",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/amd-zen-6-apu-with-24-gb-lpddr5-memory-appears-in-benchmarks/",
+      "source_title": "AMD’s Leaked Zen 6 APU Packs 6 Cores And 24 GB LPDDR5 At 9600 MT/s; Could Possibly Power Next-Gen Steam Deck",
+      "related_urls": [
+        "https://www.tomshardware.com/pc-components/cpus/mysterious-amd-zen-6-apu-with-24gb-of-lpddr5-memory-appears-in-benchmarks-chip-may-be-for-next-gen-steam-deck-or-gaming-handhelds"
+      ],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Perplexity hỗ trợ xử lý tác vụ AI hoàn toàn nội bộ trên máy Mac",
+      "summary_vi": "Ứng dụng Perplexity trên máy tính Mac vừa bổ sung chế độ local-first cho phép người dùng chạy tác vụ hoàn toàn trên thiết bị mà không cần kết nối mạng. Tính năng yêu cầu cấu hình phần cứng có bộ nhớ RAM từ 36 GB trở lên.",
+      "hot_level": 3,
+      "hot_reason": "Nhu cầu chạy mô hình AI trực tiếp trên máy Mac mà không cần internet đang được quan tâm lớn",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/20/perplexitys-computer-can-now-run-entirely-on-your-mac-even-offline/",
+      "source_title": "Perplexity’s Computer can now run entirely on your Mac, even offline",
+      "related_urls": [
+        "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Engadget"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Trợ lý AI Muse của Meta cán mốc 10 triệu lượt tải sau 40 ngày tại Mỹ",
+      "summary_vi": "Trợ lý ảo AI Muse của Meta đã đạt cột mốc 10 triệu lượt tải xuống tại thị trường Mỹ chỉ sau 40 ngày ra mắt. Tốc độ này giúp Muse trở thành ứng dụng thứ 12 đạt kỷ lục trên và ghi nhận tỷ lệ giữ chân người dùng vượt trội.",
+      "hot_level": 3,
+      "hot_reason": "Sản phẩm AI tiêu dùng mới nhất của Meta tăng trưởng cực nhanh so với các đối thủ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "source_title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "related_urls": [
+        "https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Nhẫn thông minh Oura cập nhật tính năng đo sức khỏe tim mạch và VO2 Max tự động",
+      "summary_vi": "Oura bổ sung hai tính năng mới tập trung vào sức khỏe tim mạch cho các mẫu nhẫn thông minh của hãng nhằm giúp theo dõi tác động của việc luyện tập. Nâng cấp này cũng giúp thiết bị tự động tính chỉ số VO2 Max mà không cần người dùng thực hiện bài kiểm tra đi bộ thủ công.",
+      "hot_level": 3,
+      "hot_reason": "Dòng thiết bị theo dõi sức khỏe dạng nhẫn đeo tay đang là xu hướng công nghệ được ưa chuộng",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
+      "source_title": "Oura adds two new cardiovascular health tracking features to its smart rings",
+      "related_urls": [
+        "https://www.androidauthority.com/oura-smart-ring-cardio-effort-vo2-max-3725548/"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Phát hiện 8 chứng chỉ TLS trung gian bị xâm nhập khiến mạng Internet báo động",
+      "summary_vi": "Giới an ninh mạng vừa phát hiện 8 chứng chỉ số TLS trung gian đã bị xâm nhập và có thể bị kẻ xấu lợi dụng để tạo chứng chỉ giả mạo cho bất kỳ máy chủ nào. Vấn đề nghiêm trọng này đặt các quản trị viên hệ thống mạng toàn cầu vào trạng thái cảnh giác cao.",
+      "hot_level": 3,
+      "hot_reason": "Lỗ hổng bảo mật ảnh hưởng trực tiếp tới độ tin cậy của mã hóa web toàn cầu",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "source_title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Ars Technica"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    }
+  ]
+}
