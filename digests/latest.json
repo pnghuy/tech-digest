@@ -1,52 +1,82 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T04:55:17.869361+07:00",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T04:54:09.293450+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "AMD mang công nghệ siêu phân giải FSR 4.1 lên card RX 6000, máy chơi game cầm tay và Xbox",
-      "summary_vi": "AMD vừa phát hành phiên bản công nghệ nâng độ phân giải FSR 4.1 hỗ trợ mở rộng cho các dòng card Radeon RX 6000, máy chơi game Xbox Series X/S và chip Ryzen AI. Động thái này giúp phần cứng thế hệ cũ tiếp cận công nghệ xử lý hình ảnh dựa trên máy học tiên tiến.",
+      "title_vi": "Meta bị phạt 25 tỷ USD trong vụ kiện quyền riêng tư ở New Mexico",
+      "summary_vi": "Meta đã bị tòa án New Mexico yêu cầu trả 25 tỷ USD tiền phạt vì hơn 43 triệu vi phạm luật thực hành không công bằng của bang, liên quan đến vụ bê bối Cambridge Analytica kéo dài gần một thập kỷ.",
       "hot_level": 5,
-      "hot_reason": "4 trang công nghệ lớn cùng đưa tin và cộng đồng game thủ lẫn người dùng PC phần cứng rất quan tâm",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amds-fsr-4-1-now-works-on-radeon-rx-6000-gpus-xbox-series-x-and-s-and-ryzen-ai-max-ai-9-and-z2-socs-new-release-brings-cutting-edge-tech-to-older-hardware-with-a-small-performance-cost",
-      "source_title": "AMD's FSR 4.1 now works on Radeon RX 6000 cards, Xbox Series X and S, and Ryzen AI Max, AI 9, and Z2 SoCs",
+      "hot_reason": "Đây là một khoản phạt khổng lồ ảnh hưởng đến Meta, một công ty công nghệ lớn có mặt ở Việt Nam, liên quan đến vấn đề quyền riêng tư toàn cầu.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2293597/new-mexico-court-order-meta-pay-25-billion-privacy-case/",
+      "source_title": "Meta ordered to cough up $25 billion in New Mexico privacy case",
       "related_urls": [
-        "https://www.engadget.com/2292103/amd-is-bringing-its-next-gen-fsr-41-upscaling-tech-to-xbox/",
-        "https://www.neowin.net/news/amd-fsr-upscaling-is-coming-to-xbox-series-xs-pc-handhelds-vulkan-and-more/?utm_source=rss",
-        "https://wccftech.com/amd-fsr-4-1-comes-to-radeon-rx-6000-gpus-ryzen-apus-handhelds-vulkan-support/"
+        "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+        "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
+        "https://www.neowin.net/news/new-mexico-judge-slashes-metas-privacy-penalty-from-219b-to-25-billion/?utm_source=rss"
       ],
       "signals": {
         "outlets": [
           "Engadget",
           "Neowin",
-          "Tom's Hardware",
-          "Wccftech"
+          "TechCrunch",
+          "The Verge"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 219,
         "trends": [],
-        "score": 7.0
+        "score": 9.19
       }
     },
     {
       "rank": 2,
-      "title_vi": "Google đưa trí tuệ nhân tạo cá nhân hóa Gemini lên Android Auto",
-      "summary_vi": "Google đang triển khai tính năng Personal Intelligence của Gemini cho Android Auto và các hệ thống xe hơi tích hợp sẵn Google. Trợ lý AI có thể kết hợp dữ liệu từ Gmail, Lịch hay Maps để đưa ra hỗ trợ cá nhân hóa trực tiếp khi lái xe.",
-      "hot_level": 4,
-      "hot_reason": "Tính năng AI mới của Google mở rộng trực tiếp lên hệ sinh thái ô tô quen thuộc với người dùng",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/",
-      "source_title": "Google upgrading Gemini for Android Auto with Personal Intelligence",
+      "title_vi": "Anthropic ra mắt Claude Duet, đối thủ của Meta Muse và OpenAI Dots",
+      "summary_vi": "Anthropic đã giới thiệu Claude Duet, một tác nhân AI chủ động mới nhằm cạnh tranh với Muse của Meta và Dots của OpenAI. Tác nhân này kết nối với các ứng dụng của người dùng và chủ động đưa ra gợi ý.",
+      "hot_level": 5,
+      "hot_reason": "Tin tức về sản phẩm AI mới từ Anthropic, một đối thủ lớn của OpenAI và Meta, cho thấy sự cạnh tranh ngày càng gay gắt trong lĩnh vực tác nhân AI.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/",
+      "source_title": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots",
       "related_urls": [
-        "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-        "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/"
+        "https://www.macrumors.com/2026/10/21/anthropic-claude-duet/",
+        "https://9to5google.com/2026/10/21/claude-duet-anthropic-ai-agent-waitlist/",
+        "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+        "https://9to5mac.com/2026/10/21/anthropic-takes-on-chatgpt-dots-and-meta-muse-with-claude-duet/"
       ],
       "signals": {
         "outlets": [
           "9to5Google",
-          "Ars Technica",
-          "Engadget"
+          "9to5Mac",
+          "Engadget",
+          "MacRumors",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 9.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "iPhone Duo ra mắt với thiết kế gập cao cấp từ Apple",
+      "summary_vi": "Chiếc điện thoại gập đầu tiên của Apple, iPhone Duo, đã nhận được đánh giá là một thiết bị gập đẳng cấp, mang lại trải nghiệm độc đáo cho người dùng iPhone. Mặc dù nặng và đắt tiền, nó là một sản phẩm đáng giá cho những ai không muốn chuyển sang Android.",
+      "hot_level": 5,
+      "hot_reason": "Đây là sự kiện lớn nhất của Apple trong nhiều năm, với việc ra mắt iPhone màn hình gập đầu tiên, thu hút sự chú ý cực lớn từ độc giả Việt Nam.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2292333/apple-iphone-duo-review/",
+      "source_title": "Apple iPhone Duo review: A first-class foldable",
+      "related_urls": [
+        "https://www.macrumors.com/2026/10/21/iphone-duo-edge-light-feature/",
+        "https://9to5mac.com/2026/10/21/iphone-duo-will-add-reachability-feature-later-this-year/",
+        "https://www.macrumors.com/2026/10/21/iphone-duo-reachability-later-this-year/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Engadget",
+          "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -55,177 +85,155 @@
       }
     },
     {
-      "rank": 3,
-      "title_vi": "Elon Musk thảo luận khả năng sáp nhập Tesla và SpaceX",
-      "summary_vi": "Elon Musk tiết lộ Tesla và SpaceX đã lập các ủy ban đặc biệt để xem xét khả năng sáp nhập giữa hai công ty. Thông tin được đưa ra trong buổi báo cáo kết quả kinh doanh quý 3 của hãng hàng không vũ trụ.",
-      "hot_level": 4,
-      "hot_reason": "Sự kiện rung chuyển giới công nghệ được Techmeme đăng tải và có sức hút truyền thông rất cao",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
-      "source_title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+      "rank": 4,
+      "title_vi": "Hai lỗ hổng PHP nghiêm trọng đe dọa hàng triệu website toàn cầu",
+      "summary_vi": "Hai lỗ hổng bảo mật nghiêm trọng trong PHP, ngôn ngữ lập trình máy chủ phổ biến nhất thế giới, đã được phát hiện, gây ra cảnh báo khẩn cấp từ các cơ quan an ninh mạng và lo ngại về khả năng đóng cửa website.",
+      "hot_level": 5,
+      "hot_reason": "Lỗ hổng bảo mật cấp nghiêm trọng ảnh hưởng đến hàng triệu website sử dụng PHP có khả năng gây ra sự cố lớn trên toàn cầu, là tin tức cực kỳ quan trọng.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/two-critical-php-vulnerabilities-threaten-millions-of-websites-worldwide-eu-warns-of-potential-shutdowns-as-cyberattacks-begin/",
+      "source_title": "Two Critical PHP Vulnerabilities Threaten Millions Of Websites Worldwide, EU Warns Of Potential Shutdowns As Cyberattacks Begin",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "The Verge"
-        ],
-        "techmeme": true,
-        "hn_points": 0,
-        "trends": [],
-        "score": 4.0
-      }
-    },
-    {
-      "rank": 4,
-      "title_vi": "Apple giới hạn mỗi khách hàng chỉ được mua tối đa hai chiếc iPhone Duo",
-      "summary_vi": "Apple áp dụng chính sách giới hạn khách hàng tại Mỹ chỉ được đặt mua tối đa hai thiết bị iPhone Duo nhằm hạn chế tình trạng đầu cơ. Lượng đơn đặt hàng tăng vọt khiến thời gian giao hàng nhanh chóng bị đẩy sang tháng 1 năm sau.",
-      "hot_level": 4,
-      "hot_reason": "Dòng iPhone màn hình gập mới của Apple nhận được sự chú ý đặc biệt từ độc giả",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/19/iphone-duo-order-limit-us/",
-      "source_title": "Apple Limiting U.S. iPhone Duo Orders to Two Per Customer",
-      "related_urls": [
-        "https://www.gsmarena.com/apple_caps_iphone_duo_purchases_at_two_per_person_in_an_attempt_to_tackle_scalpers-news-75135.php",
-        "https://www.macrumors.com/2026/10/20/apple-apps-iphone-duo/"
-      ],
-      "signals": {
-        "outlets": [
-          "GSMArena",
-          "MacRumors"
+          "Wccftech"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 43,
         "trends": [],
-        "score": 3.0
+        "score": 1.43
       }
     },
     {
       "rank": 5,
-      "title_vi": "ChatGPT bổ sung tính năng khóa cuộc trò chuyện bằng mã PIN",
-      "summary_vi": "OpenAI vừa giới thiệu tính năng Locked chats cho phép người dùng bảo vệ những đoạn hội thoại nhạy cảm trên ChatGPT bằng mã bảo mật. Tính năng này giúp tăng tính riêng tư khi chia sẻ thiết bị cho người khác sử dụng.",
+      "title_vi": "EA đóng cửa BioWare và cắt giảm khoảng 400 nhân sự",
+      "summary_vi": "EA đang đóng cửa studio game BioWare, tác giả của nhiều tựa game nhập vai nổi tiếng, đồng thời cắt giảm khoảng 400 việc làm. Một dự án game The Sims cũng bị tạm dừng.",
       "hot_level": 4,
-      "hot_reason": "ChatGPT cập nhật tính năng bảo mật thiết thực cho hàng trăm triệu người dùng",
+      "hot_reason": "Tin tức về việc đóng cửa một studio game huyền thoại và sa thải hàng trăm nhân sự là một sự kiện lớn trong ngành công nghiệp giải trí kỹ thuật số.",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/",
-      "source_title": "ChatGPT now lets you lock sensitive chats behind a PIN",
-      "related_urls": [
-        "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
-      ],
+      "url": "https://www.engadget.com/2293402/ea-is-shutting-down-bioware-and-cutting-around-400-jobs/",
+      "source_title": "EA is shutting down BioWare and cutting around 400 jobs",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "Engadget",
-          "TechCrunch"
+          "Engadget"
         ],
-        "techmeme": false,
-        "hn_points": 0,
+        "techmeme": true,
+        "hn_points": 406,
         "trends": [],
-        "score": 3.0
+        "score": 8.0
       }
     },
     {
       "rank": 6,
-      "title_vi": "Lộ diện chip APU Zen 6 của AMD với 6 nhân và RAM LPDDR5 tốc độ cao",
-      "summary_vi": "Bản thử nghiệm vi xử lý APU nền tảng Zen 6 của AMD vừa lộ diện trên cơ sở dữ liệu benchmark với thiết lập 6 nhân 12 luồng cùng bộ nhớ RAM LPDDR5 24 GB tốc độ 9600 MT/s. Con chip này chạy ở xung nhịp 2.4 GHz và được dự đoán có thể trang bị trên máy chơi game cầm tay thế hệ mới.",
-      "hot_level": 3,
-      "hot_reason": "Rò rỉ kiến trúc vi xử lý thế hệ mới từ AMD luôn thu hút giới đam mê phần cứng PC",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/amd-zen-6-apu-with-24-gb-lpddr5-memory-appears-in-benchmarks/",
-      "source_title": "AMD’s Leaked Zen 6 APU Packs 6 Cores And 24 GB LPDDR5 At 9600 MT/s; Could Possibly Power Next-Gen Steam Deck",
+      "title_vi": "Oppo Find X10 và Find X10 Pro Max ra mắt toàn cầu",
+      "summary_vi": "Oppo chính thức ra mắt dòng Find X10 toàn cầu với flagship Find X10 Pro Max, được đánh giá là một trong những điện thoại Android tốt nhất từng được sản xuất với cụm camera 200MP.",
+      "hot_level": 4,
+      "hot_reason": "Oppo là một thương hiệu điện thoại rất phổ biến tại Việt Nam, và việc ra mắt dòng flagship mới với nhiều tính năng ấn tượng sẽ thu hút nhiều độc giả.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/oppo_find_x10_and_find_x10_pro_max_go_global-news-75154.php",
+      "source_title": "Oppo Find X10 and Find X10 Pro Max go global",
       "related_urls": [
-        "https://www.tomshardware.com/pc-components/cpus/mysterious-amd-zen-6-apu-with-24gb-of-lpddr5-memory-appears-in-benchmarks-chip-may-be-for-next-gen-steam-deck-or-gaming-handhelds"
+        "https://www.gsmarena.com/oppo_find_x10_pro_max_hasselblad_teleconverter_kit_samples-news-75139.php",
+        "https://www.gsmarena.com/oppo_find_x10_pro_max-review-3008.php",
+        "https://www.androidauthority.com/oppo-find-x10-pro-max-review-3722712/",
+        "https://9to5google.com/2026/10/21/oppo-find-x10-pro-max-review/"
       ],
       "signals": {
         "outlets": [
-          "Tom's Hardware",
-          "Wccftech"
+          "9to5Google",
+          "Android Authority",
+          "Engadget",
+          "GSMArena"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 7.0
       }
     },
     {
       "rank": 7,
-      "title_vi": "Perplexity hỗ trợ xử lý tác vụ AI hoàn toàn nội bộ trên máy Mac",
-      "summary_vi": "Ứng dụng Perplexity trên máy tính Mac vừa bổ sung chế độ local-first cho phép người dùng chạy tác vụ hoàn toàn trên thiết bị mà không cần kết nối mạng. Tính năng yêu cầu cấu hình phần cứng có bộ nhớ RAM từ 36 GB trở lên.",
-      "hot_level": 3,
-      "hot_reason": "Nhu cầu chạy mô hình AI trực tiếp trên máy Mac mà không cần internet đang được quan tâm lớn",
+      "title_vi": "Google Maps trên CarPlay tích hợp Gemini cho trải nghiệm lái xe thông minh hơn",
+      "summary_vi": "Google Maps trên CarPlay giờ đây cho phép người dùng truy cập Gemini để có trải nghiệm lái xe đàm thoại. Chỉ cần chạm vào biểu tượng Gemini mới để bắt đầu.",
+      "hot_level": 4,
+      "hot_reason": "Sự tích hợp AI Gemini vào Google Maps trên CarPlay mang lại tính năng thông minh mới cho một ứng dụng điều hướng phổ biến, hữu ích cho người dùng iPhone.",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/20/perplexitys-computer-can-now-run-entirely-on-your-mac-even-offline/",
-      "source_title": "Perplexity’s Computer can now run entirely on your Mac, even offline",
+      "url": "https://9to5google.com/2026/10/21/google-maps-carplay-gemini/",
+      "source_title": "Google Maps on CarPlay rolling out Gemini when navigating",
       "related_urls": [
-        "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/"
+        "https://www.androidauthority.com/gemini-navigation-google-maps-carplay-3725752/",
+        "https://www.engadget.com/2292912/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/"
       ],
       "signals": {
         "outlets": [
+          "9to5Google",
           "9to5Mac",
+          "Android Authority",
           "Engadget"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 7.0
       }
     },
     {
       "rank": 8,
-      "title_vi": "Trợ lý AI Muse của Meta cán mốc 10 triệu lượt tải sau 40 ngày tại Mỹ",
-      "summary_vi": "Trợ lý ảo AI Muse của Meta đã đạt cột mốc 10 triệu lượt tải xuống tại thị trường Mỹ chỉ sau 40 ngày ra mắt. Tốc độ này giúp Muse trở thành ứng dụng thứ 12 đạt kỷ lục trên và ghi nhận tỷ lệ giữ chân người dùng vượt trội.",
-      "hot_level": 3,
-      "hot_reason": "Sản phẩm AI tiêu dùng mới nhất của Meta tăng trưởng cực nhanh so với các đối thủ",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "source_title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "title_vi": "Các mô hình AI mới nhất của OpenAI sẽ có mặt trên Google Cloud và Antigravity",
+      "summary_vi": "Google Cloud sẽ sớm tích hợp các mô hình AI mới nhất của OpenAI như GPT 6.1 Astra, Sol và Luna trong những tuần tới. Đây là một thỏa thuận quan trọng giữa hai ông lớn công nghệ.",
+      "hot_level": 4,
+      "hot_reason": "Sự hợp tác giữa OpenAI và Google Cloud là một bước tiến quan trọng trong ngành công nghiệp AI, ảnh hưởng đến khả năng tiếp cận và ứng dụng AI quy mô lớn.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "source_title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
       "related_urls": [
-        "https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days/"
+        "https://9to5google.com/2026/10/21/openai-gpt-models-google-antigravity-cloud/"
       ],
       "signals": {
         "outlets": [
-          "9to5Mac",
-          "TechCrunch"
+          "9to5Google",
+          "Ars Technica"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 187,
         "trends": [],
-        "score": 3.0
+        "score": 4.87
       }
     },
     {
       "rank": 9,
-      "title_vi": "Nhẫn thông minh Oura cập nhật tính năng đo sức khỏe tim mạch và VO2 Max tự động",
-      "summary_vi": "Oura bổ sung hai tính năng mới tập trung vào sức khỏe tim mạch cho các mẫu nhẫn thông minh của hãng nhằm giúp theo dõi tác động của việc luyện tập. Nâng cấp này cũng giúp thiết bị tự động tính chỉ số VO2 Max mà không cần người dùng thực hiện bài kiểm tra đi bộ thủ công.",
+      "title_vi": "Micron giới thiệu DDR6 tăng gấp đôi băng thông DDR5 và LPDDR6 hiệu quả năng lượng hơn",
+      "summary_vi": "Micron đã trình diễn các sản phẩm DRAM và NAND thế hệ tiếp theo của mình, bao gồm DDR6 với băng thông gấp đôi DDR5 và LPDDR6 tiết kiệm năng lượng hơn 35%. Các công nghệ này sẽ cung cấp sức mạnh cho các giải pháp máy khách và doanh nghiệp sắp tới, thúc đẩy AI.",
       "hot_level": 3,
-      "hot_reason": "Dòng thiết bị theo dõi sức khỏe dạng nhẫn đeo tay đang là xu hướng công nghệ được ưa chuộng",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
-      "source_title": "Oura adds two new cardiovascular health tracking features to its smart rings",
-      "related_urls": [
-        "https://www.androidauthority.com/oura-smart-ring-cardio-effort-vo2-max-3725548/"
-      ],
+      "hot_reason": "Những tiến bộ đáng kể trong công nghệ bộ nhớ từ Micron, như DDR6 và LPDDR6, là tin tức quan trọng đối với tương lai của máy tính và thiết bị di động, đặc biệt cho hiệu năng AI.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/micron-ddr6-doubles-ddr5-bandwidth-lpddr6-better-power-efficiency-vhbm-vertical-g11-nand-beyond-400-layers/",
+      "source_title": "Micron’s DDR6 Doubles DDR5 Bandwidth While LPDDR6 Delivers 35% Better Power Efficiency, Both Built On Its Upcoming 1δ DRAM Node, vHBM Goes Vertical & G11 NAND Goes Beyond 400 Layers",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "Android Authority",
-          "The Verge"
+          "Wccftech"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 1.0
       }
     },
     {
       "rank": 10,
-      "title_vi": "Phát hiện 8 chứng chỉ TLS trung gian bị xâm nhập khiến mạng Internet báo động",
-      "summary_vi": "Giới an ninh mạng vừa phát hiện 8 chứng chỉ số TLS trung gian đã bị xâm nhập và có thể bị kẻ xấu lợi dụng để tạo chứng chỉ giả mạo cho bất kỳ máy chủ nào. Vấn đề nghiêm trọng này đặt các quản trị viên hệ thống mạng toàn cầu vào trạng thái cảnh giác cao.",
+      "title_vi": "Walmart cho phép các tác nhân AI thay khách hàng mua sắm",
+      "summary_vi": "Walmart sẽ sớm cho phép các tác nhân AI mua sắm trên website thay cho khách hàng, với các hệ thống kiểm soát và phê duyệt giao dịch cùng giới hạn chi tiêu được thiết lập trước.",
       "hot_level": 3,
-      "hot_reason": "Lỗ hổng bảo mật ảnh hưởng trực tiếp tới độ tin cậy của mã hóa web toàn cầu",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-      "source_title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "hot_reason": "Một nhà bán lẻ lớn như Walmart chấp nhận tác nhân AI để mua sắm là một xu hướng mới và quan trọng trong lĩnh vực AI và thương mại điện tử, có khả năng ảnh hưởng đến trải nghiệm mua sắm trong tương lai.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "source_title": "Walmart is inviting AI agents to shop for you",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "Ars Technica"
+          "The Verge"
         ],
         "techmeme": false,
         "hn_points": 0,
