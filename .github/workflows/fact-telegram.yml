@@ -1,0 +1,33 @@
+name: Fact – gửi bài chờ duyệt lên Telegram
+
+on:
+  # Trạm đăng bài trên MacBook commit facts/latest.json mỗi sáng sau khi viết xong
+  push:
+    branches: [main]
+    paths: ["facts/latest.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: fact-telegram
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -U requests
+      - name: Gửi Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/send_facts.py facts/latest.json
