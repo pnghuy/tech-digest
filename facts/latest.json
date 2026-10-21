@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-21",
+  "station_url": "https://claude.ai/code/session_01UBAPmPNPiTxvyrST1JLPxz",
+  "notes": [
+    "Chỉ có 4 bài: 5 tin trong bản tin (FSR 4.1, Gemini Android Auto, ChatGPT khóa chat, APU Zen 6, Perplexity Mac) đã có trên Fact.",
+    "Tin 8 chứng chỉ TLS (Ars Technica) bị trang xác minh người dùng chặn nên không viết được.",
+    "Bài 1 Tesla–SpaceX chưa có ảnh sạch."
+  ],
+  "articles": [
+    {
+      "title": "Tesla và SpaceX lập ủy ban đặc biệt bàn chuyện sáp nhập, Elon Musk nói đây là ý tưởng tốt",
+      "body": "Tesla và SpaceX đã thành lập các ủy ban đặc biệt để thảo luận khả năng sáp nhập hai công ty. Elon Musk, CEO của cả hai, cho biết điều này trong cuộc gọi công bố kết quả kinh doanh quý 3 của SpaceX vào thứ Ba 20/10.\n\nTheo Musk, các ủy ban được lập theo yêu cầu của cổ đông và gồm những thành viên hội đồng quản trị độc lập, nhưng ông không nêu tên. Bản thân Musk không nằm trong ủy ban nào và cũng không tham gia các cuộc thảo luận. \"Vì tôi là bên có xung đột lợi ích nên tôi không thể tham gia thảo luận của các ủy ban đặc biệt\", Musk nói. Ông ví tình huống này như một màn kịch kabuki kỳ lạ, khi hai nhóm người nói chuyện với nhau còn ông thì đứng ngoài.\n\nHai bên chưa thống nhất điều khoản nào và cũng không có gì bảo đảm thương vụ sẽ thành. Musk cho biết cổ đông phải ủng hộ thì mới tiến hành được. Riêng phía Tesla cần 50% phiếu thuận trên tổng số cổ phần, tính cả những cổ đông không đi bỏ phiếu. Ông thừa nhận đây là ngưỡng khá cao.\n\nDù vậy, Musk cho rằng sáp nhập Tesla và SpaceX là một ý tưởng tốt. Ông lý giải hai công ty có nhiều thứ để hợp tác, từ phần mềm siêu trí tuệ, thiết kế chip, TeraFab, robot, đưa khối lượng lên quỹ đạo với chòm vệ tinh Starmind cho tới kết nối. Quyết định vẫn thuộc về ủy ban đặc biệt của hai bên, sau đó phương án sẽ được đưa ra cổ đông biểu quyết.\n\nTheo The Verge, nếu thành hiện thực, thương vụ sẽ tạo ra một thực thể có giá trị hơn 3.600 tỷ USD. Kết quả phụ thuộc nhiều vào việc công ty nào sáp nhập công ty nào. Nếu Tesla mua SpaceX, Tesla sẽ phải phát hành hàng triệu cổ phiếu mới, khiến cổ đông hiện tại nắm phần nhỏ hơn trong một công ty lớn hơn. Mục tiêu phóng của SpaceX cũng đòi hỏi hàng chục tỷ USD mỗi năm, có thể kéo bớt nguồn lực xây nhà máy ô tô và nhà máy pin của Tesla.\n\nPhần lớn nhà phân tích Phố Wall và chuyên gia pháp lý cho rằng SpaceX sẽ mua lại Tesla hoặc hấp thụ Tesla qua hình thức hoán đổi cổ phiếu. Từ khi IPO, SpaceX luôn được định giá cao hơn Tesla. Theo hướng này, cổ đông SpaceX sẽ nắm phần lớn quyền kiểm soát công ty sau sáp nhập, và một số cổ đông Tesla có thể không đồng tình.\n\nĐầu tháng này, Barclays gửi khách hàng một ghi chú cho rằng thương vụ có thể được công bố trước đại hội cổ đông thường niên của Tesla, dự kiến diễn ra ngày 3/12/2026.",
+      "source": "The Verge",
+      "hot": 4,
+      "reason": "Lên Techmeme, sức hút truyền thông lớn",
+      "images_note": "0 ảnh, chỉ có ảnh minh họa của The Verge/Getty nên chưa có ảnh sạch",
+      "urls": [
+        "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
+      ]
+    },
+    {
+      "title": "Apple giới hạn mỗi khách mua tối đa 2 chiếc iPhone Duo tại Mỹ để chặn đầu cơ",
+      "body": "Apple đang giới hạn mỗi khách hàng tại Mỹ chỉ được mua tối đa 2 chiếc iPhone Duo. Khi thêm quá số lượng này vào giỏ hàng trên website hoặc ứng dụng Apple Store, hệ thống hiện thông báo yêu cầu người mua điều chỉnh lại số lượng trước khi thanh toán.\n\nTheo MacRumors, một số người dùng Reddit cho rằng giới hạn này mới được áp dụng, nhưng trang tin chưa xác nhận được nó đã có từ lúc mở đặt trước ngày 16/10 hay chưa. Trong cùng chủ đề trên Reddit, có người nói đã đặt được 4 chiếc, có người lại bị chặn ở mức 2 chiếc.\n\nỞ các thị trường như Trung Quốc, Singapore và Hồng Kông, Apple ghi rõ giới hạn 2 máy mỗi khách trên trang bán hàng. Website tại Mỹ thì không nhắc gì cho đến khi người mua thêm chiếc thứ ba vào giỏ. GSMArena cho biết giới hạn tương tự cũng đã được ghi nhận tại Anh, Nhật Bản và Tây Ban Nha, và nhiều khả năng áp dụng trên toàn cầu.\n\nTheo GSMArena, mục đích là hạn chế đầu cơ. Khi một sản phẩm vừa hút khách vừa thiếu hàng, dân buôn thường gom số lượng lớn rồi bán lại với giá cao. Trên eBay đã có tin rao bán iPhone Duo với giá 5.000 USD. Apple từng nhiều lần áp giới hạn tương tự với các sản phẩm khác như MacBook, ở cả Trung Quốc lẫn các thị trường phương Tây. Dù vậy, người đầu cơ vẫn có cách lách bằng nhiều thẻ tín dụng ảo, nhiều địa chỉ giao hàng và nhiều email khác nhau.\n\nLượng máy giao đúng ngày mở bán đã hết chỉ vài phút sau khi mở đặt trước. Theo MacRumors, nhiều khách nhận lịch giao vào tháng 11 hoặc tháng 12, còn GSMArena cho biết thời gian giao đã lùi sang tháng 1 năm sau, nên các nguồn chưa thống nhất về mốc này. MacRumors cũng ghi nhận Apple đang đẩy sớm lịch giao cho một số đơn, nên những người đặt trước sớm có thể nhận máy sớm hơn dự kiến.",
+      "source": "MacRumors + GSMArena",
+      "hot": 4,
+      "reason": "iPhone gập của Apple đang được quan tâm nhất",
+      "images_note": "2 ảnh Apple Newsroom",
+      "urls": [
+        "https://www.macrumors.com/2026/10/19/iphone-duo-order-limit-us/",
+        "https://www.gsmarena.com/apple_caps_iphone_duo_purchases_at_two_per_person_in_an_attempt_to_tackle_scalpers-news-75135.php"
+      ]
+    },
+    {
+      "title": "Trợ lý AI Muse của Meta đạt 10 triệu lượt tải tại Mỹ sau 40 ngày, gần gấp 3 ChatGPT",
+      "body": "Muse, trợ lý AI của Meta, vừa trở thành một trong 12 ứng dụng di động đạt 10 triệu lượt tải tại Mỹ trong 40 ngày đầu ra mắt. Theo số liệu của Sensor Tower, Muse đã có 10,9 triệu lượt tải từ khi ra mắt vào tháng 9, trong đó 10,2 triệu đến từ Mỹ.\n\nSensor Tower cho biết chỉ có 11 ứng dụng khác từng làm được điều này kể từ khi hãng bắt đầu theo dõi vào tháng 10/2015. Ứng dụng gần nhất là Threads, cũng của Meta, vào tháng 7/2023. Phần lớn còn lại là game di động như Fortnite, PUBG Mobile, Pokémon GO. Ngoài Threads, Disney+ là ứng dụng không phải game duy nhất có mặt trong nhóm này.\n\nỞ cùng mốc 40 ngày, ChatGPT có 3,7 triệu lượt tải tại Mỹ, Grok có 500.000 và Claude có 200.000. Tính trên toàn cầu, ChatGPT vẫn nhỉnh hơn với khoảng 15 triệu lượt tải trong 40 ngày đầu, nhưng TechCrunch cho rằng so sánh này không hoàn toàn công bằng vì Muse hiện mới có mặt ở Mỹ và Canada.\n\nMuse cũng giữ chân người dùng tốt hơn. Tại Mỹ, tỷ lệ người dùng quay lại sau 7 ngày là 30% và sau 14 ngày là 23%. Con số trung bình của ChatGPT, Claude và Grok ở hai mốc này lần lượt là 19% và 16%. Ngày 16/10, số người dùng hoạt động hằng ngày của Muse lần đầu chạm 2,5 triệu, tăng 15% so với tuần trước.\n\nMột phần thành công đến từ khả năng quảng bá chéo của Meta trên hệ sinh thái có 3,6 tỷ người dùng hoạt động mỗi ngày. Meta cũng chi mạnh cho quảng cáo. Theo Sensor Tower, Muse chiếm 39% tổng ngân sách quảng cáo của Meta tại Mỹ trong tháng 10, tăng từ 23% của tháng 9. Muse hiện đứng thứ 21 trong các thương hiệu tại Mỹ xét theo lượt hiển thị quảng cáo, tăng từ hạng 73 hồi tháng 9.\n\nTheo TechCrunch, Muse giữ hạng 1 trên App Store Mỹ ở mọi ngày kể từ khi ra mắt, trừ ngày 19/10 khi ứng dụng livestream Kick tạm vượt lên, và đã lấy lại vị trí này vào thứ Ba. Muse cũng đứng đầu Google Play trong 30 ngày qua.\n\nCột mốc mới đến cùng lúc Muse vấp phải lo ngại về quyền riêng tư. Các nhà nghiên cứu bảo mật phát hiện những cuộc trò chuyện được chia sẻ có thể làm lộ thông tin cá nhân và thông tin doanh nghiệp nhạy cảm. Meta đã tạm ngưng tính năng chia sẻ để điều tra.",
+      "source": "TechCrunch + 9to5Mac",
+      "hot": 3,
+      "reason": "App AI tiêu dùng của Meta tăng trưởng rất nhanh",
+      "images_note": "1 ảnh Meta Newsroom",
+      "urls": [
+        "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+        "https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days/"
+      ]
+    },
+    {
+      "title": "Nhẫn Oura có thêm Cardio Effort và VO2 Max tự động, bỏ bài đi bộ 6 phút",
+      "body": "Oura vừa bổ sung hai tính năng theo dõi sức khỏe tim mạch cho nhẫn thông minh của hãng là Cardio Effort và VO2 Max tự động. Cả hai giúp người dùng hiểu rõ các buổi tập ảnh hưởng thế nào đến sức khỏe lâu dài, và khi nào nên tập nặng hơn hoặc nên giảm lại. Tính năng có trên Oura Ring Gen 3 trở lên, nhưng chỉ dành cho người dùng có gói thành viên Oura.\n\nCardio Effort không đo quãng đường, tốc độ hay lượng calo. Thay vào đó, nó đo mức độ hệ tim mạch phải làm việc trong lúc tập và nỗ lực đó kéo dài bao lâu. Oura gọi đây là chỉ số tải sinh lý (physiological load). Chỉ số được tính khi người dùng bắt đầu buổi tập, tự thêm buổi tập, hoặc khi nhẫn tự phát hiện buổi tập.\n\nCardio Effort cộng dồn theo tuần, bắt đầu từ 0 vào đầu tuần rồi tích lũy các buổi tập mỗi ngày. Nhẫn cần tối đa hai tuần đeo để xác lập mức nền cá nhân. Sau đó, tổng nỗ lực trong tuần được so với mức nền và xếp vào một trong năm mức Light, Fair, Maintaining, Building và Reaching.\n\nLight nghĩa là mức tải tim mạch thấp hơn đáng kể so với thường lệ. Fair là có tải thêm một chút nhưng vẫn thấp hơn nhiều so với mức nền. Maintaining tương ứng việc giữ ổn định quanh mức nền, còn Building là vượt mức nền nhưng vẫn trong ngưỡng kiểm soát được. Ở mức Reaching, tải tim mạch cao hơn hẳn mức nền và có thể là lúc nên ưu tiên hồi phục. Oura cho biết ở mức Maintaining là hoàn toàn ổn, còn người dùng nhiều lần chạm mức Reaching sẽ nhận tín hiệu rõ ràng là nên giảm cường độ.\n\nNhẫn Oura vốn đã đo được VO2 Max (khả năng hấp thụ oxy tối đa) dưới tên Cardio Capacity, nhưng phải làm bài kiểm tra đi bộ 6 phút để hiệu chỉnh. Phiên bản VO2 Max tự động bỏ bước này. Tính năng tự kích hoạt sau khi người dùng hoàn thành 5 hoạt động có GPS như đi bộ, chạy hoặc leo núi. VO2 Max tự động hiện ở dạng beta trong Oura Labs, và Oura cũng bỏ tên Cardio Capacity để gọi thẳng là VO2 Max.\n\nKhi đã kích hoạt, kết quả VO2 Max nằm trong mục Heart Hub của phần My Health trên ứng dụng Oura. Người dùng xem được mức ước tính hiện tại, xếp hạng thấp, khá, cao hoặc đỉnh, sự thay đổi theo thời gian và các gợi ý cá nhân khi chỉ số thay đổi đáng kể hoặc giữ ổn định.",
+      "source": "The Verge + Android Authority",
+      "hot": 3,
+      "reason": "Wearable sức khỏe dạng nhẫn đang hút khách",
+      "images_note": "2 ảnh chính thức của Oura",
+      "urls": [
+        "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular",
+        "https://www.androidauthority.com/oura-smart-ring-cardio-effort-vo2-max-3725548/"
+      ]
+    }
+  ]
+}
