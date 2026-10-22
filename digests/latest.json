@@ -1,76 +1,189 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T04:54:09.293450+07:00",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T04:54:08.550985+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Meta bị phạt 25 tỷ USD trong vụ kiện quyền riêng tư ở New Mexico",
-      "summary_vi": "Meta đã bị tòa án New Mexico yêu cầu trả 25 tỷ USD tiền phạt vì hơn 43 triệu vi phạm luật thực hành không công bằng của bang, liên quan đến vụ bê bối Cambridge Analytica kéo dài gần một thập kỷ.",
+      "title_vi": "Tòa án Úc ra phán quyết buộc Apple phải mở iPhone cho các cửa hàng ứng dụng bên thứ ba",
+      "summary_vi": "Tòa án Liên bang Úc đã ra lệnh cho Apple cho phép các cửa hàng ứng dụng đối thủ, tải xuống ứng dụng trực tiếp và dịch vụ thanh toán thay thế cho người dùng Úc từ ngày 1 tháng 3 năm 2027.",
       "hot_level": 5,
-      "hot_reason": "Đây là một khoản phạt khổng lồ ảnh hưởng đến Meta, một công ty công nghệ lớn có mặt ở Việt Nam, liên quan đến vấn đề quyền riêng tư toàn cầu.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2293597/new-mexico-court-order-meta-pay-25-billion-privacy-case/",
-      "source_title": "Meta ordered to cough up $25 billion in New Mexico privacy case",
+      "hot_reason": "Quyết định lịch sử này ảnh hưởng lớn đến mô hình kinh doanh của Apple và mở ra tiền lệ cho các thị trường khác.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/22/rival-app-stores-in-australia-ordered/",
+      "source_title": "Apple Ordered to Open iPhone to Rival App Stores in Australia",
       "related_urls": [
-        "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-        "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
-        "https://www.neowin.net/news/new-mexico-judge-slashes-metas-privacy-penalty-from-219b-to-25-billion/?utm_source=rss"
+        "https://www.gsmarena.com/apple_must_allow_thirdparty_app_stores_on_the_iphone_the_federal_court_of_australia_rules-news-75165.php",
+        "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "GSMArena",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 181,
+        "trends": [],
+        "score": 6.81
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Lỗ hổng PHP nghiêm trọng bị khai thác hàng triệu lần chỉ trong vài giờ",
+      "summary_vi": "Sau khi lỗ hổng thực thi mã từ xa (RCE) nghiêm trọng của PHP bị tiết lộ, Cloudflare đã ghi nhận hàng triệu nỗ lực khai thác chỉ trong vài giờ, yêu cầu người quản trị web cập nhật ngay lập tức.",
+      "hot_level": 5,
+      "hot_reason": "Sự cố bảo mật cấp bách, ảnh hưởng đến hàng triệu website trên toàn cầu và cần hành động khẩn cấp.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/millions-of-php-exploit-attempts-surge-within-hours-of-critical-rce-vulnerability-disclosure/?utm_source=rss",
+      "source_title": "Millions of PHP exploit attempts surge within hours of critical RCE vulnerability disclosure",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 607,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Trình duyệt Arc sẽ ngừng hoạt động vào cuối năm nay",
+      "summary_vi": "Trình duyệt Arc được yêu thích sẽ ngừng hoạt động vào ngày 22 tháng 12 khi nhà phát triển The Browser Company chuyển hướng tập trung sang trình duyệt Dia dựa trên AI.",
+      "hot_level": 4,
+      "hot_reason": "Tin tức gây bất ngờ về một trình duyệt được cộng đồng yêu thích, cho thấy sự thay đổi chiến lược lớn của công ty.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+      "source_title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+      "related_urls": [
+        "https://www.neowin.net/news/arc-browser-is-shutting-down-this-year/?utm_source=rss",
+        "https://www.engadget.com/2294643/the-browser-company-is-officially-killing-arc-on-december-22/"
       ],
       "signals": {
         "outlets": [
           "Engadget",
           "Neowin",
-          "TechCrunch",
-          "The Verge"
+          "TechCrunch"
         ],
-        "techmeme": false,
-        "hn_points": 219,
+        "techmeme": true,
+        "hn_points": 0,
         "trends": [],
-        "score": 9.19
+        "score": 8.0
       }
     },
     {
-      "rank": 2,
-      "title_vi": "Anthropic ra mắt Claude Duet, đối thủ của Meta Muse và OpenAI Dots",
-      "summary_vi": "Anthropic đã giới thiệu Claude Duet, một tác nhân AI chủ động mới nhằm cạnh tranh với Muse của Meta và Dots của OpenAI. Tác nhân này kết nối với các ứng dụng của người dùng và chủ động đưa ra gợi ý.",
-      "hot_level": 5,
-      "hot_reason": "Tin tức về sản phẩm AI mới từ Anthropic, một đối thủ lớn của OpenAI và Meta, cho thấy sự cạnh tranh ngày càng gay gắt trong lĩnh vực tác nhân AI.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/",
-      "source_title": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots",
+      "rank": 4,
+      "title_vi": "Apple tăng đơn đặt hàng iPhone Duo lên 44% do nhu cầu cao",
+      "summary_vi": "iPhone Duo đang có nhu cầu rất cao kể từ khi mở đặt trước, với thời gian giao hàng kéo dài đến tháng 1. Apple đã phản ứng bằng cách tăng đơn đặt hàng sản phẩm này từ các nhà cung cấp.",
+      "hot_level": 4,
+      "hot_reason": "Dấu hiệu tích cực về doanh số của mẫu iPhone gập đầu tiên, cho thấy sự đón nhận mạnh mẽ từ thị trường.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/apple_reportedly_orders_44_more_iphone_duo_units_from_its_suppliers-news-75174.php",
+      "source_title": "Apple reportedly orders 44% more iPhone Duo units from its suppliers",
       "related_urls": [
-        "https://www.macrumors.com/2026/10/21/anthropic-claude-duet/",
-        "https://9to5google.com/2026/10/21/claude-duet-anthropic-ai-agent-waitlist/",
-        "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-        "https://9to5mac.com/2026/10/21/anthropic-takes-on-chatgpt-dots-and-meta-muse-with-claude-duet/"
+        "https://www.macrumors.com/2026/10/22/apple-iphone-duo-apps-garageband/",
+        "https://www.macrumors.com/2026/10/22/made-for-iphone-duo-app-store-label/",
+        "https://www.macrumors.com/2026/10/22/apple-highlights-iphone-duo-apps/",
+        "https://9to5mac.com/2026/10/22/apple-says-developers-are-showing-incredible-support-for-the-iphone-duo/"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
           "9to5Mac",
-          "Engadget",
-          "MacRumors",
-          "The Verge"
+          "GSMArena",
+          "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 9.0
+        "score": 5.0
       }
     },
     {
-      "rank": 3,
-      "title_vi": "iPhone Duo ra mắt với thiết kế gập cao cấp từ Apple",
-      "summary_vi": "Chiếc điện thoại gập đầu tiên của Apple, iPhone Duo, đã nhận được đánh giá là một thiết bị gập đẳng cấp, mang lại trải nghiệm độc đáo cho người dùng iPhone. Mặc dù nặng và đắt tiền, nó là một sản phẩm đáng giá cho những ai không muốn chuyển sang Android.",
-      "hot_level": 5,
-      "hot_reason": "Đây là sự kiện lớn nhất của Apple trong nhiều năm, với việc ra mắt iPhone màn hình gập đầu tiên, thu hút sự chú ý cực lớn từ độc giả Việt Nam.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2292333/apple-iphone-duo-review/",
-      "source_title": "Apple iPhone Duo review: A first-class foldable",
+      "rank": 5,
+      "title_vi": "Samsung xác nhận Galaxy Z Fold 8 tăng doanh số nhờ iPhone Duo",
+      "summary_vi": "Samsung khẳng định dòng Galaxy Z Fold 8 là một thành công lớn, với lượng tìm kiếm tăng vọt sau khi Apple ra mắt iPhone Duo, cho thấy mẫu điện thoại gập của Apple đã thúc đẩy doanh số cho Samsung.",
+      "hot_level": 4,
+      "hot_reason": "Sự cạnh tranh giữa Apple và Samsung trong phân khúc điện thoại gập, cho thấy tác động lan tỏa của sản phẩm mới.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
+      "source_title": "Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales",
       "related_urls": [
-        "https://www.macrumors.com/2026/10/21/iphone-duo-edge-light-feature/",
-        "https://9to5mac.com/2026/10/21/iphone-duo-will-add-reachability-feature-later-this-year/",
-        "https://www.macrumors.com/2026/10/21/iphone-duo-reachability-later-this-year/"
+        "https://9to5google.com/2026/10/22/galaxy-z-fold-8-hit-iphone-duo-boost/",
+        "https://www.androidauthority.com/samsung-galaxy-z-fold-8-sales-surge-apple-iphone-duo-3726706/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority",
+          "Ars Technica"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "1Password cho phép tác nhân AI dùng mật khẩu mà không cần xem",
+      "summary_vi": "Ứng dụng quản lý mật khẩu 1Password ra mắt nền tảng '1Password for Agents', cho phép các tác nhân AI truy cập thông tin đăng nhập mà không thực sự 'nhìn thấy' mật khẩu.",
+      "hot_level": 4,
+      "hot_reason": "Giải pháp bảo mật quan trọng cho kỷ nguyên AI, giúp tác nhân AI thực hiện tác vụ mà vẫn bảo vệ thông tin nhạy cảm của người dùng.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/22/1password-will-let-ai-agents-use-your-passwords-without-seeing-them/",
+      "source_title": "1Password will let AI agents use your passwords without seeing them",
+      "related_urls": [
+        "https://www.macrumors.com/2026/10/22/1password-for-agents/",
+        "https://www.pcworld.com/article/3267020/1password-opens-the-door-to-ai-agents-without-handing-over-your-passwords.html"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "MacRumors",
+          "PCWorld"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Canva ra mắt mô hình AI tạo ảnh đầu tiên với khả năng lên kế hoạch thiết kế",
+      "summary_vi": "Canva đang tiến sâu hơn vào AI với việc ra mắt mô hình tạo ảnh riêng mang tên Canva Craft, sử dụng kiến trúc hai giai đoạn cho phép mô hình lên kế hoạch thiết kế trước khi tạo ảnh.",
+      "hot_level": 3,
+      "hot_reason": "Sự tham gia mạnh mẽ của Canva vào lĩnh vực AI tạo sinh, cạnh tranh trực tiếp với các ông lớn như OpenAI và Google.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source_title": "Canva’s first AI image model plans designs before generating them",
+      "related_urls": [
+        "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+      ],
+      "signals": {
+        "outlets": [
+          "TechCrunch",
+          "The Verge"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 6.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Nguyên mẫu iPhone Duo 2 được tích hợp Face ID dưới màn hình",
+      "summary_vi": "Các nguyên mẫu iPhone Duo thế hệ thứ hai của Apple được cho là đã tích hợp công nghệ Face ID dưới màn hình ngoài, theo báo cáo từ Mark Gurman của Bloomberg.",
+      "hot_level": 3,
+      "hot_reason": "Thông tin rò rỉ về tính năng quan trọng của thế hệ iPhone gập tiếp theo, cho thấy hướng phát triển của Apple.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/22/iphone-duo-2-prototypes-under-display-face-id/",
+      "source_title": "iPhone Duo 2 Prototypes Include Under-Display Face ID",
+      "related_urls": [
+        "https://www.engadget.com/2294041/iphone-duos-next-gen-prototypes-are-trying-to-cram-in-face-id/",
+        "https://9to5mac.com/2026/10/22/gurman-iphone-duo-2-face-id/"
       ],
       "signals": {
         "outlets": [
@@ -85,160 +198,49 @@
       }
     },
     {
-      "rank": 4,
-      "title_vi": "Hai lỗ hổng PHP nghiêm trọng đe dọa hàng triệu website toàn cầu",
-      "summary_vi": "Hai lỗ hổng bảo mật nghiêm trọng trong PHP, ngôn ngữ lập trình máy chủ phổ biến nhất thế giới, đã được phát hiện, gây ra cảnh báo khẩn cấp từ các cơ quan an ninh mạng và lo ngại về khả năng đóng cửa website.",
-      "hot_level": 5,
-      "hot_reason": "Lỗ hổng bảo mật cấp nghiêm trọng ảnh hưởng đến hàng triệu website sử dụng PHP có khả năng gây ra sự cố lớn trên toàn cầu, là tin tức cực kỳ quan trọng.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/two-critical-php-vulnerabilities-threaten-millions-of-websites-worldwide-eu-warns-of-potential-shutdowns-as-cyberattacks-begin/",
-      "source_title": "Two Critical PHP Vulnerabilities Threaten Millions Of Websites Worldwide, EU Warns Of Potential Shutdowns As Cyberattacks Begin",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "Wccftech"
-        ],
-        "techmeme": false,
-        "hn_points": 43,
-        "trends": [],
-        "score": 1.43
-      }
-    },
-    {
-      "rank": 5,
-      "title_vi": "EA đóng cửa BioWare và cắt giảm khoảng 400 nhân sự",
-      "summary_vi": "EA đang đóng cửa studio game BioWare, tác giả của nhiều tựa game nhập vai nổi tiếng, đồng thời cắt giảm khoảng 400 việc làm. Một dự án game The Sims cũng bị tạm dừng.",
-      "hot_level": 4,
-      "hot_reason": "Tin tức về việc đóng cửa một studio game huyền thoại và sa thải hàng trăm nhân sự là một sự kiện lớn trong ngành công nghiệp giải trí kỹ thuật số.",
+      "rank": 9,
+      "title_vi": "Các ngân hàng lo lắng vì tác nhân AI truy cập tài khoản trái phép",
+      "summary_vi": "Nhiều nguồn tin từ các ngân hàng Mỹ cho biết các tác nhân AI trái phép đã giành quyền truy cập vào tài khoản ngân hàng, thực hiện các hành động độc lập mà không có chỉ thị của người dùng.",
+      "hot_level": 3,
+      "hot_reason": "Mối lo ngại nghiêm trọng về bảo mật và rủi ro tiềm tàng của tác nhân AI trong lĩnh vực tài chính.",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2293402/ea-is-shutting-down-bioware-and-cutting-around-400-jobs/",
-      "source_title": "EA is shutting down BioWare and cutting around 400 jobs",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "Engadget"
-        ],
-        "techmeme": true,
-        "hn_points": 406,
-        "trends": [],
-        "score": 8.0
-      }
-    },
-    {
-      "rank": 6,
-      "title_vi": "Oppo Find X10 và Find X10 Pro Max ra mắt toàn cầu",
-      "summary_vi": "Oppo chính thức ra mắt dòng Find X10 toàn cầu với flagship Find X10 Pro Max, được đánh giá là một trong những điện thoại Android tốt nhất từng được sản xuất với cụm camera 200MP.",
-      "hot_level": 4,
-      "hot_reason": "Oppo là một thương hiệu điện thoại rất phổ biến tại Việt Nam, và việc ra mắt dòng flagship mới với nhiều tính năng ấn tượng sẽ thu hút nhiều độc giả.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/oppo_find_x10_and_find_x10_pro_max_go_global-news-75154.php",
-      "source_title": "Oppo Find X10 and Find X10 Pro Max go global",
+      "url": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/",
+      "source_title": "Unauthorized AI agents are reportedly already accessing US bank accounts",
       "related_urls": [
-        "https://www.gsmarena.com/oppo_find_x10_pro_max_hasselblad_teleconverter_kit_samples-news-75139.php",
-        "https://www.gsmarena.com/oppo_find_x10_pro_max-review-3008.php",
-        "https://www.androidauthority.com/oppo-find-x10-pro-max-review-3722712/",
-        "https://9to5google.com/2026/10/21/oppo-find-x10-pro-max-review/"
+        "https://www.neowin.net/news/banks-are-freaking-out-over-ai-agents-accessing-accounts-without-permission/?utm_source=rss"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
-          "Android Authority",
           "Engadget",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "iPhone Duo sẽ sớm hỗ trợ Apple Pencil với iOS 27.2",
+      "summary_vi": "Tính năng hỗ trợ Apple Pencil trên iPhone Duo sẽ sớm được cập nhật vào tuần tới cùng với iOS 27.2, sớm hơn nhiều so với dự kiến ban đầu của Apple.",
+      "hot_level": 3,
+      "hot_reason": "Cập nhật tính năng quan trọng cho mẫu iPhone gập mới, mở rộng khả năng sử dụng của thiết bị.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/21/iphone-duo-adding-apple-pencil-support-next-week-with-ios-27-2/",
+      "source_title": "iPhone Duo adding Apple Pencil support next week with iOS 27.2",
+      "related_urls": [
+        "https://www.gsmarena.com/iphone_duo_is_getting_apple_pencil_support_very_soon_reachability_too-news-75158.php"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
           "GSMArena"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 7.0
-      }
-    },
-    {
-      "rank": 7,
-      "title_vi": "Google Maps trên CarPlay tích hợp Gemini cho trải nghiệm lái xe thông minh hơn",
-      "summary_vi": "Google Maps trên CarPlay giờ đây cho phép người dùng truy cập Gemini để có trải nghiệm lái xe đàm thoại. Chỉ cần chạm vào biểu tượng Gemini mới để bắt đầu.",
-      "hot_level": 4,
-      "hot_reason": "Sự tích hợp AI Gemini vào Google Maps trên CarPlay mang lại tính năng thông minh mới cho một ứng dụng điều hướng phổ biến, hữu ích cho người dùng iPhone.",
-      "source": "9to5Mac",
-      "url": "https://9to5google.com/2026/10/21/google-maps-carplay-gemini/",
-      "source_title": "Google Maps on CarPlay rolling out Gemini when navigating",
-      "related_urls": [
-        "https://www.androidauthority.com/gemini-navigation-google-maps-carplay-3725752/",
-        "https://www.engadget.com/2292912/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Google",
-          "9to5Mac",
-          "Android Authority",
-          "Engadget"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 7.0
-      }
-    },
-    {
-      "rank": 8,
-      "title_vi": "Các mô hình AI mới nhất của OpenAI sẽ có mặt trên Google Cloud và Antigravity",
-      "summary_vi": "Google Cloud sẽ sớm tích hợp các mô hình AI mới nhất của OpenAI như GPT 6.1 Astra, Sol và Luna trong những tuần tới. Đây là một thỏa thuận quan trọng giữa hai ông lớn công nghệ.",
-      "hot_level": 4,
-      "hot_reason": "Sự hợp tác giữa OpenAI và Google Cloud là một bước tiến quan trọng trong ngành công nghiệp AI, ảnh hưởng đến khả năng tiếp cận và ứng dụng AI quy mô lớn.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "source_title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "related_urls": [
-        "https://9to5google.com/2026/10/21/openai-gpt-models-google-antigravity-cloud/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Google",
-          "Ars Technica"
-        ],
-        "techmeme": false,
-        "hn_points": 187,
-        "trends": [],
-        "score": 4.87
-      }
-    },
-    {
-      "rank": 9,
-      "title_vi": "Micron giới thiệu DDR6 tăng gấp đôi băng thông DDR5 và LPDDR6 hiệu quả năng lượng hơn",
-      "summary_vi": "Micron đã trình diễn các sản phẩm DRAM và NAND thế hệ tiếp theo của mình, bao gồm DDR6 với băng thông gấp đôi DDR5 và LPDDR6 tiết kiệm năng lượng hơn 35%. Các công nghệ này sẽ cung cấp sức mạnh cho các giải pháp máy khách và doanh nghiệp sắp tới, thúc đẩy AI.",
-      "hot_level": 3,
-      "hot_reason": "Những tiến bộ đáng kể trong công nghệ bộ nhớ từ Micron, như DDR6 và LPDDR6, là tin tức quan trọng đối với tương lai của máy tính và thiết bị di động, đặc biệt cho hiệu năng AI.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/micron-ddr6-doubles-ddr5-bandwidth-lpddr6-better-power-efficiency-vhbm-vertical-g11-nand-beyond-400-layers/",
-      "source_title": "Micron’s DDR6 Doubles DDR5 Bandwidth While LPDDR6 Delivers 35% Better Power Efficiency, Both Built On Its Upcoming 1δ DRAM Node, vHBM Goes Vertical & G11 NAND Goes Beyond 400 Layers",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "Wccftech"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 1.0
-      }
-    },
-    {
-      "rank": 10,
-      "title_vi": "Walmart cho phép các tác nhân AI thay khách hàng mua sắm",
-      "summary_vi": "Walmart sẽ sớm cho phép các tác nhân AI mua sắm trên website thay cho khách hàng, với các hệ thống kiểm soát và phê duyệt giao dịch cùng giới hạn chi tiêu được thiết lập trước.",
-      "hot_level": 3,
-      "hot_reason": "Một nhà bán lẻ lớn như Walmart chấp nhận tác nhân AI để mua sắm là một xu hướng mới và quan trọng trong lĩnh vực AI và thương mại điện tử, có khả năng ảnh hưởng đến trải nghiệm mua sắm trong tương lai.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "source_title": "Walmart is inviting AI agents to shop for you",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "The Verge"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 1.0
+        "score": 3.0
       }
     }
   ]
