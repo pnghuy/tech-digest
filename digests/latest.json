@@ -1,246 +1,236 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T04:54:08.550985+07:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T04:55:16.325080+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Tòa án Úc ra phán quyết buộc Apple phải mở iPhone cho các cửa hàng ứng dụng bên thứ ba",
-      "summary_vi": "Tòa án Liên bang Úc đã ra lệnh cho Apple cho phép các cửa hàng ứng dụng đối thủ, tải xuống ứng dụng trực tiếp và dịch vụ thanh toán thay thế cho người dùng Úc từ ngày 1 tháng 3 năm 2027.",
+      "title_vi": "Apple vượt Nvidia thành công ty giá trị nhất thế giới trong ngày ra mắt iPhone Duo",
+      "summary_vi": "Trong ngày ra mắt iPhone Duo, Apple đã giành lại danh hiệu công ty giá trị nhất thế giới, đạt đỉnh giao dịch mới trên thị trường chứng khoán.",
       "hot_level": 5,
-      "hot_reason": "Quyết định lịch sử này ảnh hưởng lớn đến mô hình kinh doanh của Apple và mở ra tiền lệ cho các thị trường khác.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/22/rival-app-stores-in-australia-ordered/",
-      "source_title": "Apple Ordered to Open iPhone to Rival App Stores in Australia",
+      "hot_reason": "Đây là tin tức cực lớn khi Apple vượt mặt Nvidia trở thành công ty giá trị nhất thế giới, diễn ra cùng ngày ra mắt sản phẩm chủ lực iPhone Duo.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/23/apple-overtakes-nvidia-as-most-valuable-company-in-the-world-on-iphone-duo-launch-day/",
+      "source_title": "Apple overtakes Nvidia as most valuable company in the world on iPhone Duo launch day",
       "related_urls": [
-        "https://www.gsmarena.com/apple_must_allow_thirdparty_app_stores_on_the_iphone_the_federal_court_of_australia_rules-news-75165.php",
-        "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling/"
+        "https://www.macrumors.com/2026/10/23/iphone-duo-apple-pencil/",
+        "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-resuming/",
+        "https://www.macrumors.com/2026/10/23/apple-southgate-reopens/",
+        "https://9to5mac.com/2026/10/23/iphone-duo-launch-day-lines-form-at-apple-stores-walk-in-availability-limited/"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
-          "GSMArena",
-          "MacRumors"
+          "MacRumors",
+          "Neowin"
         ],
         "techmeme": false,
-        "hn_points": 181,
+        "hn_points": 0,
         "trends": [],
-        "score": 6.81
+        "score": 5.0
       }
     },
     {
       "rank": 2,
-      "title_vi": "Lỗ hổng PHP nghiêm trọng bị khai thác hàng triệu lần chỉ trong vài giờ",
-      "summary_vi": "Sau khi lỗ hổng thực thi mã từ xa (RCE) nghiêm trọng của PHP bị tiết lộ, Cloudflare đã ghi nhận hàng triệu nỗ lực khai thác chỉ trong vài giờ, yêu cầu người quản trị web cập nhật ngay lập tức.",
+      "title_vi": "Màn hình iPhone Duo bị nứt ngay trong ngày đầu mở bán",
+      "summary_vi": "Một số người mua iPhone Duo gặp phải tình trạng màn hình bị nứt chỉ sau vài lần mở máy trong ngày đầu tiên sản phẩm lên kệ.",
       "hot_level": 5,
-      "hot_reason": "Sự cố bảo mật cấp bách, ảnh hưởng đến hàng triệu website trên toàn cầu và cần hành động khẩn cấp.",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/millions-of-php-exploit-attempts-surge-within-hours-of-critical-rce-vulnerability-disclosure/?utm_source=rss",
-      "source_title": "Millions of PHP exploit attempts surge within hours of critical RCE vulnerability disclosure",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "Neowin"
-        ],
-        "techmeme": false,
-        "hn_points": 607,
-        "trends": [],
-        "score": 4.0
-      }
-    },
-    {
-      "rank": 3,
-      "title_vi": "Trình duyệt Arc sẽ ngừng hoạt động vào cuối năm nay",
-      "summary_vi": "Trình duyệt Arc được yêu thích sẽ ngừng hoạt động vào ngày 22 tháng 12 khi nhà phát triển The Browser Company chuyển hướng tập trung sang trình duyệt Dia dựa trên AI.",
-      "hot_level": 4,
-      "hot_reason": "Tin tức gây bất ngờ về một trình duyệt được cộng đồng yêu thích, cho thấy sự thay đổi chiến lược lớn của công ty.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
-      "source_title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+      "hot_reason": "Vấn đề lỗi phần cứng nghiêm trọng ngay ngày đầu ra mắt sản phẩm flagship mới của Apple luôn là tin cực nóng, thu hút sự chú ý lớn.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/iphone-duo-cracked-screens-first-day-3727498/",
+      "source_title": "Some iPhone Duo screens aren’t making it through day one",
       "related_urls": [
-        "https://www.neowin.net/news/arc-browser-is-shutting-down-this-year/?utm_source=rss",
-        "https://www.engadget.com/2294643/the-browser-company-is-officially-killing-arc-on-december-22/"
+        "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/"
       ],
       "signals": {
         "outlets": [
-          "Engadget",
-          "Neowin",
-          "TechCrunch"
-        ],
-        "techmeme": true,
-        "hn_points": 0,
-        "trends": [],
-        "score": 8.0
-      }
-    },
-    {
-      "rank": 4,
-      "title_vi": "Apple tăng đơn đặt hàng iPhone Duo lên 44% do nhu cầu cao",
-      "summary_vi": "iPhone Duo đang có nhu cầu rất cao kể từ khi mở đặt trước, với thời gian giao hàng kéo dài đến tháng 1. Apple đã phản ứng bằng cách tăng đơn đặt hàng sản phẩm này từ các nhà cung cấp.",
-      "hot_level": 4,
-      "hot_reason": "Dấu hiệu tích cực về doanh số của mẫu iPhone gập đầu tiên, cho thấy sự đón nhận mạnh mẽ từ thị trường.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/apple_reportedly_orders_44_more_iphone_duo_units_from_its_suppliers-news-75174.php",
-      "source_title": "Apple reportedly orders 44% more iPhone Duo units from its suppliers",
-      "related_urls": [
-        "https://www.macrumors.com/2026/10/22/apple-iphone-duo-apps-garageband/",
-        "https://www.macrumors.com/2026/10/22/made-for-iphone-duo-app-store-label/",
-        "https://www.macrumors.com/2026/10/22/apple-highlights-iphone-duo-apps/",
-        "https://9to5mac.com/2026/10/22/apple-says-developers-are-showing-incredible-support-for-the-iphone-duo/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "GSMArena",
+          "Android Authority",
           "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 5.0
+        "score": 3.0
       }
     },
     {
-      "rank": 5,
-      "title_vi": "Samsung xác nhận Galaxy Z Fold 8 tăng doanh số nhờ iPhone Duo",
-      "summary_vi": "Samsung khẳng định dòng Galaxy Z Fold 8 là một thành công lớn, với lượng tìm kiếm tăng vọt sau khi Apple ra mắt iPhone Duo, cho thấy mẫu điện thoại gập của Apple đã thúc đẩy doanh số cho Samsung.",
-      "hot_level": 4,
-      "hot_reason": "Sự cạnh tranh giữa Apple và Samsung trong phân khúc điện thoại gập, cho thấy tác động lan tỏa của sản phẩm mới.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
-      "source_title": "Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales",
+      "rank": 3,
+      "title_vi": "GPU Nvidia Blackwell Ultra B300 bị cấm xuất khẩu vẫn xuất hiện tại China Telecom",
+      "summary_vi": "Một công ty an ninh đã phát hiện 32 nhân GPU Nvidia Blackwell Ultra B300 bị cấm xuất khẩu đang hoạt động trong mạng lưới của China Telecom, cho thấy các biện pháp kiểm soát của Mỹ chưa ngăn chặn được phần cứng AI cao cấp.",
+      "hot_level": 5,
+      "hot_reason": "Tin tức nóng hổi liên quan đến việc vi phạm lệnh cấm xuất khẩu chip AI cao cấp của Nvidia sang Trung Quốc, có ảnh hưởng lớn đến chính sách và ngành công nghiệp bán dẫn toàn cầu.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-b300-blackwell-gpus-discovered-china-telecom/",
+      "source_title": "Security Firm Discovers 32 NVIDIA B300 GPUs Operating Inside China Telecom, Showing U.S. Export Controls Aren’t Curbing Top-Tier AI Hardware From Getting Out",
       "related_urls": [
-        "https://9to5google.com/2026/10/22/galaxy-z-fold-8-hit-iphone-duo-boost/",
-        "https://www.androidauthority.com/samsung-galaxy-z-fold-8-sales-surge-apple-iphone-duo-3726706/"
+        "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Google cập nhật chính sách riêng tư: Có thể dùng dữ liệu Gmail và Photos để chạy quảng cáo",
+      "summary_vi": "Google đã cập nhật chính sách quyền riêng tư, cho phép sử dụng dữ liệu từ Gmail và Google Photos của người dùng để nhắm mục tiêu quảng cáo, nếu tính năng Personal Intelligence được bật.",
+      "hot_level": 4,
+      "hot_reason": "Thay đổi chính sách riêng tư của một ông lớn như Google, đặc biệt liên quan đến việc sử dụng dữ liệu cá nhân cho quảng cáo, luôn là chủ đề nhạy cảm và được quan tâm rộng rãi.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-personal-intelligence-privacy-3727111/",
+      "source_title": "Google makes a privacy policy exception to use your Gmail and Photos data for ads",
+      "related_urls": [
+        "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
+      ],
+      "signals": {
+        "outlets": [
           "Android Authority",
           "Ars Technica"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 112,
         "trends": [],
-        "score": 5.0
+        "score": 4.12
       }
     },
     {
-      "rank": 6,
-      "title_vi": "1Password cho phép tác nhân AI dùng mật khẩu mà không cần xem",
-      "summary_vi": "Ứng dụng quản lý mật khẩu 1Password ra mắt nền tảng '1Password for Agents', cho phép các tác nhân AI truy cập thông tin đăng nhập mà không thực sự 'nhìn thấy' mật khẩu.",
+      "rank": 5,
+      "title_vi": "Nhiều người dùng Galaxy S24/S25 than phiền về tình trạng hao pin sau cập nhật One UI 9",
+      "summary_vi": "Một số chủ sở hữu Galaxy S24 và S25 báo cáo tình trạng pin bị hao hụt đáng kể sau khi cập nhật lên One UI 9, có người ghi nhận giảm 95% pin chỉ sau hơn 3 giờ sử dụng.",
       "hot_level": 4,
-      "hot_reason": "Giải pháp bảo mật quan trọng cho kỷ nguyên AI, giúp tác nhân AI thực hiện tác vụ mà vẫn bảo vệ thông tin nhạy cảm của người dùng.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/22/1password-will-let-ai-agents-use-your-passwords-without-seeing-them/",
-      "source_title": "1Password will let AI agents use your passwords without seeing them",
+      "hot_reason": "Sự cố phần mềm ảnh hưởng nghiêm trọng đến thời lượng pin trên các dòng điện thoại flagship của Samsung, một thương hiệu rất phổ biến tại Việt Nam, gây bức xúc cho người dùng.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s24-s25-one-ui-9-battery-drain-3727166/",
+      "source_title": "It’s not just you: Galaxy S24 and S25 owners report excess battery drain after One UI 9",
       "related_urls": [
-        "https://www.macrumors.com/2026/10/22/1password-for-agents/",
-        "https://www.pcworld.com/article/3267020/1password-opens-the-door-to-ai-agents-without-handing-over-your-passwords.html"
+        "https://9to5google.com/2026/10/22/samsung-galaxy-s24-battery-life-one-ui-9/"
       ],
       "signals": {
         "outlets": [
           "9to5Google",
-          "MacRumors",
-          "PCWorld"
+          "Android Authority"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 5.0
+        "score": 3.0
       }
     },
     {
-      "rank": 7,
-      "title_vi": "Canva ra mắt mô hình AI tạo ảnh đầu tiên với khả năng lên kế hoạch thiết kế",
-      "summary_vi": "Canva đang tiến sâu hơn vào AI với việc ra mắt mô hình tạo ảnh riêng mang tên Canva Craft, sử dụng kiến trúc hai giai đoạn cho phép mô hình lên kế hoạch thiết kế trước khi tạo ảnh.",
-      "hot_level": 3,
-      "hot_reason": "Sự tham gia mạnh mẽ của Canva vào lĩnh vực AI tạo sinh, cạnh tranh trực tiếp với các ông lớn như OpenAI và Google.",
+      "rank": 6,
+      "title_vi": "OpenAI chuyển sang huấn luyện mô hình AI tiên tiến mà không cần internet",
+      "summary_vi": "Sau nhiều sự cố tấn công, OpenAI hiện đang huấn luyện các mô hình AI tiên tiến nhất của mình trong môi trường thử nghiệm ngoại tuyến và không có truy cập internet.",
+      "hot_level": 4,
+      "hot_reason": "Quyết định lớn từ OpenAI về cách huấn luyện mô hình AI, liên quan đến vấn đề an toàn và bảo mật trong bối cảnh AI phát triển nhanh chóng, được Techmeme đưa tin.",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "source_title": "Canva’s first AI image model plans designs before generating them",
-      "related_urls": [
-        "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
-      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source_title": "OpenAI now trains its frontier AI models with no internet access",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "TechCrunch",
           "The Verge"
         ],
         "techmeme": true,
         "hn_points": 0,
         "trends": [],
-        "score": 6.0
+        "score": 4.0
       }
     },
     {
-      "rank": 8,
-      "title_vi": "Nguyên mẫu iPhone Duo 2 được tích hợp Face ID dưới màn hình",
-      "summary_vi": "Các nguyên mẫu iPhone Duo thế hệ thứ hai của Apple được cho là đã tích hợp công nghệ Face ID dưới màn hình ngoài, theo báo cáo từ Mark Gurman của Bloomberg.",
-      "hot_level": 3,
-      "hot_reason": "Thông tin rò rỉ về tính năng quan trọng của thế hệ iPhone gập tiếp theo, cho thấy hướng phát triển của Apple.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/22/iphone-duo-2-prototypes-under-display-face-id/",
-      "source_title": "iPhone Duo 2 Prototypes Include Under-Display Face ID",
-      "related_urls": [
-        "https://www.engadget.com/2294041/iphone-duos-next-gen-prototypes-are-trying-to-cram-in-face-id/",
-        "https://9to5mac.com/2026/10/22/gurman-iphone-duo-2-face-id/"
-      ],
+      "rank": 7,
+      "title_vi": "Kimi K3.1 Pro trở thành mô hình AI mạnh nhất Trung Quốc",
+      "summary_vi": "Kimi K3.1 Pro của Moonshot đã trở thành mô hình AI mạnh nhất từ Trung Quốc, bất chấp dữ liệu mạng bị loại bỏ khỏi quá trình huấn luyện do các hạn chế.",
+      "hot_level": 4,
+      "hot_reason": "Sự trỗi dậy của một mô hình AI mạnh mẽ từ Trung Quốc, đặc biệt khi đạt điểm cao trên Hacker News, cho thấy sự cạnh tranh ngày càng gay gắt trong lĩnh vực AI toàn cầu.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/kimi-k3-1-pro-is-now-the-strongest-model-out-of-china-cyber-data-stripped-from-its-training-but-that-barely-holds-its-potential-back/",
+      "source_title": "Kimi K3.1 Pro Is Now The Strongest Model Out Of China: Cyber Data Stripped From Its Training But That Barely Holds Its Potential Back",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "9to5Mac",
-          "Engadget",
-          "MacRumors"
+          "Wccftech"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 566,
         "trends": [],
         "score": 5.0
       }
     },
     {
-      "rank": 9,
-      "title_vi": "Các ngân hàng lo lắng vì tác nhân AI truy cập tài khoản trái phép",
-      "summary_vi": "Nhiều nguồn tin từ các ngân hàng Mỹ cho biết các tác nhân AI trái phép đã giành quyền truy cập vào tài khoản ngân hàng, thực hiện các hành động độc lập mà không có chỉ thị của người dùng.",
-      "hot_level": 3,
-      "hot_reason": "Mối lo ngại nghiêm trọng về bảo mật và rủi ro tiềm tàng của tác nhân AI trong lĩnh vực tài chính.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/",
-      "source_title": "Unauthorized AI agents are reportedly already accessing US bank accounts",
-      "related_urls": [
-        "https://www.neowin.net/news/banks-are-freaking-out-over-ai-agents-accessing-accounts-without-permission/?utm_source=rss"
-      ],
+      "rank": 8,
+      "title_vi": "Nhân AMD Zen 6 hé lộ hiệu năng cao hơn Zen 5 tới 24% mỗi xung nhịp",
+      "summary_vi": "Kiến trúc nhân AMD Zen 6 đã thể hiện hiệu năng mỗi xung nhịp cao hơn tới 24% so với Zen 5 trong các thử nghiệm ban đầu, hứa hẹn một bước nhảy vọt lớn cho các CPU Ryzen thế hệ tiếp theo.",
+      "hot_level": 4,
+      "hot_reason": "Thông tin rò rỉ về hiệu năng của kiến trúc CPU thế hệ mới từ AMD luôn cực kỳ hấp dẫn với cộng đồng công nghệ và những người yêu thích phần cứng.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/amd-zen-6-higher-per-clock-performance-than-zen-5-promising-big-leap-for-ryzen-upgraders/",
+      "source_title": "AMD Zen 6 Shows Up To 24% Higher Per-Clock Performance Than Zen 5, Promising A Big Leap For Ryzen Upgraders",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "Engadget",
-          "Neowin"
+          "Wccftech"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Oura tiếp tục kiện Ultrahuman, đe dọa làm gián đoạn thị trường nhẫn thông minh",
+      "summary_vi": "Oura tiếp tục đệ đơn kiện đối thủ Ultrahuman tại tòa án liên bang Texas vì vi phạm bằng sáng chế, đe dọa ngăn chặn mẫu nhẫn thông minh Ring Pro mới nhất của hãng này khỏi thị trường Mỹ.",
+      "hot_level": 4,
+      "hot_reason": "Vụ kiện tụng giữa hai tên tuổi lớn trong thị trường nhẫn thông minh, Oura và Ultrahuman, có thể ảnh hưởng đến sự cạnh tranh và sản phẩm trên thị trường.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/oura-ultrahuman-ring-pro-lawsuit-3727334/",
+      "source_title": "New Oura lawsuit threatens to once again disrupt smart ring market",
+      "related_urls": [
+        "https://www.gsmarena.com/oura_sues_ultrahuman_in_the_us_once_again_threating_the_new_ring_pro-news-75188.php",
+        "https://www.engadget.com/2295042/oura-sues-ultrahuman-yet-again-ring-pro/",
+        "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
+          "Engadget",
+          "GSMArena",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 7.0
       }
     },
     {
       "rank": 10,
-      "title_vi": "iPhone Duo sẽ sớm hỗ trợ Apple Pencil với iOS 27.2",
-      "summary_vi": "Tính năng hỗ trợ Apple Pencil trên iPhone Duo sẽ sớm được cập nhật vào tuần tới cùng với iOS 27.2, sớm hơn nhiều so với dự kiến ban đầu của Apple.",
-      "hot_level": 3,
-      "hot_reason": "Cập nhật tính năng quan trọng cho mẫu iPhone gập mới, mở rộng khả năng sử dụng của thiết bị.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/21/iphone-duo-adding-apple-pencil-support-next-week-with-ios-27-2/",
-      "source_title": "iPhone Duo adding Apple Pencil support next week with iOS 27.2",
+      "title_vi": "Samsung sắp ra mắt điện thoại gập mới W27 vào tuần tới, hình ảnh rò rỉ đã xuất hiện",
+      "summary_vi": "Samsung chuẩn bị ra mắt một điện thoại gập mới, Galaxy W27, vào tuần tới, và hình ảnh rò rỉ của thiết bị này đã xuất hiện. Sản phẩm này nhiều khả năng sẽ là một mẫu cao cấp độc quyền tại Trung Quốc.",
+      "hot_level": 4,
+      "hot_reason": "Sản phẩm điện thoại gập mới của Samsung, một thương hiệu lớn tại Việt Nam, luôn thu hút sự quan tâm, đặc biệt khi hình ảnh rò rỉ đã xuất hiện trước ngày ra mắt.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/23/samsung-galaxy-w27-foldable-leak/",
+      "source_title": "Samsung is releasing a new foldable next week, and it just leaked",
       "related_urls": [
-        "https://www.gsmarena.com/iphone_duo_is_getting_apple_pencil_support_very_soon_reachability_too-news-75158.php"
+        "https://www.androidauthority.com/samsung-next-foldable-phone-october-29-3727071/",
+        "https://www.gsmarena.com/this_is_samsungs_next_foldable_and_its_launching_in_just_a_few_days-news-75178.php"
       ],
       "signals": {
         "outlets": [
-          "9to5Mac",
+          "9to5Google",
+          "Android Authority",
           "GSMArena"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 5.0
       }
     }
   ]
