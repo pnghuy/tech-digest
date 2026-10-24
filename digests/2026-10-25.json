@@ -1,0 +1,225 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T04:53:56.336742+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Apple sắp tổ chức sự kiện 'Pro and tell' công bố MacBook Pro màn hình cảm ứng",
+      "summary_vi": "Ngay sau khi mở bán iPhone Duo, Apple tiếp tục gửi thư mời sự kiện mới diễn ra vào tuần tới. Trọng tâm của đợt ra mắt này được kỳ vọng là dòng MacBook Pro trang bị màn hình cảm ứng OLED.",
+      "hot_level": 5,
+      "hot_reason": "Sự kiện phần cứng lớn của Apple luôn thu hút lượng quan tâm khổng lồ từ cộng đồng công nghệ Việt Nam và toàn cầu.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+      "source_title": "What to expect from Apple’s ‘Pro and tell’ event",
+      "related_urls": [
+        "https://www.macrumors.com/2026/10/24/top-stories-apple-pro-and-tell-teaser/",
+        "https://9to5mac.com/2026/10/23/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [
+          "apple tv (US, ~2,000 lượt tìm)"
+        ],
+        "score": 8.3
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "iPhone Duo trượt bài kiểm tra độ bền do bụi lọt vào bản lề",
+      "summary_vi": "Trong bài kiểm tra độ bền của kênh JerryRigEverything, iPhone Duo đã thất bại khi bụi lọt vào bản lề qua nhiều kẽ hở. Lượng bụi này làm ảnh hưởng nghiêm trọng đến cụm nam châm giữ gập máy dù thiết bị đạt chuẩn kháng bụi IP68.",
+      "hot_level": 4,
+      "hot_reason": "Độ bền thực tế của chiếc iPhone gập đầu tiên là chủ đề tranh luận rất nóng sau ngày mở bán.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
+      "source_title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Capcom xác nhận bị rò rỉ dữ liệu ảnh hưởng 11,7 triệu tài khoản",
+      "summary_vi": "Hãng game Capcom xác nhận một vụ vi phạm dữ liệu quy mô lớn tác động đến 11,7 triệu người dùng Capcom ID. Dù hệ thống vẫn hoạt động, hãng cảnh báo người dùng cần đề phòng các email lừa đảo dạng phishing.",
+      "hot_level": 4,
+      "hot_reason": "Sự cố bảo mật quy mô chục triệu tài khoản từ thương hiệu lớn tác động trực tiếp đến an toàn dữ liệu người dùng.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+      "source_title": "Capcom confirms data breach that affected 11.7 million users",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Engadget"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Lộ diện thiết kế vòng đeo tay Galaxy Fit4 và tai nghe Galaxy Buds On của Samsung",
+      "summary_vi": "Hình ảnh render rò rỉ của mẫu vòng đeo thông minh giá rẻ Galaxy Fit4 vừa xuất hiện trên mạng internet. Cùng thời điểm, tai nghe Galaxy Buds On cũng lộ diện qua video 360 độ trước thềm ra mắt toàn cầu.",
+      "hot_level": 4,
+      "hot_reason": "Phụ kiện đeo thông minh mới của Samsung thuộc phân khúc phổ thông rất được người dùng Việt Nam chú ý.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/heres_your_first_look_at_samsungs_upcoming_galaxy_fit4-news-75183.php",
+      "source_title": "Here's your first look at Samsung's upcoming Galaxy Fit4",
+      "related_urls": [
+        "https://www.androidauthority.com/galaxy-buds-on-release-details-and-animation-3727460/"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 2.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Video 'mổ bụng' iPhone Duo hé lộ thiết kế 2 viên pin rời",
+      "summary_vi": "Các video bung máy đầu tiên cho thấy bên trong iPhone Duo gồm hai viên pin riêng biệt có thể tháo rời bằng cơ chế kéo điện. Cấu trúc bên trong phản ánh nỗ lực tối ưu không gian gập mở phức tạp của Apple.",
+      "hot_level": 4,
+      "hot_reason": "Khám phá linh kiện bên trong của smartphone gập đắt đỏ từ Apple mang lại lượng tương tác kỹ thuật cao.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos/",
+      "source_title": "iPhone Duo Teardowns Reveal Two Batteries and More",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Công cụ mới giúp nhân đôi hiệu năng AI trên GPU Nvidia RTX 30 và RTX 40",
+      "summary_vi": "Công cụ mã nguồn mở Zagitta GPU Unlock cho phép mở khóa năng lực tính toán chưa khai thác trên các dòng card Nvidia Ampere và Ada Lovelace. Giải pháp này giúp tăng gấp đôi khả năng xử lý mô hình ngôn ngữ lớn LLM trên nền tảng Linux.",
+      "hot_level": 4,
+      "hot_reason": "Tăng mạnh hiệu năng tính toán AI trên phần cứng quen thuộc là chủ đề được giới công nghệ và lập trình viên săn đón.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-rtx-30-40-gpus-get-faster-in-ai-llms-with-new-unlock-tool-but-prices-surge-too/",
+      "source_title": "NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "OnePlus hé lộ toàn bộ tùy chọn màu sắc của Ace 7 và Ace 7 Pro",
+      "summary_vi": "Trước thềm sự kiện ra mắt ngày 29 tháng 10 tại Trung Quốc, OnePlus đã công bố hình ảnh chính thức của Ace 7 và Ace 7 Pro. Mỗi phiên bản sẽ sở hữu ba tông màu khác nhau với thiết kế cụm camera tinh chỉnh.",
+      "hot_level": 3,
+      "hot_reason": "Dòng smartphone cấu hình cao giá tốt của OnePlus luôn nhận được sự theo dõi sát sao từ cộng đồng người dùng Android.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/oneplus_shows_the_ace_7_and_ace_7_pro_in_all_colors-news-75200.php",
+      "source_title": "OnePlus shows the Ace 7 and Ace 7 Pro in all colors",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Nvidia ra mắt DLSS 5 hỗ trợ tạo khung hình 6X trên Portal RTX và RTX Remix 1.6",
+      "summary_vi": "Nvidia chính thức cập nhật công nghệ khử răng cưa DLSS 5 sử dụng kết xuất thần kinh 3D cho các bản demo Portal with RTX và Half-Life 2 RTX. Bản nâng cấp nền tảng RTX Remix 1.6 cũng hỗ trợ Multi Frame Generation lên tới 6X.",
+      "hot_level": 3,
+      "hot_reason": "Bước tiến công nghệ đồ họa AI thế hệ tiếp theo của Nvidia dành cho cộng đồng PC modding và game thủ.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-now-available-in-portal-with-rtx-and-half-life-2-rtx-demo-alongside-6x-multi-frame-generation/",
+      "source_title": "NVIDIA DLSS 5 Neural Rendering Now Available In Portal With RTX And Half-Life 2 RTX Demo, Alongside 6X Multi Frame Generation",
+      "related_urls": [
+        "https://wccftech.com/nvidia-rtx-remix-1-6-launches-with-dlss-5-6x-multi-frame-generation-minecraft-java-edition-support-and-more/"
+      ],
+      "signals": {
+        "outlets": [
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Block trình làng mô hình AI giọng nói tự nhiên chạy trực tiếp trên chip M4 Max",
+      "summary_vi": "Tập đoàn Block giới thiệu mô hình tạo giọng nói mới với âm điệu tự nhiên và chân thực tương tự con người. Đáng chú ý, mô hình AI này có khả năng vận hành cục bộ hoàn toàn trên máy tính Mac trang bị chip M4 Max.",
+      "hot_level": 3,
+      "hot_reason": "Mô hình âm thanh AI chạy local trên chip Apple Silicon thể hiện tiềm năng tối ưu phần cứng cao cấp.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source_title": "Block’s new voice model sounds eerily human",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "TechCrunch"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Apple kỷ niệm 25 năm iPod bằng máy nghe nhạc ảo trên Apple Music",
+      "summary_vi": "Nhân dịp tròn 25 năm ngày ra mắt thế hệ iPod đầu tiên, Apple đã tích hợp một mini-game tương tác trên trang web Apple Music. Người dùng có thể trải nghiệm lại giao diện vòng xoay Click Wheel huyền thoại ngay trên trình duyệt.",
+      "hot_level": 3,
+      "hot_reason": "Yếu tố hoài niệm gắn liền với biểu tượng công nghệ iPod được nhiều trang tin và người hâm mộ Apple chia sẻ.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/apple_celebrates_ipods_25th_anniversary_with_fun_easter_egg-news-75196.php",
+      "source_title": "Apple celebrates iPod's 25th anniversary with fun easter egg",
+      "related_urls": [
+        "https://www.neowin.net/news/apple-music-has-a-really-cool-easter-egg-for-ipod-fans/?utm_source=rss",
+        "https://9to5mac.com/2026/10/23/apples-website-has-fun-new-easter-egg-a-fully-interactive-ipod/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "GSMArena",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [
+          "apple tv (US, ~2,000 lượt tìm)"
+        ],
+        "score": 8.3
+      }
+    }
+  ]
+}

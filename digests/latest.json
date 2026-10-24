@@ -1,175 +1,126 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T04:55:16.325080+07:00",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T04:53:56.336742+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Apple vượt Nvidia thành công ty giá trị nhất thế giới trong ngày ra mắt iPhone Duo",
-      "summary_vi": "Trong ngày ra mắt iPhone Duo, Apple đã giành lại danh hiệu công ty giá trị nhất thế giới, đạt đỉnh giao dịch mới trên thị trường chứng khoán.",
+      "title_vi": "Apple sắp tổ chức sự kiện 'Pro and tell' công bố MacBook Pro màn hình cảm ứng",
+      "summary_vi": "Ngay sau khi mở bán iPhone Duo, Apple tiếp tục gửi thư mời sự kiện mới diễn ra vào tuần tới. Trọng tâm của đợt ra mắt này được kỳ vọng là dòng MacBook Pro trang bị màn hình cảm ứng OLED.",
       "hot_level": 5,
-      "hot_reason": "Đây là tin tức cực lớn khi Apple vượt mặt Nvidia trở thành công ty giá trị nhất thế giới, diễn ra cùng ngày ra mắt sản phẩm chủ lực iPhone Duo.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/23/apple-overtakes-nvidia-as-most-valuable-company-in-the-world-on-iphone-duo-launch-day/",
-      "source_title": "Apple overtakes Nvidia as most valuable company in the world on iPhone Duo launch day",
+      "hot_reason": "Sự kiện phần cứng lớn của Apple luôn thu hút lượng quan tâm khổng lồ từ cộng đồng công nghệ Việt Nam và toàn cầu.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+      "source_title": "What to expect from Apple’s ‘Pro and tell’ event",
       "related_urls": [
-        "https://www.macrumors.com/2026/10/23/iphone-duo-apple-pencil/",
-        "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-resuming/",
-        "https://www.macrumors.com/2026/10/23/apple-southgate-reopens/",
-        "https://9to5mac.com/2026/10/23/iphone-duo-launch-day-lines-form-at-apple-stores-walk-in-availability-limited/"
+        "https://www.macrumors.com/2026/10/24/top-stories-apple-pro-and-tell-teaser/",
+        "https://9to5mac.com/2026/10/23/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
           "MacRumors",
-          "Neowin"
+          "The Verge"
         ],
         "techmeme": false,
         "hn_points": 0,
-        "trends": [],
-        "score": 5.0
+        "trends": [
+          "apple tv (US, ~2,000 lượt tìm)"
+        ],
+        "score": 8.3
       }
     },
     {
       "rank": 2,
-      "title_vi": "Màn hình iPhone Duo bị nứt ngay trong ngày đầu mở bán",
-      "summary_vi": "Một số người mua iPhone Duo gặp phải tình trạng màn hình bị nứt chỉ sau vài lần mở máy trong ngày đầu tiên sản phẩm lên kệ.",
-      "hot_level": 5,
-      "hot_reason": "Vấn đề lỗi phần cứng nghiêm trọng ngay ngày đầu ra mắt sản phẩm flagship mới của Apple luôn là tin cực nóng, thu hút sự chú ý lớn.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/iphone-duo-cracked-screens-first-day-3727498/",
-      "source_title": "Some iPhone Duo screens aren’t making it through day one",
-      "related_urls": [
-        "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak/"
-      ],
+      "title_vi": "iPhone Duo trượt bài kiểm tra độ bền do bụi lọt vào bản lề",
+      "summary_vi": "Trong bài kiểm tra độ bền của kênh JerryRigEverything, iPhone Duo đã thất bại khi bụi lọt vào bản lề qua nhiều kẽ hở. Lượng bụi này làm ảnh hưởng nghiêm trọng đến cụm nam châm giữ gập máy dù thiết bị đạt chuẩn kháng bụi IP68.",
+      "hot_level": 4,
+      "hot_reason": "Độ bền thực tế của chiếc iPhone gập đầu tiên là chủ đề tranh luận rất nóng sau ngày mở bán.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
+      "source_title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "Android Authority",
           "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 1.0
       }
     },
     {
       "rank": 3,
-      "title_vi": "GPU Nvidia Blackwell Ultra B300 bị cấm xuất khẩu vẫn xuất hiện tại China Telecom",
-      "summary_vi": "Một công ty an ninh đã phát hiện 32 nhân GPU Nvidia Blackwell Ultra B300 bị cấm xuất khẩu đang hoạt động trong mạng lưới của China Telecom, cho thấy các biện pháp kiểm soát của Mỹ chưa ngăn chặn được phần cứng AI cao cấp.",
-      "hot_level": 5,
-      "hot_reason": "Tin tức nóng hổi liên quan đến việc vi phạm lệnh cấm xuất khẩu chip AI cao cấp của Nvidia sang Trung Quốc, có ảnh hưởng lớn đến chính sách và ngành công nghiệp bán dẫn toàn cầu.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/nvidia-b300-blackwell-gpus-discovered-china-telecom/",
-      "source_title": "Security Firm Discovers 32 NVIDIA B300 GPUs Operating Inside China Telecom, Showing U.S. Export Controls Aren’t Curbing Top-Tier AI Hardware From Getting Out",
-      "related_urls": [
-        "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor"
-      ],
+      "title_vi": "Capcom xác nhận bị rò rỉ dữ liệu ảnh hưởng 11,7 triệu tài khoản",
+      "summary_vi": "Hãng game Capcom xác nhận một vụ vi phạm dữ liệu quy mô lớn tác động đến 11,7 triệu người dùng Capcom ID. Dù hệ thống vẫn hoạt động, hãng cảnh báo người dùng cần đề phòng các email lừa đảo dạng phishing.",
+      "hot_level": 4,
+      "hot_reason": "Sự cố bảo mật quy mô chục triệu tài khoản từ thương hiệu lớn tác động trực tiếp đến an toàn dữ liệu người dùng.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+      "source_title": "Capcom confirms data breach that affected 11.7 million users",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "Tom's Hardware",
-          "Wccftech"
+          "Engadget"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 1.0
       }
     },
     {
       "rank": 4,
-      "title_vi": "Google cập nhật chính sách riêng tư: Có thể dùng dữ liệu Gmail và Photos để chạy quảng cáo",
-      "summary_vi": "Google đã cập nhật chính sách quyền riêng tư, cho phép sử dụng dữ liệu từ Gmail và Google Photos của người dùng để nhắm mục tiêu quảng cáo, nếu tính năng Personal Intelligence được bật.",
+      "title_vi": "Lộ diện thiết kế vòng đeo tay Galaxy Fit4 và tai nghe Galaxy Buds On của Samsung",
+      "summary_vi": "Hình ảnh render rò rỉ của mẫu vòng đeo thông minh giá rẻ Galaxy Fit4 vừa xuất hiện trên mạng internet. Cùng thời điểm, tai nghe Galaxy Buds On cũng lộ diện qua video 360 độ trước thềm ra mắt toàn cầu.",
       "hot_level": 4,
-      "hot_reason": "Thay đổi chính sách riêng tư của một ông lớn như Google, đặc biệt liên quan đến việc sử dụng dữ liệu cá nhân cho quảng cáo, luôn là chủ đề nhạy cảm và được quan tâm rộng rãi.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-personal-intelligence-privacy-3727111/",
-      "source_title": "Google makes a privacy policy exception to use your Gmail and Photos data for ads",
+      "hot_reason": "Phụ kiện đeo thông minh mới của Samsung thuộc phân khúc phổ thông rất được người dùng Việt Nam chú ý.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/heres_your_first_look_at_samsungs_upcoming_galaxy_fit4-news-75183.php",
+      "source_title": "Here's your first look at Samsung's upcoming Galaxy Fit4",
       "related_urls": [
-        "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
+        "https://www.androidauthority.com/galaxy-buds-on-release-details-and-animation-3727460/"
       ],
       "signals": {
         "outlets": [
           "Android Authority",
-          "Ars Technica"
+          "GSMArena"
         ],
         "techmeme": false,
-        "hn_points": 112,
+        "hn_points": 0,
         "trends": [],
-        "score": 4.12
+        "score": 2.0
       }
     },
     {
       "rank": 5,
-      "title_vi": "Nhiều người dùng Galaxy S24/S25 than phiền về tình trạng hao pin sau cập nhật One UI 9",
-      "summary_vi": "Một số chủ sở hữu Galaxy S24 và S25 báo cáo tình trạng pin bị hao hụt đáng kể sau khi cập nhật lên One UI 9, có người ghi nhận giảm 95% pin chỉ sau hơn 3 giờ sử dụng.",
+      "title_vi": "Video 'mổ bụng' iPhone Duo hé lộ thiết kế 2 viên pin rời",
+      "summary_vi": "Các video bung máy đầu tiên cho thấy bên trong iPhone Duo gồm hai viên pin riêng biệt có thể tháo rời bằng cơ chế kéo điện. Cấu trúc bên trong phản ánh nỗ lực tối ưu không gian gập mở phức tạp của Apple.",
       "hot_level": 4,
-      "hot_reason": "Sự cố phần mềm ảnh hưởng nghiêm trọng đến thời lượng pin trên các dòng điện thoại flagship của Samsung, một thương hiệu rất phổ biến tại Việt Nam, gây bức xúc cho người dùng.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s24-s25-one-ui-9-battery-drain-3727166/",
-      "source_title": "It’s not just you: Galaxy S24 and S25 owners report excess battery drain after One UI 9",
-      "related_urls": [
-        "https://9to5google.com/2026/10/22/samsung-galaxy-s24-battery-life-one-ui-9/"
-      ],
+      "hot_reason": "Khám phá linh kiện bên trong của smartphone gập đắt đỏ từ Apple mang lại lượng tương tác kỹ thuật cao.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos/",
+      "source_title": "iPhone Duo Teardowns Reveal Two Batteries and More",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "9to5Google",
-          "Android Authority"
+          "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 1.0
       }
     },
     {
       "rank": 6,
-      "title_vi": "OpenAI chuyển sang huấn luyện mô hình AI tiên tiến mà không cần internet",
-      "summary_vi": "Sau nhiều sự cố tấn công, OpenAI hiện đang huấn luyện các mô hình AI tiên tiến nhất của mình trong môi trường thử nghiệm ngoại tuyến và không có truy cập internet.",
+      "title_vi": "Công cụ mới giúp nhân đôi hiệu năng AI trên GPU Nvidia RTX 30 và RTX 40",
+      "summary_vi": "Công cụ mã nguồn mở Zagitta GPU Unlock cho phép mở khóa năng lực tính toán chưa khai thác trên các dòng card Nvidia Ampere và Ada Lovelace. Giải pháp này giúp tăng gấp đôi khả năng xử lý mô hình ngôn ngữ lớn LLM trên nền tảng Linux.",
       "hot_level": 4,
-      "hot_reason": "Quyết định lớn từ OpenAI về cách huấn luyện mô hình AI, liên quan đến vấn đề an toàn và bảo mật trong bối cảnh AI phát triển nhanh chóng, được Techmeme đưa tin.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "source_title": "OpenAI now trains its frontier AI models with no internet access",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "The Verge"
-        ],
-        "techmeme": true,
-        "hn_points": 0,
-        "trends": [],
-        "score": 4.0
-      }
-    },
-    {
-      "rank": 7,
-      "title_vi": "Kimi K3.1 Pro trở thành mô hình AI mạnh nhất Trung Quốc",
-      "summary_vi": "Kimi K3.1 Pro của Moonshot đã trở thành mô hình AI mạnh nhất từ Trung Quốc, bất chấp dữ liệu mạng bị loại bỏ khỏi quá trình huấn luyện do các hạn chế.",
-      "hot_level": 4,
-      "hot_reason": "Sự trỗi dậy của một mô hình AI mạnh mẽ từ Trung Quốc, đặc biệt khi đạt điểm cao trên Hacker News, cho thấy sự cạnh tranh ngày càng gay gắt trong lĩnh vực AI toàn cầu.",
+      "hot_reason": "Tăng mạnh hiệu năng tính toán AI trên phần cứng quen thuộc là chủ đề được giới công nghệ và lập trình viên săn đón.",
       "source": "Wccftech",
-      "url": "https://wccftech.com/kimi-k3-1-pro-is-now-the-strongest-model-out-of-china-cyber-data-stripped-from-its-training-but-that-barely-holds-its-potential-back/",
-      "source_title": "Kimi K3.1 Pro Is Now The Strongest Model Out Of China: Cyber Data Stripped From Its Training But That Barely Holds Its Potential Back",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "Wccftech"
-        ],
-        "techmeme": false,
-        "hn_points": 566,
-        "trends": [],
-        "score": 5.0
-      }
-    },
-    {
-      "rank": 8,
-      "title_vi": "Nhân AMD Zen 6 hé lộ hiệu năng cao hơn Zen 5 tới 24% mỗi xung nhịp",
-      "summary_vi": "Kiến trúc nhân AMD Zen 6 đã thể hiện hiệu năng mỗi xung nhịp cao hơn tới 24% so với Zen 5 trong các thử nghiệm ban đầu, hứa hẹn một bước nhảy vọt lớn cho các CPU Ryzen thế hệ tiếp theo.",
-      "hot_level": 4,
-      "hot_reason": "Thông tin rò rỉ về hiệu năng của kiến trúc CPU thế hệ mới từ AMD luôn cực kỳ hấp dẫn với cộng đồng công nghệ và những người yêu thích phần cứng.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/amd-zen-6-higher-per-clock-performance-than-zen-5-promising-big-leap-for-ryzen-upgraders/",
-      "source_title": "AMD Zen 6 Shows Up To 24% Higher Per-Clock Performance Than Zen 5, Promising A Big Leap For Ryzen Upgraders",
+      "url": "https://wccftech.com/nvidia-rtx-30-40-gpus-get-faster-in-ai-llms-with-new-unlock-tool-but-prices-surge-too/",
+      "source_title": "NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too",
       "related_urls": [],
       "signals": {
         "outlets": [
@@ -182,55 +133,92 @@
       }
     },
     {
-      "rank": 9,
-      "title_vi": "Oura tiếp tục kiện Ultrahuman, đe dọa làm gián đoạn thị trường nhẫn thông minh",
-      "summary_vi": "Oura tiếp tục đệ đơn kiện đối thủ Ultrahuman tại tòa án liên bang Texas vì vi phạm bằng sáng chế, đe dọa ngăn chặn mẫu nhẫn thông minh Ring Pro mới nhất của hãng này khỏi thị trường Mỹ.",
-      "hot_level": 4,
-      "hot_reason": "Vụ kiện tụng giữa hai tên tuổi lớn trong thị trường nhẫn thông minh, Oura và Ultrahuman, có thể ảnh hưởng đến sự cạnh tranh và sản phẩm trên thị trường.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/oura-ultrahuman-ring-pro-lawsuit-3727334/",
-      "source_title": "New Oura lawsuit threatens to once again disrupt smart ring market",
-      "related_urls": [
-        "https://www.gsmarena.com/oura_sues_ultrahuman_in_the_us_once_again_threating_the_new_ring_pro-news-75188.php",
-        "https://www.engadget.com/2295042/oura-sues-ultrahuman-yet-again-ring-pro/",
-        "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/"
-      ],
+      "rank": 7,
+      "title_vi": "OnePlus hé lộ toàn bộ tùy chọn màu sắc của Ace 7 và Ace 7 Pro",
+      "summary_vi": "Trước thềm sự kiện ra mắt ngày 29 tháng 10 tại Trung Quốc, OnePlus đã công bố hình ảnh chính thức của Ace 7 và Ace 7 Pro. Mỗi phiên bản sẽ sở hữu ba tông màu khác nhau với thiết kế cụm camera tinh chỉnh.",
+      "hot_level": 3,
+      "hot_reason": "Dòng smartphone cấu hình cao giá tốt của OnePlus luôn nhận được sự theo dõi sát sao từ cộng đồng người dùng Android.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/oneplus_shows_the_ace_7_and_ace_7_pro_in_all_colors-news-75200.php",
+      "source_title": "OnePlus shows the Ace 7 and Ace 7 Pro in all colors",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "Android Authority",
-          "Engadget",
-          "GSMArena",
-          "TechCrunch"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 7.0
-      }
-    },
-    {
-      "rank": 10,
-      "title_vi": "Samsung sắp ra mắt điện thoại gập mới W27 vào tuần tới, hình ảnh rò rỉ đã xuất hiện",
-      "summary_vi": "Samsung chuẩn bị ra mắt một điện thoại gập mới, Galaxy W27, vào tuần tới, và hình ảnh rò rỉ của thiết bị này đã xuất hiện. Sản phẩm này nhiều khả năng sẽ là một mẫu cao cấp độc quyền tại Trung Quốc.",
-      "hot_level": 4,
-      "hot_reason": "Sản phẩm điện thoại gập mới của Samsung, một thương hiệu lớn tại Việt Nam, luôn thu hút sự quan tâm, đặc biệt khi hình ảnh rò rỉ đã xuất hiện trước ngày ra mắt.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/23/samsung-galaxy-w27-foldable-leak/",
-      "source_title": "Samsung is releasing a new foldable next week, and it just leaked",
-      "related_urls": [
-        "https://www.androidauthority.com/samsung-next-foldable-phone-october-29-3727071/",
-        "https://www.gsmarena.com/this_is_samsungs_next_foldable_and_its_launching_in_just_a_few_days-news-75178.php"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Google",
-          "Android Authority",
           "GSMArena"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 5.0
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Nvidia ra mắt DLSS 5 hỗ trợ tạo khung hình 6X trên Portal RTX và RTX Remix 1.6",
+      "summary_vi": "Nvidia chính thức cập nhật công nghệ khử răng cưa DLSS 5 sử dụng kết xuất thần kinh 3D cho các bản demo Portal with RTX và Half-Life 2 RTX. Bản nâng cấp nền tảng RTX Remix 1.6 cũng hỗ trợ Multi Frame Generation lên tới 6X.",
+      "hot_level": 3,
+      "hot_reason": "Bước tiến công nghệ đồ họa AI thế hệ tiếp theo của Nvidia dành cho cộng đồng PC modding và game thủ.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-now-available-in-portal-with-rtx-and-half-life-2-rtx-demo-alongside-6x-multi-frame-generation/",
+      "source_title": "NVIDIA DLSS 5 Neural Rendering Now Available In Portal With RTX And Half-Life 2 RTX Demo, Alongside 6X Multi Frame Generation",
+      "related_urls": [
+        "https://wccftech.com/nvidia-rtx-remix-1-6-launches-with-dlss-5-6x-multi-frame-generation-minecraft-java-edition-support-and-more/"
+      ],
+      "signals": {
+        "outlets": [
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Block trình làng mô hình AI giọng nói tự nhiên chạy trực tiếp trên chip M4 Max",
+      "summary_vi": "Tập đoàn Block giới thiệu mô hình tạo giọng nói mới với âm điệu tự nhiên và chân thực tương tự con người. Đáng chú ý, mô hình AI này có khả năng vận hành cục bộ hoàn toàn trên máy tính Mac trang bị chip M4 Max.",
+      "hot_level": 3,
+      "hot_reason": "Mô hình âm thanh AI chạy local trên chip Apple Silicon thể hiện tiềm năng tối ưu phần cứng cao cấp.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source_title": "Block’s new voice model sounds eerily human",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "TechCrunch"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Apple kỷ niệm 25 năm iPod bằng máy nghe nhạc ảo trên Apple Music",
+      "summary_vi": "Nhân dịp tròn 25 năm ngày ra mắt thế hệ iPod đầu tiên, Apple đã tích hợp một mini-game tương tác trên trang web Apple Music. Người dùng có thể trải nghiệm lại giao diện vòng xoay Click Wheel huyền thoại ngay trên trình duyệt.",
+      "hot_level": 3,
+      "hot_reason": "Yếu tố hoài niệm gắn liền với biểu tượng công nghệ iPod được nhiều trang tin và người hâm mộ Apple chia sẻ.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/apple_celebrates_ipods_25th_anniversary_with_fun_easter_egg-news-75196.php",
+      "source_title": "Apple celebrates iPod's 25th anniversary with fun easter egg",
+      "related_urls": [
+        "https://www.neowin.net/news/apple-music-has-a-really-cool-easter-egg-for-ipod-fans/?utm_source=rss",
+        "https://9to5mac.com/2026/10/23/apples-website-has-fun-new-easter-egg-a-fully-interactive-ipod/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "GSMArena",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [
+          "apple tv (US, ~2,000 lượt tìm)"
+        ],
+        "score": 8.3
       }
     }
   ]
