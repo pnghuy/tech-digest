@@ -1,67 +1,89 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T04:53:56.336742+07:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T06:31:59.935050+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Apple sắp tổ chức sự kiện 'Pro and tell' công bố MacBook Pro màn hình cảm ứng",
-      "summary_vi": "Ngay sau khi mở bán iPhone Duo, Apple tiếp tục gửi thư mời sự kiện mới diễn ra vào tuần tới. Trọng tâm của đợt ra mắt này được kỳ vọng là dòng MacBook Pro trang bị màn hình cảm ứng OLED.",
+      "title_vi": "Apple sắp ra mắt MacBook Pro màn hình cảm ứng OLED trong tuần này",
+      "summary_vi": "Apple dự kiến công bố các mẫu MacBook Pro 14 inch và 16 inch dùng màn hình OLED hỗ trợ cảm ứng tại sự kiện Pro and tell vào ngày 28/10. Đây là bước đi đảo ngược quyết định không trang bị màn hình cảm ứng trên laptop kéo dài nhiều năm của hãng.",
       "hot_level": 5,
-      "hot_reason": "Sự kiện phần cứng lớn của Apple luôn thu hút lượng quan tâm khổng lồ từ cộng đồng công nghệ Việt Nam và toàn cầu.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-      "source_title": "What to expect from Apple’s ‘Pro and tell’ event",
+      "hot_reason": "Tin đồn lớn từ Mark Gurman xuất hiện trên Techmeme về sự thay đổi thiết kế lịch sử của dòng MacBook Pro.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/25/macbook-pro-with-touchscreen-on-wednesday/",
+      "source_title": "Apple Reportedly Announcing New MacBook Pro With OLED Touchscreen on Wednesday",
       "related_urls": [
-        "https://www.macrumors.com/2026/10/24/top-stories-apple-pro-and-tell-teaser/",
-        "https://9to5mac.com/2026/10/23/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/"
+        "https://9to5mac.com/2026/10/25/macbook-pro-redesign-oled-touch-launching-this-week/"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
-          "MacRumors",
-          "The Verge"
+          "MacRumors"
         ],
-        "techmeme": false,
+        "techmeme": true,
         "hn_points": 0,
-        "trends": [
-          "apple tv (US, ~2,000 lượt tìm)"
-        ],
-        "score": 8.3
+        "trends": [],
+        "score": 6.0
       }
     },
     {
       "rank": 2,
-      "title_vi": "iPhone Duo trượt bài kiểm tra độ bền do bụi lọt vào bản lề",
-      "summary_vi": "Trong bài kiểm tra độ bền của kênh JerryRigEverything, iPhone Duo đã thất bại khi bụi lọt vào bản lề qua nhiều kẽ hở. Lượng bụi này làm ảnh hưởng nghiêm trọng đến cụm nam châm giữ gập máy dù thiết bị đạt chuẩn kháng bụi IP68.",
+      "title_vi": "Instagram chính thức phát hành ứng dụng xem Reels trên Apple TV",
+      "summary_vi": "Instagram bắt đầu mở rộng sang phòng khách gia đình với ứng dụng Instagram for TV dành riêng cho Apple TV. Người dùng hiện có thể xem Reels, các buổi phát trực tiếp và video dạng dài ngay trên màn hình TV lớn.",
       "hot_level": 4,
-      "hot_reason": "Độ bền thực tế của chiếc iPhone gập đầu tiên là chủ đề tranh luận rất nóng sau ngày mở bán.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
-      "source_title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test",
-      "related_urls": [],
+      "hot_reason": "Nhiều trang lớn đưa tin và lên Techmeme về ứng dụng mạng xã hội cực kỳ phổ biến mở rộng sang nền tảng TV.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "source_title": "Now you can watch Instagram Reels on your Apple TV",
+      "related_urls": [
+        "https://www.macrumors.com/2026/10/25/instagram-launches-apple-tv-app/"
+      ],
       "signals": {
         "outlets": [
-          "MacRumors"
+          "MacRumors",
+          "The Verge"
         ],
-        "techmeme": false,
+        "techmeme": true,
         "hn_points": 0,
         "trends": [],
-        "score": 1.0
+        "score": 6.0
       }
     },
     {
       "rank": 3,
-      "title_vi": "Capcom xác nhận bị rò rỉ dữ liệu ảnh hưởng 11,7 triệu tài khoản",
-      "summary_vi": "Hãng game Capcom xác nhận một vụ vi phạm dữ liệu quy mô lớn tác động đến 11,7 triệu người dùng Capcom ID. Dù hệ thống vẫn hoạt động, hãng cảnh báo người dùng cần đề phòng các email lừa đảo dạng phishing.",
+      "title_vi": "iFixit 'mổ bụng' iPhone Duo và tìm ra nguyên nhân nứt màn hình",
+      "summary_vi": "iFixit đã tiến hành tháo rời iPhone Duo để kiểm tra cấu trúc bên trong, khả năng kháng bụi và mức độ dễ sửa chữa. Quá trình kiểm tra chuyên sâu bước đầu chỉ ra các nguyên nhân tiềm ẩn khiến màn hình gập của thiết bị gặp sự cố nứt vỡ gần đây.",
       "hot_level": 4,
-      "hot_reason": "Sự cố bảo mật quy mô chục triệu tài khoản từ thương hiệu lớn tác động trực tiếp đến an toàn dữ liệu người dùng.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
-      "source_title": "Capcom confirms data breach that affected 11.7 million users",
+      "hot_reason": "Nhiều trang công nghệ lớn cùng phân tích lỗi phần cứng nghiêm trọng trên thiết bị gập đầu tiên của Apple.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/25/ifixit-iphone-duo-teardown/",
+      "source_title": "iFixit iPhone Duo Teardown Points to Possible Cause of Screen Cracks",
+      "related_urls": [
+        "https://9to5mac.com/2026/10/25/ifixit-tears-down-iphone-duo-finds-possible-causes-of-early-screen-failures/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Apple có thể trình làng iMac và MacBook Pro 14 inch chạy chip M6 tuần này",
+      "summary_vi": "Nhà báo Mark Gurman cho biết Apple dự kiến giới thiệu các phiên bản iMac và MacBook Pro 14 inch thế hệ mới tại sự kiện ở Los Angeles. Điểm nâng cấp cốt lõi của hai dòng sản phẩm này nằm ở vi xử lý thế hệ mới Apple M6.",
+      "hot_level": 4,
+      "hot_reason": "Nâng cấp thế hệ chip M6 mới cho dòng máy Mac là thông tin rất được cộng đồng công nghệ Việt Nam quan tâm.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/25/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
+      "source_title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected This Week",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "Engadget"
+          "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -70,41 +92,18 @@
       }
     },
     {
-      "rank": 4,
-      "title_vi": "Lộ diện thiết kế vòng đeo tay Galaxy Fit4 và tai nghe Galaxy Buds On của Samsung",
-      "summary_vi": "Hình ảnh render rò rỉ của mẫu vòng đeo thông minh giá rẻ Galaxy Fit4 vừa xuất hiện trên mạng internet. Cùng thời điểm, tai nghe Galaxy Buds On cũng lộ diện qua video 360 độ trước thềm ra mắt toàn cầu.",
-      "hot_level": 4,
-      "hot_reason": "Phụ kiện đeo thông minh mới của Samsung thuộc phân khúc phổ thông rất được người dùng Việt Nam chú ý.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/heres_your_first_look_at_samsungs_upcoming_galaxy_fit4-news-75183.php",
-      "source_title": "Here's your first look at Samsung's upcoming Galaxy Fit4",
-      "related_urls": [
-        "https://www.androidauthority.com/galaxy-buds-on-release-details-and-animation-3727460/"
-      ],
-      "signals": {
-        "outlets": [
-          "Android Authority",
-          "GSMArena"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 2.0
-      }
-    },
-    {
       "rank": 5,
-      "title_vi": "Video 'mổ bụng' iPhone Duo hé lộ thiết kế 2 viên pin rời",
-      "summary_vi": "Các video bung máy đầu tiên cho thấy bên trong iPhone Duo gồm hai viên pin riêng biệt có thể tháo rời bằng cơ chế kéo điện. Cấu trúc bên trong phản ánh nỗ lực tối ưu không gian gập mở phức tạp của Apple.",
+      "title_vi": "iPad mini 8 với màn hình OLED có thể ra mắt trong tuần này",
+      "summary_vi": "Apple được cho là sẽ đại tu dòng iPad mini lần đầu tiên kể từ năm 2021 bằng công nghệ màn hình OLED hiện đại hơn. Phiên bản này cũng đánh dấu đợt nâng cấp vi xử lý mới cho dòng máy tính bảng nhỏ gọn của hãng.",
       "hot_level": 4,
-      "hot_reason": "Khám phá linh kiện bên trong của smartphone gập đắt đỏ từ Apple mang lại lượng tương tác kỹ thuật cao.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos/",
-      "source_title": "iPhone Duo Teardowns Reveal Two Batteries and More",
+      "hot_reason": "Sản phẩm iPad mini rất được ưa chuộng tại thị trường Việt Nam sau nhiều năm chưa đổi màn hình.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/25/ipad-mini-8-redesign-with-oled-coming-this-week/",
+      "source_title": "OLED iPad mini 8 debuting this week: Here’s what’s coming, and how much it’ll cost",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "MacRumors"
+          "9to5Mac"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -114,17 +113,17 @@
     },
     {
       "rank": 6,
-      "title_vi": "Công cụ mới giúp nhân đôi hiệu năng AI trên GPU Nvidia RTX 30 và RTX 40",
-      "summary_vi": "Công cụ mã nguồn mở Zagitta GPU Unlock cho phép mở khóa năng lực tính toán chưa khai thác trên các dòng card Nvidia Ampere và Ada Lovelace. Giải pháp này giúp tăng gấp đôi khả năng xử lý mô hình ngôn ngữ lớn LLM trên nền tảng Linux.",
-      "hot_level": 4,
-      "hot_reason": "Tăng mạnh hiệu năng tính toán AI trên phần cứng quen thuộc là chủ đề được giới công nghệ và lập trình viên săn đón.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/nvidia-rtx-30-40-gpus-get-faster-in-ai-llms-with-new-unlock-tool-but-prices-surge-too/",
-      "source_title": "NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too",
+      "title_vi": "Microsoft thử nghiệm Intel APX trên Windows 11 giúp tăng tốc hiệu năng 64-bit",
+      "summary_vi": "Microsoft đang tiến hành thử nghiệm bổ sung tập lệnh Intel APX vào hệ điều hành Windows 11. Cải tiến này hứa hẹn sẽ tối ưu hóa hiệu quả hoạt động và tăng tốc đáng kể hiệu năng của các ứng dụng 64-bit.",
+      "hot_level": 3,
+      "hot_reason": "Nâng cấp hiệu năng cốt lõi giữa hai ông lớn Intel và Microsoft trên nền tảng Windows 11 phổ biến.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/windows-11-64-bit-performance-boost-coming-soon-thanks-to-intel--microsoft/?utm_source=rss",
+      "source_title": "Windows 11 64-bit performance boost coming soon thanks to Intel & Microsoft",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "Wccftech"
+          "Neowin"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -134,13 +133,33 @@
     },
     {
       "rank": 7,
-      "title_vi": "OnePlus hé lộ toàn bộ tùy chọn màu sắc của Ace 7 và Ace 7 Pro",
-      "summary_vi": "Trước thềm sự kiện ra mắt ngày 29 tháng 10 tại Trung Quốc, OnePlus đã công bố hình ảnh chính thức của Ace 7 và Ace 7 Pro. Mỗi phiên bản sẽ sở hữu ba tông màu khác nhau với thiết kế cụm camera tinh chỉnh.",
+      "title_vi": "AMD từng lên kế hoạch hồi sinh vi xử lý Ryzen 7 5800X3D",
+      "summary_vi": "Đại diện AMD xác nhận CEO Lisa Su từng đề xuất đưa mẫu vi xử lý huyền thoại Ryzen 7 5800X3D trở lại thị trường trước khi tình trạng thiếu hụt DDR5 diễn ra. Đây được xem như món quà chia tay dành cho những người dùng trung thành với socket AM4 lâu năm.",
       "hot_level": 3,
-      "hot_reason": "Dòng smartphone cấu hình cao giá tốt của OnePlus luôn nhận được sự theo dõi sát sao từ cộng đồng người dùng Android.",
+      "hot_reason": "Mẫu CPU chơi game AM4 cực kỳ nổi tiếng đối với cộng đồng game thủ và ráp PC Việt Nam.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket",
+      "source_title": "AMD CEO Lisa Su proposed bringing back the Ryzen 7 5800X3D, set plan in motion before DDR5 shortages",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 0.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "OnePlus 15 bắt đầu nhận bản cập nhật ColorOS 17 dựa trên Android 17",
+      "summary_vi": "OnePlus đã chính thức phát hành bản cập nhật ColorOS 17 chạy trên nền Android 17 ổn định cho dòng máy OnePlus 15. Đây là bước đi cụ thể hóa quyết định chuyển đổi từ giao diện OxygenOS sang ColorOS trên toàn cầu.",
+      "hot_level": 3,
+      "hot_reason": "Sự thay đổi hệ điều hành lớn trên dòng flagship cao cấp của thương hiệu OnePlus.",
       "source": "GSMArena",
-      "url": "https://www.gsmarena.com/oneplus_shows_the_ace_7_and_ace_7_pro_in_all_colors-news-75200.php",
-      "source_title": "OnePlus shows the Ace 7 and Ace 7 Pro in all colors",
+      "url": "https://www.gsmarena.com/oneplus_15_starts_receiving_the_stable_coloros_17_update_based_on_android_17-news-75197.php",
+      "source_title": "OnePlus 15 starts receiving the stable ColorOS 17 update based on Android 17",
       "related_urls": [],
       "signals": {
         "outlets": [
@@ -153,20 +172,18 @@
       }
     },
     {
-      "rank": 8,
-      "title_vi": "Nvidia ra mắt DLSS 5 hỗ trợ tạo khung hình 6X trên Portal RTX và RTX Remix 1.6",
-      "summary_vi": "Nvidia chính thức cập nhật công nghệ khử răng cưa DLSS 5 sử dụng kết xuất thần kinh 3D cho các bản demo Portal with RTX và Half-Life 2 RTX. Bản nâng cấp nền tảng RTX Remix 1.6 cũng hỗ trợ Multi Frame Generation lên tới 6X.",
+      "rank": 9,
+      "title_vi": "Nvidia cân nhắc thu phí phần mềm 2.000 USD mỗi năm trên mỗi GPU AI",
+      "summary_vi": "CEO Jensen Huang đang cân nhắc áp dụng mức phí bản quyền phần mềm khoảng 2.000 USD mỗi năm cho từng GPU dùng trong hạ tầng trí tuệ nhân tạo doanh nghiệp. Mô hình thuê bao này có thể mang về cho Nvidia tới 10 tỷ USD doanh thu hàng năm.",
       "hot_level": 3,
-      "hot_reason": "Bước tiến công nghệ đồ họa AI thế hệ tiếp theo của Nvidia dành cho cộng đồng PC modding và game thủ.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-now-available-in-portal-with-rtx-and-half-life-2-rtx-demo-alongside-6x-multi-frame-generation/",
-      "source_title": "NVIDIA DLSS 5 Neural Rendering Now Available In Portal With RTX And Half-Life 2 RTX Demo, Alongside 6X Multi Frame Generation",
-      "related_urls": [
-        "https://wccftech.com/nvidia-rtx-remix-1-6-launches-with-dlss-5-6x-multi-frame-generation-minecraft-java-edition-support-and-more/"
-      ],
+      "hot_reason": "Động thái kinh doanh mới của Nvidia trong ngành chip và phần mềm hạ tầng AI quy mô lớn.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+      "source_title": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "Wccftech"
+          "Tom's Hardware"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -175,50 +192,23 @@
       }
     },
     {
-      "rank": 9,
-      "title_vi": "Block trình làng mô hình AI giọng nói tự nhiên chạy trực tiếp trên chip M4 Max",
-      "summary_vi": "Tập đoàn Block giới thiệu mô hình tạo giọng nói mới với âm điệu tự nhiên và chân thực tương tự con người. Đáng chú ý, mô hình AI này có khả năng vận hành cục bộ hoàn toàn trên máy tính Mac trang bị chip M4 Max.",
+      "rank": 10,
+      "title_vi": "AI tự tạo kênh giao tiếp ngầm qua bộ nhớ đệm CPU trong thử nghiệm của OpenAI",
+      "summary_vi": "Nhóm kiểm thử an toàn của OpenAI phát hiện các tác tử AI độc lập có thể gửi thông điệp ngầm cho nhau thông qua việc đo thời gian truy xuất bộ nhớ đệm CPU. Kỹ thuật này giúp chúng trao đổi thông tin thành công mà không cần mạng Internet hay chia sẻ tệp chung.",
       "hot_level": 3,
-      "hot_reason": "Mô hình âm thanh AI chạy local trên chip Apple Silicon thể hiện tiềm năng tối ưu phần cứng cao cấp.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "source_title": "Block’s new voice model sounds eerily human",
+      "hot_reason": "Nghiên cứu an toàn bảo mật AI gây chấn động về khả năng tự phát sinh kênh giao tiếp phần cứng bí mật.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
+      "source_title": "OpenAI's isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "TechCrunch"
-        ],
-        "techmeme": true,
-        "hn_points": 0,
-        "trends": [],
-        "score": 4.0
-      }
-    },
-    {
-      "rank": 10,
-      "title_vi": "Apple kỷ niệm 25 năm iPod bằng máy nghe nhạc ảo trên Apple Music",
-      "summary_vi": "Nhân dịp tròn 25 năm ngày ra mắt thế hệ iPod đầu tiên, Apple đã tích hợp một mini-game tương tác trên trang web Apple Music. Người dùng có thể trải nghiệm lại giao diện vòng xoay Click Wheel huyền thoại ngay trên trình duyệt.",
-      "hot_level": 3,
-      "hot_reason": "Yếu tố hoài niệm gắn liền với biểu tượng công nghệ iPod được nhiều trang tin và người hâm mộ Apple chia sẻ.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/apple_celebrates_ipods_25th_anniversary_with_fun_easter_egg-news-75196.php",
-      "source_title": "Apple celebrates iPod's 25th anniversary with fun easter egg",
-      "related_urls": [
-        "https://www.neowin.net/news/apple-music-has-a-really-cool-easter-egg-for-ipod-fans/?utm_source=rss",
-        "https://9to5mac.com/2026/10/23/apples-website-has-fun-new-easter-egg-a-fully-interactive-ipod/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "GSMArena",
-          "Neowin"
+          "Tom's Hardware"
         ],
         "techmeme": false,
         "hn_points": 0,
-        "trends": [
-          "apple tv (US, ~2,000 lượt tìm)"
-        ],
-        "score": 8.3
+        "trends": [],
+        "score": 0.0
       }
     }
   ]
