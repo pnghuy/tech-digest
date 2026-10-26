@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T04:54:45.712727+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Apple xác nhận lỗi nứt màn hình trên iPhone Duo",
+      "summary_vi": "Chỉ vài ngày sau khi ra mắt, Apple đã xác nhận các báo cáo từ người dùng về việc màn hình gập của iPhone Duo bị nứt, gây lo ngại về độ bền của sản phẩm.",
+      "hot_level": 5,
+      "hot_reason": "Tin cực nóng về flagship mới của Apple, liên quan đến lỗi nghiêm trọng và được chính hãng xác nhận.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/apple-confirms-user-reports-about-iphone-duo-screen-cracking/?utm_source=rss",
+      "source_title": "Apple confirms user reports about iPhone Duo screen cracking",
+      "related_urls": [
+        "https://www.engadget.com/2297433/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/",
+        "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+        "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+        "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Ars Technica",
+          "Engadget",
+          "Neowin",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 9.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Microsoft đề nghị mua lại tự nguyện cho 60.000 nhân sự toàn cầu",
+      "summary_vi": "Microsoft đang mở rộng chiến lược cắt giảm chi phí bằng cách đề nghị mua lại tự nguyện cho khoảng 60.000 nhân sự tại bốn thị trường lớn, chiếm hơn một phần tư lực lượng lao động toàn cầu.",
+      "hot_level": 5,
+      "hot_reason": "Tin lớn về Microsoft, tác động đến hàng chục nghìn nhân sự, thể hiện chiến lược cắt giảm chi phí quy mô lớn của một ông lớn công nghệ.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "source_title": "Microsoft offers buyouts to 60,000 employees",
+      "related_urls": [
+        "https://www.engadget.com/2297175/microsoft-reportedly-offers-voluntary-buyouts-to-60000-employees/",
+        "https://www.neowin.net/news/microsoft-offers-voluntary-exit-packages-to-60000-employees-across-four-countries/?utm_source=rss",
+        "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "Neowin",
+          "TechCrunch",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 65,
+        "trends": [],
+        "score": 7.65
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "OpenAI ra mắt GPT-6.1 Terra với hiệu suất cao, chi phí giảm mạnh",
+      "summary_vi": "OpenAI đã phát hành mô hình GPT-6.1 Terra mới nhất, hứa hẹn hiệu suất ấn tượng và hiệu quả cao cho các tác vụ hàng ngày, đặc biệt hấp dẫn đối với các nhà phát triển nhờ điểm chuẩn và giá thành tối ưu.",
+      "hot_level": 5,
+      "hot_reason": "Tin cực nóng về AI từ OpenAI, ra mắt mô hình GPT thế hệ mới với cải tiến lớn về hiệu suất và chi phí dù điểm sơ bộ ban đầu thấp.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/openai-releases-gpt-61-terra-with-impressive-performance-at-massively-reduced-costs/?utm_source=rss",
+      "source_title": "OpenAI releases GPT-6.1 Terra with impressive performance at massively reduced costs",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Apple ra mắt iOS/macOS 27.2 với AI Siri nâng cấp và hỗ trợ Apple Pencil cho iPhone Duo",
+      "summary_vi": "Apple đã phát hành iOS và macOS 27.2 mang đến các tính năng AI Siri mới, biểu tượng Music mới và đặc biệt là hỗ trợ Apple Pencil cùng tính năng \"Edge Light\" độc quyền cho iPhone Duo.",
+      "hot_level": 4,
+      "hot_reason": "Cập nhật phần mềm lớn của Apple, nâng cấp AI Siri và bổ sung tính năng quan trọng cho iPhone Duo.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+      "source_title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+      "related_urls": [
+        "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+        "https://www.macrumors.com/2026/10/26/apple-releases-visionos-27-2/",
+        "https://9to5mac.com/2026/10/26/iphone-duo-just-got-two-new-features-in-ios-27-2/",
+        "https://9to5mac.com/2026/10/26/apple-releases-ios-26-7-2-for-iphone-heres-whats-new/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Ars Technica",
+          "MacRumors",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 7.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Apple giới thiệu iPad mini hoàn toàn mới với màn hình OLED và chip A20 Pro",
+      "summary_vi": "Apple đã chính thức ra mắt iPad mini mới với màn hình OLED lớn hơn, thiết kế mỏng nhẹ hơn và được trang bị chip A20 Pro mạnh mẽ, đây là bản cập nhật lớn nhất cho dòng iPad mini.",
+      "hot_level": 4,
+      "hot_reason": "Sản phẩm mới của Apple, nâng cấp lớn cho dòng iPad mini được ưa chuộng với màn hình OLED và chip mới.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price/",
+      "source_title": "Apple unveils all-new iPad mini: OLED, thinner design, more",
+      "related_urls": [
+        "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+        "https://www.engadget.com/2296637/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Ars Technica",
+          "Engadget"
+        ],
+        "techmeme": false,
+        "hn_points": 154,
+        "trends": [],
+        "score": 6.54
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Công ty AI Anthropic chính thức nộp hồ sơ IPO, có thể được định giá 2 nghìn tỷ USD",
+      "summary_vi": "Anthropic, một công ty AI lớn, đã chính thức nộp hồ sơ chào bán cổ phiếu lần đầu ra công chúng (IPO), tiết lộ doanh thu tăng vọt, các khoản lỗ ngày càng tăng và khả năng được định giá tới 2 nghìn tỷ USD.",
+      "hot_level": 4,
+      "hot_reason": "Tin tức tài chính lớn từ một hãng AI quan trọng, cho thấy sự phát triển và giá trị khổng lồ của ngành AI.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296724/anthropic-files-to-go-public/",
+      "source_title": "Anthropic files to go public",
+      "related_urls": [
+        "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "CEO Intel thảo luận hợp tác tiềm năng với CEO AMD Lisa Su",
+      "summary_vi": "CEO Intel, Lip-Bu Tan, được cho là đã thảo luận các lĩnh vực hợp tác tiềm năng với CEO AMD, Lisa Su, trong bối cảnh Intel đang tái xây dựng mảng CPU và mở rộng hoạt động xưởng đúc.",
+      "hot_level": 4,
+      "hot_reason": "Tin tức quan trọng về sự hợp tác giữa hai gã khổng lồ ngành chip, có thể định hình lại thị trường CPU và bán dẫn.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
+      "source_title": "Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD",
+      "related_urls": [
+        "https://wccftech.com/intels-ceo-reportedly-had-a-conversation-with-amds-lisa-su-on-potential-areas-of-collaboration-says-0-9-pdk-on-the-14a-process-coming-soon/"
+      ],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Samsung giảm sản xuất dòng điện thoại Galaxy A",
+      "summary_vi": "Dòng điện thoại Galaxy A giá cả phải chăng của Samsung có thể đang đối mặt với sự thay đổi lớn do chi phí tăng và áp lực nguồn cung, có khả năng định hình lại các sản phẩm tiếp theo.",
+      "hot_level": 4,
+      "hot_reason": "Samsung là thương hiệu lớn tại Việt Nam, việc giảm sản xuất dòng sản phẩm chủ lực như Galaxy A sẽ ảnh hưởng đến thị trường và người dùng.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/samsung-is-ramping-down-production-on-its-galaxy-a-series-handsets/?utm_source=rss",
+      "source_title": "Samsung is ramping down production on its Galaxy A series handsets",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Đối tác NVIDIA không thể đặt hàng chip GB202 có bộ nhớ, RTX 5090 chưa rõ bị ngừng sản xuất",
+      "summary_vi": "Một đối tác của NVIDIA cho biết họ không nhận được thông báo ngừng sản xuất RTX 5090, nhưng hiện không thể đặt hàng chip GB202 đi kèm 32 GB bộ nhớ, đặt ra dấu hỏi về khả năng cung ứng.",
+      "hot_level": 4,
+      "hot_reason": "Tin tức nóng hổi về dòng card đồ họa cao cấp sắp tới của NVIDIA (RTX 5090), liên quan đến nguồn cung chip quan trọng, thu hút sự chú ý của cộng đồng PC và game thủ.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-board-partner-says-they-didnt-get-the-notification-about-rtx-5090-discontinuation/",
+      "source_title": "NVIDIA Board Partner Says No Notification About RTX 5090 Discontinuation, But Cannot Order GB202 With Memory Anymore",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Instagram mở rộng sang video dài 90 phút, thách thức YouTube",
+      "summary_vi": "Instagram đang triển khai hỗ trợ video dài tới 90 phút, tạo cơ hội để nền tảng này cạnh tranh trực tiếp với YouTube trong mảng nội dung video dài.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng mới quan trọng của một ứng dụng mạng xã hội lớn, cạnh tranh trực tiếp với YouTube, sẽ thay đổi trải nghiệm người dùng.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+      "source_title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+      "related_urls": [
+        "https://www.engadget.com/2297240/instagram-wants-you-to-watch-90-minute-videos-on-your-tv/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    }
+  ]
+}

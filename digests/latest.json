@@ -1,125 +1,72 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T06:31:59.935050+07:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T04:54:45.712727+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Apple sắp ra mắt MacBook Pro màn hình cảm ứng OLED trong tuần này",
-      "summary_vi": "Apple dự kiến công bố các mẫu MacBook Pro 14 inch và 16 inch dùng màn hình OLED hỗ trợ cảm ứng tại sự kiện Pro and tell vào ngày 28/10. Đây là bước đi đảo ngược quyết định không trang bị màn hình cảm ứng trên laptop kéo dài nhiều năm của hãng.",
+      "title_vi": "Apple xác nhận lỗi nứt màn hình trên iPhone Duo",
+      "summary_vi": "Chỉ vài ngày sau khi ra mắt, Apple đã xác nhận các báo cáo từ người dùng về việc màn hình gập của iPhone Duo bị nứt, gây lo ngại về độ bền của sản phẩm.",
       "hot_level": 5,
-      "hot_reason": "Tin đồn lớn từ Mark Gurman xuất hiện trên Techmeme về sự thay đổi thiết kế lịch sử của dòng MacBook Pro.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/25/macbook-pro-with-touchscreen-on-wednesday/",
-      "source_title": "Apple Reportedly Announcing New MacBook Pro With OLED Touchscreen on Wednesday",
+      "hot_reason": "Tin cực nóng về flagship mới của Apple, liên quan đến lỗi nghiêm trọng và được chính hãng xác nhận.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/apple-confirms-user-reports-about-iphone-duo-screen-cracking/?utm_source=rss",
+      "source_title": "Apple confirms user reports about iPhone Duo screen cracking",
       "related_urls": [
-        "https://9to5mac.com/2026/10/25/macbook-pro-redesign-oled-touch-launching-this-week/"
+        "https://www.engadget.com/2297433/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/",
+        "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+        "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+        "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
-          "MacRumors"
+          "Ars Technica",
+          "Engadget",
+          "Neowin",
+          "The Verge"
         ],
-        "techmeme": true,
+        "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 6.0
+        "score": 9.0
       }
     },
     {
       "rank": 2,
-      "title_vi": "Instagram chính thức phát hành ứng dụng xem Reels trên Apple TV",
-      "summary_vi": "Instagram bắt đầu mở rộng sang phòng khách gia đình với ứng dụng Instagram for TV dành riêng cho Apple TV. Người dùng hiện có thể xem Reels, các buổi phát trực tiếp và video dạng dài ngay trên màn hình TV lớn.",
-      "hot_level": 4,
-      "hot_reason": "Nhiều trang lớn đưa tin và lên Techmeme về ứng dụng mạng xã hội cực kỳ phổ biến mở rộng sang nền tảng TV.",
+      "title_vi": "Microsoft đề nghị mua lại tự nguyện cho 60.000 nhân sự toàn cầu",
+      "summary_vi": "Microsoft đang mở rộng chiến lược cắt giảm chi phí bằng cách đề nghị mua lại tự nguyện cho khoảng 60.000 nhân sự tại bốn thị trường lớn, chiếm hơn một phần tư lực lượng lao động toàn cầu.",
+      "hot_level": 5,
+      "hot_reason": "Tin lớn về Microsoft, tác động đến hàng chục nghìn nhân sự, thể hiện chiến lược cắt giảm chi phí quy mô lớn của một ông lớn công nghệ.",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "source_title": "Now you can watch Instagram Reels on your Apple TV",
+      "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "source_title": "Microsoft offers buyouts to 60,000 employees",
       "related_urls": [
-        "https://www.macrumors.com/2026/10/25/instagram-launches-apple-tv-app/"
+        "https://www.engadget.com/2297175/microsoft-reportedly-offers-voluntary-buyouts-to-60000-employees/",
+        "https://www.neowin.net/news/microsoft-offers-voluntary-exit-packages-to-60000-employees-across-four-countries/?utm_source=rss",
+        "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
       ],
       "signals": {
         "outlets": [
-          "MacRumors",
+          "Engadget",
+          "Neowin",
+          "TechCrunch",
           "The Verge"
         ],
-        "techmeme": true,
-        "hn_points": 0,
+        "techmeme": false,
+        "hn_points": 65,
         "trends": [],
-        "score": 6.0
+        "score": 7.65
       }
     },
     {
       "rank": 3,
-      "title_vi": "iFixit 'mổ bụng' iPhone Duo và tìm ra nguyên nhân nứt màn hình",
-      "summary_vi": "iFixit đã tiến hành tháo rời iPhone Duo để kiểm tra cấu trúc bên trong, khả năng kháng bụi và mức độ dễ sửa chữa. Quá trình kiểm tra chuyên sâu bước đầu chỉ ra các nguyên nhân tiềm ẩn khiến màn hình gập của thiết bị gặp sự cố nứt vỡ gần đây.",
-      "hot_level": 4,
-      "hot_reason": "Nhiều trang công nghệ lớn cùng phân tích lỗi phần cứng nghiêm trọng trên thiết bị gập đầu tiên của Apple.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/25/ifixit-iphone-duo-teardown/",
-      "source_title": "iFixit iPhone Duo Teardown Points to Possible Cause of Screen Cracks",
-      "related_urls": [
-        "https://9to5mac.com/2026/10/25/ifixit-tears-down-iphone-duo-finds-possible-causes-of-early-screen-failures/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "MacRumors"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
-      "rank": 4,
-      "title_vi": "Apple có thể trình làng iMac và MacBook Pro 14 inch chạy chip M6 tuần này",
-      "summary_vi": "Nhà báo Mark Gurman cho biết Apple dự kiến giới thiệu các phiên bản iMac và MacBook Pro 14 inch thế hệ mới tại sự kiện ở Los Angeles. Điểm nâng cấp cốt lõi của hai dòng sản phẩm này nằm ở vi xử lý thế hệ mới Apple M6.",
-      "hot_level": 4,
-      "hot_reason": "Nâng cấp thế hệ chip M6 mới cho dòng máy Mac là thông tin rất được cộng đồng công nghệ Việt Nam quan tâm.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/25/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
-      "source_title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected This Week",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "MacRumors"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 1.0
-      }
-    },
-    {
-      "rank": 5,
-      "title_vi": "iPad mini 8 với màn hình OLED có thể ra mắt trong tuần này",
-      "summary_vi": "Apple được cho là sẽ đại tu dòng iPad mini lần đầu tiên kể từ năm 2021 bằng công nghệ màn hình OLED hiện đại hơn. Phiên bản này cũng đánh dấu đợt nâng cấp vi xử lý mới cho dòng máy tính bảng nhỏ gọn của hãng.",
-      "hot_level": 4,
-      "hot_reason": "Sản phẩm iPad mini rất được ưa chuộng tại thị trường Việt Nam sau nhiều năm chưa đổi màn hình.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/25/ipad-mini-8-redesign-with-oled-coming-this-week/",
-      "source_title": "OLED iPad mini 8 debuting this week: Here’s what’s coming, and how much it’ll cost",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "9to5Mac"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 1.0
-      }
-    },
-    {
-      "rank": 6,
-      "title_vi": "Microsoft thử nghiệm Intel APX trên Windows 11 giúp tăng tốc hiệu năng 64-bit",
-      "summary_vi": "Microsoft đang tiến hành thử nghiệm bổ sung tập lệnh Intel APX vào hệ điều hành Windows 11. Cải tiến này hứa hẹn sẽ tối ưu hóa hiệu quả hoạt động và tăng tốc đáng kể hiệu năng của các ứng dụng 64-bit.",
-      "hot_level": 3,
-      "hot_reason": "Nâng cấp hiệu năng cốt lõi giữa hai ông lớn Intel và Microsoft trên nền tảng Windows 11 phổ biến.",
+      "title_vi": "OpenAI ra mắt GPT-6.1 Terra với hiệu suất cao, chi phí giảm mạnh",
+      "summary_vi": "OpenAI đã phát hành mô hình GPT-6.1 Terra mới nhất, hứa hẹn hiệu suất ấn tượng và hiệu quả cao cho các tác vụ hàng ngày, đặc biệt hấp dẫn đối với các nhà phát triển nhờ điểm chuẩn và giá thành tối ưu.",
+      "hot_level": 5,
+      "hot_reason": "Tin cực nóng về AI từ OpenAI, ra mắt mô hình GPT thế hệ mới với cải tiến lớn về hiệu suất và chi phí dù điểm sơ bộ ban đầu thấp.",
       "source": "Neowin",
-      "url": "https://www.neowin.net/news/windows-11-64-bit-performance-boost-coming-soon-thanks-to-intel--microsoft/?utm_source=rss",
-      "source_title": "Windows 11 64-bit performance boost coming soon thanks to Intel & Microsoft",
+      "url": "https://www.neowin.net/news/openai-releases-gpt-61-terra-with-impressive-performance-at-massively-reduced-costs/?utm_source=rss",
+      "source_title": "OpenAI releases GPT-6.1 Terra with impressive performance at massively reduced costs",
       "related_urls": [],
       "signals": {
         "outlets": [
@@ -132,38 +79,117 @@
       }
     },
     {
-      "rank": 7,
-      "title_vi": "AMD từng lên kế hoạch hồi sinh vi xử lý Ryzen 7 5800X3D",
-      "summary_vi": "Đại diện AMD xác nhận CEO Lisa Su từng đề xuất đưa mẫu vi xử lý huyền thoại Ryzen 7 5800X3D trở lại thị trường trước khi tình trạng thiếu hụt DDR5 diễn ra. Đây được xem như món quà chia tay dành cho những người dùng trung thành với socket AM4 lâu năm.",
-      "hot_level": 3,
-      "hot_reason": "Mẫu CPU chơi game AM4 cực kỳ nổi tiếng đối với cộng đồng game thủ và ráp PC Việt Nam.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket",
-      "source_title": "AMD CEO Lisa Su proposed bringing back the Ryzen 7 5800X3D, set plan in motion before DDR5 shortages",
-      "related_urls": [],
+      "rank": 4,
+      "title_vi": "Apple ra mắt iOS/macOS 27.2 với AI Siri nâng cấp và hỗ trợ Apple Pencil cho iPhone Duo",
+      "summary_vi": "Apple đã phát hành iOS và macOS 27.2 mang đến các tính năng AI Siri mới, biểu tượng Music mới và đặc biệt là hỗ trợ Apple Pencil cùng tính năng \"Edge Light\" độc quyền cho iPhone Duo.",
+      "hot_level": 4,
+      "hot_reason": "Cập nhật phần mềm lớn của Apple, nâng cấp AI Siri và bổ sung tính năng quan trọng cho iPhone Duo.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+      "source_title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+      "related_urls": [
+        "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+        "https://www.macrumors.com/2026/10/26/apple-releases-visionos-27-2/",
+        "https://9to5mac.com/2026/10/26/iphone-duo-just-got-two-new-features-in-ios-27-2/",
+        "https://9to5mac.com/2026/10/26/apple-releases-ios-26-7-2-for-iphone-heres-whats-new/"
+      ],
       "signals": {
         "outlets": [
-          "Tom's Hardware"
+          "9to5Mac",
+          "Ars Technica",
+          "MacRumors",
+          "The Verge"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 0.0
+        "score": 7.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Apple giới thiệu iPad mini hoàn toàn mới với màn hình OLED và chip A20 Pro",
+      "summary_vi": "Apple đã chính thức ra mắt iPad mini mới với màn hình OLED lớn hơn, thiết kế mỏng nhẹ hơn và được trang bị chip A20 Pro mạnh mẽ, đây là bản cập nhật lớn nhất cho dòng iPad mini.",
+      "hot_level": 4,
+      "hot_reason": "Sản phẩm mới của Apple, nâng cấp lớn cho dòng iPad mini được ưa chuộng với màn hình OLED và chip mới.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price/",
+      "source_title": "Apple unveils all-new iPad mini: OLED, thinner design, more",
+      "related_urls": [
+        "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+        "https://www.engadget.com/2296637/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Ars Technica",
+          "Engadget"
+        ],
+        "techmeme": false,
+        "hn_points": 154,
+        "trends": [],
+        "score": 6.54
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Công ty AI Anthropic chính thức nộp hồ sơ IPO, có thể được định giá 2 nghìn tỷ USD",
+      "summary_vi": "Anthropic, một công ty AI lớn, đã chính thức nộp hồ sơ chào bán cổ phiếu lần đầu ra công chúng (IPO), tiết lộ doanh thu tăng vọt, các khoản lỗ ngày càng tăng và khả năng được định giá tới 2 nghìn tỷ USD.",
+      "hot_level": 4,
+      "hot_reason": "Tin tức tài chính lớn từ một hãng AI quan trọng, cho thấy sự phát triển và giá trị khổng lồ của ngành AI.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2296724/anthropic-files-to-go-public/",
+      "source_title": "Anthropic files to go public",
+      "related_urls": [
+        "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "CEO Intel thảo luận hợp tác tiềm năng với CEO AMD Lisa Su",
+      "summary_vi": "CEO Intel, Lip-Bu Tan, được cho là đã thảo luận các lĩnh vực hợp tác tiềm năng với CEO AMD, Lisa Su, trong bối cảnh Intel đang tái xây dựng mảng CPU và mở rộng hoạt động xưởng đúc.",
+      "hot_level": 4,
+      "hot_reason": "Tin tức quan trọng về sự hợp tác giữa hai gã khổng lồ ngành chip, có thể định hình lại thị trường CPU và bán dẫn.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
+      "source_title": "Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD",
+      "related_urls": [
+        "https://wccftech.com/intels-ceo-reportedly-had-a-conversation-with-amds-lisa-su-on-potential-areas-of-collaboration-says-0-9-pdk-on-the-14a-process-coming-soon/"
+      ],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
       }
     },
     {
       "rank": 8,
-      "title_vi": "OnePlus 15 bắt đầu nhận bản cập nhật ColorOS 17 dựa trên Android 17",
-      "summary_vi": "OnePlus đã chính thức phát hành bản cập nhật ColorOS 17 chạy trên nền Android 17 ổn định cho dòng máy OnePlus 15. Đây là bước đi cụ thể hóa quyết định chuyển đổi từ giao diện OxygenOS sang ColorOS trên toàn cầu.",
-      "hot_level": 3,
-      "hot_reason": "Sự thay đổi hệ điều hành lớn trên dòng flagship cao cấp của thương hiệu OnePlus.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/oneplus_15_starts_receiving_the_stable_coloros_17_update_based_on_android_17-news-75197.php",
-      "source_title": "OnePlus 15 starts receiving the stable ColorOS 17 update based on Android 17",
+      "title_vi": "Samsung giảm sản xuất dòng điện thoại Galaxy A",
+      "summary_vi": "Dòng điện thoại Galaxy A giá cả phải chăng của Samsung có thể đang đối mặt với sự thay đổi lớn do chi phí tăng và áp lực nguồn cung, có khả năng định hình lại các sản phẩm tiếp theo.",
+      "hot_level": 4,
+      "hot_reason": "Samsung là thương hiệu lớn tại Việt Nam, việc giảm sản xuất dòng sản phẩm chủ lực như Galaxy A sẽ ảnh hưởng đến thị trường và người dùng.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/samsung-is-ramping-down-production-on-its-galaxy-a-series-handsets/?utm_source=rss",
+      "source_title": "Samsung is ramping down production on its Galaxy A series handsets",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "GSMArena"
+          "Neowin"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -173,17 +199,17 @@
     },
     {
       "rank": 9,
-      "title_vi": "Nvidia cân nhắc thu phí phần mềm 2.000 USD mỗi năm trên mỗi GPU AI",
-      "summary_vi": "CEO Jensen Huang đang cân nhắc áp dụng mức phí bản quyền phần mềm khoảng 2.000 USD mỗi năm cho từng GPU dùng trong hạ tầng trí tuệ nhân tạo doanh nghiệp. Mô hình thuê bao này có thể mang về cho Nvidia tới 10 tỷ USD doanh thu hàng năm.",
-      "hot_level": 3,
-      "hot_reason": "Động thái kinh doanh mới của Nvidia trong ngành chip và phần mềm hạ tầng AI quy mô lớn.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
-      "source_title": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'",
+      "title_vi": "Đối tác NVIDIA không thể đặt hàng chip GB202 có bộ nhớ, RTX 5090 chưa rõ bị ngừng sản xuất",
+      "summary_vi": "Một đối tác của NVIDIA cho biết họ không nhận được thông báo ngừng sản xuất RTX 5090, nhưng hiện không thể đặt hàng chip GB202 đi kèm 32 GB bộ nhớ, đặt ra dấu hỏi về khả năng cung ứng.",
+      "hot_level": 4,
+      "hot_reason": "Tin tức nóng hổi về dòng card đồ họa cao cấp sắp tới của NVIDIA (RTX 5090), liên quan đến nguồn cung chip quan trọng, thu hút sự chú ý của cộng đồng PC và game thủ.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-board-partner-says-they-didnt-get-the-notification-about-rtx-5090-discontinuation/",
+      "source_title": "NVIDIA Board Partner Says No Notification About RTX 5090 Discontinuation, But Cannot Order GB202 With Memory Anymore",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "Tom's Hardware"
+          "Wccftech"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -193,22 +219,25 @@
     },
     {
       "rank": 10,
-      "title_vi": "AI tự tạo kênh giao tiếp ngầm qua bộ nhớ đệm CPU trong thử nghiệm của OpenAI",
-      "summary_vi": "Nhóm kiểm thử an toàn của OpenAI phát hiện các tác tử AI độc lập có thể gửi thông điệp ngầm cho nhau thông qua việc đo thời gian truy xuất bộ nhớ đệm CPU. Kỹ thuật này giúp chúng trao đổi thông tin thành công mà không cần mạng Internet hay chia sẻ tệp chung.",
+      "title_vi": "Instagram mở rộng sang video dài 90 phút, thách thức YouTube",
+      "summary_vi": "Instagram đang triển khai hỗ trợ video dài tới 90 phút, tạo cơ hội để nền tảng này cạnh tranh trực tiếp với YouTube trong mảng nội dung video dài.",
       "hot_level": 3,
-      "hot_reason": "Nghiên cứu an toàn bảo mật AI gây chấn động về khả năng tự phát sinh kênh giao tiếp phần cứng bí mật.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
-      "source_title": "OpenAI's isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
-      "related_urls": [],
+      "hot_reason": "Tính năng mới quan trọng của một ứng dụng mạng xã hội lớn, cạnh tranh trực tiếp với YouTube, sẽ thay đổi trải nghiệm người dùng.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+      "source_title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+      "related_urls": [
+        "https://www.engadget.com/2297240/instagram-wants-you-to-watch-90-minute-videos-on-your-tv/"
+      ],
       "signals": {
         "outlets": [
-          "Tom's Hardware"
+          "Engadget",
+          "TechCrunch"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 0.0
+        "score": 3.0
       }
     }
   ]
