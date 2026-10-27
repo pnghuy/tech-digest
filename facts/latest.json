@@ -1,72 +1,72 @@
 {
-  "date": "2026-10-27",
-  "station_url": "https://claude.ai/code/session_01UBAPmPNPiTxvyrST1JLPxz",
-  "notes": [
-    "Bỏ 4 tin Tinhte đã có bài: GPT-6.1 Terra, iOS 27.2, iPad mini OLED, Instagram video 90 phút.",
-    "Bỏ tin Samsung giảm sản xuất Galaxy A vì chỉ có nguồn Neowin, mà Neowin đang chặn truy cập.",
-    "Bài 1: Tinhte đã có bài người dùng phản ánh iPhone Duo nứt màn, bài này xoáy vào việc Apple chính thức xác nhận lỗi.",
-    "Lời nhắc 5:55 hôm 25/10 và 26/10 không chạy được nên 2 ngày đó không có bài."
-  ],
-  "articles": [
-    {
-      "title": "Apple xác nhận lỗi nứt màn hình trong trên một số iPhone Duo, người dùng gặp lỗi được đổi máy mới",
-      "body": "Apple vừa xác nhận có lỗi ảnh hưởng tới màn hình trong trên một số ít máy iPhone Duo, sau khi nhiều người dùng phản ánh màn hình bị nứt dọc bản lề chỉ vài ngày sau khi mở bán. Hãng khuyên ai gặp lỗi nên liên hệ AppleCare để được thay máy.\n\n\"Phản hồi từ những người dùng iPhone Duo đầu tiên rất tích cực, và chúng tôi thấy các nhà phát triển đang nhanh chóng cập nhật ứng dụng để tận dụng kiểu dáng độc đáo của máy. Chúng tôi biết có một vấn đề ảnh hưởng tới màn hình trong trên một số ít máy iPhone Duo. Nếu người dùng gặp vấn đề với màn hình iPhone Duo, hãy liên hệ AppleCare để được thay thế\", Apple cho biết trong tuyên bố gửi Engadget và The Verge.\n\nTheo The Verge, đại diện Apple Alex Kirschner cho biết phần lớn máy không bị ảnh hưởng và lỗi sẽ lộ ra khá nhanh trên những máy bị khiếm khuyết. Engadget nhận định nếu máy đã dùng qua vài ngày đầu mà không gặp lỗi thì nhiều khả năng sẽ không sao.\n\nNgay sau khi iPhone Duo bán ra, người dùng bắt đầu phản ánh bản lề bị siết chặt, mở máy thì màn hình nứt và xuất hiện những vệt sáng chạy từ giữa sang cạnh phải. Một số máy còn có điểm ảnh chết dọc nếp gấp. Nhà phát triển Mike Rundle cho biết đã thấy 7 ảnh trên X và nhiều video trên TikTok ghi lại đúng lỗi này. Một người dùng ở Úc cho biết Apple Store đã đổi máy cho họ ngay tại chỗ.\n\niFixit vừa đăng bài mổ iPhone Duo và đưa ra giả thuyết về nguyên nhân. Theo iFixit, ở vị trí bị hỏng, màn hình gập có thể đang tì vào một thanh đỡ ở giữa máy. Engadget cho biết máy đánh giá của họ không gặp lỗi, máy của CNET cũng vậy. CNET đang thử độ bền bản lề trên một máy và tới thời điểm đưa tin, máy đã vượt qua hơn 55.000 lần gập.\n\nEngadget nhận xét lỗi bản lề khá phổ biến trên máy gập, nhưng hiếm khi xuất hiện sớm như vậy ngay sau khi ra mắt. iPhone Duo cũng thuộc nhóm sản phẩm đầu tiên ra mắt sau khi John Ternus thay Tim Cook làm CEO Apple.",
-      "source": "Engadget + The Verge",
-      "hot": 5,
-      "reason": "Lần đầu Apple lên tiếng về lỗi nứt màn trong của iPhone Duo",
-      "images_note": "1 ảnh Apple Newsroom",
-      "urls": [
-        "https://www.engadget.com/2297433/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/",
-        "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"
-      ]
-    },
-    {
-      "title": "Microsoft mời 60.000 nhân viên nghỉ việc tự nguyện có hỗ trợ tài chính, tránh một đợt sa thải mới",
-      "body": "Microsoft đang đề nghị cho tới 60.000 nhân viên tại Mỹ, Anh, Canada và Ấn Độ nghỉ việc tự nguyện. Microsoft đã xác nhận thông tin với TechCrunch. Tính tới cuối tháng 6, công ty có khoảng 223.000 nhân viên.\n\nTrong thư gửi nhân viên, Giám đốc nhân sự Amy Coleman cho biết chương trình mang lại cho nhân viên \"cơ hội rời Microsoft với hỗ trợ tài chính và các nguồn lực định hướng nghề nghiệp\". Đối tượng đủ điều kiện là nhân viên từ cấp phó chủ tịch trở xuống ở một số bộ phận. Theo TechCrunch, điều khoản của gói nghỉ việc tương tự mức trợ cấp thôi việc tiêu chuẩn của Microsoft. Nhân viên đủ điều kiện nhận email kèm đường dẫn tới thông tin chi tiết ngay trong ngày 26/10.\n\nNguồn tin của The Verge cho biết các nhóm AI experiences, Copilot, CoreAI, Windows + Devices, Xbox, tài chính và nhân sự đều nằm trong diện được đề nghị. Nhóm cloud + AI, MicrosoftAI cùng mảng đối ngoại và pháp chế tham gia một phần. Các nhóm marketing, kinh doanh thương mại, discovery and quantum và bảo mật không tham gia. Theo Bloomberg, nhân viên trung tâm dữ liệu và bán hàng cũng nằm ngoài chương trình.\n\nTrang nội bộ HRweb của Microsoft cho biết đề nghị lần này không dựa trên tuổi tác, thâm niên hay hiệu suất làm việc, và công ty có thể cân nhắc thêm đợt nghỉ tự nguyện khác nếu có nhu cầu. \"Voluntary Exit Offer là điều mới với chúng tôi. Chúng tôi sẽ rút kinh nghiệm từ nó\", bà Coleman viết.\n\nĐề nghị này đến chỉ vài tháng sau khi Microsoft sa thải 4.800 nhân viên, chủ yếu ở mảng Xbox và kinh doanh thương mại. Theo Fortune, CEO Xbox Asha Sharma đang lên kế hoạch cho các đợt sa thải mới. Đầu năm nay, Microsoft cũng từng đề nghị nghỉ hưu tự nguyện cho nhân viên lâu năm ở Mỹ. Chương trình đó chỉ dành cho khoảng 8.750 người, và TechCrunch cho biết hơn 30% trong số này đã chấp nhận.\n\nTechCrunch nhận định gói nghỉ việc tự nguyện giúp Microsoft giảm nhân sự mà không phải dùng tới biện pháp sa thải hàng loạt vốn gây xáo trộn hơn.",
-      "source": "The Verge + TechCrunch",
-      "hot": 5,
-      "reason": "Hơn một phần tư nhân sự Microsoft được mời nghỉ tự nguyện",
-      "images_note": "1 ảnh Building 92 khuôn viên Microsoft Redmond, Wikimedia Commons CC BY 3.0",
-      "urls": [
-        "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-        "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
-      ]
-    },
-    {
-      "title": "Anthropic nộp hồ sơ IPO, niêm yết trên Nasdaq với mã ANT, có thể được định giá khoảng 2.000 tỷ USD",
-      "body": "Anthropic vừa chính thức nộp mẫu đăng ký S-1 lên Ủy ban Chứng khoán Mỹ (SEC) cho đợt phát hành cổ phiếu lần đầu ra công chúng. Công ty dự định niêm yết cổ phiếu phổ thông loại A trên sàn Nasdaq Global Select Market với mã ANT. Số lượng cổ phiếu và khoảng giá chưa được xác định. Anthropic từng nộp bản nháp S-1 hồi tháng 6.\n\nTheo Engadget, đợt IPO có thể đưa định giá Anthropic lên khoảng 2.000 tỷ USD khi cổ phiếu dự kiến lên sàn vào giữa tháng 11. Goldman Sachs và Morgan Stanley là hai đơn vị phát hành bản cáo bạch.\n\nHồ sơ cho thấy Anthropic đạt doanh thu 16,3 tỷ USD trong nửa đầu năm 2026, so với 1,2 tỷ USD cùng kỳ năm ngoái. Lỗ hoạt động là 693 triệu USD, giảm từ mức 2,1 tỷ USD của nửa đầu 2025. Lỗ ròng lên tới 80,7 tỷ USD, chủ yếu do các điều chỉnh kế toán không dùng tiền mặt liên quan tới nợ chuyển đổi. Công ty thừa nhận có thể không đạt hoặc không duy trì được lợi nhuận trong tương lai.\n\nTính tới 30/6/2026, Anthropic đã huy động tổng cộng 141,1 tỷ USD, có 112,4 tỷ USD tiền mặt và tương đương tiền cùng 19,3 tỷ USD đầu tư ngắn hạn. Tới cuối tháng 9, công ty có hơn 11.900 khách hàng chi từ 100.000 USD mỗi năm, khoảng 1.900 khách hàng chi từ 1 triệu USD và khoảng 250 khách hàng chi từ 10 triệu USD.\n\nVề quản trị, bảy nhà đồng sáng lập gồm Dario Amodei, Daniela Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish và Christopher Olah sẽ nắm 50,1% quyền biểu quyết thông qua một pháp nhân gọi là Founder LLC. Anthropic cho biết cơ chế này nhằm giữ sứ mệnh an toàn AI. Quỹ Long-Term Benefit Trust thành lập năm 2023 sẽ có quyền bổ nhiệm phần lớn thành viên hội đồng quản trị. TechCrunch cho rằng cấu trúc này gây tranh cãi vì quyền biểu quyết không tương xứng với tỷ lệ sở hữu, khiến cổ đông đại chúng có ít quyền kiểm soát thực tế.\n\nHồ sơ IPO cũng nêu bốn nhóm rủi ro liên quan tới AI gồm lạm dụng, mất kiểm soát, bị dùng cho mục đích độc tài và xáo trộn kinh tế.",
-      "source": "Engadget + TechCrunch + Anthropic",
-      "hot": 4,
-      "reason": "Đợt IPO được chờ đợi bậc nhất ngành AI",
-      "images_note": "1 ảnh chính thức từ thông cáo của Anthropic",
-      "urls": [
-        "https://www.engadget.com/2296724/anthropic-files-to-go-public/",
-        "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-        "https://www.anthropic.com/news/s1-sec"
-      ]
-    },
-    {
-      "title": "CEO Intel Lip-Bu Tan đã trao đổi với Lisa Su của AMD về khả năng hợp tác, 14A sắp có PDK 0.9",
-      "body": "CEO Intel Lip-Bu Tan cho biết đã trao đổi với CEO AMD Lisa Su về những lĩnh vực hai công ty có thể hợp tác. Thông tin được ông đưa ra trong buổi trò chuyện với Chủ tịch Hiệp hội Chuyên gia Bán dẫn người Mỹ gốc Hoa (CASPA) Jimmy Cheng ngày 24/10, nhưng ông không nói cụ thể đó là những lĩnh vực nào.\n\nTrong buổi trò chuyện, ông Tan nói về kế hoạch xây dựng lại mảng CPU, phát triển chip theo khối lượng công việc riêng của khách hàng và thu hút thêm khách cho mảng đúc chip. \"Chúng tôi phải giành lại vị trí dẫn đầu về CPU. Đó là điều tôi rất quyết tâm\", ông nói. Ông thừa nhận \"Intel tự hào tới mức không bao giờ muốn điều chỉnh theo nhu cầu khách hàng\", còn ông đang làm ngược lại và đặt cược gấp đôi, gấp ba vào hướng này, bắt đầu từ dòng Xeon.\n\nNgoài CPU, ông Tan xem chip chuyên dụng ASIC, quang học đóng gói chung (CPO), AI vật lý và đóng gói tiên tiến là các mảng tăng trưởng. Ông muốn hai hoặc ba mảng trong số đó mỗi mảng đóng góp khoảng 10% doanh thu Intel.\n\nVề mảng đúc chip, ông cho biết tiến trình 18A đã vào sản xuất hàng loạt, còn 14A đang tiến triển tốt. Intel đã phát hành bộ thiết kế PDK 0.5 cho 14A, sắp có bản 0.9 và bản 1.0 cho sản xuất hàng loạt vào đầu năm 2027. Theo Wccftech, PDK 0.9 là bản phát hành khi tiến trình sẵn sàng tape-out và sản xuất thử. \"Chúng tôi có nhiều khách hàng thật sự muốn chúng tôi giúp mở rộng quy mô kinh doanh của họ\", ông Tan nói, nhưng không nêu tên khách hàng.\n\nÔng cũng kể về một khách hàng đã chờ 6 đến 8 tháng với hy vọng ông trở thành CEO Intel, rồi đưa ra danh sách 15 điểm Intel còn yếu. Sau khi ông giải quyết từng vấn đề, khách hàng này đồng ý gắn bó sâu hơn với Intel.\n\nIntel và AMD không xa lạ với việc hợp tác dù cạnh tranh trực tiếp. Tháng 10/2024, hai bên cùng các công ty khác lập nhóm x86 Ecosystem Advisory Group để phối hợp cải tiến kiến trúc tập lệnh x86. Tuần trước, AMD được cho là đang tích hợp các tối ưu ZenDNN vào thư viện mã nguồn mở oneDNN của Intel, đưa công việc tối ưu suy luận AI trên CPU cho PyTorch của hai bên về chung một hướng. Hiện chưa bên nào công bố thỏa thuận mới.",
-      "source": "Tom's Hardware + Wccftech",
-      "hot": 4,
-      "reason": "Hai đối thủ x86 lâu năm bàn chuyện hợp tác",
-      "images_note": "1 ảnh chân dung Lip-Bu Tan từ Intel Newsroom",
-      "urls": [
-        "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
-        "https://wccftech.com/intels-ceo-reportedly-had-a-conversation-with-amds-lisa-su-on-potential-areas-of-collaboration-says-0-9-pdk-on-the-14a-process-coming-soon/"
-      ]
-    },
-    {
-      "title": "Đối tác của Nvidia không còn đặt được chip GB202 kèm bộ nhớ, RTX 5090 có thể đang bị khai tử dần",
-      "body": "Một đối tác sản xuất card đồ họa của Nvidia cho biết họ không còn đặt mua được bộ chip GB202 kèm 32 GB bộ nhớ GDDR7, linh kiện chính của GeForce RTX 5090, dù chưa nhận được thông báo chính thức nào về việc ngừng sản xuất dòng card này. Thông tin được đối tác giấu tên chia sẻ với overclocker nổi tiếng người Đức Der8auer.\n\nTrước đó đã có nhiều luồng tin trái chiều về chuyện RTX 5090 bị khai tử. Nvidia gần đây bác bỏ tin đồn và cho biết vẫn đang giao hàng, dù nguồn cung bị hạn chế do giá bộ nhớ tăng. Khi Der8auer liên hệ, Nvidia khẳng định RTX 5090 \"chắc chắn\" chưa bị ngừng sản xuất dù chuỗi cung ứng đang khó khăn. Dù vậy, RTX 5090 vẫn hết hàng ở phần lớn nhà bán lẻ.\n\nTheo đối tác này, tình trạng thiếu hàng từng xảy ra trước đây, nhưng khi đó họ vẫn đặt hàng chờ được. Giờ thì việc đặt bộ GB202 và 32 GB bộ nhớ không còn khả thi, và họ cũng không chắc sau này có đặt lại được hay không. Wccftech cho rằng đây là dấu hiệu rõ ràng Nvidia đang dành nguồn chip GB202 cho các card RTX PRO.\n\nMột dấu hiệu khác đến từ nhà sản xuất tản nhiệt cho RTX 5090. Công ty này cho Der8auer biết hai đối tác sản xuất card đã giảm đơn đặt tản nhiệt cho quý 1/2027, còn quý 2/2027 thì chưa có đơn nào.\n\nWccftech nhận định Nvidia có vẻ đang dần rút card tiêu dùng dùng chip GB202 khỏi thị trường để tập trung cho mảng máy trạm và AI. Nvidia hiện chưa có thông báo chính thức nào về việc này.",
-      "source": "Wccftech",
-      "hot": 4,
-      "reason": "Thêm dấu hiệu RTX 5090 sắp bị khai tử dù Nvidia phủ nhận",
-      "images_note": "1 ảnh chính thức RTX 5090 từ nvidia.com",
-      "urls": [
-        "https://wccftech.com/nvidia-board-partner-says-they-didnt-get-the-notification-about-rtx-5090-discontinuation/"
-      ]
-    }
-  ]
+ "date": "2026-10-28",
+ "station_url": "https://claude.ai/code/session_01UBAPmPNPiTxvyrST1JLPxz",
+ "notes": [
+  "Bỏ 2 tin hot đã có trên Tinhte: MacBook Pro 14 inch M6, iMac M6.",
+  "Sau khi bỏ trùng chỉ còn 3 tin hot ≥ 4, lấy thêm rank 6 (Creator Studio) và rank 7 (OnePlus Android 17) cho đủ 5.",
+  "Ars Technica (Genie 4) bị chặn xác minh người dùng, bài 1 dùng TechCrunch, The Verge và trang DeepMind."
+ ],
+ "articles": [
+  {
+   "title": "Google DeepMind ra mắt Genie 4, mô hình thế giới tạo được âm thanh và cho chỉnh cảnh khi đang chạy",
+   "body": "Google DeepMind vừa công bố Genie 4, mô hình thế giới (world model) mới nhất của hãng, ở dạng bản xem trước nghiên cứu. Theo Google, đây là mô hình tạo ra thế giới ảo chân thực và có tính tương tác cao nhất của hãng tới nay. Người dùng có thể gõ lệnh ngay khi mô phỏng đang chạy để thay đổi khung cảnh, còn mô hình tự tạo âm thanh khớp với thế giới ảo, gồm nhạc nền, tiếng động môi trường và lời thoại tương tác.\n\nGenie 4 có bốn nâng cấp chính gồm thế giới chân thực hơn, khả năng chỉnh trải nghiệm theo thời gian thực bằng ngôn ngữ tự nhiên, khả năng tạo âm thanh và việc dùng Gemini 3.8 Flash để hỗ trợ mô phỏng. Người dùng có thể đổi thời tiết, đổi góc máy hoặc thêm người và vật thể mới vào cảnh. Mỗi cảnh giữ được sự nhất quán trong khoảng hai phút, gấp đôi mức một phút của Genie 3. Vật lý cũng được cải thiện và nhân vật trông giống người thật hơn.\n\nGemini được tích hợp chặt hơn với Genie 4. Gemini đóng vai trò như người đạo diễn, lên kế hoạch từng bước và kiểm tra khung hình, còn Genie lo phần hình ảnh. Trong một thí nghiệm gắn với Gemini Robotics, mô hình Gemini 4 Argon chia nhiệm vụ thành từng bước để Genie 4 mô phỏng theo thời gian thực. Theo TechCrunch, đây là một cách thử các kịch bản cho robot trong môi trường ảo trước khi chạy ngoài đời thật.\n\n\"Trong tương lai, chúng ta sẽ ngày càng thấy nhiều mô hình thế giới lai, khi Gemini viết mã và văn bản, còn Genie tiếp nhận chúng theo thời gian thực và mô phỏng thực tế ở nhiều mức độ trừu tượng khác nhau\", Tejas Kulkarni, giám đốc nghiên cứu của Google, cho biết.\n\nGoogle nhắm tới game, học tập tương tác và robot. Một ví dụ cho mảng học tập là bước vào một bức tranh vẽ sự kiện lịch sử rồi trò chuyện với các nhân vật trong tranh. Nhóm người thử nghiệm sớm còn dùng Genie 4 để dựng thử ý tưởng phim. Theo kỹ sư Diego Rivas của Google DeepMind, khả năng chạy theo thời gian thực hữu ích nhất ở giai đoạn lên ý tưởng và vẽ phân cảnh.\n\nGoogle thừa nhận Genie 4 vẫn còn hạn chế. Chi tiết và vật thể có thể bị thay đổi khi mô phỏng chạy lâu. Hãng cũng chưa đảm bảo được âm thanh luôn chính xác và chữ xuất hiện trong thế giới ảo đọc được rõ ràng.\n\nGenie 4 hiện chỉ mở cho nhóm thử nghiệm được Google tin cậy. Trong vài tuần tới, mô hình sẽ đến với người dùng gói Google AI Ultra qua Project Genie, công cụ tạo thế giới tương tác từ chữ hoặc ảnh của Google, cùng các đối tác truy cập sớm trên Gemini API và Google AI Studio. Google đã mở danh sách chờ cho người muốn dùng thử.\n\nGenie 4 ra mắt vài tháng sau khi startup Runway tung GWM Worlds 2, mô hình thế giới thứ hai của hãng, cũng có tạo âm thanh. Mảng mô hình thế giới đang dần gom về tay các công ty lớn. World Labs của Fei-Fei Li đang được AMD mua lại, Amazon đang đàm phán mua Decart, còn Rivian vừa mua Third Dimension để tự mô phỏng phục vụ thử nghiệm xe tự lái.",
+   "source": "TechCrunch + The Verge + Google DeepMind",
+   "hot": 4,
+   "reason": "Mô hình thế giới mới của Google DeepMind, có âm thanh và chỉnh cảnh theo thời gian thực",
+   "images_note": "1 ảnh chính thức từ trang Genie 4 của Google DeepMind",
+   "urls": [
+    "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+    "https://deepmind.google/models/genie/"
+   ]
+  },
+  {
+   "title": "ChatGPT kết nối được với iCloud Mail và Lịch iCloud, dùng được trên mọi gói kể cả miễn phí",
+   "body": "OpenAI vừa thêm plugin iCloud Mail và iCloud Calendar cho ChatGPT. Nhờ đó, trợ lý AI này làm việc được với email và lịch của Apple, tương tự cách nó đang làm với Gmail và Google Calendar. Hai plugin có trên mọi gói ChatGPT, kể cả gói miễn phí, trên bản web, ứng dụng máy tính và iOS.\n\nVới Lịch iCloud, ChatGPT có thể đọc, tạo và cập nhật các sự kiện hiển thị trong ứng dụng Lịch trên iPhone hoặc trong bất kỳ ứng dụng bên thứ ba nào dùng Lịch iCloud. Với iCloud Mail, ChatGPT có thể tìm và đọc thư, quản lý thư và thư nháp, gửi email và tra danh bạ iCloud. Người dùng chỉ cần ra lệnh, chẳng hạn nhờ ChatGPT tìm một email, xem nhanh hộp thư, kiểm tra lịch sắp tới hoặc sửa một sự kiện.\n\nĐể bật plugin, người dùng phải đăng nhập tài khoản Apple và tạo mật khẩu dành riêng cho ứng dụng, giống cách các ứng dụng mail và lịch bên thứ ba kết nối với iCloud. ChatGPT chỉ thấy hộp thư iCloud, tức các địa chỉ đuôi @icloud.com, @me.com hoặc @mac.com. Các tài khoản khác đang đăng nhập trong ứng dụng Mail của iOS như Gmail hay Outlook nằm ngoài phạm vi truy cập.\n\nEngadget lưu ý plugin này khác với việc cho ChatGPT điều khiển trực tiếp ứng dụng Mail và Lịch trên macOS. Hai ứng dụng của Apple có thể hiển thị cả hộp thư và lịch của Outlook hay Gmail, nhưng plugin mới chỉ chạm tới dữ liệu nằm trên iCloud. Ai không dùng iCloud thì plugin không có tác dụng.\n\nHai plugin cũng dùng được với Dots, tác tử AI chủ động mà OpenAI ra mắt tháng trước. 9to5Mac xác nhận đây là lần đầu Dot làm việc được với mail và lịch iCloud, người dùng còn có thể nhờ Dot cài đặt hai plugin này. Theo MacRumors, việc kết nối iCloud cho ChatGPT một phần quyền truy cập dữ liệu cá nhân giống như Siri AI đang có.\n\nEngadget cho rằng động thái này phản ánh mối quan hệ phức tạp giữa OpenAI và Apple. ChatGPT từng là trợ lý AI đầu tiên được tích hợp thẳng vào Siri, nhưng sau đó Apple chọn Google để làm mới các mô hình AI của mình. Hồi tháng 7, Apple còn kiện OpenAI với cáo buộc nhân viên công ty này đánh cắp bí mật thương mại. Dù vậy, cùng ngày ra mắt iMac và MacBook Pro M6, Apple công bố bản cập nhật Creator Studio có trợ lý AI trong Pages, Numbers và Keynote, chạy một phần bằng mô hình của OpenAI.",
+   "source": "MacRumors + Engadget + 9to5Mac",
+   "hot": 4,
+   "reason": "ChatGPT nối với iCloud Mail và Lịch, áp dụng cho mọi gói kể cả miễn phí",
+   "images_note": "1 ảnh thông báo của OpenAI (giao diện ChatGPT), lấy qua Engadget, không watermark",
+   "urls": [
+    "https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/",
+    "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
+    "https://9to5mac.com/2026/10/27/icloud-mail-and-calendar-plugins-now-work-with-chatgpt/"
+   ]
+  },
+  {
+   "title": "vivo X500, X500 Pro và X500 Pro Max ra mắt quốc tế, giá ở châu Âu từ 1.299 euro",
+   "body": "Sau khi ra mắt tại Trung Quốc vào tháng trước, dòng vivo X500 vừa chính thức bán ra thị trường quốc tế với đủ ba máy X500, X500 Pro và X500 Pro Max. Giống các lần trước, vivo không đưa bản X500 tiêu chuẩn về một số khu vực như châu Âu.\n\nvivo X500 có mặt ở một số nước Đông Nam Á như Malaysia. Bản 12 GB RAM, 256 GB bộ nhớ có giá 4.699 ringgit, khoảng 1.149 USD, còn bản 12/512 GB giá 5.299 ringgit, khoảng 1.296 USD. Cấu hình giữ nguyên như bản Trung Quốc, gồm chip MediaTek Dimensity 9600M, màn hình AMOLED 6,58 inch, pin 7.500 mAh và cụm ba camera với camera chính 50 MP, camera tele 64 MP và camera góc siêu rộng 50 MP.\n\nvivo X500 Pro có giá 5.699 ringgit, khoảng 1.394 USD, cho phiên bản duy nhất 12/256 GB ở Malaysia. Tại châu Âu, máy có giá từ 1.299 euro cho bản 12/256 GB và 1.449 euro cho bản 512 GB. X500 Pro cũng giữ nguyên cấu hình bản Trung Quốc với chip Dimensity 9600 Pro, màn hình LTPO AMOLED 6,39 inch và pin Si-C 6.510 mAh. Cụm camera gồm camera chính 50 MP, camera tiềm vọng 200 MP và camera góc siêu rộng 50 MP.\n\nvivo X500 Pro Max bản quốc tế có pin Si-C 7.800 mAh, nhỏ hơn một chút so với viên pin 8.000 mAh của bản Trung Quốc. Cả ba máy đều hỗ trợ sạc nhanh có dây 90 W và sạc không dây 40 W.\n\nX500 Pro Max có giá từ 6.099 ringgit, khoảng 1.491 USD, cho bản 12/256 GB ở Malaysia. Bản cao nhất có 16 GB RAM, 1 TB bộ nhớ kèm bộ phụ kiện chụp ảnh, giá 9.699 ringgit, khoảng 2.372 USD. Ở châu Âu, X500 Pro Max có giá từ 1.499 euro cho bản 12/256 GB và lên tới 2.199 euro cho bản 1 TB kèm bộ phụ kiện chụp ảnh.\n\nvivo chưa công bố giá và thời gian bán dòng X500 tại các thị trường khác.",
+   "source": "GSMArena",
+   "hot": 4,
+   "reason": "Flagship camera của vivo bán ra quốc tế, có giá Malaysia và châu Âu",
+   "images_note": "1 ảnh key visual chính thức của vivo X500 Series (không watermark GSMArena)",
+   "urls": [
+    "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_go_global-news-75229.php"
+   ]
+  },
+  {
+   "title": "Apple cập nhật Creator Studio, Final Cut Pro có sẵn MotionVFX, Pages và Keynote có trợ lý AI",
+   "body": "Apple vừa công bố bản cập nhật cho bộ ứng dụng Creator Studio trên Mac, iPad và iPhone, bổ sung nhiều công cụ mới và các tính năng AI kết hợp mô hình của Apple với mô hình của OpenAI. Bản cập nhật được công bố cùng ngày với iMac và MacBook Pro 14 inch dùng chip M6, và sẽ lên App Store vào tháng 11.\n\nThay đổi lớn nhất nằm ở Final Cut Pro cho Mac. Ứng dụng này tích hợp sẵn MotionVFX, vốn trước đây là nhà cung cấp nội dung bên thứ ba. Người dựng phim có thêm hàng nghìn hiệu ứng, plugin, chuyển cảnh, mẫu dựng sẵn, tiêu đề và đồ họa chuyển động, cùng các công cụ tách nền theo khung hình (rotoscoping), theo dõi chuyển động và chỉnh màu. Content Hub do Apple tuyển chọn nay có thêm video, ảnh và hình nền, dùng được ngay trong Final Cut Pro. Final Cut Pro cũng cho chỉnh sửa liền mạch với Pixelmator Pro.\n\nLogic Pro cho Mac có trợ lý thông minh bản beta, chạy bằng cả mô hình của Apple lẫn OpenAI. Trợ lý này giúp bắt đầu bài hát mới, thiết lập track giọng hát chỉ bằng một câu lệnh hoặc chỉnh một dự án đang làm. Trình duyệt âm thanh (Browser) được thiết kế lại, gom mọi âm thanh về một chỗ và có cả thư viện Splice. Công cụ Stem Splitter giờ tách được riêng phần trống mà không cần bản thu nhiều track gốc.\n\nPixelmator Pro có tính năng Generate Fill, cho phép chọn một vùng ảnh rồi mô tả thay đổi mong muốn bằng ngôn ngữ tự nhiên.\n\nKeynote, Pages và Numbers có trợ lý AI hiểu nội dung tài liệu, cũng dựa trên mô hình của Apple và OpenAI. Trong Keynote, trợ lý giúp thiết kế, tạo hiệu ứng và chỉnh slide. Trong Pages, nó soạn, sắp xếp lại và trau chuốt văn bản. Trong Numbers, nó tính toán, trực quan hóa dữ liệu, gợi ý loại biểu đồ kèm bản xem trước và dựng bảng tùy chỉnh. Ba ứng dụng còn hỗ trợ Model Context Protocol (MCP), cho phép các tác tử AI bên ngoài đọc, chỉnh sửa và tự động hóa thao tác ngay trong ứng dụng.\n\nTrợ lý của Logic Pro chỉ có trên Mac, cần macOS 27 và máy hỗ trợ Apple Intelligence. Trợ lý của Keynote, Pages và Numbers cần thiết bị hỗ trợ Apple Intelligence chạy iOS 27, iPadOS 27 hoặc macOS 27. MCP chỉ có trên Mac với macOS 27. Mọi trợ lý đều đang ở bản beta và chỉ hỗ trợ tiếng Anh tại Mỹ.\n\nBản cập nhật miễn phí cho người đang thuê bao Creator Studio. Người đăng ký mới trả 12,99 USD mỗi tháng hoặc 129 USD mỗi năm. Các bản mua đứt Final Cut Pro (299,99 USD), Logic Pro (199,99 USD), Pixelmator Pro (49,99 USD), Motion (49,99 USD), Compressor (49,99 USD) và MainStage (29,99 USD) vẫn bán trên Mac App Store và cũng nhận tính năng mới vào tháng 11.",
+   "source": "MacRumors + 9to5Mac",
+   "hot": 3,
+   "reason": "Bổ sung cho đủ 5 bài. Apple đưa trợ lý AI dùng mô hình OpenAI vào bộ ứng dụng sáng tạo",
+   "images_note": "1 ảnh chính thức Apple Creator Studio từ Apple Newsroom",
+   "urls": [
+    "https://www.macrumors.com/2026/10/27/apple-updates-creator-studio-ai-features/",
+    "https://9to5mac.com/2026/10/27/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/"
+   ]
+  },
+  {
+   "title": "OnePlus 13, 13R, 13s và 15R bắt đầu lên Android 17, bỏ OxygenOS để chuyển sang ColorOS 17",
+   "body": "OnePlus đang mở rộng bản cập nhật Android 17 cho thêm bốn điện thoại gồm OnePlus 13, OnePlus 13R, OnePlus 13s và OnePlus 15R. Cùng với Android 17, các máy này chuyển từ OxygenOS sang ColorOS 17 của Oppo. Đợt cập nhật đang bắt đầu ở Ấn Độ, các khu vực khác sẽ nhận trong vài tuần tới.\n\nKhi OnePlus rút khỏi các thị trường toàn cầu hồi đầu năm, hãng thông báo OxygenOS sẽ bị khai tử và mọi thiết bị còn được hỗ trợ sẽ chuyển sang ColorOS. Quá trình chuyển đổi bắt đầu từ tuần trước trên OnePlus 15 và OnePlus Pad 4, sớm hơn ngày phát hành 29/10 mà hãng công bố trước đó. Hiện chỉ bản cập nhật cho OnePlus Pad 4 đã phát hành toàn cầu, các máy còn lại vẫn giới hạn ở Ấn Độ.\n\nOnePlus xác nhận bản ColorOS 17 ổn định cho từng máy qua các bài đăng trên diễn đàn cộng đồng. OnePlus 13 nhận bản CPH2649_17.0.0.102(EX01), OnePlus 13R nhận bản CPH2691_17.0.0.105(EX01), OnePlus 13s nhận bản CPH2723_17.0.0.101(EX01), còn OnePlus 15R nhận bản CPH2767_17.0.0.106(EX01). Cả bốn bản đều phát hành theo từng đợt nên không phải máy nào cũng nhận cùng lúc.\n\nTheo Android Authority, bản cập nhật mang tới phần Cài đặt nhanh và thông báo được thiết kế lại, hiệu ứng chuyển động mượt hơn, quản lý bộ nhớ thông minh hơn và thêm nhiều công cụ AI. Danh sách thay đổi còn nhắc tới tính năng phát hiện giọng nói do AI tạo trong các cuộc gọi đáng ngờ và cảnh báo khả năng bị ghép mặt trong cuộc gọi video.\n\n9to5Google nhận định OnePlus 13 là máy nổi bật nhất trong đợt này vì đây là flagship đời trước và cũng là một máy được nhiều người dùng OnePlus yêu thích. Android Authority cho rằng việc chuyển sang ColorOS sẽ không quá lạ lẫm vì hai giao diện vốn đã có nhiều điểm giống nhau.\n\nOnePlus từng bán OnePlus 13, 13R và 15R tại Mỹ, còn OnePlus 13s thì không. Hãng chưa xác nhận khi nào Android 17 tới tay người dùng Mỹ, nhưng Android Authority cho rằng việc đợt cập nhật đang mở rộng nhanh ở Ấn Độ là dấu hiệu bản phát hành rộng hơn sắp tới.",
+   "source": "9to5Google + Android Authority",
+   "hot": 3,
+   "reason": "Bổ sung cho đủ 5 bài. OnePlus 13 bỏ OxygenOS, chuyển sang ColorOS 17",
+   "images_note": "1 ảnh chính thức OnePlus 13 từ oneplus.com",
+   "urls": [
+    "https://9to5google.com/2026/10/27/oneplus-13-android-17-coloros-update/",
+    "https://www.androidauthority.com/oneplus-android-17-update-13-series-15r-3728488/"
+   ]
+  }
+ ]
 }
