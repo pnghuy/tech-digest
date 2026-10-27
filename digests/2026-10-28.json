@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T04:55:25.987386+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Apple ra mắt MacBook Pro 14 inch mới trang bị chip M6",
+      "summary_vi": "Apple chính thức công bố MacBook Pro 14 inch bản tiêu chuẩn sử dụng vi xử lý thế hệ mới M6. Thiết bị sở hữu thời lượng pin lên đến 24 giờ cùng kết nối Wi-Fi 7 và Bluetooth 6.",
+      "hot_level": 5,
+      "hot_reason": "Sản phẩm phần cứng chủ lực mới của Apple luôn thu hút lượng người đọc và tương tác cực lớn tại Việt Nam.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+      "source_title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+      "related_urls": [
+        "https://www.gsmarena.com/apple_updates_14inch_macbook_pro_and_imac_with_m6-news-75228.php",
+        "https://www.neowin.net/news/apple-announces-14-inch-macbook-pro-with-m6-offering-improved-ai-and-graphics-performance/?utm_source=rss",
+        "https://9to5mac.com/2026/10/27/m6-macbook-pro-vs-m5-macbook-pro-whats-actually-changed/",
+        "https://9to5mac.com/2026/10/27/watch-the-ad-for-apples-new-14-inch-macbook-pro-powered-by-m6/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "GSMArena",
+          "MacRumors",
+          "Neowin",
+          "TechCrunch",
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 213,
+        "trends": [],
+        "score": 13.13
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Apple trình làng iMac 24 inch dùng chip M6 nâng cấp AI mạnh mẽ",
+      "summary_vi": "Apple làm mới dòng máy tính all-in-one với iMac 24 inch chạy chip M6 mang lại hiệu năng xử lý AI vượt trội. Máy tích hợp chip N1 hỗ trợ chuẩn Wi-Fi 7, Bluetooth 6 và tốc độ ổ cứng SSD nhanh hơn.",
+      "hot_level": 4,
+      "hot_reason": "Dòng máy tính để bàn phổ biến của Apple chính thức nâng cấp vi xử lý thế hệ mới.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/27/apple-announces-new-imac-with-m6-chip-and-more/",
+      "source_title": "Apple Announces New iMac With M6 Chip and More",
+      "related_urls": [
+        "https://www.neowin.net/news/apple-unveils-new-m6-imac-with-up-to-5x-faster-ai-performance-wi-fi-7-and-more/?utm_source=rss",
+        "https://www.engadget.com/2298132/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "MacRumors",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Google giới thiệu mô hình thế giới Genie 4 với khả năng tạo âm thanh và tương tác thực tế",
+      "summary_vi": "DeepMind công bố mô hình Genie 4 cho phép tạo môi trường tương tác với độ dài khung cảnh lên tới hai phút. Mô hình bổ sung khả năng xử lý âm thanh, vật lý chân thực hơn và cho phép điều hướng theo thời gian thực.",
+      "hot_level": 4,
+      "hot_reason": "Bước tiến công nghệ AI mô phỏng thế giới mới từ Google DeepMind thu hút sự chú ý của giới công nghệ.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "source_title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "related_urls": [
+        "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+        "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
+      ],
+      "signals": {
+        "outlets": [
+          "Ars Technica",
+          "TechCrunch",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "ChatGPT chính thức hỗ trợ truy cập iCloud Mail và Calendar",
+      "summary_vi": "OpenAI bổ sung tiện ích mở rộng cho phép ChatGPT kết nối trực tiếp với dịch vụ thư điện tử và lịch của iCloud. Người dùng có thể yêu cầu trợ lý AI đọc, lên lịch cũng như cập nhật các sự kiện hiển thị trên ứng dụng Calendar.",
+      "hot_level": 4,
+      "hot_reason": "Sự kết hợp giữa công cụ AI phổ biến nhất và hệ sinh thái Apple tác động trực tiếp đến thói quen làm việc của nhiều người dùng.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/",
+      "source_title": "ChatGPT Can Now Access Your iCloud Mail and Calendar",
+      "related_urls": [
+        "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
+        "https://9to5mac.com/2026/10/27/icloud-mail-and-calendar-plugins-now-work-with-chatgpt/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Engadget",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "vivo ra mắt dòng flagship X500 trên thị trường quốc tế",
+      "summary_vi": "Sau khi xuất hiện tại thị trường nội địa, vivo chính thức đưa bộ ba X500, X500 Pro và X500 Pro Max ra toàn cầu. Dòng sản phẩm nổi bật với trang bị vi xử lý cao cấp MediaTek và hệ thống camera tập trung mạnh vào quay chụp.",
+      "hot_level": 4,
+      "hot_reason": "Flagship đầu bảng sở hữu camera khủng của thương hiệu quen thuộc với người tiêu dùng Việt Nam.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_go_global-news-75229.php",
+      "source_title": "vivo X500, X500 Pro and X500 Pro Max go global",
+      "related_urls": [
+        "https://www.gsmarena.com/vivo_x500_pro_in_for_review-news-75209.php",
+        "https://www.engadget.com/2297022/vivos-x500-pro-max-hands-on/",
+        "https://www.gsmarena.com/vivo_x500_pro_max-review-3009.php"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Apple cập nhật bộ công cụ Creator Studio với hàng loạt tính năng AI mới",
+      "summary_vi": "Apple công bố bản cập nhật cho Creator Studio trên Mac, iPad và iPhone kết hợp mô hình AI của Apple và OpenAI. Ứng dụng Final Cut Pro dành cho máy tính Mac cũng được trang bị các công cụ hỗ trợ thông minh mới.",
+      "hot_level": 3,
+      "hot_reason": "Bản nâng cấp phần mềm sáng tạo chuyên nghiệp của Apple nhận được sự quan tâm từ cộng đồng làm nội dung số.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/27/apple-updates-creator-studio-ai-features/",
+      "source_title": "Apple Updates Creator Studio With New Tools and AI Features",
+      "related_urls": [
+        "https://www.neowin.net/news/apple-creator-studio-brings-new-ai-assistant-liquid-glass-and-motionvfx-in-latest-updates/?utm_source=rss",
+        "https://9to5mac.com/2026/10/27/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "OnePlus 13 và các thiết bị cũ bắt đầu cập nhật ColorOS dựa trên Android 17",
+      "summary_vi": "OnePlus tiếp tục mở rộng kế hoạch chuyển đổi giao diện sang ColorOS cho mẫu điện thoại OnePlus 13 song song với bản nâng cấp Android 17. Đợt phát hành lần này bao gồm bốn thiết bị thuộc phân khúc cao cấp đời trước.",
+      "hot_level": 3,
+      "hot_reason": "Thay đổi lớn về hệ điều hành trên các dòng smartphone flagship được đông đảo người dùng Android quan tâm.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/27/oneplus-13-android-17-coloros-update/",
+      "source_title": "OnePlus rolling out ColorOS to OnePlus 13, others as Android 17 update expands",
+      "related_urls": [
+        "https://www.androidauthority.com/oneplus-android-17-update-13-series-15r-3728488/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Lộ diện hình ảnh báo chí của mẫu smartphone gập Samsung W27",
+      "summary_vi": "Hình ảnh rò rỉ mới nhất hé lộ toàn bộ thiết kế của chiếc điện thoại màn hình gập Samsung W27 dự kiến ra mắt vào ngày 29 tháng 10. Dòng W là phiên bản cao cấp được tùy biến riêng dựa trên nền tảng của mẫu Galaxy Z Fold.",
+      "hot_level": 3,
+      "hot_reason": "Thiết bị màn hình gập cao cấp tiếp theo của Samsung luôn là đề tài rò rỉ đáng chú ý.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/samsungs_next_foldable_leaks_in_officiallooking_renders-news-75227.php",
+      "source_title": "Samsung's next foldable leaks in official-looking renders",
+      "related_urls": [
+        "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-w27-render-leak-3728500/"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Lỗ hổng thực thi mã nghiêm trọng trong firmware UEFI đe dọa hàng triệu máy chủ",
+      "summary_vi": "Một lỗ hổng bảo mật nghiêm trọng vừa được phát hiện trong mã nguồn EDK2 của firmware UEFI. Lỗi này cho phép tin tặc thực thi mã độc ngay từ giai đoạn khởi động sớm của hệ thống, gây rủi ro cho phần lớn máy chủ trên toàn cầu.",
+      "hot_level": 3,
+      "hot_reason": "Lỗ hổng bảo mật phần cứng và firmware diện rộng có nguy cơ ảnh hưởng lớn đến hạ tầng mạng.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "source_title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Ars Technica"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Lộ thông tin về mẫu iPhone 18e giá rẻ sắp ra mắt của Apple",
+      "summary_vi": "Báo cáo rò rỉ cho biết Apple có kế hoạch giới thiệu mẫu iPhone 18e vào mùa xuân tới cùng với iPhone 18 và iPhone Air 2. Máy được cho là sẽ trang bị chip A20 sản xuất trên tiến trình 2nm và sử dụng màn hình tốc độ làm tươi 60Hz.",
+      "hot_level": 3,
+      "hot_reason": "Thông tin rò rỉ về dòng iPhone giá rẻ luôn tạo sức hút lớn với người dùng thiết bị Apple tại Việt Nam.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/27/apples-low-cost-iphone-18-details-revealed-by-leaker/",
+      "source_title": "Apple’s low-cost iPhone 18 details revealed by leaker",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Mac"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    }
+  ]
+}
