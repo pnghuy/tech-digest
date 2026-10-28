@@ -1,130 +1,126 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T04:55:25.987386+07:00",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T04:54:37.075180+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Apple ra mắt MacBook Pro 14 inch mới trang bị chip M6",
-      "summary_vi": "Apple chính thức công bố MacBook Pro 14 inch bản tiêu chuẩn sử dụng vi xử lý thế hệ mới M6. Thiết bị sở hữu thời lượng pin lên đến 24 giờ cùng kết nối Wi-Fi 7 và Bluetooth 6.",
+      "title_vi": "Apple chính thức ra mắt MacBook Pro màn hình cảm ứng OLED đầu tiên",
+      "summary_vi": "Apple đã công bố dòng MacBook Pro mới trang bị màn hình PROLED XDR cảm ứng cùng mức giá khởi điểm từ 2.899 USD. Đây là lần đầu tiên Mac hỗ trợ thao tác chạm trực tiếp trên màn hình, đánh dấu bước chuyển mình lớn của hãng.",
       "hot_level": 5,
-      "hot_reason": "Sản phẩm phần cứng chủ lực mới của Apple luôn thu hút lượng người đọc và tương tác cực lớn tại Việt Nam.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-      "source_title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+      "hot_reason": "Sự kiện phần cứng chấn động từ Apple khi phá vỡ truyền thống không làm màn hình cảm ứng cho MacBook và xuất hiện trên hầu hết trang công nghệ hàng đầu.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+      "source_title": "Apple announces touchscreen MacBook Pro with OLED display",
       "related_urls": [
-        "https://www.gsmarena.com/apple_updates_14inch_macbook_pro_and_imac_with_m6-news-75228.php",
-        "https://www.neowin.net/news/apple-announces-14-inch-macbook-pro-with-m6-offering-improved-ai-and-graphics-performance/?utm_source=rss",
-        "https://9to5mac.com/2026/10/27/m6-macbook-pro-vs-m5-macbook-pro-whats-actually-changed/",
-        "https://9to5mac.com/2026/10/27/watch-the-ad-for-apples-new-14-inch-macbook-pro-powered-by-m6/"
+        "https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/",
+        "https://9to5mac.com/2026/10/28/watch-apples-promo-video-for-the-new-macbook-pro-with-proled-xdr-display/",
+        "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+        "https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
-          "GSMArena",
+          "Ars Technica",
+          "Engadget",
           "MacRumors",
-          "Neowin",
           "TechCrunch",
           "Tom's Hardware"
         ],
-        "techmeme": false,
-        "hn_points": 213,
+        "techmeme": true,
+        "hn_points": 425,
         "trends": [],
-        "score": 13.13
+        "score": 18.0
       }
     },
     {
       "rank": 2,
-      "title_vi": "Apple trình làng iMac 24 inch dùng chip M6 nâng cấp AI mạnh mẽ",
-      "summary_vi": "Apple làm mới dòng máy tính all-in-one với iMac 24 inch chạy chip M6 mang lại hiệu năng xử lý AI vượt trội. Máy tích hợp chip N1 hỗ trợ chuẩn Wi-Fi 7, Bluetooth 6 và tốc độ ổ cứng SSD nhanh hơn.",
-      "hot_level": 4,
-      "hot_reason": "Dòng máy tính để bàn phổ biến của Apple chính thức nâng cấp vi xử lý thế hệ mới.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/27/apple-announces-new-imac-with-m6-chip-and-more/",
-      "source_title": "Apple Announces New iMac With M6 Chip and More",
+      "title_vi": "Google ra mắt mô hình AI tiên phong Gemini 4 Carbon",
+      "summary_vi": "Google vừa giới thiệu mô hình Gemini 4 Carbon chỉ hai tuần sau khi ra mắt Argon, mang lại bước nhảy vọt về khả năng lập trình, tác vụ tự hành và an ninh mạng. Mô hình mới cũng đứng đầu bảng xếp hạng Artificial Analysis về hiệu năng tổng thể.",
+      "hot_level": 5,
+      "hot_reason": "Mô hình AI đỉnh cao thế hệ mới của Google với bước tiến lớn về benchmark và an ninh mạng, thu hút thảo luận cực khủng.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source_title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
       "related_urls": [
-        "https://www.neowin.net/news/apple-unveils-new-m6-imac-with-up-to-5x-faster-ai-performance-wi-fi-7-and-more/?utm_source=rss",
-        "https://www.engadget.com/2298132/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/"
+        "https://www.androidauthority.com/google-announces-gemini-4-carbon-3729367/",
+        "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+        "https://9to5google.com/2026/10/28/gemini-4-carbon-announcement/"
       ],
       "signals": {
         "outlets": [
-          "Engadget",
-          "MacRumors",
-          "Neowin"
+          "9to5Google",
+          "Android Authority",
+          "Ars Technica",
+          "The Verge"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 674,
         "trends": [],
-        "score": 5.0
+        "score": 11.0
       }
     },
     {
       "rank": 3,
-      "title_vi": "Google giới thiệu mô hình thế giới Genie 4 với khả năng tạo âm thanh và tương tác thực tế",
-      "summary_vi": "DeepMind công bố mô hình Genie 4 cho phép tạo môi trường tương tác với độ dài khung cảnh lên tới hai phút. Mô hình bổ sung khả năng xử lý âm thanh, vật lý chân thực hơn và cho phép điều hướng theo thời gian thực.",
+      "title_vi": "Apple mở bán Mac Studio M5 Ultra hỗ trợ RAM lên tới 512GB",
+      "summary_vi": "Apple chính thức cho phép người dùng tùy chọn cấu hình bộ nhớ RAM lên đến 512GB cho Mac Studio chạy chip M5 Ultra trên cửa hàng trực tuyến. Mức giá cho phiên bản cấu hình tối đa này lên tới 22.299 USD.",
       "hot_level": 4,
-      "hot_reason": "Bước tiến công nghệ AI mô phỏng thế giới mới từ Google DeepMind thu hút sự chú ý của giới công nghệ.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "source_title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "related_urls": [
-        "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-        "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
-      ],
-      "signals": {
-        "outlets": [
-          "Ars Technica",
-          "TechCrunch",
-          "The Verge"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 5.0
-      }
-    },
-    {
-      "rank": 4,
-      "title_vi": "ChatGPT chính thức hỗ trợ truy cập iCloud Mail và Calendar",
-      "summary_vi": "OpenAI bổ sung tiện ích mở rộng cho phép ChatGPT kết nối trực tiếp với dịch vụ thư điện tử và lịch của iCloud. Người dùng có thể yêu cầu trợ lý AI đọc, lên lịch cũng như cập nhật các sự kiện hiển thị trên ứng dụng Calendar.",
-      "hot_level": 4,
-      "hot_reason": "Sự kết hợp giữa công cụ AI phổ biến nhất và hệ sinh thái Apple tác động trực tiếp đến thói quen làm việc của nhiều người dùng.",
+      "hot_reason": "Cấu hình phần cứng máy trạm chuyên nghiệp cực khủng và mức giá kỷ lục từ Apple nhận được sự chú ý lớn từ giới công nghệ.",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/",
-      "source_title": "ChatGPT Can Now Access Your iCloud Mail and Calendar",
+      "url": "https://www.macrumors.com/2026/10/28/mac-studio-m5-ultra-512gb-ram/",
+      "source_title": "Mac Studio With M5 Ultra Now Available With 512GB RAM for $22,299",
       "related_urls": [
-        "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
-        "https://9to5mac.com/2026/10/27/icloud-mail-and-calendar-plugins-now-work-with-chatgpt/"
+        "https://9to5mac.com/2026/10/28/apple-reveals-pricing-for-mac-studio-with-512gb-of-ram/"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
-          "Engadget",
           "MacRumors"
         ],
-        "techmeme": false,
-        "hn_points": 0,
+        "techmeme": true,
+        "hn_points": 51,
         "trends": [],
-        "score": 5.0
+        "score": 6.51
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Discord sẽ cho phép nội dung máy chủ công khai hiển thị trên Google Search từ tháng 12",
+      "summary_vi": "Discord chuẩn bị mở rộng khả năng tìm kiếm nội dung từ các máy chủ công khai qua Google và các công cụ tìm kiếm khác từ tháng 12. Người dùng và máy chủ vẫn sẽ được cung cấp tùy chọn tắt tính năng này để bảo đảm tính riêng tư.",
+      "hot_level": 4,
+      "hot_reason": "Thay đổi lớn về quyền riêng tư và khả năng tìm kiếm ảnh hưởng trực tiếp đến hàng trăm triệu người dùng Discord trên toàn cầu.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/discord-will-make-public-server-messages-searchable-on-google-starting-in-december-but-users-can-opt-out/",
+      "source_title": "Discord Will Make Public Server Messages Searchable On Google Starting In December, But Users Can Opt Out",
+      "related_urls": [
+        "https://9to5google.com/2026/10/28/discord-updates-server-web-pages-for-search/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 322,
+        "trends": [],
+        "score": 6.22
       }
     },
     {
       "rank": 5,
-      "title_vi": "vivo ra mắt dòng flagship X500 trên thị trường quốc tế",
-      "summary_vi": "Sau khi xuất hiện tại thị trường nội địa, vivo chính thức đưa bộ ba X500, X500 Pro và X500 Pro Max ra toàn cầu. Dòng sản phẩm nổi bật với trang bị vi xử lý cao cấp MediaTek và hệ thống camera tập trung mạnh vào quay chụp.",
+      "title_vi": "Apple đưa Dynamic Island lên dòng MacBook Pro mới",
+      "summary_vi": "Apple lần đầu tiên mang giao diện Dynamic Island lên máy Mac trên các mẫu MacBook Pro 14 inch và 16 inch vừa ra mắt. Khu vực tương tác này sẽ tích hợp tính năng Live Activities, Spotlight và trợ lý Siri AI ngay trên màn hình.",
       "hot_level": 4,
-      "hot_reason": "Flagship đầu bảng sở hữu camera khủng của thương hiệu quen thuộc với người tiêu dùng Việt Nam.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_go_global-news-75229.php",
-      "source_title": "vivo X500, X500 Pro and X500 Pro Max go global",
+      "hot_reason": "Tính năng thiết kế biểu tượng từ iPhone lần đầu cập bến dòng Mac, tạo sự tò mò lớn cho cộng đồng người dùng Apple.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/28/apple-brings-dynamic-island-to-mac/",
+      "source_title": "Apple Brings Dynamic Island to Mac for the First Time",
       "related_urls": [
-        "https://www.gsmarena.com/vivo_x500_pro_in_for_review-news-75209.php",
-        "https://www.engadget.com/2297022/vivos-x500-pro-max-hands-on/",
-        "https://www.gsmarena.com/vivo_x500_pro_max-review-3009.php"
+        "https://9to5mac.com/2026/10/28/on-the-day-of-the-touchscreen-mac-launch-dynamic-island-elements-found-in-macos-27/"
       ],
       "signals": {
         "outlets": [
-          "Engadget",
-          "GSMArena"
+          "9to5Mac",
+          "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -134,21 +130,44 @@
     },
     {
       "rank": 6,
-      "title_vi": "Apple cập nhật bộ công cụ Creator Studio với hàng loạt tính năng AI mới",
-      "summary_vi": "Apple công bố bản cập nhật cho Creator Studio trên Mac, iPad và iPhone kết hợp mô hình AI của Apple và OpenAI. Ứng dụng Final Cut Pro dành cho máy tính Mac cũng được trang bị các công cụ hỗ trợ thông minh mới.",
-      "hot_level": 3,
-      "hot_reason": "Bản nâng cấp phần mềm sáng tạo chuyên nghiệp của Apple nhận được sự quan tâm từ cộng đồng làm nội dung số.",
+      "title_vi": "Logo Apple phát sáng trở lại trên MacBook Pro sau 10 năm vắng bóng",
+      "summary_vi": "Apple đã đưa biểu tượng quả táo phát sáng ở mặt lưng quay trở lại trên dòng MacBook Pro thế hệ mới nhất. Chi tiết thiết kế mang tính hoài niệm này từng bị loại bỏ từ đợt tái thiết kế năm 2016.",
+      "hot_level": 4,
+      "hot_reason": "Sự trở lại của nét thiết kế kinh điển và được yêu thích nhất trong lịch sử laptop của Apple.",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/27/apple-updates-creator-studio-ai-features/",
-      "source_title": "Apple Updates Creator Studio With New Tools and AI Features",
+      "url": "https://www.macrumors.com/2026/10/28/illuminated-logo-returns-to-macbook-pro/",
+      "source_title": "Illuminated Apple Logo Returns to MacBook Pro After 10 Years",
       "related_urls": [
-        "https://www.neowin.net/news/apple-creator-studio-brings-new-ai-assistant-liquid-glass-and-motionvfx-in-latest-updates/?utm_source=rss",
-        "https://9to5mac.com/2026/10/27/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/"
+        "https://www.neowin.net/news/apples-iconic-glowing-logo-returns-to-macbook-pro-after-a-decade/?utm_source=rss"
       ],
       "signals": {
         "outlets": [
-          "9to5Mac",
           "MacRumors",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Samsung mở rộng mở bán tai nghe dạng mở Galaxy Buds On hỗ trợ Gemini Live",
+      "summary_vi": "Samsung xác nhận mẫu tai nghe thiết kế mở Galaxy Buds On dạng kẹp vành tai sẽ cập bến thị trường quốc tế vào đầu tháng sau với giá 229 USD. Sản phẩm mang thiết kế dạng kẹp không nhét tai và tích hợp sẵn trợ lý AI Gemini Live.",
+      "hot_level": 3,
+      "hot_reason": "Dòng tai nghe open-ear đầu tiên của Samsung cạnh tranh trực tiếp với các đối thủ dạng clip-on trên thị trường.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/28/samsung-galaxy-buds-on-price-pre-orders/",
+      "source_title": "Samsung’s open-ear Galaxy Buds On cost $229 in the US, launching next month",
+      "related_urls": [
+        "https://www.androidauthority.com/samsung-galaxy-buds-on-us-release-date-price-3728523/",
+        "https://www.neowin.net/news/samsungs-first-open-ear-earbuds-galaxy-buds-on-arrive-with-gemini-live/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority",
           "Neowin"
         ],
         "techmeme": false,
@@ -158,44 +177,47 @@
       }
     },
     {
-      "rank": 7,
-      "title_vi": "OnePlus 13 và các thiết bị cũ bắt đầu cập nhật ColorOS dựa trên Android 17",
-      "summary_vi": "OnePlus tiếp tục mở rộng kế hoạch chuyển đổi giao diện sang ColorOS cho mẫu điện thoại OnePlus 13 song song với bản nâng cấp Android 17. Đợt phát hành lần này bao gồm bốn thiết bị thuộc phân khúc cao cấp đời trước.",
-      "hot_level": 3,
-      "hot_reason": "Thay đổi lớn về hệ điều hành trên các dòng smartphone flagship được đông đảo người dùng Android quan tâm.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/27/oneplus-13-android-17-coloros-update/",
-      "source_title": "OnePlus rolling out ColorOS to OnePlus 13, others as Android 17 update expands",
-      "related_urls": [
-        "https://www.androidauthority.com/oneplus-android-17-update-13-series-15r-3728488/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Google",
-          "Android Authority"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
       "rank": 8,
-      "title_vi": "Lộ diện hình ảnh báo chí của mẫu smartphone gập Samsung W27",
-      "summary_vi": "Hình ảnh rò rỉ mới nhất hé lộ toàn bộ thiết kế của chiếc điện thoại màn hình gập Samsung W27 dự kiến ra mắt vào ngày 29 tháng 10. Dòng W là phiên bản cao cấp được tùy biến riêng dựa trên nền tảng của mẫu Galaxy Z Fold.",
+      "title_vi": "Amazon công bố khung ảnh Alexa Photo Frame và đồng hồ thông minh Echo Time",
+      "summary_vi": "Amazon vừa giới thiệu loạt thiết bị Echo mới bao gồm đồng hồ thông minh Echo Time hỗ trợ theo dõi giấc ngủ không cần camera và khung ảnh số Alexa Photo Frame. Hãng cũng nâng cấp màn hình thông minh Echo Show 16 và loa Echo Dot.",
       "hot_level": 3,
-      "hot_reason": "Thiết bị màn hình gập cao cấp tiếp theo của Samsung luôn là đề tài rò rỉ đáng chú ý.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/samsungs_next_foldable_leaks_in_officiallooking_renders-news-75227.php",
-      "source_title": "Samsung's next foldable leaks in official-looking renders",
+      "hot_reason": "Dải sản phẩm nhà thông minh phần cứng mới ra mắt quy mô lớn từ Amazon.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+      "source_title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
       "related_urls": [
-        "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-w27-render-leak-3728500/"
+        "https://www.androidauthority.com/amazon-echo-time-camera-free-smart-clock-3729226/",
+        "https://www.engadget.com/2299032/all-amazon-echo-news-october-2026/",
+        "https://www.engadget.com/2299247/amazon-alexa-photo-frame/"
       ],
       "signals": {
         "outlets": [
           "Android Authority",
-          "GSMArena"
+          "Engadget",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "XREAL ra mắt kính Aura chạy hệ điều hành Android XR tích hợp Gemini",
+      "summary_vi": "XREAL công bố kính thực tế ảo tăng cường XREAL Aura có giá khởi điểm 1.279 USD, hoạt động trên nền tảng Android XR và tích hợp AI Gemini của Google. Thiết bị hỗ trợ nhiều ứng dụng XR chuyên dụng ngay khi mở bán.",
+      "hot_level": 3,
+      "hot_reason": "Một trong những thiết bị phần cứng đầu tiên hiện thực hóa nền tảng Android XR kết hợp trợ lý AI của Google.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/android-xr-xreal-aura-launch-3729162/",
+      "source_title": "XREAL Aura brings Android XR and Gemini to your eyes, but it’ll cost you",
+      "related_urls": [
+        "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
+          "TechCrunch"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -204,43 +226,26 @@
       }
     },
     {
-      "rank": 9,
-      "title_vi": "Lỗ hổng thực thi mã nghiêm trọng trong firmware UEFI đe dọa hàng triệu máy chủ",
-      "summary_vi": "Một lỗ hổng bảo mật nghiêm trọng vừa được phát hiện trong mã nguồn EDK2 của firmware UEFI. Lỗi này cho phép tin tặc thực thi mã độc ngay từ giai đoạn khởi động sớm của hệ thống, gây rủi ro cho phần lớn máy chủ trên toàn cầu.",
-      "hot_level": 3,
-      "hot_reason": "Lỗ hổng bảo mật phần cứng và firmware diện rộng có nguy cơ ảnh hưởng lớn đến hạ tầng mạng.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "source_title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "Ars Technica"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 1.0
-      }
-    },
-    {
       "rank": 10,
-      "title_vi": "Lộ thông tin về mẫu iPhone 18e giá rẻ sắp ra mắt của Apple",
-      "summary_vi": "Báo cáo rò rỉ cho biết Apple có kế hoạch giới thiệu mẫu iPhone 18e vào mùa xuân tới cùng với iPhone 18 và iPhone Air 2. Máy được cho là sẽ trang bị chip A20 sản xuất trên tiến trình 2nm và sử dụng màn hình tốc độ làm tươi 60Hz.",
+      "title_vi": "Google Chrome bổ sung tính năng AI tự động điền biểu mẫu từ Gmail",
+      "summary_vi": "Trình duyệt Google Chrome cập nhật tính năng Autofill thông minh bằng AI, cho phép trích xuất thông tin vé máy bay, đơn hàng từ Gmail để điền biểu mẫu tự động. Người dùng cần cấp quyền để trình duyệt có thể xử lý dữ liệu từ hộp thư đến.",
       "hot_level": 3,
-      "hot_reason": "Thông tin rò rỉ về dòng iPhone giá rẻ luôn tạo sức hút lớn với người dùng thiết bị Apple tại Việt Nam.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/27/apples-low-cost-iphone-18-details-revealed-by-leaker/",
-      "source_title": "Apple’s low-cost iPhone 18 details revealed by leaker",
-      "related_urls": [],
+      "hot_reason": "Tính năng tiện ích ứng dụng AI mới trên trình duyệt phổ biến nhất thế giới phục vụ trực tiếp công việc hàng ngày.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "source_title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "related_urls": [
+        "https://www.androidauthority.com/chrome-gemini-autofill-gmail-privacy-3728808/"
+      ],
       "signals": {
         "outlets": [
-          "9to5Mac"
+          "Android Authority",
+          "TechCrunch"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 1.0
+        "score": 3.0
       }
     }
   ]
