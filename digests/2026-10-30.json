@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T05:57:08.531740+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Mỹ điều tra nghi vấn CEO Nvidia Jensen Huang bị tình báo nhắm tới",
+      "summary_vi": "Giới chức Mỹ đang điều tra nghi vấn một nữ lãnh đạo cấp cao của đối tác đám mây Nvidia có quan hệ mật thiết với Jensen Huang đã làm gián điệp và tuồn thông tin cho Bắc Kinh. Vụ việc diễn ra trong bối cảnh công ty này cũng bị cáo buộc bán lậu chip AI của Nvidia sang Trung Quốc.",
+      "hot_level": 5,
+      "hot_reason": "Tin tức chấn động liên quan trực tiếp đến CEO hãng chip AI số một thế giới và căng thẳng công nghệ Mỹ - Trung",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "source_title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "related_urls": [
+        "https://www.engadget.com/2301447/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/",
+        "https://www.tomshardware.com/tech-industry/policy/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-spy-plot-through-chinese-intelligence-asset-report-claims-exec-from-firm-under-investigation-for-smuggling-banned-ai-chips-to-china-accused-of-being-a-spy-was-also-feeding-information-to-beijing"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "TechCrunch",
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 246,
+        "trends": [],
+        "score": 7.46
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "SK Hynix cảnh báo khủng hoảng thiếu hụt chip nhớ sẽ kéo dài đến năm 2030",
+      "summary_vi": "Nhà sản xuất chip nhớ hàng đầu SK Hynix vừa công bố doanh thu kỷ lục quý 3 vượt mốc 100 nghìn tỷ won nhờ nhu cầu bộ nhớ bùng nổ. Tuy nhiên, hãng cũng đưa ra cảnh báo tình trạng khan hiếm nguồn cung RAM toàn cầu sẽ tiếp tục kéo dài tới tận năm 2030.",
+      "hot_level": 5,
+      "hot_reason": "Tác động sâu rộng tới toàn bộ thị trường phần cứng máy tính và thiết bị công nghệ tiêu dùng",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/sk_hynix_reports_record_q3_numbers_warns_that_the_memory_shortage_will_last_through_2030-news-75249.php",
+      "source_title": "SK hynix reports record Q3 numbers, warns that the memory shortage will last through 2030",
+      "related_urls": [
+        "https://www.pcworld.com/article/3272346/sk-hynix-now-expects-the-memory-shortage-to-last-until-2030.html",
+        "https://www.neowin.net/news/top-ram-supplier-sk-hynix-claims-memory-shortage-will-persist-through-2030/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "GSMArena",
+          "Neowin",
+          "PCWorld"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Reddit sẽ bắt buộc người dùng đăng nhập tài khoản mới xem được nội dung",
+      "summary_vi": "Reddit tuyên bố sẽ chuyển đổi nền tảng thành dịch vụ chỉ dành cho người dùng đã đăng nhập thay vì cho phép duyệt web tự do như trước. Quyết định này được đưa ra khi lưu lượng tìm kiếm từ web mở sụt giảm mạnh do các công cụ tìm kiếm AI nuốt mất traffic.",
+      "hot_level": 4,
+      "hot_reason": "Thay đổi lớn ảnh hưởng trực tiếp đến thói quen tra cứu thông tin của hàng trăm triệu người dùng Internet",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+      "source_title": "Reddit will force everyone to log in",
+      "related_urls": [
+        "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Samsung hé lộ kế hoạch dòng Galaxy S27 và mở rộng danh mục điện thoại gập",
+      "summary_vi": "Trong cuộc họp báo cáo tài chính mới nhất, Samsung đã hé lộ các kế hoạch quan trọng xoay quanh thế hệ flagship Galaxy S27 sắp tới. Hãng cũng lên kế hoạch mở rộng dải thiết bị màn hình gập và phát triển kính thực tế ảo tăng cường Android XR.",
+      "hot_level": 4,
+      "hot_reason": "Kế hoạch chiến lược của dòng smartphone Android phổ biến nhất tại thị trường Việt Nam",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/29/samsung-teases-galaxy-s27-plans-foldable-lineup-expansion-more/",
+      "source_title": "Samsung teases Galaxy S27 plans, foldable lineup expansion, more",
+      "related_urls": [
+        "https://www.androidauthority.com/samsung-galaxy-s27-plans-q3-2026-earnings-call-3729435/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Lãnh đạo Apple lên tiếng về việc iPad mini mới không có màn hình ProMotion 120Hz",
+      "summary_vi": "Phó chủ tịch Kỹ thuật Phần cứng của Apple Dave Pakula đã chia sẻ lý do iPad mini mới chỉ trang bị màn hình OLED với tốc độ làm tươi 60Hz thay vì ProMotion 120Hz. Thiết bị vẫn sở hữu thiết kế mỏng nhẹ hơn đáng kể và công nghệ Acoustic Display.",
+      "hot_level": 4,
+      "hot_reason": "Giải đáp thắc mắc lớn nhất của người dùng về dòng iPad mini OLED vừa ra mắt",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/29/apple-vp-talks-new-ipad-mini-oled-without-promotion-acoustic-display-more/",
+      "source_title": "Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more",
+      "related_urls": [
+        "https://www.macrumors.com/2026/10/29/apple-executive-on-ipad-mini-lacking-120hz/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Google phát hành Android 17 QPR3 Beta 3 đem tính năng khóa ứng dụng quay trở lại",
+      "summary_vi": "Google vừa tung ra bản cập nhật Android 17 QPR3 Beta 3 cho các thiết bị Pixel, chính thức mang tính năng khóa ứng dụng trở lại cùng loạt tùy chỉnh mới cho app bubble và Quick Settings. Bản cập nhật này cũng tập trung sửa 26 lỗi hệ thống tồn đọng trước đó.",
+      "hot_level": 3,
+      "hot_reason": "Bản cập nhật hệ điều hành lớn mang trở lại tính năng bảo mật quen thuộc được đông đảo người dùng Android quan tâm",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/android-17-qpr3-beta-3-3729781/",
+      "source_title": "Android 17 QPR3 Beta 3 brings back app lock and fixes dozens of bugs",
+      "related_urls": [
+        "https://9to5google.com/2026/10/29/android-17-qpr3-beta-3-everything-new/",
+        "https://9to5google.com/2026/10/29/android-17-qpr3-beta-3-pixel/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Samsung nâng cấp tính năng phát hiện ngưng thở khi ngủ cho Galaxy Watch và Galaxy Ring",
+      "summary_vi": "Samsung thông báo phiên bản nâng cấp ứng dụng AI phát hiện chứng ngưng thở khi ngủ sẽ sớm cập bến các thiết bị đeo thông minh vào tháng 11. Tính năng này được bổ sung cho cả dòng đồng hồ Galaxy Watch lẫn nhẫn thông minh Galaxy Ring.",
+      "hot_level": 3,
+      "hot_reason": "Nâng cấp tính năng sức khỏe giá trị cho hệ sinh thái thiết bị đeo phổ biến của Samsung",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/samsungs_sleep_apnea_detection_gets_better_on_the_galaxy_watches_and_galaxy_ring-news-75246.php",
+      "source_title": "Samsung's sleep apnea detection gets better on the Galaxy Watches and Galaxy Ring",
+      "related_urls": [
+        "https://9to5google.com/2026/10/29/enhanced-sleep-apnea-coming-to-these-galaxy-devices/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Apple và Google bị Hàn Quốc phạt hàng triệu USD vì vi phạm quy định cửa hàng ứng dụng",
+      "summary_vi": "Cơ quan quản lý Hàn Quốc đã phạt Apple 15,5 triệu USD và phạt Google do các hành vi vi phạm Luật Kinh doanh Viễn thông liên quan đến thanh toán trên kho ứng dụng. Cả hai gã khổng lồ công nghệ đồng thời bị buộc phải thay đổi nhiều chính sách thanh toán hiện hành.",
+      "hot_level": 3,
+      "hot_reason": "Đòn pháp lý quan trọng nhắm vào chính sách độc quyền thanh toán App Store và Play Store tại châu Á",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/28/apple-fined-15-5-million-as-south-korea-orders-changes-to-app-store-rules/",
+      "source_title": "Apple fined $15.5 million as South Korea orders changes to App Store rules",
+      "related_urls": [
+        "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Engadget"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 2.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Intel xác nhận chip Nova Lake dùng tiến trình 18A-P, ưu tiên tài nguyên cho CPU máy chủ",
+      "summary_vi": "CEO Lip-Bu Tan xác nhận dòng vi xử lý máy tính để bàn thế hệ mới Nova Lake sẽ là sản phẩm thương mại đầu tiên sử dụng tiến trình 18A-P nâng tiến của Intel. Đồng thời, hãng đang chuyển dịch bớt công suất của Panther Lake để tập trung sản xuất chip trung tâm dữ liệu Granite Rapids.",
+      "hot_level": 3,
+      "hot_reason": "Lộ trình sản xuất vi xử lý desktop thế hệ mới rất quan trọng của Intel trên tiến trình tiên tiến",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
+      "source_title": "Intel confirms Nova Lake will use advanced 18A-P node, more details at CES — company says it's taking Panther Lake capacity offline to build more Granite Rapids data center CPUs",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Google Photos sửa lỗi khó chịu khiến ảnh đã chỉnh sửa bị biến mất",
+      "summary_vi": "Google vừa tung ra bản vá khắc phục sự cố khiến những bức ảnh đã chỉnh sửa trong Google Photos trở nên vô hình đối với các ứng dụng Android bên thứ ba. Lỗi này từng gây phiền toái lớn cho người dùng khi chia sẻ hoặc mở ảnh trên các ứng dụng khác.",
+      "hot_level": 3,
+      "hot_reason": "Khắc phục lỗi trực tiếp trên ứng dụng lưu trữ và chỉnh sửa ảnh mặc định của hàng tỷ người dùng Android",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/29/google-photos-edited-pictures-bug-fix/",
+      "source_title": "Google Photos update fixes the bug that hid edited pictures",
+      "related_urls": [
+        "https://www.engadget.com/2301675/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Engadget"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    }
+  ]
+}
