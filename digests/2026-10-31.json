@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T04:54:00.597154+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Binance bị hack kỷ lục 6,3 tỷ USD, nghi do hacker Triều Tiên",
+      "summary_vi": "Sàn giao dịch tiền mã hóa Binance đã bị tấn công, mất ước tính 6,3 tỷ USD, đánh dấu vụ trộm tiền mã hóa lớn nhất lịch sử và được cho là có liên quan đến các nhóm hacker Triều Tiên. Binance đang nỗ lực đóng băng tài sản và cam kết sẽ bù đắp các khoản lỗ.",
+      "hot_level": 5,
+      "hot_reason": "Đây là vụ tấn công bảo mật lớn kỷ lục, gây thiệt hại hàng tỷ USD, được nhiều trang công nghệ lớn đưa tin và có tính chất nghiêm trọng.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+      "source_title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+      "related_urls": [
+        "https://www.tomshardware.com/tech-industry/cryptocurrency/binance-withdrawals-frozen-after-thieves-steal-usd5-6-billion-in-crypto-in-record-breaking-cryptocurrency-heist-firm-says-it-will-cover-losses-as-stablecoin-networks-move-to-freeze-usd2-4b-in-stolen-assets",
+        "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/",
+        "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/"
+      ],
+      "signals": {
+        "outlets": [
+          "Ars Technica",
+          "Engadget",
+          "TechCrunch",
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 83,
+        "trends": [],
+        "score": 7.83
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Google thừa nhận tìm kiếm AI kém lợi nhuận, sẽ tăng quảng cáo để bù đắp",
+      "summary_vi": "Google công bố báo cáo tài chính Q3 với dòng tiền âm 9,06 tỷ USD và cổ phiếu giảm mạnh. Công ty thừa nhận tính năng tìm kiếm AI hiện tại đang kém lợi nhuận nhưng sẽ khắc phục bằng cách tích hợp thêm quảng cáo.",
+      "hot_level": 4,
+      "hot_reason": "Tin tức quan trọng về hướng đi của Google với AI, ảnh hưởng trực tiếp đến trải nghiệm người dùng và mô hình kinh doanh tìm kiếm.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+      "source_title": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Ars Technica"
+        ],
+        "techmeme": false,
+        "hn_points": 424,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Lỗ hổng 'SMS tử thần' có thể làm treo điện thoại Android",
+      "summary_vi": "Một lỗ hổng bảo mật mới được phát hiện có thể làm treo cứng các điện thoại Android chạy phiên bản 12 trở lên khi nhận một tin nhắn WAP Push SMS được tạo riêng. Google đã biết về lỗ hổng này và đang chuẩn bị bản vá lỗi.",
+      "hot_level": 4,
+      "hot_reason": "Đây là lỗ hổng bảo mật nghiêm trọng ảnh hưởng trực tiếp đến hàng triệu người dùng Android và có thể khiến thiết bị ngừng hoạt động.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/a_new_android_vulnerability_can_leave_your_phone_unusable_when_receiving_the_sms_of_death-news-75288.php",
+      "source_title": "A new vulnerability can brick your Android phone when receiving the SMS of Death",
+      "related_urls": [
+        "https://www.androidauthority.com/android-sms-of-death-google-fix-3729929/"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Android 17 và One UI 9 đã được cập nhật cho nhiều điện thoại Galaxy và Nothing",
+      "summary_vi": "Bản cập nhật lớn Android 17 (Nothing OS 5.0) đang được triển khai cho các dòng điện thoại Nothing 4a và 3a. Đồng thời, One UI 9 với Android 17 cũng đang đến tay người dùng Galaxy A35 và Galaxy A16 tại Mỹ, mở rộng lịch trình cập nhật sớm hơn dự kiến.",
+      "hot_level": 4,
+      "hot_reason": "Tin tức về việc triển khai phiên bản Android lớn mới cho các dòng điện thoại phổ biến của Samsung và Nothing, thu hút sự quan tâm lớn từ người dùng Android tại Việt Nam.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-galaxy-a16-a35-one-ui-9-us-3730018/",
+      "source_title": "One UI 9 with Android 17 is rolling out to these two popular Galaxy phones in the US",
+      "related_urls": [
+        "https://9to5google.com/2026/10/30/nothing-os-5-0-android-17-is-now-rolling-out-to-nothing-4a-and-3a-series-phones/",
+        "https://www.androidauthority.com/nothing-android-17-update-phone-3a-4a-series-3730070/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Nhu cầu AI tăng vọt gây thiếu hụt PCB, ảnh hưởng đến nhà sản xuất PC",
+      "summary_vi": "Ngành công nghiệp AI đang làm gia tăng nhu cầu về bảng mạch in (PCB) đến mức kỷ lục, khiến các đơn đặt hàng được lấp đầy đến năm 2030. Điều này gây ra tình trạng thiếu hụt nghiêm trọng PCB cho các nhà sản xuất PC và thiết bị tiêu dùng.",
+      "hot_level": 4,
+      "hot_reason": "Sự thiếu hụt linh kiện do bùng nổ AI sẽ ảnh hưởng trực tiếp đến toàn bộ ngành công nghiệp phần cứng, bao gồm PC và smartphone.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
+      "source_title": "AI demand triggers massive PCB shortage for PC makers as order books full until 2030",
+      "related_urls": [
+        "https://wccftech.com/ai-boom-triggers-massive-pcb-shortage-with-orders-booked-until-2030/"
+      ],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Apple sẽ đưa Apple Intelligence lên iOS 27.3 Beta tại Trung Quốc vào tuần tới",
+      "summary_vi": "Apple đã thông báo rằng bản beta đầu tiên của iOS 27.3 dành cho nhà phát triển sẽ ra mắt vào tuần tới và sẽ kích hoạt một số tính năng của Apple Intelligence tại Trung Quốc. Đây là một bước tiến quan trọng trong việc mở rộng AI của Apple.",
+      "hot_level": 4,
+      "hot_reason": "Apple Intelligence là một tính năng AI lớn của Apple, việc mở rộng ra thị trường Trung Quốc cho thấy tầm quan trọng và sự phát triển của AI này.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/",
+      "source_title": "Apple Says iOS 27.3 Beta Coming Next Week With Apple Intelligence in China",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Các ông lớn AI cam kết hỗ trợ tiêu chuẩn mới để từ chối thu thập dữ liệu",
+      "summary_vi": "OpenAI, Google, Microsoft và Anthropic đã tuyên bố sẽ áp dụng một tiêu chuẩn mới cho phép các nhà xuất bản nội dung từ chối việc dữ liệu của họ bị các mô hình AI thu thập. Tiêu chuẩn này giúp các nhà xuất bản có quyền kiểm soát nội dung của mình.",
+      "hot_level": 4,
+      "hot_reason": "Việc các công ty AI hàng đầu cùng thống nhất một tiêu chuẩn về quyền riêng tư và dữ liệu là một bước tiến lớn cho đạo đức và chính sách AI.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source_title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Nvidia ngừng bán RTX 5080/5090, giá trên thị trường tăng vọt 2.2 lần MSRP",
+      "summary_vi": "Sau khi RTX 5090 bị gỡ khỏi cửa hàng, Nvidia tiếp tục âm thầm loại bỏ cả RTX 5080 khỏi danh sách, khiến giá trên thị trường bán lẻ tăng tới 2.2 lần so với giá gốc.",
+      "hot_level": 4,
+      "hot_reason": "Tin tức cực kỳ nóng hổi đối với cộng đồng game thủ và những người đam mê PC, cho thấy sự biến động lớn trên thị trường card đồ họa cao cấp của Nvidia.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-store-quietly-pulls-the-rtx-5080-following-rtx-5090-removal-street-prices-climb-to-2-2x-over-msrp",
+      "source_title": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal — street prices climb to 2.2X MSRP",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Vệ tinh trung tâm dữ liệu đầu tiên của Google đi vào hoạt động, có thể làm thơ",
+      "summary_vi": "Vệ tinh đầu tiên được trang bị TPU của Google đã đi vào hoạt động trên quỹ đạo, chạy mô hình Google DeepMind Gemma 4 và có khả năng sáng tác thơ.",
+      "hot_level": 4,
+      "hot_reason": "Google mang AI lên không gian là một thành tựu công nghệ đáng chú ý, được TechCrunch đưa tin và lên Techmeme.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source_title": "Google’s first data center satellite is online and writing poetry",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "TechCrunch"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Sam Altman: RAM nên ở trung tâm dữ liệu thay vì trên máy tính cá nhân",
+      "summary_vi": "CEO của OpenAI, Sam Altman, cho rằng việc có RAM trên máy tính cá nhân là 'khá tệ' trong bối cảnh thiếu hụt nguồn cung. Ông tin rằng RAM nên được tập trung tại các trung tâm dữ liệu để tối ưu hóa việc sử dụng cho AI.",
+      "hot_level": 3,
+      "hot_reason": "Quan điểm gây tranh cãi từ một nhân vật chủ chốt trong ngành AI, đưa ra góc nhìn mới về phân bổ tài nguyên phần cứng trong thời đại AI.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "source_title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "related_urls": [
+        "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization"
+      ],
+      "signals": {
+        "outlets": [
+          "The Verge",
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    }
+  ]
+}
