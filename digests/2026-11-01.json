@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T04:54:44.616534+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Tân CEO Apple tuyên bố không chạy đua ra mắt AI chỉ để cho có",
+      "summary_vi": "Tân CEO của Apple vừa lên tiếng bảo vệ định hướng và vị thế hiện tại của công ty trong làn sóng trí tuệ nhân tạo. Ông nhấn mạnh Apple không muốn vội vã tung ra các tính năng AI chỉ vì phong trào.",
+      "hot_level": 5,
+      "hot_reason": "Phát biểu chiến lược về AI từ người đứng đầu mới của Apple, được Techmeme và truyền thông công nghệ chú ý mạnh",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source_title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "TechCrunch"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [
+          "apple tv (US, ~10,000 lượt tìm)"
+        ],
+        "score": 8.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Apple công bố dung lượng pin của iPad mini thế hệ mới",
+      "summary_vi": "Nhãn năng lượng EU của iPad mini 8 vừa được công bố cho thấy máy sở hữu dung lượng pin 4.900 mAh. Con số này giảm nhẹ so với mức 5.034 mAh trên phiên bản tiền nhiệm.",
+      "hot_level": 4,
+      "hot_reason": "Thông số pin thực tế của iPad mini mới được nhiều trang công nghệ lớn cùng giải mã và đưa tin",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/",
+      "source_title": "Apple Reveals New iPad Mini's Battery Capacity",
+      "related_urls": [
+        "https://www.macrumors.com/2026/10/31/top-stories-apple-macbook-pro-ipad-mini-imac-updates/",
+        "https://www.macrumors.com/2026/10/30/the-macrumors-show-oled-macbook-pro/",
+        "https://www.gsmarena.com/the_new_ipad_minis_battery_capacity_is_no_longer_a_mystery-news-75283.php"
+      ],
+      "signals": {
+        "outlets": [
+          "GSMArena",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [
+          "apple tv (US, ~10,000 lượt tìm)"
+        ],
+        "score": 7.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "MacBook Pro màn hình cảm ứng và macOS 27 được tối ưu hóa thao tác chạm",
+      "summary_vi": "Apple đã trang bị màn hình PROLED XDR hỗ trợ cảm ứng đầu tiên trên dòng MacBook Pro mới. Đi kèm với đó, hệ điều hành macOS 27 mang đến hàng loạt tinh chỉnh giao diện nhằm tối ưu trải nghiệm thao tác vuốt chạm.",
+      "hot_level": 4,
+      "hot_reason": "Chi tiết trải nghiệm màn hình cảm ứng đầu tiên trên dòng MacBook Pro thu hút sự quan tâm lớn của cộng đồng người dùng Mac",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate/",
+      "source_title": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch",
+      "related_urls": [
+        "https://www.macrumors.com/2026/10/30/macbook-pro-proled-xdr-details/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "OpenAI có thể phải hạ mục tiêu huy động vốn trong vòng gọi vốn mới",
+      "summary_vi": "Vòng gọi vốn mới nhất của OpenAI được cho là không đạt được kỳ vọng ban đầu. Do đó, công ty phát triển ChatGPT đang phải xem xét hạ mức mục tiêu huy động vốn xuống thấp hơn.",
+      "hot_level": 4,
+      "hot_reason": "Tin tức tài chính đáng chú ý từ công ty AI lớn nhất thế giới, xuất hiện nổi bật trên Techmeme",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "source_title": "OpenAI reportedly lowers funding target for new round",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "TechCrunch"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Doanh số iPhone 18 Pro tại Trung Quốc tăng vọt 29%",
+      "summary_vi": "Theo Counterpoint Research, lượng bán dòng iPhone 18 Pro tại Trung Quốc ghi nhận mức tăng trưởng 29% trong giai đoạn mở bán. Mức tăng mạnh này đã bù đắp cho sự sụt giảm doanh số tại các thị trường như Mỹ và Nhật Bản.",
+      "hot_level": 4,
+      "hot_reason": "Báo cáo thị trường về doanh số iPhone thế hệ mới được người theo dõi công nghệ đặc biệt chú ý",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/",
+      "source_title": "iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan",
+      "related_urls": [
+        "https://www.gsmarena.com/apple_iphone_18_pro_vs_iphone_18_pro_max_battery_camera_price_compared-news-75173.php"
+      ],
+      "signals": {
+        "outlets": [
+          "GSMArena",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [
+          "apple tv (US, ~10,000 lượt tìm)"
+        ],
+        "score": 6.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Apple cảnh báo các trung tâm bảo hành về sự cố nứt màn hình trên iPhone Duo",
+      "summary_vi": "Apple vừa gửi tài liệu hướng dẫn nội bộ tới các cửa hàng Apple Store và trung tâm bảo hành ủy quyền. Nội dung nhằm hướng dẫn kỹ thuật viên cách chẩn đoán và xử lý lỗi nứt màn hình gập bên trong của iPhone Duo.",
+      "hot_level": 4,
+      "hot_reason": "Sự cố phần cứng trên thiết bị màn hình gập của Apple nhận được nhiều phản hồi và tranh luận",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/",
+      "source_title": "Apple Alerts Stores to iPhone Duo's Display Cracking Issue",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [
+          "apple tv (US, ~10,000 lượt tìm)"
+        ],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Tiện ích mở rộng của Anthropic trên Cursor bị cài mã độc trong 12 giờ",
+      "summary_vi": "Tiện ích mở rộng chính thức của Anthropic dành cho VS Code trên nền tảng Cursor đã bị kẻ tấn công xâm nhập và chèn cửa sau trong gần 12 giờ. Hiện nguyên nhân kẻ xấu chiếm được quyền truy cập tài khoản xác thực vẫn đang được làm rõ.",
+      "hot_level": 4,
+      "hot_reason": "Lỗ hổng bảo mật nghiêm trọng liên quan đến công cụ lập trình AI của Anthropic, lọt top Techmeme",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "source_title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Ars Technica"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "WhatsApp ra mắt tính năng cập nhật trạng thái riêng cho nhóm",
+      "summary_vi": "WhatsApp chính thức giới thiệu loạt tính năng mới hỗ trợ quản lý trò chuyện, nổi bật là Group Status. Người dùng hiện có thể chia sẻ các cập nhật trạng thái chỉ hiển thị với các thành viên trong nhóm để cùng tương tác và thả cảm xúc.",
+      "hot_level": 3,
+      "hot_reason": "Cập nhật tính năng mới trên ứng dụng nhắn tin có hàng tỷ người dùng trên toàn cầu",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/whatsapp_group_status-news-75298.php",
+      "source_title": "WhatsApp announces new features, including Group Status",
+      "related_urls": [
+        "https://9to5mac.com/2026/10/30/whatsapp-announces-four-new-features-to-make-group-chats-easier-to-manage/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 2.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Nothing phát hành Nothing OS 5.0 dựa trên Android 17 cho 4 mẫu máy",
+      "summary_vi": "Nothing bắt đầu triển khai bản cập nhật Nothing OS 5.0 chính thức trên nền Android 17 cho thêm 4 thiết bị. Danh sách cập nhật gồm Phone (4a), Phone (4a) Pro, Phone (3a) và Phone (3a) Pro.",
+      "hot_level": 3,
+      "hot_reason": "Bản cập nhật Android phiên bản mới được tung ra cho nhiều dòng máy của Nothing",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/nothing_phone_4a_4a_pro_3a_and_3a_pro_are_now_receiving_the_stable_update_to_android_17-news-75296.php",
+      "source_title": "Nothing Phone (4a), (4a) Pro, (3a), and (3a) Pro are now receiving the stable update to Android 17",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Apple mua lại startup kỹ thuật AI Ascend.io",
+      "summary_vi": "Apple vừa hoàn tất thương vụ thâu tóm startup Ascend.io, đơn vị chuyên phát triển công nghệ kỹ thuật dữ liệu tự hành (agentic data engineering). Thương vụ được công khai theo quy định của Đạo luật Thị trường Số (DMA).",
+      "hot_level": 3,
+      "hot_reason": "Thương vụ thâu tóm công ty công nghệ AI mới của Apple nhằm củng cố năng lực phát triển hệ sinh thái",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/30/apple-acquires-ascend%e2%80%a4io-an-agentic-ai-engineering-startup/",
+      "source_title": "Apple acquires Ascend․io, an agentic AI engineering startup",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Mac"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [
+          "apple tv (US, ~10,000 lượt tìm)"
+        ],
+        "score": 4.0
+      }
+    }
+  ]
+}
