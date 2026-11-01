@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T04:53:51.107025+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Ổ USB bảo mật của Lenovo thực chất chỉ là thẻ nhớ không mã hóa",
+      "summary_vi": "Ổ USB ThinkPlus FU100 của Lenovo được quảng cáo mã hóa AES-256 nhưng lại chứa thẻ SD không mã hóa, đồng thời phát hiện khóa cứng trong các sản phẩm \"an toàn\" khác của hãng.",
+      "hot_level": 5,
+      "hot_reason": "Lỗi bảo mật nghiêm trọng và sự gian lận sản phẩm từ một thương hiệu lớn, ảnh hưởng trực tiếp đến niềm tin người dùng.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products",
+      "source_title": "Lenovo's 'encrypted' fingerprint USB drive is just an unencrypted SD card in a fancy case",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 328,
+        "trends": [],
+        "score": 4.28
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Cảnh sát trưởng tự tay rút phích cắm camera giám sát sau khi công ty phớt lờ hủy hợp đồng",
+      "summary_vi": "Hội đồng thành phố Plymouth buộc phải tự ngắt kết nối camera Flock sau khi công ty này không phản hồi yêu cầu chấm dứt hợp đồng giữa các tranh cãi về quyền riêng tư.",
+      "hot_level": 5,
+      "hot_reason": "Sự kiện kịch tính về quyền riêng tư và mâu thuẫn giữa chính quyền địa phương với công ty công nghệ, thu hút sự chú ý rộng rãi.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "source_title": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 392,
+        "trends": [],
+        "score": 4.92
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Người dùng Snapdragon X2 Elite báo cáo hiệu năng AI và render chậm hơn đáng kể sau cập nhật driver",
+      "summary_vi": "Sau khi cập nhật driver Adreno, người dùng chip Snapdragon X2 Elite gặp tình trạng hiệu năng LLM giảm tới 87% và render Premiere chậm hơn 6 lần.",
+      "hot_level": 5,
+      "hot_reason": "Lỗi driver nghiêm trọng làm giảm hiệu năng AI và xử lý đồ họa trên dòng chip mới Snapdragon X2 Elite, ảnh hưởng trực tiếp đến trải nghiệm người dùng.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/snapdragon-x2-elite-adreno-driver-32-0-181-0-slowdown-local-ai-premiere/",
+      "source_title": "Snapdragon X2 Elite Users Report Up To 87% Slower LLM Performance After Adreno Driver Update, Premiere Renders Also Taking 6x Longer",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Sam Altman gặp lãnh đạo Samsung để đảm bảo nguồn cung RAM cho các trung tâm dữ liệu AI",
+      "summary_vi": "CEO OpenAI Sam Altman đã đến Hàn Quốc gặp gỡ lãnh đạo Samsung để thảo luận về tương lai AI, cơ hội kinh doanh và tác động của công nghệ này đến hoạt động của doanh nghiệp, trong bối cảnh thiếu hụt RAM nghiêm trọng.",
+      "hot_level": 4,
+      "hot_reason": "Cuộc gặp của CEO OpenAI với Samsung nhấn mạnh tầm quan trọng của nguồn cung RAM đối với sự phát triển AI và tình trạng thiếu hụt linh kiện toàn cầu.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+      "source_title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 56,
+        "trends": [],
+        "score": 1.56
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Mã độc Windows dùng AI Claude để xếp hạng giá trị tài sản đánh cắp, sau đó tự xóa",
+      "summary_vi": "Mã độc VOLTA infostealer mới do Cisco Talos phát hiện gửi dữ liệu người dùng bị đánh cắp tới Claude Opus 4.6 để xếp hạng giá trị tài sản theo khả năng kiếm tiền, sau đó tự xóa.",
+      "hot_level": 4,
+      "hot_reason": "Mã độc tấn công Windows sử dụng AI tiên tiến để tối đa hóa lợi nhuận, đặt ra mối đe dọa an ninh mạng mới và nghiêm trọng.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
+      "source_title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself — payload builds custom target assessment, can switch models if one refuses, or skip the AI step entirely",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Rò rỉ thông tin 3 mẫu iPad mới của Apple sẽ ra mắt vào nửa đầu năm 2027",
+      "summary_vi": "Sau iPad mini màn hình OLED, Apple được cho là sẽ ra mắt thêm các mẫu iPad Air, iPad Pro và iPad cơ bản mới vào nửa đầu năm 2027.",
+      "hot_level": 4,
+      "hot_reason": "Thông tin rò rỉ về kế hoạch ra mắt nhiều mẫu iPad mới của Apple luôn thu hút sự quan tâm lớn từ cộng đồng yêu công nghệ.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/",
+      "source_title": "Three New iPads Rumored to Launch in First Half of 2027",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Elon Musk tuyên bố Neuralink sẵn sàng chữa khỏi bệnh mù lòa bằng sản phẩm BlindSight",
+      "summary_vi": "Elon Musk cho biết sản phẩm BlindSight thứ hai của Neuralink nhằm mục đích phục hồi thị giác cho bệnh nhân mù, với công ty \"chỉ chờ phê duyệt quy định\".",
+      "hot_level": 4,
+      "hot_reason": "Tuyên bố táo bạo từ Elon Musk về khả năng chữa bệnh mù lòa của Neuralink tạo ra làn sóng chú ý lớn về công nghệ y sinh.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/elon-musk-says-neuralink-is-ready-to-cure-blindness-says-blindsight-will-enable-even-those-who-are-completely-blind-or-have-never-seen-to-see",
+      "source_title": "Elon Musk says Neuralink's 'BlindSight' is ready to cure blindness",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Thẩm phán yêu cầu xAI đối mặt với vụ kiện của NAACP về ô nhiễm trung tâm dữ liệu",
+      "summary_vi": "xAI của SpaceX phải đối mặt với vụ kiện của NAACP về cáo buộc vi phạm Đạo luật Không khí Sạch liên quan đến hoạt động trung tâm dữ liệu ở phía nam Memphis.",
+      "hot_level": 4,
+      "hot_reason": "Vụ kiện chống lại xAI của Elon Musk liên quan đến ô nhiễm môi trường từ trung tâm dữ liệu là một vấn đề lớn trong ngành công nghệ.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/",
+      "source_title": "Judge says xAI must face NAACP lawsuit on data center pollution",
+      "related_urls": [
+        "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Luật sư bị phát hiện thao túng AI của tòa án bằng prompt injection",
+      "summary_vi": "Các luật sư ở Brazil đã cố gắng sử dụng prompt injection để ảnh hưởng đến AI của tòa án trong một vụ án lao động nhưng bị phát hiện.",
+      "hot_level": 4,
+      "hot_reason": "Vụ việc cho thấy rủi ro và lỗ hổng của AI khi được triển khai trong các hệ thống quan trọng như tòa án, thu hút sự chú ý về đạo đức AI.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+      "source_title": "Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 295,
+        "trends": [],
+        "score": 3.95
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Google Pixel 11 Pro Fold ra mắt, khẳng định vị thế trong thị trường điện thoại gập",
+      "summary_vi": "Google đã tạo ra một chiếc điện thoại bền bỉ với Pixel 11 Pro Fold, nhưng thị trường điện thoại gập đang ngày càng cạnh tranh.",
+      "hot_level": 4,
+      "hot_reason": "Sự ra mắt của điện thoại gập mới từ Google luôn là một sự kiện được mong đợi trong thị trường smartphone.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "source_title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    }
+  ]
+}
