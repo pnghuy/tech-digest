@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T04:53:58.876807+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Các tủ đông siêu thị châu Âu bị tấn công mạng lần hai, thực phẩm bị hủy hoại",
+      "summary_vi": "Một cuộc tấn công mạng quy mô lớn lần thứ hai đã nhắm vào các tủ đông trong siêu thị ở Bỉ, Hà Lan, Thụy Điển và Luxembourg, gây gián đoạn chuỗi cung ứng thực phẩm và phá hủy hàng hóa. Tin tức này xuất hiện chỉ vài tuần sau đợt tấn công đầu tiên.",
+      "hot_level": 5,
+      "hot_reason": "Sự cố bảo mật nghiêm trọng trên diện rộng, ảnh hưởng đến đời sống người dân và chuỗi cung ứng, với độ hot sơ bộ cao nhất và thảo luận sôi nổi trên Hacker News.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/europe-supermarket-freezers-cyberattack-hits-belgium-netherlands-sweden-luxembourg/?utm_source=rss",
+      "source_title": "Europe supermarket freezers cyberattack hits Belgium, Netherlands, Sweden, Luxembourg",
+      "related_urls": [
+        "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks"
+      ],
+      "signals": {
+        "outlets": [
+          "Neowin",
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 332,
+        "trends": [],
+        "score": 6.32
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Google đóng cửa backdoor phần mềm độc hại trên hàng triệu thiết bị Android TV",
+      "summary_vi": "Google đã xác nhận một nhà sản xuất thiết bị Android TV đã cài đặt backdoor độc hại trên các thiết bị được chứng nhận, biến 1,3 triệu thiết bị thành botnet. Google đã tháo dỡ backdoor này và cắt đứt quan hệ với nhà sản xuất.",
+      "hot_level": 5,
+      "hot_reason": "Vấn đề bảo mật cực kỳ nghiêm trọng ảnh hưởng đến hàng triệu người dùng Android TV và hành động quyết liệt của Google.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/",
+      "source_title": "Google shuts down a sneaky malware backdoor on millions of Android TV and Google TV boxes",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Google"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Apple công bố kết quả tài chính Quý 4/2026 với lợi nhuận 30.7 tỷ USD",
+      "summary_vi": "Apple đã báo cáo doanh thu 114.5 tỷ USD và lợi nhuận ròng 30.7 tỷ USD cho quý tài chính thứ tư năm 2026. Đây là một quý quan trọng với nhiều sản phẩm ra mắt vào tháng 8 và 9.",
+      "hot_level": 5,
+      "hot_reason": "Tin tức tài chính hàng quý của Apple luôn là sự kiện lớn, thu hút sự chú ý của toàn bộ giới công nghệ.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/",
+      "source_title": "Apple Reports 4Q 2026 Results: $30.7B Profit on $114.5B Revenue",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "OpenAI ngừng ứng dụng ChatGPT Classic, hợp nhất các tab Chat và Work",
+      "summary_vi": "OpenAI đang chuẩn bị ngừng ứng dụng ChatGPT Classic và sẽ hợp nhất các tính năng Chat và Work vào một giao diện duy nhất trong ứng dụng mới. Thay đổi này nhằm tối ưu hóa trải nghiệm người dùng.",
+      "hot_level": 4,
+      "hot_reason": "Thay đổi lớn đối với sản phẩm cốt lõi của công ty AI hàng đầu, được nhiều trang công nghệ uy tín đưa tin.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
+      "source_title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
+      "related_urls": [
+        "https://www.neowin.net/news/openai-is-merging-chat-and-work-into-a-single-chatgpt-experience/?utm_source=rss",
+        "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Neowin",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "CEO Apple John Ternus lên tiếng về hạn chế nguồn cung và lỗi màn hình iPhone Duo",
+      "summary_vi": "CEO Apple John Ternus đã đề cập đến các hạn chế về nguồn cung iPhone Duo hiện tại và lỗi màn hình trên một số thiết bị. Ông cũng thảo luận về những thách thức trong cuộc họp báo cáo thu nhập quý 4/2026 của công ty.",
+      "hot_level": 4,
+      "hot_reason": "CEO Apple trực tiếp giải quyết vấn đề của iPhone, một sản phẩm chủ lực, ảnh hưởng trực tiếp đến người dùng và thị trường.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/02/john-ternus-addresses-iphone-duo-supply-constraints-display-issue/",
+      "source_title": "John Ternus addresses iPhone Duo supply constraints, display issue",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Mac"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "John Ternus lần đầu tiên làm CEO Apple chủ trì báo cáo tài chính",
+      "summary_vi": "Hôm nay, John Ternus sẽ tham gia cuộc họp báo cáo tài chính đầu tiên với tư cách Giám đốc điều hành của Apple. Ông cùng CFO Kevan Parekh sẽ thảo luận về kết quả kinh doanh của công ty.",
+      "hot_level": 4,
+      "hot_reason": "Sự kiện quan trọng đánh dấu vai trò mới của CEO Apple, được Techmeme và nhiều người quan tâm.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/02/john-ternus-first-apple-earnings-call/",
+      "source_title": "John Ternus Hosting His First Earnings Call as Apple CEO Today",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "MacRumors"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Rò rỉ thông số kỹ thuật chính của OnePlus Turbo 7 với chip Snapdragon 8 Gen 6",
+      "summary_vi": "Các thông số kỹ thuật chính của OnePlus Turbo 7 đã bị rò rỉ, cho thấy thiết bị sẽ được trang bị chip Snapdragon 8 Gen 6 mạnh mẽ. Đây được coi là một bước tiến lớn so với phiên bản trước.",
+      "hot_level": 4,
+      "hot_reason": "Tin rò rỉ smartphone mới với chip cao cấp luôn là tâm điểm chú ý của độc giả công nghệ, đặc biệt là tại thị trường Việt Nam.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/oneplus_turbo_7_key_specs_leak_and_its_a_big_step_up-news-75314.php",
+      "source_title": "OnePlus Turbo 7 key specs leak, and it's a big step up",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Apple được cho là đã hoãn kế hoạch ra mắt robot gia đình",
+      "summary_vi": "Apple được cho là đang phát triển một robot có khả năng di chuyển trong nhà và hỗ trợ các công việc, nhưng việc ra mắt đã bị trì hoãn do các vấn đề nội bộ. Sản phẩm này có thể có giá cao và công dụng hạn chế.",
+      "hot_level": 4,
+      "hot_reason": "Việc Apple tham gia vào một danh mục sản phẩm hoàn toàn mới (robotics) là tin tức lớn, ngay cả khi có sự chậm trễ.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "source_title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "related_urls": [
+        "https://www.neowin.net/news/apple-reportedly-delays-plans-to-launch-its-home-robot/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "Ars Technica",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "New York Times và nhiều hãng tin kiện trình duyệt Brave vì cáo buộc thu thập nội dung trái phép",
+      "summary_vi": "New York Times cùng một số hãng tin khác đã kiện công ty trình duyệt Brave, cáo buộc trình duyệt này thu thập nội dung có bản quyền và phân phối trái phép cho các đối tác AI như Anthropic và Perplexity. Vụ kiện cũng nhắc đến việc Brave cho phép người dùng vượt qua tường phí.",
+      "hot_level": 4,
+      "hot_reason": "Vụ kiện lớn liên quan đến bản quyền nội dung, AI scraping và trình duyệt web, với sự tham gia của các tên tuổi lớn.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "source_title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "related_urls": [
+        "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
+      ],
+      "signals": {
+        "outlets": [
+          "TechCrunch",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "SpaceX muốn mua Boost Mobile để cạnh tranh với các nhà mạng lớn",
+      "summary_vi": "SpaceX của Elon Musk được cho là đang tìm cách mua lại Boost Mobile để mở rộng mạng lưới Starlink và cạnh tranh trực tiếp với các nhà mạng di động lớn như AT&T, T-Mobile và Verizon. Đây có thể là bước đi lớn vào thị trường viễn thông.",
+      "hot_level": 4,
+      "hot_reason": "Tin tức về tham vọng của SpaceX và Elon Musk trong việc thâm nhập thị trường viễn thông di động, có thể thay đổi cục diện ngành.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+      "source_title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+      "related_urls": [
+        "https://wccftech.com/elon-musks-spacex-is-in-talks-to-buy-echostars-boost-mobile-a-way-around-the-mvno-wall-built-by-att-t-mobile-and-verizon-even-amid-a-threat-of-litigation/"
+      ],
+      "signals": {
+        "outlets": [
+          "TechCrunch",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    }
+  ]
+}
