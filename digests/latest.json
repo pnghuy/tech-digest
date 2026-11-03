@@ -1,88 +1,77 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T04:53:58.876807+07:00",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T04:55:32.372578+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Các tủ đông siêu thị châu Âu bị tấn công mạng lần hai, thực phẩm bị hủy hoại",
-      "summary_vi": "Một cuộc tấn công mạng quy mô lớn lần thứ hai đã nhắm vào các tủ đông trong siêu thị ở Bỉ, Hà Lan, Thụy Điển và Luxembourg, gây gián đoạn chuỗi cung ứng thực phẩm và phá hủy hàng hóa. Tin tức này xuất hiện chỉ vài tuần sau đợt tấn công đầu tiên.",
+      "title_vi": "Google ép trường học chấp nhận AI hoặc mất quyền truy cập Search",
+      "summary_vi": "Gã khổng lồ công nghệ Mỹ Google đang gây tranh cãi với chính sách yêu cầu các trường học phải chấp nhận sử dụng trí tuệ nhân tạo (AI) hoặc sẽ mất quyền truy cập vào Google Search.",
       "hot_level": 5,
-      "hot_reason": "Sự cố bảo mật nghiêm trọng trên diện rộng, ảnh hưởng đến đời sống người dân và chuỗi cung ứng, với độ hot sơ bộ cao nhất và thảo luận sôi nổi trên Hacker News.",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/europe-supermarket-freezers-cyberattack-hits-belgium-netherlands-sweden-luxembourg/?utm_source=rss",
-      "source_title": "Europe supermarket freezers cyberattack hits Belgium, Netherlands, Sweden, Luxembourg",
+      "hot_reason": "Tin tức cực kỳ nóng từ Google về chính sách AI gây tranh cãi lớn, ảnh hưởng đến giáo dục và người dùng Search.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/google-tells-schools-to-accept-ai-or-lose-google-search-access-entirely/",
+      "source_title": "Google Tells Schools To Accept AI Or Lose Google Search Access Entirely",
       "related_urls": [
-        "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks"
+        "https://9to5google.com/2026/11/03/google-search-ai-guided-learning-changes/",
+        "https://www.neowin.net/news/google-will-block-search-for-schools-that-opt-out-of-its-ai-features/?utm_source=rss",
+        "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
+        "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
       ],
       "signals": {
         "outlets": [
+          "9to5Google",
+          "Engadget",
           "Neowin",
-          "Tom's Hardware"
+          "TechCrunch",
+          "Wccftech"
         ],
         "techmeme": false,
-        "hn_points": 332,
+        "hn_points": 459,
         "trends": [],
-        "score": 6.32
+        "score": 13.0
       }
     },
     {
       "rank": 2,
-      "title_vi": "Google đóng cửa backdoor phần mềm độc hại trên hàng triệu thiết bị Android TV",
-      "summary_vi": "Google đã xác nhận một nhà sản xuất thiết bị Android TV đã cài đặt backdoor độc hại trên các thiết bị được chứng nhận, biến 1,3 triệu thiết bị thành botnet. Google đã tháo dỡ backdoor này và cắt đứt quan hệ với nhà sản xuất.",
+      "title_vi": "ChatGPT chiếm 20% lượng tìm kiếm của Google Search",
+      "summary_vi": "OpenAI cho biết lượng truy vấn tìm kiếm qua ChatGPT đã đạt khoảng 20% tổng khối lượng tìm kiếm của Google Search, một con số đáng kinh ngạc.",
       "hot_level": 5,
-      "hot_reason": "Vấn đề bảo mật cực kỳ nghiêm trọng ảnh hưởng đến hàng triệu người dùng Android TV và hành động quyết liệt của Google.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/",
-      "source_title": "Google shuts down a sneaky malware backdoor on millions of Android TV and Google TV boxes",
-      "related_urls": [],
+      "hot_reason": "Thông tin mang tính cách mạng cho thấy AI đang cạnh tranh trực tiếp và mạnh mẽ với dịch vụ cốt lõi của Google.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "source_title": "OpenAI says ChatGPT is catching up to Google in search",
+      "related_urls": [
+        "https://9to5google.com/2026/11/03/chatgpt-has-hit-roughly-20-of-google-search-volume-openai-says/"
+      ],
       "signals": {
         "outlets": [
-          "9to5Google"
+          "9to5Google",
+          "The Verge"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 1.0
+        "score": 3.0
       }
     },
     {
       "rank": 3,
-      "title_vi": "Apple công bố kết quả tài chính Quý 4/2026 với lợi nhuận 30.7 tỷ USD",
-      "summary_vi": "Apple đã báo cáo doanh thu 114.5 tỷ USD và lợi nhuận ròng 30.7 tỷ USD cho quý tài chính thứ tư năm 2026. Đây là một quý quan trọng với nhiều sản phẩm ra mắt vào tháng 8 và 9.",
-      "hot_level": 5,
-      "hot_reason": "Tin tức tài chính hàng quý của Apple luôn là sự kiện lớn, thu hút sự chú ý của toàn bộ giới công nghệ.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/",
-      "source_title": "Apple Reports 4Q 2026 Results: $30.7B Profit on $114.5B Revenue",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "MacRumors"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 1.0
-      }
-    },
-    {
-      "rank": 4,
-      "title_vi": "OpenAI ngừng ứng dụng ChatGPT Classic, hợp nhất các tab Chat và Work",
-      "summary_vi": "OpenAI đang chuẩn bị ngừng ứng dụng ChatGPT Classic và sẽ hợp nhất các tính năng Chat và Work vào một giao diện duy nhất trong ứng dụng mới. Thay đổi này nhằm tối ưu hóa trải nghiệm người dùng.",
+      "title_vi": "Galaxy Ring của Samsung được FDA chấp thuận phát hiện ngưng thở khi ngủ",
+      "summary_vi": "Galaxy Ring của Samsung đã được Cục Quản lý Thực phẩm và Dược phẩm (FDA) phê duyệt cho tính năng phát hiện ngưng thở khi ngủ nâng cao, mở rộng khả năng chăm sóc sức khỏe cho người dùng.",
       "hot_level": 4,
-      "hot_reason": "Thay đổi lớn đối với sản phẩm cốt lõi của công ty AI hàng đầu, được nhiều trang công nghệ uy tín đưa tin.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
-      "source_title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
+      "hot_reason": "Sản phẩm mới của Samsung nhận được phê duyệt y tế quan trọng, nâng cao tính năng sức khỏe cho người dùng Việt Nam.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2305182/samsung-galaxy-ring-gets-fda-approval-for-advanced-sleep-apnea-detection/",
+      "source_title": "Samsung's Galaxy Ring gets FDA approval for advanced sleep apnea detection",
       "related_urls": [
-        "https://www.neowin.net/news/openai-is-merging-chat-and-work-into-a-single-chatgpt-experience/?utm_source=rss",
-        "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+        "https://www.androidauthority.com/samsung-sleep-apnea-detection-rolling-out-3731174/",
+        "https://www.gsmarena.com/samsungs_upgraded_sleep_apnea_feature_is_now_available_on_the_galaxy_ring_and_watch9-news-75313.php"
       ],
       "signals": {
         "outlets": [
-          "9to5Mac",
-          "Neowin",
-          "TechCrunch"
+          "Android Authority",
+          "Engadget",
+          "GSMArena"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -91,38 +80,18 @@
       }
     },
     {
-      "rank": 5,
-      "title_vi": "CEO Apple John Ternus lên tiếng về hạn chế nguồn cung và lỗi màn hình iPhone Duo",
-      "summary_vi": "CEO Apple John Ternus đã đề cập đến các hạn chế về nguồn cung iPhone Duo hiện tại và lỗi màn hình trên một số thiết bị. Ông cũng thảo luận về những thách thức trong cuộc họp báo cáo thu nhập quý 4/2026 của công ty.",
+      "rank": 4,
+      "title_vi": "Nhà phát triển có thể tạo 'kỹ năng ứng dụng' nâng cao cho Siri AI",
+      "summary_vi": "Apple đã công bố một sáng kiến AI lớn cho các nhà phát triển bên thứ ba, cho phép mọi ứng dụng lần đầu tiên tạo ra các tích hợp Siri AI nâng cao.",
       "hot_level": 4,
-      "hot_reason": "CEO Apple trực tiếp giải quyết vấn đề của iPhone, một sản phẩm chủ lực, ảnh hưởng trực tiếp đến người dùng và thị trường.",
+      "hot_reason": "Apple mở cửa Siri AI cho nhà phát triển là bước tiến lớn, mở rộng khả năng và hệ sinh thái AI của hãng.",
       "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/02/john-ternus-addresses-iphone-duo-supply-constraints-display-issue/",
-      "source_title": "John Ternus addresses iPhone Duo supply constraints, display issue",
+      "url": "https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai/",
+      "source_title": "Developers can now create advanced ‘app skills’ for Siri AI",
       "related_urls": [],
       "signals": {
         "outlets": [
           "9to5Mac"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 1.0
-      }
-    },
-    {
-      "rank": 6,
-      "title_vi": "John Ternus lần đầu tiên làm CEO Apple chủ trì báo cáo tài chính",
-      "summary_vi": "Hôm nay, John Ternus sẽ tham gia cuộc họp báo cáo tài chính đầu tiên với tư cách Giám đốc điều hành của Apple. Ông cùng CFO Kevan Parekh sẽ thảo luận về kết quả kinh doanh của công ty.",
-      "hot_level": 4,
-      "hot_reason": "Sự kiện quan trọng đánh dấu vai trò mới của CEO Apple, được Techmeme và nhiều người quan tâm.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/02/john-ternus-first-apple-earnings-call/",
-      "source_title": "John Ternus Hosting His First Earnings Call as Apple CEO Today",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "MacRumors"
         ],
         "techmeme": true,
         "hn_points": 0,
@@ -131,14 +100,84 @@
       }
     },
     {
-      "rank": 7,
-      "title_vi": "Rò rỉ thông số kỹ thuật chính của OnePlus Turbo 7 với chip Snapdragon 8 Gen 6",
-      "summary_vi": "Các thông số kỹ thuật chính của OnePlus Turbo 7 đã bị rò rỉ, cho thấy thiết bị sẽ được trang bị chip Snapdragon 8 Gen 6 mạnh mẽ. Đây được coi là một bước tiến lớn so với phiên bản trước.",
+      "rank": 5,
+      "title_vi": "watchOS 27.3 mang tính năng Live Rewind và Siri Recap lên Apple Watch",
+      "summary_vi": "Với bản beta đầu tiên của watchOS 27.3, Apple giới thiệu các tính năng Audio Intelligence mới như Live Rewind và Siri Recap cho Apple Watch Series 12 và Ultra 4.",
       "hot_level": 4,
-      "hot_reason": "Tin rò rỉ smartphone mới với chip cao cấp luôn là tâm điểm chú ý của độc giả công nghệ, đặc biệt là tại thị trường Việt Nam.",
+      "hot_reason": "Apple ra mắt các tính năng AI mới cho Apple Watch, cải thiện trải nghiệm người dùng với thiết bị đeo tay phổ biến.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/",
+      "source_title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/03/watchos-27-3-beta-adds-new-siri-recap-and-live-rewind-features-for-apple-watch/",
+        "https://9to5mac.com/2026/11/03/watchos-27-3-ipados-27-3-and-more-now-available-in-beta/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 6.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Windows 11 tối ưu hóa cho PC 8GB RAM, đa nhiệm nhanh hơn 40%",
+      "summary_vi": "Microsoft cho biết đã tối ưu hóa Windows 11 để các hệ thống 8GB RAM có thể đa nhiệm nhanh hơn tới 40%, nhằm cải thiện hiệu năng cho nhiều người dùng PC.",
+      "hot_level": 4,
+      "hot_reason": "Microsoft cải thiện hiệu năng Windows cho cấu hình phổ biến là tin tức quan trọng với đa số người dùng PC.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/microsoft-windows-evp-pavan-davuluri-8gb-pcs-40-percent-faster-multitasking/",
+      "source_title": "Microsoft’s Windows EVP Pavan Davuluri Believes “Your PC Should Respond When You Need It To,” Saying 8GB Systems Now Offer Up To 40% Faster Multitasking",
+      "related_urls": [
+        "https://www.pcworld.com/article/3275945/microsoft-is-optimizing-windows-for-8gb-pcs-but-it-may-be-in-vain.html"
+      ],
+      "signals": {
+        "outlets": [
+          "PCWorld",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Apple giới hạn ứng dụng hẹn hò và AI lãng mạn cho người dùng từ 18 tuổi",
+      "summary_vi": "Apple sẽ yêu cầu xếp hạng độ tuổi 18+ cho các ứng dụng hẹn hò và AI bạn đồng hành cung cấp nội dung tình dục hoặc lãng mạn trên App Store.",
+      "hot_level": 4,
+      "hot_reason": "Chính sách mới của Apple ảnh hưởng đến các ứng dụng AI và hẹn hò, tác động lớn đến nhà phát triển và người dùng.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source_title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/02/apple-to-require-18-age-ratings-for-dating-apps-and-ai-romantic-companions/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Vấn đề của iPhone Duo giúp doanh số Galaxy Z Fold8 tăng 20%",
+      "summary_vi": "Các vấn đề về chất lượng của iPhone Duo đã vô tình tạo lợi thế cho Samsung, khi doanh số Galaxy Z Fold8 tăng 20% chỉ trong một tuần.",
+      "hot_level": 4,
+      "hot_reason": "Tin tức cạnh tranh trực tiếp giữa Apple và Samsung, thể hiện sự dịch chuyển thị trường do các vấn đề sản phẩm.",
       "source": "GSMArena",
-      "url": "https://www.gsmarena.com/oneplus_turbo_7_key_specs_leak_and_its_a_big_step_up-news-75314.php",
-      "source_title": "OnePlus Turbo 7 key specs leak, and it's a big step up",
+      "url": "https://www.gsmarena.com/iphone_duos_woes_are_a_boon_for_samsung_as_galaxy_z_fold8_sales_go_up_by_20_in_a_week-news-75325.php",
+      "source_title": "iPhone Duo's woes are a boon for Samsung as Galaxy Z Fold8 sales go up by 20% in a week",
       "related_urls": [],
       "signals": {
         "outlets": [
@@ -151,44 +190,22 @@
       }
     },
     {
-      "rank": 8,
-      "title_vi": "Apple được cho là đã hoãn kế hoạch ra mắt robot gia đình",
-      "summary_vi": "Apple được cho là đang phát triển một robot có khả năng di chuyển trong nhà và hỗ trợ các công việc, nhưng việc ra mắt đã bị trì hoãn do các vấn đề nội bộ. Sản phẩm này có thể có giá cao và công dụng hạn chế.",
-      "hot_level": 4,
-      "hot_reason": "Việc Apple tham gia vào một danh mục sản phẩm hoàn toàn mới (robotics) là tin tức lớn, ngay cả khi có sự chậm trễ.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "source_title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "related_urls": [
-        "https://www.neowin.net/news/apple-reportedly-delays-plans-to-launch-its-home-robot/?utm_source=rss"
-      ],
-      "signals": {
-        "outlets": [
-          "Ars Technica",
-          "Neowin"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
       "rank": 9,
-      "title_vi": "New York Times và nhiều hãng tin kiện trình duyệt Brave vì cáo buộc thu thập nội dung trái phép",
-      "summary_vi": "New York Times cùng một số hãng tin khác đã kiện công ty trình duyệt Brave, cáo buộc trình duyệt này thu thập nội dung có bản quyền và phân phối trái phép cho các đối tác AI như Anthropic và Perplexity. Vụ kiện cũng nhắc đến việc Brave cho phép người dùng vượt qua tường phí.",
+      "title_vi": "Samsung Galaxy S27 Pro và S27 Ultra sẽ có màn hình Privacy Display nâng cấp",
+      "summary_vi": "Tin đồn mới cho thấy Samsung Galaxy S27 Pro và S27 Ultra sẽ được trang bị phiên bản nâng cấp của màn hình Privacy Display, sau khi thiết bị thử nghiệm S27 Ultra lộ diện.",
       "hot_level": 4,
-      "hot_reason": "Vụ kiện lớn liên quan đến bản quyền nội dung, AI scraping và trình duyệt web, với sự tham gia của các tên tuổi lớn.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "source_title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "hot_reason": "Rò rỉ về flagship Samsung Galaxy S27 và tính năng màn hình độc đáo thu hút sự quan tâm của cộng đồng smartphone.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_galaxy_s27_ultra_upgraded_privacy_display-news-75319.php",
+      "source_title": "Samsung Galaxy S27 Pro and S27 Ultra to feature an upgraded Privacy Display",
       "related_urls": [
-        "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
+        "https://www.gsmarena.com/samsung_galaxy_s27_ultra_dummy_unit-news-75322.php",
+        "https://9to5google.com/2026/11/02/galaxy-s27-privacy-display-improved-brightness/"
       ],
       "signals": {
         "outlets": [
-          "TechCrunch",
-          "The Verge"
+          "9to5Google",
+          "GSMArena"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -198,20 +215,20 @@
     },
     {
       "rank": 10,
-      "title_vi": "SpaceX muốn mua Boost Mobile để cạnh tranh với các nhà mạng lớn",
-      "summary_vi": "SpaceX của Elon Musk được cho là đang tìm cách mua lại Boost Mobile để mở rộng mạng lưới Starlink và cạnh tranh trực tiếp với các nhà mạng di động lớn như AT&T, T-Mobile và Verizon. Đây có thể là bước đi lớn vào thị trường viễn thông.",
+      "title_vi": "Đánh giá sơ bộ iPad Mini OLED: Gần như iPad Pro Mini",
+      "summary_vi": "Phiên bản iPad Mini mới với màn hình OLED, thiết kế mỏng nhẹ hơn, màn hình lớn hơn và chip A20 Pro mạnh mẽ, sẽ ra mắt vào cuối tuần này.",
       "hot_level": 4,
-      "hot_reason": "Tin tức về tham vọng của SpaceX và Elon Musk trong việc thâm nhập thị trường viễn thông di động, có thể thay đổi cục diện ngành.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
-      "source_title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+      "hot_reason": "Sản phẩm phần cứng mới của Apple với màn hình OLED và chip mạnh mẽ luôn là tâm điểm của độc giả công nghệ.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/",
+      "source_title": "New iPad mini hands-on: Refreshed design, OLED display, more",
       "related_urls": [
-        "https://wccftech.com/elon-musks-spacex-is-in-talks-to-buy-echostars-boost-mobile-a-way-around-the-mvno-wall-built-by-att-t-mobile-and-verizon-even-amid-a-threat-of-litigation/"
+        "https://www.macrumors.com/2026/11/03/oled-ipad-mini-hands-on/"
       ],
       "signals": {
         "outlets": [
-          "TechCrunch",
-          "Wccftech"
+          "9to5Mac",
+          "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
