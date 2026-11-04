@@ -1,77 +1,75 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T04:55:32.372578+07:00",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T04:53:56.231782+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Google ép trường học chấp nhận AI hoặc mất quyền truy cập Search",
-      "summary_vi": "Gã khổng lồ công nghệ Mỹ Google đang gây tranh cãi với chính sách yêu cầu các trường học phải chấp nhận sử dụng trí tuệ nhân tạo (AI) hoặc sẽ mất quyền truy cập vào Google Search.",
+      "title_vi": "Apple sẽ quét liên kết iCloud công khai để tìm nội dung độc hại từ iOS 27.3",
+      "summary_vi": "Bắt đầu từ phiên bản iOS 27.3 cùng các bản cập nhật hệ điều hành mới, Apple sẽ tự động kiểm tra nội dung chia sẻ qua liên kết iCloud công khai nhằm ngăn chặn các tệp tin độc hại. Tính năng này áp dụng cho hình ảnh trên iCloud Photos và tệp tin trong iCloud Drive khi người dùng bật chế độ chia sẻ cho bất kỳ ai có liên kết.",
       "hot_level": 5,
-      "hot_reason": "Tin tức cực kỳ nóng từ Google về chính sách AI gây tranh cãi lớn, ảnh hưởng đến giáo dục và người dùng Search.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/google-tells-schools-to-accept-ai-or-lose-google-search-access-entirely/",
-      "source_title": "Google Tells Schools To Accept AI Or Lose Google Search Access Entirely",
+      "hot_reason": "Chính sách bảo mật dữ liệu đám mây mới của Apple nhận được sự quan tâm lớn từ nhiều chuyên trang công nghệ uy tín.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
+      "source_title": "Apple will check shared iCloud links for ‘harmful content’",
       "related_urls": [
-        "https://9to5google.com/2026/11/03/google-search-ai-guided-learning-changes/",
-        "https://www.neowin.net/news/google-will-block-search-for-schools-that-opt-out-of-its-ai-features/?utm_source=rss",
-        "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
-        "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+        "https://www.macrumors.com/2026/11/04/ios-27-3-icloud-link-check/",
+        "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
-          "Engadget",
-          "Neowin",
-          "TechCrunch",
-          "Wccftech"
+          "9to5Mac",
+          "MacRumors",
+          "The Verge"
         ],
-        "techmeme": false,
-        "hn_points": 459,
+        "techmeme": true,
+        "hn_points": 0,
         "trends": [],
-        "score": 13.0
+        "score": 8.0
       }
     },
     {
       "rank": 2,
-      "title_vi": "ChatGPT chiếm 20% lượng tìm kiếm của Google Search",
-      "summary_vi": "OpenAI cho biết lượng truy vấn tìm kiếm qua ChatGPT đã đạt khoảng 20% tổng khối lượng tìm kiếm của Google Search, một con số đáng kinh ngạc.",
+      "title_vi": "AMD chuẩn bị vượt doanh thu của Intel lần đầu tiên trong lịch sử",
+      "summary_vi": "AMD dự kiến đạt doanh thu 17 tỷ USD trong quý 4, qua đó lần đầu tiên vượt qua mức dự báo trung bình 15,5 tỷ USD của đối thủ Intel. Sự bứt phá này chủ yếu nhờ vào mảng trung tâm dữ liệu tăng trưởng mạnh mẽ với nhu cầu cao dành cho vi xử lý Epyc và chip tăng tốc Instinct.",
       "hot_level": 5,
-      "hot_reason": "Thông tin mang tính cách mạng cho thấy AI đang cạnh tranh trực tiếp và mạnh mẽ với dịch vụ cốt lõi của Google.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "source_title": "OpenAI says ChatGPT is catching up to Google in search",
+      "hot_reason": "Cột mốc lịch sử trong cuộc đối đầu kinh điển giữa hai gã khổng lồ sản xuất vi xử lý toàn cầu.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/amd-is-set-to-out-earn-intel-for-the-first-time-in-its-history-guiding-to-17-billion-in-q4-revenue-against-intels-15-5-billion-midpoint-projection/",
+      "source_title": "AMD Is Set To Out-Earn Intel For The First Time In Its History, Guiding To $17 Billion In Q4 Revenue Against Intel’s $15.5 Billion Midpoint Projection",
       "related_urls": [
-        "https://9to5google.com/2026/11/03/chatgpt-has-hit-roughly-20-of-google-search-volume-openai-says/"
+        "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
-          "The Verge"
+          "Tom's Hardware",
+          "Wccftech"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 387,
         "trends": [],
-        "score": 3.0
+        "score": 6.87
       }
     },
     {
       "rank": 3,
-      "title_vi": "Galaxy Ring của Samsung được FDA chấp thuận phát hiện ngưng thở khi ngủ",
-      "summary_vi": "Galaxy Ring của Samsung đã được Cục Quản lý Thực phẩm và Dược phẩm (FDA) phê duyệt cho tính năng phát hiện ngưng thở khi ngủ nâng cao, mở rộng khả năng chăm sóc sức khỏe cho người dùng.",
-      "hot_level": 4,
-      "hot_reason": "Sản phẩm mới của Samsung nhận được phê duyệt y tế quan trọng, nâng cao tính năng sức khỏe cho người dùng Việt Nam.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2305182/samsung-galaxy-ring-gets-fda-approval-for-advanced-sleep-apnea-detection/",
-      "source_title": "Samsung's Galaxy Ring gets FDA approval for advanced sleep apnea detection",
+      "title_vi": "Apple tung bản thử nghiệm iOS 27.3 Beta đầu tiên với nhiều tính năng mới",
+      "summary_vi": "Apple đã phát hành phiên bản thử nghiệm iOS 27.3 beta đầu tiên dành cho các nhà phát triển với nhiều nâng cấp đáng chú ý sau bản phát hành chính thức hồi tháng 9. Đi kèm với đó là các bản cập nhật beta cho iPadOS 27.3, macOS 27.3 và bộ công cụ Xcode hỗ trợ tích hợp sâu hơn trí tuệ nhân tạo.",
+      "hot_level": 5,
+      "hot_reason": "Bản cập nhật phần mềm lớn của Apple luôn thu hút lượng người dùng iPhone đông đảo tại Việt Nam.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/guide/ios-27-3-beta-features/",
+      "source_title": "Everything New in the iOS 27.3 Beta",
       "related_urls": [
-        "https://www.androidauthority.com/samsung-sleep-apnea-detection-rolling-out-3731174/",
-        "https://www.gsmarena.com/samsungs_upgraded_sleep_apnea_feature_is_now_available_on_the_galaxy_ring_and_watch9-news-75313.php"
+        "https://www.macrumors.com/2026/11/04/xcode-27-3-beta-new-features/",
+        "https://www.gsmarena.com/apple_releases_first_ios_273_developer_beta_heres_whats_new-news-75342.php",
+        "https://9to5mac.com/2026/11/04/ios-27-3-upgrades-apple-music-in-two-ways-heres-whats-new/",
+        "https://9to5mac.com/2026/11/03/ios-27-3-brings-apple-intelligence-features-to-china/"
       ],
       "signals": {
         "outlets": [
-          "Android Authority",
-          "Engadget",
-          "GSMArena"
+          "9to5Mac",
+          "GSMArena",
+          "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -81,126 +79,66 @@
     },
     {
       "rank": 4,
-      "title_vi": "Nhà phát triển có thể tạo 'kỹ năng ứng dụng' nâng cao cho Siri AI",
-      "summary_vi": "Apple đã công bố một sáng kiến AI lớn cho các nhà phát triển bên thứ ba, cho phép mọi ứng dụng lần đầu tiên tạo ra các tích hợp Siri AI nâng cao.",
+      "title_vi": "Nothing hé lộ thiết bị phần cứng AI không màn hình chuẩn bị ra mắt vào tháng 12",
+      "summary_vi": "CEO Carl Pei của Nothing thông báo công ty sẽ chính thức trình làng thiết bị AI chuyên dụng đầu tiên vào tháng 12 tới. Sản phẩm được khẳng định là phần cứng AI thuần túy và được thiết kế để hoạt động hoàn toàn độc lập thay vì chỉ là một ứng dụng di động thông thường.",
       "hot_level": 4,
-      "hot_reason": "Apple mở cửa Siri AI cho nhà phát triển là bước tiến lớn, mở rộng khả năng và hệ sinh thái AI của hãng.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai/",
-      "source_title": "Developers can now create advanced ‘app skills’ for Siri AI",
-      "related_urls": [],
+      "hot_reason": "Thương hiệu Nothing luôn tạo được sự tò mò lớn với các sản phẩm phần cứng công nghệ độc lạ.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "source_title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "related_urls": [
+        "https://www.androidauthority.com/nothing-ai-hardware-3731724/",
+        "https://9to5google.com/2026/11/04/nothing-teaser-new-ai-screen-less-product-launch/"
+      ],
       "signals": {
         "outlets": [
-          "9to5Mac"
+          "9to5Google",
+          "Android Authority",
+          "The Verge"
         ],
-        "techmeme": true,
+        "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 4.0
+        "score": 5.0
       }
     },
     {
       "rank": 5,
-      "title_vi": "watchOS 27.3 mang tính năng Live Rewind và Siri Recap lên Apple Watch",
-      "summary_vi": "Với bản beta đầu tiên của watchOS 27.3, Apple giới thiệu các tính năng Audio Intelligence mới như Live Rewind và Siri Recap cho Apple Watch Series 12 và Ultra 4.",
+      "title_vi": "Rò rỉ thông tin Samsung Galaxy S27 Pro sẽ không sử dụng Snapdragon 8 Elite Extreme Gen 6",
+      "summary_vi": "Thông tin rò rỉ mới nhất cho thấy mẫu Galaxy S27 Pro sắp tới của Samsung có thể sẽ không được trang bị vi xử lý cao cấp Snapdragon 8 Elite Extreme Gen 6 như các đồn đoán trước đó. Điều này dấy lên nhiều nghi vấn về kế hoạch phân bổ vi xử lý trên dòng flagship tiếp theo của hãng.",
       "hot_level": 4,
-      "hot_reason": "Apple ra mắt các tính năng AI mới cho Apple Watch, cải thiện trải nghiệm người dùng với thiết bị đeo tay phổ biến.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/03/watchos-27-3-audio-intelligence/",
-      "source_title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
+      "hot_reason": "Cấu hình dòng Galaxy S thế hệ mới luôn là tâm điểm chú ý của cộng đồng yêu thích Android tại Việt Nam.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_processor_revealed-news-75339.php",
+      "source_title": "New info reveals the Samsung Galaxy S27 Pro won't be powered by the Snapdragon 8 Elite Extreme Gen 6",
       "related_urls": [
-        "https://9to5mac.com/2026/11/03/watchos-27-3-beta-adds-new-siri-recap-and-live-rewind-features-for-apple-watch/",
-        "https://9to5mac.com/2026/11/03/watchos-27-3-ipados-27-3-and-more-now-available-in-beta/"
+        "https://www.androidauthority.com/snapdragon-elite-gen-6-phone-test-3730103/",
+        "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-chipset-leak-3731457/",
+        "https://www.neowin.net/reviews/redmagic-12-pro-review-beefed-up-with-top-end-snapdragon-8-elite-gen-6-extreme/?utm_source=rss"
       ],
       "signals": {
         "outlets": [
-          "9to5Mac",
-          "MacRumors"
+          "Android Authority",
+          "GSMArena",
+          "Neowin"
         ],
-        "techmeme": true,
+        "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 6.0
+        "score": 5.0
       }
     },
     {
       "rank": 6,
-      "title_vi": "Windows 11 tối ưu hóa cho PC 8GB RAM, đa nhiệm nhanh hơn 40%",
-      "summary_vi": "Microsoft cho biết đã tối ưu hóa Windows 11 để các hệ thống 8GB RAM có thể đa nhiệm nhanh hơn tới 40%, nhằm cải thiện hiệu năng cho nhiều người dùng PC.",
+      "title_vi": "Xiaomi công bố lịch trình cập nhật giao diện HyperOS 4",
+      "summary_vi": "Xiaomi đã chính thức phát hành lịch nâng cấp hệ điều hành HyperOS 4 mới cho các thiết bị thuộc dòng Xiaomi, Redmi và Poco. Bản cập nhật này bổ sung khả năng tương tác sâu hơn với iOS như chia sẻ tệp tin và hình ảnh dễ dàng hơn cùng nhiều tinh chỉnh về hiệu năng.",
       "hot_level": 4,
-      "hot_reason": "Microsoft cải thiện hiệu năng Windows cho cấu hình phổ biến là tin tức quan trọng với đa số người dùng PC.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/microsoft-windows-evp-pavan-davuluri-8gb-pcs-40-percent-faster-multitasking/",
-      "source_title": "Microsoft’s Windows EVP Pavan Davuluri Believes “Your PC Should Respond When You Need It To,” Saying 8GB Systems Now Offer Up To 40% Faster Multitasking",
-      "related_urls": [
-        "https://www.pcworld.com/article/3275945/microsoft-is-optimizing-windows-for-8gb-pcs-but-it-may-be-in-vain.html"
-      ],
-      "signals": {
-        "outlets": [
-          "PCWorld",
-          "Wccftech"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
-      "rank": 7,
-      "title_vi": "Apple giới hạn ứng dụng hẹn hò và AI lãng mạn cho người dùng từ 18 tuổi",
-      "summary_vi": "Apple sẽ yêu cầu xếp hạng độ tuổi 18+ cho các ứng dụng hẹn hò và AI bạn đồng hành cung cấp nội dung tình dục hoặc lãng mạn trên App Store.",
-      "hot_level": 4,
-      "hot_reason": "Chính sách mới của Apple ảnh hưởng đến các ứng dụng AI và hẹn hò, tác động lớn đến nhà phát triển và người dùng.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "source_title": "Apple restricts dating apps and AI companions to users 18 and up",
-      "related_urls": [
-        "https://9to5mac.com/2026/11/02/apple-to-require-18-age-ratings-for-dating-apps-and-ai-romantic-companions/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "TechCrunch"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
-      "rank": 8,
-      "title_vi": "Vấn đề của iPhone Duo giúp doanh số Galaxy Z Fold8 tăng 20%",
-      "summary_vi": "Các vấn đề về chất lượng của iPhone Duo đã vô tình tạo lợi thế cho Samsung, khi doanh số Galaxy Z Fold8 tăng 20% chỉ trong một tuần.",
-      "hot_level": 4,
-      "hot_reason": "Tin tức cạnh tranh trực tiếp giữa Apple và Samsung, thể hiện sự dịch chuyển thị trường do các vấn đề sản phẩm.",
+      "hot_reason": "Xiaomi sở hữu lượng người dùng điện thoại cực kỳ đông đảo tại thị trường Việt Nam.",
       "source": "GSMArena",
-      "url": "https://www.gsmarena.com/iphone_duos_woes_are_a_boon_for_samsung_as_galaxy_z_fold8_sales_go_up_by_20_in_a_week-news-75325.php",
-      "source_title": "iPhone Duo's woes are a boon for Samsung as Galaxy Z Fold8 sales go up by 20% in a week",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "GSMArena"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 1.0
-      }
-    },
-    {
-      "rank": 9,
-      "title_vi": "Samsung Galaxy S27 Pro và S27 Ultra sẽ có màn hình Privacy Display nâng cấp",
-      "summary_vi": "Tin đồn mới cho thấy Samsung Galaxy S27 Pro và S27 Ultra sẽ được trang bị phiên bản nâng cấp của màn hình Privacy Display, sau khi thiết bị thử nghiệm S27 Ultra lộ diện.",
-      "hot_level": 4,
-      "hot_reason": "Rò rỉ về flagship Samsung Galaxy S27 và tính năng màn hình độc đáo thu hút sự quan tâm của cộng đồng smartphone.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_galaxy_s27_ultra_upgraded_privacy_display-news-75319.php",
-      "source_title": "Samsung Galaxy S27 Pro and S27 Ultra to feature an upgraded Privacy Display",
+      "url": "https://www.gsmarena.com/xiaomi_sets_the_hyperos_4_update_rollout_schedule-news-75340.php",
+      "source_title": "Xiaomi unveils the HyperOS 4 update rollout schedule",
       "related_urls": [
-        "https://www.gsmarena.com/samsung_galaxy_s27_ultra_dummy_unit-news-75322.php",
-        "https://9to5google.com/2026/11/02/galaxy-s27-privacy-display-improved-brightness/"
+        "https://9to5google.com/2026/11/03/xiaomi-confirms-android-17-hyperos-4-rollout-schedule-device-list/"
       ],
       "signals": {
         "outlets": [
@@ -214,26 +152,89 @@
       }
     },
     {
-      "rank": 10,
-      "title_vi": "Đánh giá sơ bộ iPad Mini OLED: Gần như iPad Pro Mini",
-      "summary_vi": "Phiên bản iPad Mini mới với màn hình OLED, thiết kế mỏng nhẹ hơn, màn hình lớn hơn và chip A20 Pro mạnh mẽ, sẽ ra mắt vào cuối tuần này.",
-      "hot_level": 4,
-      "hot_reason": "Sản phẩm phần cứng mới của Apple với màn hình OLED và chip mạnh mẽ luôn là tâm điểm của độc giả công nghệ.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/",
-      "source_title": "New iPad mini hands-on: Refreshed design, OLED display, more",
+      "rank": 7,
+      "title_vi": "Google Maps cập nhật giao diện tối ưu hoàn toàn cho màn hình iPhone Duo",
+      "summary_vi": "Google Maps phiên bản mới nhất đã được nâng cấp để hỗ trợ đầy đủ thiết kế hai màn hình gập của iPhone Duo. Ứng dụng hiện có thể hiển thị tràn viền cả màn hình phụ bên ngoài lẫn màn hình lớn bên trong mà không còn khoảng trống thừa như trước.",
+      "hot_level": 3,
+      "hot_reason": "Ứng dụng bản đồ phổ biến nhất tối ưu hiển thị cho thiết bị phần cứng màn hình gập thế hệ mới của Apple.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/04/latest-google-maps-update-iphone-duo-support/",
+      "source_title": "Google Maps Updated to Fully Support iPhone Duo Displays",
       "related_urls": [
-        "https://www.macrumors.com/2026/11/03/oled-ipad-mini-hands-on/"
+        "https://www.gsmarena.com/google_maps_update_makes_the_app_fully_iphone_duo_compatible-news-75349.php"
       ],
       "signals": {
         "outlets": [
-          "9to5Mac",
+          "GSMArena",
           "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
         "score": 3.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Microsoft xác nhận lỗ hổng bảo mật nghiêm trọng trong ứng dụng Paint trên Windows 11",
+      "summary_vi": "Microsoft vừa cảnh báo về lỗ hổng thực thi mã từ xa CVE-2026-83844 xuất hiện trong ứng dụng Paint trên hệ điều hành Windows. Kẻ tấn công có thể lợi dụng lỗ hổng này qua mạng Internet để xâm nhập máy tính của người dùng.",
+      "hot_level": 3,
+      "hot_reason": "Lỗ hổng bảo mật ảnh hưởng trực tiếp đến người dùng hệ điều hành Windows 11 phổ biến.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/microsoft-paint-cve-2026-83844-lets-hackers-hack-windows-11-pcs-over-internet/?utm_source=rss",
+      "source_title": "Microsoft Paint CVE-2026-83844 lets hackers hack Windows 11 PCs over internet",
+      "related_urls": [
+        "https://www.pcworld.com/article/3276840/microsoft-is-fine-tuning-windows-11-heres-whats-coming-in-november.html"
+      ],
+      "signals": {
+        "outlets": [
+          "Neowin",
+          "PCWorld"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "ChatGPT ra mắt tính năng tạo ảnh động GIF trực tiếp từ câu lệnh",
+      "summary_vi": "OpenAI đã bổ sung tính năng tạo ảnh động GIF vào ChatGPT thông qua việc nâng cấp mô hình Images 2.6. Người dùng giờ đây có thể nhập mô tả văn bản hoặc tải ảnh lên để AI tạo chuyển động kèm theo các tùy chọn chỉnh sửa tốc độ linh hoạt.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng mới thú vị và tiện ích trên công cụ chatbot AI phổ biến nhất hiện nay.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "source_title": "ChatGPT will now make you animated GIFs",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Meta thâu tóm công ty khởi nghiệp AI lập trình Conductor",
+      "summary_vi": "Meta đã chính thức mua lại Conductor, một startup phát triển trí tuệ nhân tạo cho phép các kỹ sư phần mềm triển khai đội ngũ tác tử AI hoạt động đồng thời trên nhiều phần việc của dự án. Động thái này nhằm tăng tốc năng lực phát triển công nghệ tự động hóa phần mềm của tập đoàn.",
+      "hot_level": 3,
+      "hot_reason": "Thương vụ thâu tóm công nghệ AI mới đáng chú ý của gã khổng lồ Meta.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "source_title": "Meta acquires AI coding startup Conductor",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "TechCrunch"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 4.0
       }
     }
   ]
