@@ -1,25 +1,102 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T04:53:56.231782+07:00",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T04:53:59.085206+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Apple sẽ quét liên kết iCloud công khai để tìm nội dung độc hại từ iOS 27.3",
-      "summary_vi": "Bắt đầu từ phiên bản iOS 27.3 cùng các bản cập nhật hệ điều hành mới, Apple sẽ tự động kiểm tra nội dung chia sẻ qua liên kết iCloud công khai nhằm ngăn chặn các tệp tin độc hại. Tính năng này áp dụng cho hình ảnh trên iCloud Photos và tệp tin trong iCloud Drive khi người dùng bật chế độ chia sẻ cho bất kỳ ai có liên kết.",
+      "title_vi": "MacBook Pro PROLED XDR ra mắt với màn hình OLED và cảm ứng",
+      "summary_vi": "Apple đã công bố MacBook Pro với màn hình PROLED XDR, mang đến nhiều thay đổi lớn cho Mac bao gồm màn hình OLED tandem, thiết kế nhẹ hơn và bổ sung cảm ứng được chờ đợi từ lâu.",
       "hot_level": 5,
-      "hot_reason": "Chính sách bảo mật dữ liệu đám mây mới của Apple nhận được sự quan tâm lớn từ nhiều chuyên trang công nghệ uy tín.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
-      "source_title": "Apple will check shared iCloud links for ‘harmful content’",
+      "hot_reason": "Sự kiện ra mắt sản phẩm chủ lực của Apple, với công nghệ màn hình mới OLED và tính năng cảm ứng trên MacBook Pro thu hút sự chú ý rất lớn.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/05/macbook-pro-with-proled-xdr-display-touch-review/",
+      "source_title": "MacBook Pro with PROLED XDR Display review: A lot more than touch",
       "related_urls": [
-        "https://www.macrumors.com/2026/11/04/ios-27-3-icloud-link-check/",
-        "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/"
+        "https://9to5mac.com/2026/11/05/happy-hour-615/",
+        "https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-with-proled-xdr-display-review",
+        "https://www.engadget.com/2307215/apple-macbook-pro-with-proled-xdr-display-review/",
+        "https://www.macrumors.com/2026/11/05/see-apples-touchscreen-macbook-pro-in-action/"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
+          "Ars Technica",
+          "Engadget",
           "MacRumors",
-          "The Verge"
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 9.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Motorola Signature 27 ra mắt với pin 7.000mAh và 7 năm cập nhật Android",
+      "summary_vi": "Motorola chính thức trở lại phân khúc flagship với Signature 27, trang bị pin 7.000mAh và cam kết 7 năm cập nhật Android, có giá khởi điểm 1.600 USD.",
+      "hot_level": 4,
+      "hot_reason": "Sự ra mắt flagship Android với cấu hình khủng, pin lớn và chính sách cập nhật dài hạn từ một thương hiệu lớn thu hút nhiều người dùng Android.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/motorola-signature-27-launch-3731987/",
+      "source_title": "Motorola Signature 27 brings a 7,000mAh battery and seven years of Android updates for $1,600",
+      "related_urls": [
+        "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
+        "https://9to5google.com/2026/11/05/motorola-signature-27-specs-price-release-date/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority",
+          "Ars Technica"
+        ],
+        "techmeme": false,
+        "hn_points": 327,
+        "trends": [],
+        "score": 8.27
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Tin tặc khai thác lỗ hổng Chrome và GPU Snapdragon để tấn công điện thoại Android và iOS",
+      "summary_vi": "Các nhà nghiên cứu phát hiện tin tặc đã khai thác các lỗ hổng trên Chrome và GPU Snapdragon để lây nhiễm điện thoại Android và iOS thông qua các cuộc tấn công zero-click.",
+      "hot_level": 4,
+      "hot_reason": "Lỗ hổng bảo mật nghiêm trọng ảnh hưởng đến người dùng iOS và Android trên diện rộng, đặc biệt là hình thức tấn công zero-click cực kỳ nguy hiểm.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+      "source_title": "Hackers exploited iOS and Android flaws to infect phones",
+      "related_urls": [
+        "https://www.androidauthority.com/hackers-chrome-snapdragon-gpu-flaws-android-zero-click-3731860/"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
+          "Ars Technica"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 2.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Claude của Anthropic giờ đây có thể phân tích chi tiêu với công cụ Tài chính Cá nhân mới",
+      "summary_vi": "Anthropic nâng cấp Claude với tính năng Tài chính Cá nhân mới, cho phép người dùng kết nối tài khoản ngân hàng và thẻ để đặt câu hỏi về tài chính cá nhân.",
+      "hot_level": 4,
+      "hot_reason": "Tính năng AI mới từ Anthropic tích hợp sâu vào tài chính cá nhân có tiềm năng lớn, được nhiều trang công nghệ lớn đưa tin và lên Techmeme.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "source_title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "related_urls": [
+        "https://www.androidauthority.com/claude-personal-finance-launch-3732213/",
+        "https://9to5mac.com/2026/11/05/anthropic-upgrades-claude-with-new-personal-finance-feature/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Android Authority",
+          "TechCrunch"
         ],
         "techmeme": true,
         "hn_points": 0,
@@ -28,188 +105,110 @@
       }
     },
     {
-      "rank": 2,
-      "title_vi": "AMD chuẩn bị vượt doanh thu của Intel lần đầu tiên trong lịch sử",
-      "summary_vi": "AMD dự kiến đạt doanh thu 17 tỷ USD trong quý 4, qua đó lần đầu tiên vượt qua mức dự báo trung bình 15,5 tỷ USD của đối thủ Intel. Sự bứt phá này chủ yếu nhờ vào mảng trung tâm dữ liệu tăng trưởng mạnh mẽ với nhu cầu cao dành cho vi xử lý Epyc và chip tăng tốc Instinct.",
-      "hot_level": 5,
-      "hot_reason": "Cột mốc lịch sử trong cuộc đối đầu kinh điển giữa hai gã khổng lồ sản xuất vi xử lý toàn cầu.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/amd-is-set-to-out-earn-intel-for-the-first-time-in-its-history-guiding-to-17-billion-in-q4-revenue-against-intels-15-5-billion-midpoint-projection/",
-      "source_title": "AMD Is Set To Out-Earn Intel For The First Time In Its History, Guiding To $17 Billion In Q4 Revenue Against Intel’s $15.5 Billion Midpoint Projection",
-      "related_urls": [
-        "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections"
-      ],
-      "signals": {
-        "outlets": [
-          "Tom's Hardware",
-          "Wccftech"
-        ],
-        "techmeme": false,
-        "hn_points": 387,
-        "trends": [],
-        "score": 6.87
-      }
-    },
-    {
-      "rank": 3,
-      "title_vi": "Apple tung bản thử nghiệm iOS 27.3 Beta đầu tiên với nhiều tính năng mới",
-      "summary_vi": "Apple đã phát hành phiên bản thử nghiệm iOS 27.3 beta đầu tiên dành cho các nhà phát triển với nhiều nâng cấp đáng chú ý sau bản phát hành chính thức hồi tháng 9. Đi kèm với đó là các bản cập nhật beta cho iPadOS 27.3, macOS 27.3 và bộ công cụ Xcode hỗ trợ tích hợp sâu hơn trí tuệ nhân tạo.",
-      "hot_level": 5,
-      "hot_reason": "Bản cập nhật phần mềm lớn của Apple luôn thu hút lượng người dùng iPhone đông đảo tại Việt Nam.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/guide/ios-27-3-beta-features/",
-      "source_title": "Everything New in the iOS 27.3 Beta",
-      "related_urls": [
-        "https://www.macrumors.com/2026/11/04/xcode-27-3-beta-new-features/",
-        "https://www.gsmarena.com/apple_releases_first_ios_273_developer_beta_heres_whats_new-news-75342.php",
-        "https://9to5mac.com/2026/11/04/ios-27-3-upgrades-apple-music-in-two-ways-heres-whats-new/",
-        "https://9to5mac.com/2026/11/03/ios-27-3-brings-apple-intelligence-features-to-china/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "GSMArena",
-          "MacRumors"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 5.0
-      }
-    },
-    {
-      "rank": 4,
-      "title_vi": "Nothing hé lộ thiết bị phần cứng AI không màn hình chuẩn bị ra mắt vào tháng 12",
-      "summary_vi": "CEO Carl Pei của Nothing thông báo công ty sẽ chính thức trình làng thiết bị AI chuyên dụng đầu tiên vào tháng 12 tới. Sản phẩm được khẳng định là phần cứng AI thuần túy và được thiết kế để hoạt động hoàn toàn độc lập thay vì chỉ là một ứng dụng di động thông thường.",
-      "hot_level": 4,
-      "hot_reason": "Thương hiệu Nothing luôn tạo được sự tò mò lớn với các sản phẩm phần cứng công nghệ độc lạ.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-      "source_title": "Nothing teases a screen-free AI device ahead of launch next month",
-      "related_urls": [
-        "https://www.androidauthority.com/nothing-ai-hardware-3731724/",
-        "https://9to5google.com/2026/11/04/nothing-teaser-new-ai-screen-less-product-launch/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Google",
-          "Android Authority",
-          "The Verge"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 5.0
-      }
-    },
-    {
       "rank": 5,
-      "title_vi": "Rò rỉ thông tin Samsung Galaxy S27 Pro sẽ không sử dụng Snapdragon 8 Elite Extreme Gen 6",
-      "summary_vi": "Thông tin rò rỉ mới nhất cho thấy mẫu Galaxy S27 Pro sắp tới của Samsung có thể sẽ không được trang bị vi xử lý cao cấp Snapdragon 8 Elite Extreme Gen 6 như các đồn đoán trước đó. Điều này dấy lên nhiều nghi vấn về kế hoạch phân bổ vi xử lý trên dòng flagship tiếp theo của hãng.",
+      "title_vi": "Chính phủ Mỹ cảnh báo nguy cơ an ninh mạng liên tục sau các vụ tấn công tủ đông công nghiệp",
+      "summary_vi": "Chính phủ Mỹ đưa ra cảnh báo về mối đe dọa an ninh mạng đang diễn ra, ảnh hưởng đến các ngành công nghiệp thực phẩm, vận tải và y tế sau các báo cáo về tấn công hàng loạt tủ đông công nghiệp.",
       "hot_level": 4,
-      "hot_reason": "Cấu hình dòng Galaxy S thế hệ mới luôn là tâm điểm chú ý của cộng đồng yêu thích Android tại Việt Nam.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_processor_revealed-news-75339.php",
-      "source_title": "New info reveals the Samsung Galaxy S27 Pro won't be powered by the Snapdragon 8 Elite Extreme Gen 6",
-      "related_urls": [
-        "https://www.androidauthority.com/snapdragon-elite-gen-6-phone-test-3730103/",
-        "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-chipset-leak-3731457/",
-        "https://www.neowin.net/reviews/redmagic-12-pro-review-beefed-up-with-top-end-snapdragon-8-elite-gen-6-extreme/?utm_source=rss"
-      ],
+      "hot_reason": "Sự cố an ninh mạng có quy mô lớn, ảnh hưởng trực tiếp đến hạ tầng quan trọng và được chính phủ cảnh báo cho thấy mức độ nghiêm trọng cao.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "source_title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "Android Authority",
-          "GSMArena",
-          "Neowin"
+          "TechCrunch"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 5.0
+        "score": 1.0
       }
     },
     {
       "rank": 6,
-      "title_vi": "Xiaomi công bố lịch trình cập nhật giao diện HyperOS 4",
-      "summary_vi": "Xiaomi đã chính thức phát hành lịch nâng cấp hệ điều hành HyperOS 4 mới cho các thiết bị thuộc dòng Xiaomi, Redmi và Poco. Bản cập nhật này bổ sung khả năng tương tác sâu hơn với iOS như chia sẻ tệp tin và hình ảnh dễ dàng hơn cùng nhiều tinh chỉnh về hiệu năng.",
-      "hot_level": 4,
-      "hot_reason": "Xiaomi sở hữu lượng người dùng điện thoại cực kỳ đông đảo tại thị trường Việt Nam.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/xiaomi_sets_the_hyperos_4_update_rollout_schedule-news-75340.php",
-      "source_title": "Xiaomi unveils the HyperOS 4 update rollout schedule",
+      "title_vi": "Instagram ra mắt ứng dụng chỉnh sửa video Edits cho Mac",
+      "summary_vi": "Instagram đã phát hành phiên bản Edits cho Mac, một ứng dụng chỉnh sửa video miễn phí với khả năng chỉnh sửa đa rãnh, công cụ chỉnh màu nâng cao và xuất video 4K.",
+      "hot_level": 3,
+      "hot_reason": "Meta mở rộng ứng dụng chỉnh sửa video của Instagram sang nền tảng desktop Mac, cạnh tranh trực tiếp với các ứng dụng phổ biến khác.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/05/instagram-launches-edits-for-mac-with-multi-track-video-editing-and-4k-exports/",
+      "source_title": "Instagram launches Edits for Mac with multi-track video editing and 4K exports",
       "related_urls": [
-        "https://9to5google.com/2026/11/03/xiaomi-confirms-android-17-hyperos-4-rollout-schedule-device-list/"
+        "https://www.neowin.net/news/instagrams-new-desktop-video-editing-app-is-here-and-its-free/?utm_source=rss",
+        "https://www.engadget.com/2307169/instagrams-edits-is-now-on-desktop-as-a-mac-app/",
+        "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
-          "GSMArena"
+          "9to5Mac",
+          "Engadget",
+          "Neowin",
+          "TechCrunch"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 7.0
       }
     },
     {
       "rank": 7,
-      "title_vi": "Google Maps cập nhật giao diện tối ưu hoàn toàn cho màn hình iPhone Duo",
-      "summary_vi": "Google Maps phiên bản mới nhất đã được nâng cấp để hỗ trợ đầy đủ thiết kế hai màn hình gập của iPhone Duo. Ứng dụng hiện có thể hiển thị tràn viền cả màn hình phụ bên ngoài lẫn màn hình lớn bên trong mà không còn khoảng trống thừa như trước.",
+      "title_vi": "Ứng dụng Discord trên Windows mới tiêu thụ ít RAM hơn đáng kể",
+      "summary_vi": "Discord đang xây dựng lại ứng dụng desktop bằng Rust, loại bỏ Electron và React Native để tạo ra một client nhẹ hơn, sử dụng ít RAM hơn đáng kể so với Chrome, Steam và Spotify.",
       "hot_level": 3,
-      "hot_reason": "Ứng dụng bản đồ phổ biến nhất tối ưu hiển thị cho thiết bị phần cứng màn hình gập thế hệ mới của Apple.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/04/latest-google-maps-update-iphone-duo-support/",
-      "source_title": "Google Maps Updated to Fully Support iPhone Duo Displays",
-      "related_urls": [
-        "https://www.gsmarena.com/google_maps_update_makes_the_app_fully_iphone_duo_compatible-news-75349.php"
-      ],
+      "hot_reason": "Việc một ứng dụng lớn như Discord thay đổi nền tảng phát triển để cải thiện hiệu suất, đặc biệt là giảm tiêu thụ RAM, là tin tức quan trọng đối với cộng đồng người dùng công nghệ.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/new-windows-discord-app-shown-consuming-way-less-ram-than-chrome-steam-spotify/?utm_source=rss",
+      "source_title": "New Windows Discord app shown consuming way less RAM than Chrome, Steam, Spotify",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "GSMArena",
-          "MacRumors"
+          "Neowin"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 336,
         "trends": [],
-        "score": 3.0
+        "score": 4.36
       }
     },
     {
       "rank": 8,
-      "title_vi": "Microsoft xác nhận lỗ hổng bảo mật nghiêm trọng trong ứng dụng Paint trên Windows 11",
-      "summary_vi": "Microsoft vừa cảnh báo về lỗ hổng thực thi mã từ xa CVE-2026-83844 xuất hiện trong ứng dụng Paint trên hệ điều hành Windows. Kẻ tấn công có thể lợi dụng lỗ hổng này qua mạng Internet để xâm nhập máy tính của người dùng.",
+      "title_vi": "TikTok âm thầm ra mắt ứng dụng TikTok Shop độc lập",
+      "summary_vi": "TikTok đã phát hành một ứng dụng độc lập cho TikTok Shop tại một số quốc gia, cung cấp các đề xuất sản phẩm cá nhân hóa, mua sắm qua livestream và ưu đãi độc quyền.",
       "hot_level": 3,
-      "hot_reason": "Lỗ hổng bảo mật ảnh hưởng trực tiếp đến người dùng hệ điều hành Windows 11 phổ biến.",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/microsoft-paint-cve-2026-83844-lets-hackers-hack-windows-11-pcs-over-internet/?utm_source=rss",
-      "source_title": "Microsoft Paint CVE-2026-83844 lets hackers hack Windows 11 PCs over internet",
+      "hot_reason": "Động thái lớn từ TikTok nhằm thúc đẩy mảng thương mại điện tử với ứng dụng riêng, cho thấy tham vọng cạnh tranh với các ông lớn khác.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+      "source_title": "TikTok quietly launches a stand-alone TikTok Shop app",
       "related_urls": [
-        "https://www.pcworld.com/article/3276840/microsoft-is-fine-tuning-windows-11-heres-whats-coming-in-november.html"
+        "https://www.engadget.com/2308419/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/",
+        "https://www.theverge.com/tech/1027772/tiktok-shop-app"
       ],
       "signals": {
         "outlets": [
-          "Neowin",
-          "PCWorld"
+          "Engadget",
+          "TechCrunch",
+          "The Verge"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 5.0
       }
     },
     {
       "rank": 9,
-      "title_vi": "ChatGPT ra mắt tính năng tạo ảnh động GIF trực tiếp từ câu lệnh",
-      "summary_vi": "OpenAI đã bổ sung tính năng tạo ảnh động GIF vào ChatGPT thông qua việc nâng cấp mô hình Images 2.6. Người dùng giờ đây có thể nhập mô tả văn bản hoặc tải ảnh lên để AI tạo chuyển động kèm theo các tùy chọn chỉnh sửa tốc độ linh hoạt.",
+      "title_vi": "Warby Parker hé lộ thông tin về kính thông minh Android XR của Google",
+      "summary_vi": "Warby Parker dường như đã làm rò rỉ thông tin về việc Google sắp ra mắt kính thông minh Android XR, với sản phẩm 'Intelligent Eyewear' dự kiến sẽ có mặt trong tuần tới.",
       "hot_level": 3,
-      "hot_reason": "Tính năng mới thú vị và tiện ích trên công cụ chatbot AI phổ biến nhất hiện nay.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "source_title": "ChatGPT will now make you animated GIFs",
+      "hot_reason": "Tin tức rò rỉ về một sản phẩm phần cứng mới quan trọng trong lĩnh vực thực tế tăng cường/thực tế ảo (AR/VR) từ Google luôn thu hút sự quan tâm lớn.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
+      "source_title": "Warby Parker seemingly spilled the beans on Google's Android XR smart glasses launch",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "The Verge"
+          "Engadget"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -219,22 +218,25 @@
     },
     {
       "rank": 10,
-      "title_vi": "Meta thâu tóm công ty khởi nghiệp AI lập trình Conductor",
-      "summary_vi": "Meta đã chính thức mua lại Conductor, một startup phát triển trí tuệ nhân tạo cho phép các kỹ sư phần mềm triển khai đội ngũ tác tử AI hoạt động đồng thời trên nhiều phần việc của dự án. Động thái này nhằm tăng tốc năng lực phát triển công nghệ tự động hóa phần mềm của tập đoàn.",
+      "title_vi": "OpenAI công bố GPT-6 Cyber, mô hình an ninh mạng mạnh nhất từ trước đến nay",
+      "summary_vi": "OpenAI chính thức ra mắt GPT-6 Cyber, một mô hình bảo mật chuyên biệt được thiết kế để phát hiện lỗ hổng, xây dựng khai thác và tăng cường bảo vệ hạ tầng số.",
       "hot_level": 3,
-      "hot_reason": "Thương vụ thâu tóm công nghệ AI mới đáng chú ý của gã khổng lồ Meta.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "source_title": "Meta acquires AI coding startup Conductor",
-      "related_urls": [],
+      "hot_reason": "OpenAI tiếp tục mở rộng ứng dụng AI sang lĩnh vực an ninh mạng với một mô hình chuyên biệt, đánh dấu bước tiến quan trọng trong bảo mật kỹ thuật số.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/openai-announces-gpt-6-cyber-its-most-capable-cybersecurity-model-yet/?utm_source=rss",
+      "source_title": "OpenAI announces GPT-6 Cyber, its most capable cybersecurity model yet",
+      "related_urls": [
+        "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+      ],
       "signals": {
         "outlets": [
+          "Neowin",
           "TechCrunch"
         ],
-        "techmeme": true,
+        "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 4.0
+        "score": 3.0
       }
     }
   ]
