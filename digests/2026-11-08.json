@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T04:53:52.081826+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "CEO Nvidia Jensen Huang bị Quốc hội Mỹ triệu tập điều trần vì nghi vấn gián điệp",
+      "summary_vi": "Quốc hội Mỹ đã chính thức yêu cầu CEO Jensen Huang của Nvidia điều trần sau những báo cáo về mối liên hệ với một đối tượng tình nghi là gián điệp Trung Quốc. Vụ việc làm dấy lên những lo ngại sâu sắc về an ninh quốc gia liên quan đến chuỗi cung ứng chip AI.",
+      "hot_level": 5,
+      "hot_reason": "Nvidia và CEO Jensen Huang là tâm điểm công nghệ toàn cầu, việc bị Quốc hội triệu tập điều trần về gián điệp có tác động chấn động.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
+      "source_title": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot",
+      "related_urls": [
+        "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
+      ],
+      "signals": {
+        "outlets": [
+          "Ars Technica",
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Lô card đồ họa Nvidia trị giá 11,4 triệu USD bị đánh cắp tại California",
+      "summary_vi": "Sáu pallet chứa card đồ họa Nvidia với tổng giá trị khoảng 11,4 triệu USD đã bị đánh cắp bằng xe tải giả danh đơn vị vận chuyển thực phẩm. Giới chuyên gia cảnh báo các dòng chip AI giá trị cao đang bị tuồn sang thị trường chợ đen quốc tế với giá đắt đỏ.",
+      "hot_level": 4,
+      "hot_reason": "Vụ trộm phần cứng GPU Nvidia quy mô lớn gây chấn động thị trường phần cứng và công nghệ.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
+      "source_title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
+      "related_urls": [
+        "https://wccftech.com/nvidia-cargo-heist-11-million-dollars-hardware-stolen-oakland-texas/"
+      ],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 2.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Xiaomi 18 lộ thông số sạc, có thể ra mắt sớm ngay trong năm nay",
+      "summary_vi": "Chứng nhận 3C vừa tiết lộ khả năng sạc của Xiaomi 18, cho thấy thiết bị có thể sẽ sớm trình làng trong năm nay. Bộ đôi Xiaomi 18 Pro và 18 Pro Max cũng dự kiến sẽ chính thức cập bến thị trường quốc tế vào cuối năm.",
+      "hot_level": 4,
+      "hot_reason": "Xiaomi là thương hiệu smartphone cực kỳ phổ biến tại Việt Nam, thông tin thế hệ flagship mới luôn hút người xem.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/xiaomi_18_might_actually_arrive_this_year_3c_reveals_the_charging_capabilities-news-75396.php",
+      "source_title": "Xiaomi 18 might actually arrive this year, 3C reveals the charging capabilities",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "OnePlus công bố lịch trình cập nhật ColorOS 17 trong tháng 11",
+      "summary_vi": "OnePlus chính thức triển khai kế hoạch chuyển dịch giao diện từ OxygenOS sang ColorOS 17 dựa trên nền tảng Android 17. Lịch nâng cấp chi tiết cho từng dòng máy vừa được hãng công bố cho tháng 11.",
+      "hot_level": 3,
+      "hot_reason": "Lộ trình cập nhật hệ điều hành lớn của hãng smartphone quen thuộc nhận được nhiều sự quan tâm.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/oneplus_releases_its_coloros_17_rollout_schedule_for_november-news-75398.php",
+      "source_title": "OnePlus releases its ColorOS 17 rollout schedule for November",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "TSMC phủ nhận kế hoạch sản xuất bộ nhớ 3D DRAM theo yêu cầu của Nvidia",
+      "summary_vi": "TSMC đã lên tiếng bác bỏ thông tin cho rằng hãng đang nghiên cứu sản xuất bộ nhớ 3D DRAM để giải quyết tình trạng thiếu hụt chip nhớ cho Nvidia. Công nghệ bộ nhớ tiên tiến này được nhận định là vẫn còn nhiều năm nữa mới đạt tính khả thi thương mại.",
+      "hot_level": 3,
+      "hot_reason": "Tin tức chiến lược bán dẫn giữa hai ông lớn Nvidia và TSMC giải quyết nút thắt bộ nhớ phần cứng.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
+      "source_title": "TSMC denies exploring 3D DRAM at Nvidia's request",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Chuẩn Bluetooth High Data Throughput mới hỗ trợ truyền âm thanh lossless lên tới 7,5 Mbps",
+      "summary_vi": "Chuẩn kết nối Bluetooth HDT mới cho phép băng thông tối đa đạt mức 7,5 Mbps. Băng thông mở rộng này đáp ứng nhu cầu truyền tải âm thanh lossless nguyên bản và kết nối các thiết bị ngoại vi phức tạp hơn.",
+      "hot_level": 3,
+      "hot_reason": "Đột phá lớn về chuẩn Bluetooth truyền âm thanh chất lượng cao, rất được giới yêu âm thanh và thiết bị quan tâm.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission",
+      "source_title": "New Bluetooth High Data Throughput may finally satisfy audiophiles",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Valve phát triển giải pháp tối ưu game x86 trên vi xử lý Arm cho Steam",
+      "summary_vi": "Valve đang nỗ lực tối ưu nền tảng Steam nhằm loại bỏ hiện tượng giật lag khi dịch tập lệnh game trên các hệ máy dùng chip Arm. Hãng muốn giải quyết triệt để khâu biên dịch này trước cả khi người chơi bấm nút khởi động game.",
+      "hot_level": 3,
+      "hot_reason": "Cột mốc quan trọng thúc đẩy tương lai chơi game trên PC chạy chip kiến trúc Arm của Valve.",
+      "source": "PCWorld",
+      "url": "https://www.pcworld.com/article/3276245/valve-wants-steam-to-kill-arm-gaming-stutter-before-you-even-hit-play.html",
+      "source_title": "Valve wants Steam to squash Arm gaming stutter before you even hit play",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "PCWorld"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "WhatsApp thử nghiệm tính năng ẩn số điện thoại bằng tên người dùng",
+      "summary_vi": "WhatsApp đang phát triển tùy chọn cho phép người dùng kiểm soát ai có thể nhìn thấy số điện thoại của mình. Tính năng Username giúp tăng cường tính riêng tư, cho phép liên lạc qua tên định danh mà không lộ thông tin cá nhân.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng bảo vệ quyền riêng tư lớn trên ứng dụng nhắn tin hàng tỷ người dùng.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/whatsapp_phone_number_privacy_feature_development-news-75395.php",
+      "source_title": "WhatsApp is testing a feature that lets you control who sees your phone number",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Anthropic đẩy nhanh tốc độ phát triển mô hình bằng việc dùng AI để tự tạo AI",
+      "summary_vi": "Báo cáo mới từ METR cho thấy Anthropic đang tận dụng AI để tự động hóa việc phát triển các mô hình thế hệ tiếp theo. Tốc độ cải tiến của các mô hình hiện nhanh gấp đôi so với năm ngoái, dấy lên nhiều lo ngại về mức độ an toàn.",
+      "hot_level": 3,
+      "hot_reason": "Bước tiến công nghệ AI tự hoàn thiện của một trong những công ty AI hàng đầu hiện nay.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source_title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Cục Hàng không Liên bang Mỹ sẽ loại bỏ hoàn toàn đĩa mềm vào năm 2028",
+      "summary_vi": "Cục Hàng không Liên bang Mỹ (FAA) lên kế hoạch thay thế hệ thống kiểm soát không lưu dùng đĩa mềm tồn tại suốt 4 thập kỷ bằng nền tảng mới vào năm 2028. Hệ thống tập trung mới sẽ quản lý cảnh báo bay, lịch trình vùng bay giới hạn và báo cáo phi công tại 435 cơ sở.",
+      "hot_level": 3,
+      "hot_reason": "Sự kiện hiện đại hóa công nghệ đáng chú ý loại bỏ đĩa mềm di sản khỏi cơ sở hạ tầng hàng không trọng yếu.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/us-faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028-new-system-will-centralize-flight-alerts-restricted-airspace-schedules-and-pilot-reports",
+      "source_title": "US FAA to eliminate floppy disks from air traffic control by 2028",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 89,
+        "trends": [],
+        "score": 1.89
+      }
+    }
+  ]
+}

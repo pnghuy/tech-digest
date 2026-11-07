@@ -1,211 +1,45 @@
 {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T08:10:46.960475+07:00",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T04:53:52.081826+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Hơn 100.000 ứng dụng đã được tối ưu cho iPhone Duo màn hình gập",
-      "summary_vi": "Apple cho biết sau hai tuần mở bán iPhone Duo, kho ứng dụng App Store đã có hơn 100.000 phần mềm được xây dựng để tương thích với thiết bị màn hình gập này. Con số này liên tục tăng thêm hàng nghìn ứng dụng mỗi ngày nhờ các nhà phát triển sử dụng bộ công cụ iOS mới.",
+      "title_vi": "CEO Nvidia Jensen Huang bị Quốc hội Mỹ triệu tập điều trần vì nghi vấn gián điệp",
+      "summary_vi": "Quốc hội Mỹ đã chính thức yêu cầu CEO Jensen Huang của Nvidia điều trần sau những báo cáo về mối liên hệ với một đối tượng tình nghi là gián điệp Trung Quốc. Vụ việc làm dấy lên những lo ngại sâu sắc về an ninh quốc gia liên quan đến chuỗi cung ứng chip AI.",
       "hot_level": 5,
-      "hot_reason": "Tin cực nóng về hệ sinh thái phần mềm của dòng iPhone màn hình gập hoàn toàn mới từ Apple, được 4 trang lớn cùng đăng và lên Techmeme.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/apple_says_over_100000_apps_are_now_optimized_for_the_iphone_duo-news-75390.php",
-      "source_title": "Apple says over 100,000 apps are now optimized for the iPhone Duo",
+      "hot_reason": "Nvidia và CEO Jensen Huang là tâm điểm công nghệ toàn cầu, việc bị Quốc hội triệu tập điều trần về gián điệp có tác động chấn động.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
+      "source_title": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot",
       "related_urls": [
-        "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-        "https://www.macrumors.com/2026/11/06/apple-says-100k-apps-optimized-for-iphone-duo/",
-        "https://9to5mac.com/2026/11/06/apple-says-there-are-already-over-100000-apps-built-for-iphone-duo/"
+        "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
       ],
       "signals": {
         "outlets": [
-          "9to5Mac",
-          "GSMArena",
-          "MacRumors",
-          "TechCrunch"
+          "Ars Technica",
+          "Tom's Hardware"
         ],
-        "techmeme": true,
+        "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 10.0
+        "score": 3.0
       }
     },
     {
       "rank": 2,
-      "title_vi": "Sony hồi sinh tai nghe Walkman MDR-3 huyền thoại với cổng USB-C và giá 60 USD",
-      "summary_vi": "Sony vừa tái sinh mẫu tai nghe cổ điển MDR-3 từng ra mắt cùng máy cassette Walkman TPS-L2 năm 1979 với thiết kế retro đặc trưng. Phiên bản mới được nâng cấp cổng kết nối USB-C hiện đại và có mức giá bán 60 USD.",
+      "title_vi": "Lô card đồ họa Nvidia trị giá 11,4 triệu USD bị đánh cắp tại California",
+      "summary_vi": "Sáu pallet chứa card đồ họa Nvidia với tổng giá trị khoảng 11,4 triệu USD đã bị đánh cắp bằng xe tải giả danh đơn vị vận chuyển thực phẩm. Giới chuyên gia cảnh báo các dòng chip AI giá trị cao đang bị tuồn sang thị trường chợ đen quốc tế với giá đắt đỏ.",
       "hot_level": 4,
-      "hot_reason": "Sản phẩm âm thanh retro mang tính biểu tượng của Sony tái xuất với chuẩn kết nối mới, thu hút 4 trang công nghệ lớn cùng đưa tin.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/sony_brings_back_the_original_walkman_headphones_with_usbc-news-75372.php",
-      "source_title": "Sony brings back the original Walkman headphones with USB-C",
+      "hot_reason": "Vụ trộm phần cứng GPU Nvidia quy mô lớn gây chấn động thị trường phần cứng và công nghệ.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
+      "source_title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
       "related_urls": [
-        "https://www.pcworld.com/article/3279098/the-classic-headphones-from-1979-are-making-a-comeback-with-usb-c.html",
-        "https://www.androidauthority.com/sony-mdr-3r-usb-c-retro-headphones-3732340/",
-        "https://9to5google.com/2026/11/05/sony-walkman-mdr-3-headphones-usb-c/"
+        "https://wccftech.com/nvidia-cargo-heist-11-million-dollars-hardware-stolen-oakland-texas/"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
-          "Android Authority",
-          "GSMArena",
-          "PCWorld"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 7.0
-      }
-    },
-    {
-      "rank": 3,
-      "title_vi": "Fox hoàn tất thương vụ mua lại nền tảng streaming Roku với giá 22 tỷ USD",
-      "summary_vi": "Tập đoàn Fox đã chính thức hoàn tất việc thâu tóm nền tảng streaming Roku với trị giá 22 tỷ USD sau vài tháng điều tra từ Bộ Tư pháp Mỹ. Thương vụ khủng này giúp Fox củng cố mạnh mẽ vị thế trong mảng phần cứng và dịch vụ truyền hình trực tuyến.",
-      "hot_level": 4,
-      "hot_reason": "Thương vụ sáp nhập M&A khổng lồ trong ngành công nghệ và truyền thông, xuất hiện nổi bật trên Techmeme.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
-      "source_title": "Fox completes its $22B acquisition of Roku",
-      "related_urls": [
-        "https://www.neowin.net/news/fox-completes-acquisition-of-roku-for-22-billion/?utm_source=rss"
-      ],
-      "signals": {
-        "outlets": [
-          "Neowin",
-          "TechCrunch"
-        ],
-        "techmeme": true,
-        "hn_points": 0,
-        "trends": [],
-        "score": 6.0
-      }
-    },
-    {
-      "rank": 4,
-      "title_vi": "Rò rỉ: iPhone Pro năm sau sẽ loại bỏ nút Action để gộp vào nút Điều khiển Camera",
-      "summary_vi": "Nguồn tin rò rỉ cho biết Apple có kế hoạch thiết kế lại các mẫu iPhone Pro ra mắt vào năm sau, trong đó nút Action sẽ bị loại bỏ hoàn toàn. Thay vào đó, tính năng của nút này sẽ được tích hợp trực tiếp vào nút Điều khiển Camera thành một nút bấm thống nhất.",
-      "hot_level": 4,
-      "hot_reason": "Thông tin rò rỉ thay đổi thiết kế phần cứng lớn trên dòng iPhone Pro thế hệ mới, luôn nhận được lượng tìm kiếm và quan tâm cực lớn từ độc giả Việt Nam.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/06/apple-rumored-to-drop-the-action-button/",
-      "source_title": "Apple Rumored to Drop the iPhone's Action Button Next Year",
-      "related_urls": [
-        "https://9to5mac.com/2026/11/06/next-years-iphone-pro-redesign-will-drop-an-important-button-per-leak/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "MacRumors"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
-      "rank": 5,
-      "title_vi": "OPPO bị đồn đã hủy bỏ kế hoạch ra mắt siêu phẩm Find X10 Ultra",
-      "summary_vi": "Sau khi ra mắt Find X10 và Find X10 Pro Max trên thị trường quốc tế, nguồn tin từ Digital Chat Station cho biết OPPO có thể đã ngừng phát triển mẫu flagship cao cấp nhất là Find X10 Ultra. Thiết bị này trước đó được kỳ vọng sẽ dẫn đầu về khả năng chụp ảnh trong nửa đầu năm tới.",
-      "hot_level": 4,
-      "hot_reason": "Rò rỉ bất ngờ về việc dừng phát triển dòng smartphone camera đầu bảng của OPPO, thương hiệu rất phổ biến tại Việt Nam.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/oppo_find_x10_ultra_may_have_been_cancelled-news-75380.php",
-      "source_title": "Oppo Find X10 Ultra has reportedly been cancelled",
-      "related_urls": [
-        "https://www.androidauthority.com/oppo-find-x10-ultra-development-pause-leak-3732500/"
-      ],
-      "signals": {
-        "outlets": [
-          "Android Authority",
-          "GSMArena"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
-      "rank": 6,
-      "title_vi": "Kính thực tế ảo Android XR của Samsung chốt lịch cho đặt hàng trước",
-      "summary_vi": "Mẫu kính thông minh chạy nền tảng Android XR do Samsung hợp tác phát triển sắp mở đợt đặt hàng trước ngay trong tháng này. Sản phẩm dự kiến sẽ chính thức đến tay người dùng vào giữa tháng 12.",
-      "hot_level": 3,
-      "hot_reason": "Thiết bị phần cứng thực tế ảo mới của Samsung hợp tác cùng Google thu hút sự chú ý của giới yêu công nghệ.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/heres_when_samsungs_android_xr_glasses_finally_go_up_for_preorder-news-75374.php",
-      "source_title": "Here's when Samsung's Android XR glasses finally go up for pre-order",
-      "related_urls": [
-        "https://www.androidauthority.com/joaquin-phoenix-smart-glasses-teaser-3732678/"
-      ],
-      "signals": {
-        "outlets": [
-          "Android Authority",
-          "GSMArena"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
-      "rank": 7,
-      "title_vi": "Google phát hành Gemini Omni 1.2 Flash với giá rẻ hơn 30% và hỗ trợ video dài hơn",
-      "summary_vi": "Google vừa chính thức phát hành mô hình AI Gemini Omni 1.2 Flash trên nền tảng đám mây và giao diện lập trình ứng dụng cho các lập trình viên. Bản cập nhật này giúp giảm 30% chi phí sử dụng so với bản tiền nhiệm, đồng thời cải thiện khả năng xử lý video AI dài hơn.",
-      "hot_level": 3,
-      "hot_reason": "Bản nâng cấp mô hình trí tuệ nhân tạo lớn từ Google với mức giá rẻ hơn, nhận nhiều thảo luận trên diễn đàn Hacker News.",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/google-launches-gemini-omni-12-flash-with-30-lower-prices-and-longer-ai-videos/?utm_source=rss",
-      "source_title": "Google launches Gemini Omni 1.2 Flash with 30% lower prices and longer AI videos",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "Neowin"
-        ],
-        "techmeme": false,
-        "hn_points": 292,
-        "trends": [],
-        "score": 2.92
-      }
-    },
-    {
-      "rank": 8,
-      "title_vi": "Samsung chính thức mở bán Galaxy Buds On và thẻ định vị SmartTag 3",
-      "summary_vi": "Samsung vừa chính thức mở bán hai món phụ kiện mới tại thị trường Mỹ bao gồm tai nghe dạng kẹp Galaxy Buds On và thẻ theo dõi đồ đạc Galaxy SmartTag 3. Trong đó, SmartTag 3 có giá khởi điểm từ 29 USD với tùy chọn mua lẻ hoặc theo bộ 4 chiếc.",
-      "hot_level": 3,
-      "hot_reason": "Phụ kiện công nghệ chính hãng mới ra mắt của Samsung dành cho hệ sinh thái Galaxy.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/samsung-galaxy-buds-on-smarttag-3-available-us-3732461/",
-      "source_title": "Samsung’s Galaxy Buds On and SmartTag 3 are now available in the US",
-      "related_urls": [
-        "https://9to5google.com/2026/11/06/galaxy-smarttag-3-available-from-samsung/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Google",
-          "Android Authority"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
-      "rank": 9,
-      "title_vi": "Windows 11 27H2 có thể là bản nâng cấp lớn nhất kể từ năm 2024",
-      "summary_vi": "Microsoft được cho là đang chuẩn bị bản cập nhật lớn Windows 11 27H2 dự kiến ra mắt vào năm 2027 nhằm ưu tiên tối ưu hiệu năng và độ ổn định thay vì tung ra Windows 12. Bản nâng cấp này hứa hẹn mang lại mức tăng tốc đáng kể cho các ứng dụng 64-bit cùng giao diện hình nền mặc định mới.",
-      "hot_level": 3,
-      "hot_reason": "Kế hoạch nâng cấp lớn tiếp theo của hệ điều hành Windows 11 ảnh hưởng đến phần đông người dùng máy tính.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/windows-11-27h2-could-be-the-biggest-windows-upgrade-since-2024-with-major-performance-improvements-and-new-wallpapers/",
-      "source_title": "Windows 11 27H2 Could Be The Biggest Windows Upgrade Since 2024, With Major Performance Improvements And New Wallpapers",
-      "related_urls": [
-        "https://www.neowin.net/news/windows-11-27h2-could-be-major-upgrade-with-64-bit-performance-boost-new-default-wallpapers/?utm_source=rss"
-      ],
-      "signals": {
-        "outlets": [
-          "Neowin",
+          "Tom's Hardware",
           "Wccftech"
         ],
         "techmeme": false,
@@ -215,23 +49,163 @@
       }
     },
     {
-      "rank": 10,
-      "title_vi": "Tesla sắp dừng sản xuất Cybertruck tại Texas để chuẩn bị cho Cybercab",
-      "summary_vi": "Tesla có kế hoạch giảm dần và tạm dừng dây chuyền sản xuất xe bán tải điện Cybertruck tại siêu nhà máy Gigafactory Texas vào giữa năm 2027. Động thái này nhằm giải phóng mặt bằng và dây chuyền lắp ráp để nhường chỗ cho mẫu robotaxi tự hành Cybercab.",
-      "hot_level": 3,
-      "hot_reason": "Bước ngoặt chiến lược của Tesla từ xe bán tải điện sang xe tự hành robotaxi thu hút lượng bình luận khổng lồ trên Hacker News.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/",
-      "source_title": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory",
+      "rank": 3,
+      "title_vi": "Xiaomi 18 lộ thông số sạc, có thể ra mắt sớm ngay trong năm nay",
+      "summary_vi": "Chứng nhận 3C vừa tiết lộ khả năng sạc của Xiaomi 18, cho thấy thiết bị có thể sẽ sớm trình làng trong năm nay. Bộ đôi Xiaomi 18 Pro và 18 Pro Max cũng dự kiến sẽ chính thức cập bến thị trường quốc tế vào cuối năm.",
+      "hot_level": 4,
+      "hot_reason": "Xiaomi là thương hiệu smartphone cực kỳ phổ biến tại Việt Nam, thông tin thế hệ flagship mới luôn hút người xem.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/xiaomi_18_might_actually_arrive_this_year_3c_reveals_the_charging_capabilities-news-75396.php",
+      "source_title": "Xiaomi 18 might actually arrive this year, 3C reveals the charging capabilities",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "Engadget"
+          "GSMArena"
         ],
         "techmeme": false,
-        "hn_points": 823,
+        "hn_points": 0,
         "trends": [],
-        "score": 4.0
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "OnePlus công bố lịch trình cập nhật ColorOS 17 trong tháng 11",
+      "summary_vi": "OnePlus chính thức triển khai kế hoạch chuyển dịch giao diện từ OxygenOS sang ColorOS 17 dựa trên nền tảng Android 17. Lịch nâng cấp chi tiết cho từng dòng máy vừa được hãng công bố cho tháng 11.",
+      "hot_level": 3,
+      "hot_reason": "Lộ trình cập nhật hệ điều hành lớn của hãng smartphone quen thuộc nhận được nhiều sự quan tâm.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/oneplus_releases_its_coloros_17_rollout_schedule_for_november-news-75398.php",
+      "source_title": "OnePlus releases its ColorOS 17 rollout schedule for November",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "TSMC phủ nhận kế hoạch sản xuất bộ nhớ 3D DRAM theo yêu cầu của Nvidia",
+      "summary_vi": "TSMC đã lên tiếng bác bỏ thông tin cho rằng hãng đang nghiên cứu sản xuất bộ nhớ 3D DRAM để giải quyết tình trạng thiếu hụt chip nhớ cho Nvidia. Công nghệ bộ nhớ tiên tiến này được nhận định là vẫn còn nhiều năm nữa mới đạt tính khả thi thương mại.",
+      "hot_level": 3,
+      "hot_reason": "Tin tức chiến lược bán dẫn giữa hai ông lớn Nvidia và TSMC giải quyết nút thắt bộ nhớ phần cứng.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability",
+      "source_title": "TSMC denies exploring 3D DRAM at Nvidia's request",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Chuẩn Bluetooth High Data Throughput mới hỗ trợ truyền âm thanh lossless lên tới 7,5 Mbps",
+      "summary_vi": "Chuẩn kết nối Bluetooth HDT mới cho phép băng thông tối đa đạt mức 7,5 Mbps. Băng thông mở rộng này đáp ứng nhu cầu truyền tải âm thanh lossless nguyên bản và kết nối các thiết bị ngoại vi phức tạp hơn.",
+      "hot_level": 3,
+      "hot_reason": "Đột phá lớn về chuẩn Bluetooth truyền âm thanh chất lượng cao, rất được giới yêu âm thanh và thiết bị quan tâm.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission",
+      "source_title": "New Bluetooth High Data Throughput may finally satisfy audiophiles",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Valve phát triển giải pháp tối ưu game x86 trên vi xử lý Arm cho Steam",
+      "summary_vi": "Valve đang nỗ lực tối ưu nền tảng Steam nhằm loại bỏ hiện tượng giật lag khi dịch tập lệnh game trên các hệ máy dùng chip Arm. Hãng muốn giải quyết triệt để khâu biên dịch này trước cả khi người chơi bấm nút khởi động game.",
+      "hot_level": 3,
+      "hot_reason": "Cột mốc quan trọng thúc đẩy tương lai chơi game trên PC chạy chip kiến trúc Arm của Valve.",
+      "source": "PCWorld",
+      "url": "https://www.pcworld.com/article/3276245/valve-wants-steam-to-kill-arm-gaming-stutter-before-you-even-hit-play.html",
+      "source_title": "Valve wants Steam to squash Arm gaming stutter before you even hit play",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "PCWorld"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "WhatsApp thử nghiệm tính năng ẩn số điện thoại bằng tên người dùng",
+      "summary_vi": "WhatsApp đang phát triển tùy chọn cho phép người dùng kiểm soát ai có thể nhìn thấy số điện thoại của mình. Tính năng Username giúp tăng cường tính riêng tư, cho phép liên lạc qua tên định danh mà không lộ thông tin cá nhân.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng bảo vệ quyền riêng tư lớn trên ứng dụng nhắn tin hàng tỷ người dùng.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/whatsapp_phone_number_privacy_feature_development-news-75395.php",
+      "source_title": "WhatsApp is testing a feature that lets you control who sees your phone number",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Anthropic đẩy nhanh tốc độ phát triển mô hình bằng việc dùng AI để tự tạo AI",
+      "summary_vi": "Báo cáo mới từ METR cho thấy Anthropic đang tận dụng AI để tự động hóa việc phát triển các mô hình thế hệ tiếp theo. Tốc độ cải tiến của các mô hình hiện nhanh gấp đôi so với năm ngoái, dấy lên nhiều lo ngại về mức độ an toàn.",
+      "hot_level": 3,
+      "hot_reason": "Bước tiến công nghệ AI tự hoàn thiện của một trong những công ty AI hàng đầu hiện nay.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source_title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Cục Hàng không Liên bang Mỹ sẽ loại bỏ hoàn toàn đĩa mềm vào năm 2028",
+      "summary_vi": "Cục Hàng không Liên bang Mỹ (FAA) lên kế hoạch thay thế hệ thống kiểm soát không lưu dùng đĩa mềm tồn tại suốt 4 thập kỷ bằng nền tảng mới vào năm 2028. Hệ thống tập trung mới sẽ quản lý cảnh báo bay, lịch trình vùng bay giới hạn và báo cáo phi công tại 435 cơ sở.",
+      "hot_level": 3,
+      "hot_reason": "Sự kiện hiện đại hóa công nghệ đáng chú ý loại bỏ đĩa mềm di sản khỏi cơ sở hạ tầng hàng không trọng yếu.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/us-faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028-new-system-will-centralize-flight-alerts-restricted-airspace-schedules-and-pilot-reports",
+      "source_title": "US FAA to eliminate floppy disks from air traffic control by 2028",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 89,
+        "trends": [],
+        "score": 1.89
       }
     }
   ]
