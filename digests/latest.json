@@ -1,149 +1,54 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T04:53:59.085206+07:00",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T08:10:46.960475+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "MacBook Pro PROLED XDR ra mắt với màn hình OLED và cảm ứng",
-      "summary_vi": "Apple đã công bố MacBook Pro với màn hình PROLED XDR, mang đến nhiều thay đổi lớn cho Mac bao gồm màn hình OLED tandem, thiết kế nhẹ hơn và bổ sung cảm ứng được chờ đợi từ lâu.",
+      "title_vi": "Hơn 100.000 ứng dụng đã được tối ưu cho iPhone Duo màn hình gập",
+      "summary_vi": "Apple cho biết sau hai tuần mở bán iPhone Duo, kho ứng dụng App Store đã có hơn 100.000 phần mềm được xây dựng để tương thích với thiết bị màn hình gập này. Con số này liên tục tăng thêm hàng nghìn ứng dụng mỗi ngày nhờ các nhà phát triển sử dụng bộ công cụ iOS mới.",
       "hot_level": 5,
-      "hot_reason": "Sự kiện ra mắt sản phẩm chủ lực của Apple, với công nghệ màn hình mới OLED và tính năng cảm ứng trên MacBook Pro thu hút sự chú ý rất lớn.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/05/macbook-pro-with-proled-xdr-display-touch-review/",
-      "source_title": "MacBook Pro with PROLED XDR Display review: A lot more than touch",
+      "hot_reason": "Tin cực nóng về hệ sinh thái phần mềm của dòng iPhone màn hình gập hoàn toàn mới từ Apple, được 4 trang lớn cùng đăng và lên Techmeme.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/apple_says_over_100000_apps_are_now_optimized_for_the_iphone_duo-news-75390.php",
+      "source_title": "Apple says over 100,000 apps are now optimized for the iPhone Duo",
       "related_urls": [
-        "https://9to5mac.com/2026/11/05/happy-hour-615/",
-        "https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-with-proled-xdr-display-review",
-        "https://www.engadget.com/2307215/apple-macbook-pro-with-proled-xdr-display-review/",
-        "https://www.macrumors.com/2026/11/05/see-apples-touchscreen-macbook-pro-in-action/"
+        "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+        "https://www.macrumors.com/2026/11/06/apple-says-100k-apps-optimized-for-iphone-duo/",
+        "https://9to5mac.com/2026/11/06/apple-says-there-are-already-over-100000-apps-built-for-iphone-duo/"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
-          "Ars Technica",
-          "Engadget",
+          "GSMArena",
           "MacRumors",
-          "Tom's Hardware"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 9.0
-      }
-    },
-    {
-      "rank": 2,
-      "title_vi": "Motorola Signature 27 ra mắt với pin 7.000mAh và 7 năm cập nhật Android",
-      "summary_vi": "Motorola chính thức trở lại phân khúc flagship với Signature 27, trang bị pin 7.000mAh và cam kết 7 năm cập nhật Android, có giá khởi điểm 1.600 USD.",
-      "hot_level": 4,
-      "hot_reason": "Sự ra mắt flagship Android với cấu hình khủng, pin lớn và chính sách cập nhật dài hạn từ một thương hiệu lớn thu hút nhiều người dùng Android.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/motorola-signature-27-launch-3731987/",
-      "source_title": "Motorola Signature 27 brings a 7,000mAh battery and seven years of Android updates for $1,600",
-      "related_urls": [
-        "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
-        "https://9to5google.com/2026/11/05/motorola-signature-27-specs-price-release-date/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Google",
-          "Android Authority",
-          "Ars Technica"
-        ],
-        "techmeme": false,
-        "hn_points": 327,
-        "trends": [],
-        "score": 8.27
-      }
-    },
-    {
-      "rank": 3,
-      "title_vi": "Tin tặc khai thác lỗ hổng Chrome và GPU Snapdragon để tấn công điện thoại Android và iOS",
-      "summary_vi": "Các nhà nghiên cứu phát hiện tin tặc đã khai thác các lỗ hổng trên Chrome và GPU Snapdragon để lây nhiễm điện thoại Android và iOS thông qua các cuộc tấn công zero-click.",
-      "hot_level": 4,
-      "hot_reason": "Lỗ hổng bảo mật nghiêm trọng ảnh hưởng đến người dùng iOS và Android trên diện rộng, đặc biệt là hình thức tấn công zero-click cực kỳ nguy hiểm.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-      "source_title": "Hackers exploited iOS and Android flaws to infect phones",
-      "related_urls": [
-        "https://www.androidauthority.com/hackers-chrome-snapdragon-gpu-flaws-android-zero-click-3731860/"
-      ],
-      "signals": {
-        "outlets": [
-          "Android Authority",
-          "Ars Technica"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 2.0
-      }
-    },
-    {
-      "rank": 4,
-      "title_vi": "Claude của Anthropic giờ đây có thể phân tích chi tiêu với công cụ Tài chính Cá nhân mới",
-      "summary_vi": "Anthropic nâng cấp Claude với tính năng Tài chính Cá nhân mới, cho phép người dùng kết nối tài khoản ngân hàng và thẻ để đặt câu hỏi về tài chính cá nhân.",
-      "hot_level": 4,
-      "hot_reason": "Tính năng AI mới từ Anthropic tích hợp sâu vào tài chính cá nhân có tiềm năng lớn, được nhiều trang công nghệ lớn đưa tin và lên Techmeme.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "source_title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "related_urls": [
-        "https://www.androidauthority.com/claude-personal-finance-launch-3732213/",
-        "https://9to5mac.com/2026/11/05/anthropic-upgrades-claude-with-new-personal-finance-feature/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "Android Authority",
           "TechCrunch"
         ],
         "techmeme": true,
         "hn_points": 0,
         "trends": [],
-        "score": 8.0
+        "score": 10.0
       }
     },
     {
-      "rank": 5,
-      "title_vi": "Chính phủ Mỹ cảnh báo nguy cơ an ninh mạng liên tục sau các vụ tấn công tủ đông công nghiệp",
-      "summary_vi": "Chính phủ Mỹ đưa ra cảnh báo về mối đe dọa an ninh mạng đang diễn ra, ảnh hưởng đến các ngành công nghiệp thực phẩm, vận tải và y tế sau các báo cáo về tấn công hàng loạt tủ đông công nghiệp.",
+      "rank": 2,
+      "title_vi": "Sony hồi sinh tai nghe Walkman MDR-3 huyền thoại với cổng USB-C và giá 60 USD",
+      "summary_vi": "Sony vừa tái sinh mẫu tai nghe cổ điển MDR-3 từng ra mắt cùng máy cassette Walkman TPS-L2 năm 1979 với thiết kế retro đặc trưng. Phiên bản mới được nâng cấp cổng kết nối USB-C hiện đại và có mức giá bán 60 USD.",
       "hot_level": 4,
-      "hot_reason": "Sự cố an ninh mạng có quy mô lớn, ảnh hưởng trực tiếp đến hạ tầng quan trọng và được chính phủ cảnh báo cho thấy mức độ nghiêm trọng cao.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-      "source_title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "TechCrunch"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 1.0
-      }
-    },
-    {
-      "rank": 6,
-      "title_vi": "Instagram ra mắt ứng dụng chỉnh sửa video Edits cho Mac",
-      "summary_vi": "Instagram đã phát hành phiên bản Edits cho Mac, một ứng dụng chỉnh sửa video miễn phí với khả năng chỉnh sửa đa rãnh, công cụ chỉnh màu nâng cao và xuất video 4K.",
-      "hot_level": 3,
-      "hot_reason": "Meta mở rộng ứng dụng chỉnh sửa video của Instagram sang nền tảng desktop Mac, cạnh tranh trực tiếp với các ứng dụng phổ biến khác.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/05/instagram-launches-edits-for-mac-with-multi-track-video-editing-and-4k-exports/",
-      "source_title": "Instagram launches Edits for Mac with multi-track video editing and 4K exports",
+      "hot_reason": "Sản phẩm âm thanh retro mang tính biểu tượng của Sony tái xuất với chuẩn kết nối mới, thu hút 4 trang công nghệ lớn cùng đưa tin.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/sony_brings_back_the_original_walkman_headphones_with_usbc-news-75372.php",
+      "source_title": "Sony brings back the original Walkman headphones with USB-C",
       "related_urls": [
-        "https://www.neowin.net/news/instagrams-new-desktop-video-editing-app-is-here-and-its-free/?utm_source=rss",
-        "https://www.engadget.com/2307169/instagrams-edits-is-now-on-desktop-as-a-mac-app/",
-        "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/"
+        "https://www.pcworld.com/article/3279098/the-classic-headphones-from-1979-are-making-a-comeback-with-usb-c.html",
+        "https://www.androidauthority.com/sony-mdr-3r-usb-c-retro-headphones-3732340/",
+        "https://9to5google.com/2026/11/05/sony-walkman-mdr-3-headphones-usb-c/"
       ],
       "signals": {
         "outlets": [
-          "9to5Mac",
-          "Engadget",
-          "Neowin",
-          "TechCrunch"
+          "9to5Google",
+          "Android Authority",
+          "GSMArena",
+          "PCWorld"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -152,91 +57,181 @@
       }
     },
     {
-      "rank": 7,
-      "title_vi": "Ứng dụng Discord trên Windows mới tiêu thụ ít RAM hơn đáng kể",
-      "summary_vi": "Discord đang xây dựng lại ứng dụng desktop bằng Rust, loại bỏ Electron và React Native để tạo ra một client nhẹ hơn, sử dụng ít RAM hơn đáng kể so với Chrome, Steam và Spotify.",
-      "hot_level": 3,
-      "hot_reason": "Việc một ứng dụng lớn như Discord thay đổi nền tảng phát triển để cải thiện hiệu suất, đặc biệt là giảm tiêu thụ RAM, là tin tức quan trọng đối với cộng đồng người dùng công nghệ.",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/new-windows-discord-app-shown-consuming-way-less-ram-than-chrome-steam-spotify/?utm_source=rss",
-      "source_title": "New Windows Discord app shown consuming way less RAM than Chrome, Steam, Spotify",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "Neowin"
-        ],
-        "techmeme": false,
-        "hn_points": 336,
-        "trends": [],
-        "score": 4.36
-      }
-    },
-    {
-      "rank": 8,
-      "title_vi": "TikTok âm thầm ra mắt ứng dụng TikTok Shop độc lập",
-      "summary_vi": "TikTok đã phát hành một ứng dụng độc lập cho TikTok Shop tại một số quốc gia, cung cấp các đề xuất sản phẩm cá nhân hóa, mua sắm qua livestream và ưu đãi độc quyền.",
-      "hot_level": 3,
-      "hot_reason": "Động thái lớn từ TikTok nhằm thúc đẩy mảng thương mại điện tử với ứng dụng riêng, cho thấy tham vọng cạnh tranh với các ông lớn khác.",
+      "rank": 3,
+      "title_vi": "Fox hoàn tất thương vụ mua lại nền tảng streaming Roku với giá 22 tỷ USD",
+      "summary_vi": "Tập đoàn Fox đã chính thức hoàn tất việc thâu tóm nền tảng streaming Roku với trị giá 22 tỷ USD sau vài tháng điều tra từ Bộ Tư pháp Mỹ. Thương vụ khủng này giúp Fox củng cố mạnh mẽ vị thế trong mảng phần cứng và dịch vụ truyền hình trực tuyến.",
+      "hot_level": 4,
+      "hot_reason": "Thương vụ sáp nhập M&A khổng lồ trong ngành công nghệ và truyền thông, xuất hiện nổi bật trên Techmeme.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
-      "source_title": "TikTok quietly launches a stand-alone TikTok Shop app",
+      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+      "source_title": "Fox completes its $22B acquisition of Roku",
       "related_urls": [
-        "https://www.engadget.com/2308419/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/",
-        "https://www.theverge.com/tech/1027772/tiktok-shop-app"
-      ],
-      "signals": {
-        "outlets": [
-          "Engadget",
-          "TechCrunch",
-          "The Verge"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 5.0
-      }
-    },
-    {
-      "rank": 9,
-      "title_vi": "Warby Parker hé lộ thông tin về kính thông minh Android XR của Google",
-      "summary_vi": "Warby Parker dường như đã làm rò rỉ thông tin về việc Google sắp ra mắt kính thông minh Android XR, với sản phẩm 'Intelligent Eyewear' dự kiến sẽ có mặt trong tuần tới.",
-      "hot_level": 3,
-      "hot_reason": "Tin tức rò rỉ về một sản phẩm phần cứng mới quan trọng trong lĩnh vực thực tế tăng cường/thực tế ảo (AR/VR) từ Google luôn thu hút sự quan tâm lớn.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
-      "source_title": "Warby Parker seemingly spilled the beans on Google's Android XR smart glasses launch",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "Engadget"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 1.0
-      }
-    },
-    {
-      "rank": 10,
-      "title_vi": "OpenAI công bố GPT-6 Cyber, mô hình an ninh mạng mạnh nhất từ trước đến nay",
-      "summary_vi": "OpenAI chính thức ra mắt GPT-6 Cyber, một mô hình bảo mật chuyên biệt được thiết kế để phát hiện lỗ hổng, xây dựng khai thác và tăng cường bảo vệ hạ tầng số.",
-      "hot_level": 3,
-      "hot_reason": "OpenAI tiếp tục mở rộng ứng dụng AI sang lĩnh vực an ninh mạng với một mô hình chuyên biệt, đánh dấu bước tiến quan trọng trong bảo mật kỹ thuật số.",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/openai-announces-gpt-6-cyber-its-most-capable-cybersecurity-model-yet/?utm_source=rss",
-      "source_title": "OpenAI announces GPT-6 Cyber, its most capable cybersecurity model yet",
-      "related_urls": [
-        "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/"
+        "https://www.neowin.net/news/fox-completes-acquisition-of-roku-for-22-billion/?utm_source=rss"
       ],
       "signals": {
         "outlets": [
           "Neowin",
           "TechCrunch"
         ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 6.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Rò rỉ: iPhone Pro năm sau sẽ loại bỏ nút Action để gộp vào nút Điều khiển Camera",
+      "summary_vi": "Nguồn tin rò rỉ cho biết Apple có kế hoạch thiết kế lại các mẫu iPhone Pro ra mắt vào năm sau, trong đó nút Action sẽ bị loại bỏ hoàn toàn. Thay vào đó, tính năng của nút này sẽ được tích hợp trực tiếp vào nút Điều khiển Camera thành một nút bấm thống nhất.",
+      "hot_level": 4,
+      "hot_reason": "Thông tin rò rỉ thay đổi thiết kế phần cứng lớn trên dòng iPhone Pro thế hệ mới, luôn nhận được lượng tìm kiếm và quan tâm cực lớn từ độc giả Việt Nam.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/06/apple-rumored-to-drop-the-action-button/",
+      "source_title": "Apple Rumored to Drop the iPhone's Action Button Next Year",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/06/next-years-iphone-pro-redesign-will-drop-an-important-button-per-leak/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
         "score": 3.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "OPPO bị đồn đã hủy bỏ kế hoạch ra mắt siêu phẩm Find X10 Ultra",
+      "summary_vi": "Sau khi ra mắt Find X10 và Find X10 Pro Max trên thị trường quốc tế, nguồn tin từ Digital Chat Station cho biết OPPO có thể đã ngừng phát triển mẫu flagship cao cấp nhất là Find X10 Ultra. Thiết bị này trước đó được kỳ vọng sẽ dẫn đầu về khả năng chụp ảnh trong nửa đầu năm tới.",
+      "hot_level": 4,
+      "hot_reason": "Rò rỉ bất ngờ về việc dừng phát triển dòng smartphone camera đầu bảng của OPPO, thương hiệu rất phổ biến tại Việt Nam.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/oppo_find_x10_ultra_may_have_been_cancelled-news-75380.php",
+      "source_title": "Oppo Find X10 Ultra has reportedly been cancelled",
+      "related_urls": [
+        "https://www.androidauthority.com/oppo-find-x10-ultra-development-pause-leak-3732500/"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Kính thực tế ảo Android XR của Samsung chốt lịch cho đặt hàng trước",
+      "summary_vi": "Mẫu kính thông minh chạy nền tảng Android XR do Samsung hợp tác phát triển sắp mở đợt đặt hàng trước ngay trong tháng này. Sản phẩm dự kiến sẽ chính thức đến tay người dùng vào giữa tháng 12.",
+      "hot_level": 3,
+      "hot_reason": "Thiết bị phần cứng thực tế ảo mới của Samsung hợp tác cùng Google thu hút sự chú ý của giới yêu công nghệ.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/heres_when_samsungs_android_xr_glasses_finally_go_up_for_preorder-news-75374.php",
+      "source_title": "Here's when Samsung's Android XR glasses finally go up for pre-order",
+      "related_urls": [
+        "https://www.androidauthority.com/joaquin-phoenix-smart-glasses-teaser-3732678/"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Google phát hành Gemini Omni 1.2 Flash với giá rẻ hơn 30% và hỗ trợ video dài hơn",
+      "summary_vi": "Google vừa chính thức phát hành mô hình AI Gemini Omni 1.2 Flash trên nền tảng đám mây và giao diện lập trình ứng dụng cho các lập trình viên. Bản cập nhật này giúp giảm 30% chi phí sử dụng so với bản tiền nhiệm, đồng thời cải thiện khả năng xử lý video AI dài hơn.",
+      "hot_level": 3,
+      "hot_reason": "Bản nâng cấp mô hình trí tuệ nhân tạo lớn từ Google với mức giá rẻ hơn, nhận nhiều thảo luận trên diễn đàn Hacker News.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/google-launches-gemini-omni-12-flash-with-30-lower-prices-and-longer-ai-videos/?utm_source=rss",
+      "source_title": "Google launches Gemini Omni 1.2 Flash with 30% lower prices and longer AI videos",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 292,
+        "trends": [],
+        "score": 2.92
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Samsung chính thức mở bán Galaxy Buds On và thẻ định vị SmartTag 3",
+      "summary_vi": "Samsung vừa chính thức mở bán hai món phụ kiện mới tại thị trường Mỹ bao gồm tai nghe dạng kẹp Galaxy Buds On và thẻ theo dõi đồ đạc Galaxy SmartTag 3. Trong đó, SmartTag 3 có giá khởi điểm từ 29 USD với tùy chọn mua lẻ hoặc theo bộ 4 chiếc.",
+      "hot_level": 3,
+      "hot_reason": "Phụ kiện công nghệ chính hãng mới ra mắt của Samsung dành cho hệ sinh thái Galaxy.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-galaxy-buds-on-smarttag-3-available-us-3732461/",
+      "source_title": "Samsung’s Galaxy Buds On and SmartTag 3 are now available in the US",
+      "related_urls": [
+        "https://9to5google.com/2026/11/06/galaxy-smarttag-3-available-from-samsung/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Windows 11 27H2 có thể là bản nâng cấp lớn nhất kể từ năm 2024",
+      "summary_vi": "Microsoft được cho là đang chuẩn bị bản cập nhật lớn Windows 11 27H2 dự kiến ra mắt vào năm 2027 nhằm ưu tiên tối ưu hiệu năng và độ ổn định thay vì tung ra Windows 12. Bản nâng cấp này hứa hẹn mang lại mức tăng tốc đáng kể cho các ứng dụng 64-bit cùng giao diện hình nền mặc định mới.",
+      "hot_level": 3,
+      "hot_reason": "Kế hoạch nâng cấp lớn tiếp theo của hệ điều hành Windows 11 ảnh hưởng đến phần đông người dùng máy tính.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/windows-11-27h2-could-be-the-biggest-windows-upgrade-since-2024-with-major-performance-improvements-and-new-wallpapers/",
+      "source_title": "Windows 11 27H2 Could Be The Biggest Windows Upgrade Since 2024, With Major Performance Improvements And New Wallpapers",
+      "related_urls": [
+        "https://www.neowin.net/news/windows-11-27h2-could-be-major-upgrade-with-64-bit-performance-boost-new-default-wallpapers/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "Neowin",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 2.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Tesla sắp dừng sản xuất Cybertruck tại Texas để chuẩn bị cho Cybercab",
+      "summary_vi": "Tesla có kế hoạch giảm dần và tạm dừng dây chuyền sản xuất xe bán tải điện Cybertruck tại siêu nhà máy Gigafactory Texas vào giữa năm 2027. Động thái này nhằm giải phóng mặt bằng và dây chuyền lắp ráp để nhường chỗ cho mẫu robotaxi tự hành Cybercab.",
+      "hot_level": 3,
+      "hot_reason": "Bước ngoặt chiến lược của Tesla từ xe bán tải điện sang xe tự hành robotaxi thu hút lượng bình luận khổng lồ trên Hacker News.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/",
+      "source_title": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Engadget"
+        ],
+        "techmeme": false,
+        "hn_points": 823,
+        "trends": [],
+        "score": 4.0
       }
     }
   ]
