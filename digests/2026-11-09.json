@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T04:54:16.880787+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Nvidia mở cuộc điều tra CEO Jensen Huang sau nghi vấn quan hệ với điệp viên Trung Quốc",
+      "summary_vi": "Hội đồng quản trị Nvidia đã mở cuộc điều tra độc lập sau khi CEO Jensen Huang thừa nhận mối quan hệ ngoài luồng với Alice Huang, một lãnh đạo công ty khách hàng bị nghi là điệp viên Trung Quốc. Vụ việc gây chấn động ngành bán dẫn khi Nvidia phải chịu áp lực giám sát gắt gao về an ninh và chuỗi cung ứng.",
+      "hot_level": 5,
+      "hot_reason": "Tin chấn động liên quan đến lãnh đạo Nvidia, xuất hiện đồng loạt trên các trang công nghệ hàng đầu thế giới.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "source_title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "related_urls": [
+        "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate",
+        "https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/",
+        "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "TechCrunch",
+          "The Verge",
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 195,
+        "trends": [],
+        "score": 8.95
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Apple tăng tốc đưa tính năng AI tác tử lên Siri",
+      "summary_vi": "CEO John Ternus đang thúc ép giám đốc Craig Federighi đẩy nhanh lộ trình Siri nhằm cung cấp một AI tác tử đủ sức cạnh tranh với các đối thủ như OpenAI hay Meta. Apple kỳ vọng sẽ biến Siri thành trợ lý tự động hóa thông minh hơn ngay từ năm sau.",
+      "hot_level": 4,
+      "hot_reason": "Chiến lược AI then chốt của Apple cho Siri thu hút sự quan tâm lớn của cộng đồng công nghệ.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source_title": "Apple is racing to make Siri more agentic",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "The Verge"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Lỗi driver AMD Radeon liên tục ghi dữ liệu làm giảm tuổi thọ ổ SSD",
+      "summary_vi": "AMD đã thừa nhận lỗi trên driver card đồ họa Radeon khiến hệ thống liên tục ghi dữ liệu ngầm vào SSD ngay cả khi máy đang ở trạng thái nghỉ. Công ty hiện đang chuẩn bị bản vá để khắc phục sự cố có nguy cơ làm hao mòn phần cứng lưu trữ này.",
+      "hot_level": 4,
+      "hot_reason": "Sự cố phần mềm ảnh hưởng trực tiếp đến tuổi thọ linh kiện phần cứng của đông đảo người dùng card AMD.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/amd-acknowledges-radeon-driver-bug-causing-constant-ssd-writes-fix-in-the-works/",
+      "source_title": "AMD Acknowledges Radeon Driver Bug Causing Constant SSD Writes, Fix In The Works",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Android đón nhận tựa game đầu tiên hỗ trợ công nghệ tạo khung hình bằng AI",
+      "summary_vi": "Nền tảng di động vừa chạm tới bước ngoặt tương tự DLSS khi công nghệ nội suy khung hình bằng AI chính thức xuất hiện trên game Android. Giải pháp này giúp nâng cao đáng kể độ mượt và hiệu suất đồ họa mà không cần quá nhiều tài nguyên phần cứng.",
+      "hot_level": 4,
+      "hot_reason": "Bước tiến công nghệ đồ họa di động mới lạ, được ví như bước ngoặt DLSS cho smartphone.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/arm-neural-dawn-hands-on-3731282/",
+      "source_title": "I played Android’s first AI frame-gen game: Mobile just had its DLSS moment",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Apple thay đổi quy trình phát triển iOS 28 và macOS 28",
+      "summary_vi": "Apple vừa điều chỉnh quy trình phát triển phần mềm cho iOS 28 và macOS 28 nhằm tối ưu hóa việc phân chia và kiểm thử các tính năng mới. Thay đổi này được kỳ vọng sẽ giúp các bản cập nhật lớn của hãng ổn định hơn và kịp tiến độ ra mắt.",
+      "hot_level": 3,
+      "hot_reason": "Thông tin rò rỉ về quy trình phát triển các hệ điều hành lớn tiếp theo từ Apple.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/",
+      "source_title": "Apple Taking New Approach to Developing iOS 28 and macOS 28",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "macOS 27.3 siết chặt quyền truy cập toàn bộ ổ đĩa của các tác tử AI",
+      "summary_vi": "Bản cập nhật macOS 27.3 dự kiến sẽ thay đổi cách cấp quyền Full Disk Access nhằm ngăn chặn các tác tử AI truy xuất trái phép dữ liệu người dùng mà không có sự đồng ý rõ ràng. Đây là động thái củng cố quyền riêng tư mới nhất của Apple trước sự bùng nổ của các ứng dụng AI.",
+      "hot_level": 3,
+      "hot_reason": "Cập nhật quan trọng về bảo mật và quyền riêng tư trên macOS đối với phần mềm AI.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/",
+      "source_title": "macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Mac"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Diamond Foundry chế tạo tấm wafer kim cương đơn tinh thể 200mm làm mát chip AI",
+      "summary_vi": "Tấm wafer kim cương đơn tinh thể 200mm đầu tiên trên thế giới vừa được tạo ra để giải quyết bài toán tản nhiệt trên các vi xử lý AI mạnh mẽ. Vật liệu này giúp dẫn nhiệt cực nhanh và ngăn ngừa các điểm quá nhiệt tích tụ trên bề mặt bán dẫn.",
+      "hot_level": 3,
+      "hot_reason": "Đột phá vật liệu bán dẫn tản nhiệt cho các thế hệ chip xử lý AI tương lai.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors",
+      "source_title": "Diamond Foundry creates world's first 200mm single-crystal diamond wafer",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Giá DRAM tăng vọt khiến tỷ lệ máy tính trang bị 64GB RAM sụt giảm mạnh",
+      "summary_vi": "Dữ liệu từ CPU-Z cho thấy tỷ lệ người dùng sử dụng cấu hình 64GB RAM đã giảm tới 18% so với cùng kỳ do giá bộ nhớ bị đẩy lên cao bởi cơn sốt AI. Hiện tượng này thậm chí còn khiến chuẩn RAM DDR4 có dấu hiệu quay trở lại thị trường PC.",
+      "hot_level": 3,
+      "hot_reason": "Tác động rõ rệt của cơn sốt AI lên thị trường linh kiện PC và túi tiền người dùng phổ thông.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-percent-as-memory-prices-soar-cpu-z-install-base-data-shows-ddr4-making-a-surprise-comeback",
+      "source_title": "PC's with 64GB of RAM plummet 18% as memory prices soar",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Trình khởi chạy Epic Games Launcher chuẩn bị hỗ trợ hệ điều hành SteamOS",
+      "summary_vi": "Epic Games đang từng bước đưa trình khởi chạy game của mình lên hệ điều hành SteamOS dựa trên Linux của Valve. Động thái này mở ra triển vọng chơi các tựa game nổi tiếng như Fortnite trực tiếp trên các thiết bị máy chơi game cầm tay.",
+      "hot_level": 3,
+      "hot_reason": "Tin vui cho cộng đồng người dùng máy tính chơi game cầm tay chạy SteamOS.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "source_title": "Epic Games Launcher is coming to SteamOS",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Công cụ mã nguồn mở gputaskman giúp theo dõi chi tiết mức tiêu hao VRAM",
+      "summary_vi": "Phó chủ tịch Microsoft Scott Hanselman vừa chia sẻ dự án mã nguồn mở gputaskman trên GitHub giúp người dùng giám sát chi tiết mức tiêu thụ bộ nhớ đồ họa của từng tiến trình. Công cụ này đặc biệt hữu ích khi cần bóc tách các tác vụ tính toán AI và mô hình ngôn ngữ lớn trên GPU.",
+      "hot_level": 3,
+      "hot_reason": "Tiện ích hữu dụng giúp người dùng PC quản lý dung lượng VRAM khi chạy các tác vụ AI.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+      "source_title": "Open-source GPU task manager reveals exactly what's eating your VRAM",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    }
+  ]
+}
