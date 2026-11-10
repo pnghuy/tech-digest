@@ -27,7 +27,7 @@ TELEGRAM_CHAT_ID   = os.environ["TELEGRAM_CHAT_ID"]
 GEMINI_API_KEY     = os.environ["GEMINI_API_KEY"]
 FORCE              = os.environ.get("FORCE_RUN", "").lower() in ("1", "true", "yes")
 
-client = genai.Client(api_key=GEMINI_API_KEY)
+client = genai.Client(api_key=GEMINI_API_KEY, http_options=types.HttpOptions(api_version="v1beta"))
 ICT = ZoneInfo("Asia/Bangkok")
 UA = {"User-Agent": "Mozilla/5.0 (compatible; tech-digest-bot/2.0; +https://github.com/pnghuy/tech-digest)"}
 
@@ -316,7 +316,7 @@ def call_gemini(prompt: str) -> dict:
         if model.startswith("gemini-3"):
             kw["thinking_config"] = types.ThinkingConfig(thinking_level="low")
         config = types.GenerateContentConfig(**kw)
-        for attempt in range(2):
+        for attempt in range(3):
             try:
                 print(f"  → Gọi {model} (lần {attempt + 1})...")
                 resp = client.models.generate_content(model=model, contents=prompt, config=config)
@@ -331,7 +331,7 @@ def call_gemini(prompt: str) -> dict:
                 last_err = e
                 msg = str(e)
                 print(f"  [WARN] {model}: {msg[:200]}")
-                if "429" in msg or "RESOURCE_EXHAUSTED" in msg:
+                if any(c in msg for c in ("429", "RESOURCE_EXHAUSTED", "503", "UNAVAILABLE", "disconnected")):
                     time.sleep(30)
                     continue
                 if isinstance(e, (json.JSONDecodeError, RuntimeError)) and attempt == 0:
