@@ -1,108 +1,101 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T13:30:44.023024+07:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T04:54:04.707025+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Meta ra mắt Muse Ember cạnh tranh GPT-6 Luna và Claude Haiku 5.5",
-      "summary_vi": "Meta đã tăng cường cạnh tranh trong phân khúc AI hiệu quả cao bằng cách ra mắt Muse Ember, trực tiếp đối đầu với các mẫu Luna của OpenAI và Haiku của Anthropic với chi phí thấp hơn đáng kể. Đồng thời, Anthropic cũng giới thiệu các mẫu Claude Fable 5.2 và Claude Mythos 5.2, được cải thiện về lập trình và suy luận.",
+      "title_vi": "Google tung bản cập nhật Pixel Drop tháng 11 cùng Android 17 QPR2",
+      "summary_vi": "Google vừa phát hành bản cập nhật Pixel Drop sớm hơn một tháng mang đến nhiều tính năng Gemini và AI mới cho các dòng Pixel 10 và Pixel Watch. Bản cập nhật này cũng đi kèm Android 17 QPR2 với hàng loạt cải tiến giao diện như tạo widget bằng AI và tùy biến biểu tượng ứng dụng.",
       "hot_level": 5,
-      "hot_reason": "Tin nóng nhất về cuộc đua AI từ các ông lớn Meta, OpenAI, Anthropic với những mẫu ngôn ngữ mới mạnh mẽ và giá cả cạnh tranh.",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/metas-new-muse-ember-takes-on-gpt-6-luna-and-claude-haiku-55-at-a-fraction-of-the-cost/?utm_source=rss",
-      "source_title": "Meta's new Muse Ember takes on GPT-6 Luna and Claude Haiku 5.5 at a fraction of the cost",
-      "related_urls": [
-        "https://wccftech.com/openai-squeezed-at-the-frontier-end-by-anthropics-claude-fable-5-2-while-metas-muse-ember-gives-its-bargain-class-gpt-6-luna-a-bruise/",
-        "https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2/",
-        "https://9to5mac.com/2026/11/09/anthropic-upgrades-claude-with-new-fable-5-2-model-details-here/",
-        "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "MacRumors",
-          "Neowin",
-          "TechCrunch",
-          "The Verge",
-          "Wccftech"
-        ],
-        "techmeme": false,
-        "hn_points": 969,
-        "trends": [],
-        "score": 15.0
-      }
-    },
-    {
-      "rank": 2,
-      "title_vi": "Nvidia đối mặt kiện tập thể và CEO Jensen Huang bị triệu tập vì nghi vấn gián điệp Trung Quốc",
-      "summary_vi": "Một công ty luật đã đệ đơn kiện tập thể chống lại Nvidia sau khi CEO Jensen Huang thừa nhận có quan hệ với một điệp viên Trung Quốc bị tình nghi, gây ra một cuộc điều tra nội bộ và các cuộc thảo luận toàn cầu. Ông Huang cũng bị triệu tập ra trước Quốc hội Mỹ.",
-      "hot_level": 5,
-      "hot_reason": "Vụ bê bối gián điệp liên quan đến CEO Nvidia Jensen Huang đang leo thang với các vụ kiện tụng và sự can thiệp của chính phủ, ảnh hưởng lớn đến tập đoàn chip AI hàng đầu thế giới.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop",
-      "source_title": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy",
-      "related_urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-        "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-        "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence",
-        "https://www.neowin.net/news/trump-ignored-china-spy-warnings-on-nvidias-jensen-huang-still-feels-hes-honorable/?utm_source=rss"
-      ],
-      "signals": {
-        "outlets": [
-          "Neowin",
-          "TechCrunch",
-          "The Verge",
-          "Tom's Hardware"
-        ],
-        "techmeme": true,
-        "hn_points": 955,
-        "trends": [],
-        "score": 14.0
-      }
-    },
-    {
-      "rank": 3,
-      "title_vi": "Apple bán gói 50 USD để mở rộng tính năng AI trong Creator Studio",
-      "summary_vi": "Apple bắt đầu cung cấp các gói sử dụng mở rộng trị giá 50 USD cho một số tính năng AI trong Creator Studio, đặc biệt cho Logic Pro, sau khi người dùng đạt giới hạn sử dụng hàng tháng. Điều này xác nhận việc Apple có thể tính phí cho việc sử dụng thêm các tính năng Apple Intelligence.",
-      "hot_level": 5,
-      "hot_reason": "Apple chính thức thu phí cho việc sử dụng tính năng AI vượt giới hạn, một bước đi quan trọng trong chiến lược AI của hãng và gây tranh cãi về mô hình kinh doanh.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
-      "source_title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
-      "related_urls": [
-        "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-        "https://www.macrumors.com/2026/11/09/apple-intelligence-extra-usage-fees-planned/",
-        "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "Engadget",
-          "MacRumors",
-          "The Verge"
-        ],
-        "techmeme": true,
-        "hn_points": 0,
-        "trends": [],
-        "score": 10.0
-      }
-    },
-    {
-      "rank": 4,
-      "title_vi": "Rò rỉ thông số camera Galaxy S27 series gây thất vọng",
-      "summary_vi": "Các thông số camera rò rỉ của dòng Samsung Galaxy S27 sắp tới cho thấy không có nhiều nâng cấp đáng kể cho các mẫu cơ bản và Plus, trong khi các mẫu Pro và Ultra chỉ được cải thiện cảm biến chính. Thông tin này được cho là gây thất vọng cho người dùng.",
-      "hot_level": 4,
-      "hot_reason": "Rò rỉ về dòng flagship Galaxy S27 của Samsung, một thương hiệu lớn tại Việt Nam, đặc biệt là thông tin camera không như mong đợi.",
+      "hot_reason": "Bản cập nhật tính năng lớn của hệ điều hành Android và phần cứng Pixel luôn nhận được sự quan tâm rất cao của cộng đồng công nghệ.",
       "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/09/samsung-galaxy-s27-series-camera-specs-leak-and-theyre-disappointing/",
-      "source_title": "Samsung Galaxy S27 series camera specs leak, and they’re disappointing",
+      "url": "https://9to5google.com/2026/11/10/november-2026-pixel-feature-drop/",
+      "source_title": "November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, & more",
       "related_urls": [
-        "https://www.androidauthority.com/samsung-galaxy-s27-series-camera-sensors-leak-3733185/"
+        "https://9to5google.com/2026/11/10/november-2026-pixel-watch-drop/",
+        "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+        "https://www.androidauthority.com/pixel-custom-icon-expansion-3733125/",
+        "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight"
       ],
       "signals": {
         "outlets": [
           "9to5Google",
-          "Android Authority"
+          "Android Authority",
+          "Ars Technica",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 7.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "AMD công bố kiến trúc Zen 6 trên vi xử lý EPYC Venice",
+      "summary_vi": "AMD đã chính thức hé lộ chi tiết kiến trúc microarchitecture Zen 6 với cấu hình thử nghiệm EPYC Venice mang lại hiệu năng vượt trội so với thế hệ trước. Dòng chip này dự kiến sở hữu tới 96 nhân và bộ nhớ đệm 3D V-Cache dung lượng lên tới 1152 MB trên phiên bản Venice-X.",
+      "hot_level": 4,
+      "hot_reason": "Kiến trúc vi xử lý thế hệ mới từ AMD nhận được sự chú ý đặc biệt từ giới công nghệ và người dùng PC.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera",
+      "source_title": "AMD Zen 6 EPYC ‘Venice’ deep dive and benchmarking",
+      "related_urls": [
+        "https://wccftech.com/amd-epyc-venice-x-best-3d-v-cache-to-date-96-zen-6-cores-1152-mb-l3/",
+        "https://www.pcworld.com/article/3280345/with-zen-6-amds-next-great-gaming-cpu-could-have-it-all.html"
+      ],
+      "signals": {
+        "outlets": [
+          "PCWorld",
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 139,
+        "trends": [],
+        "score": 6.39
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Samsung Gallery chính thức chuyển sang đồng bộ ảnh qua Google Photos",
+      "summary_vi": "Samsung đã chính thức công bố việc ứng dụng Bộ sưu tập (Gallery) chuyển sang sử dụng bộ nhớ Google Photos để sao lưu và đồng bộ hình ảnh cũng như video. Sự thay đổi này diễn ra trên diện rộng cho người dùng thiết bị Galaxy sau khi hãng ngừng tính năng đồng bộ trực tiếp với Microsoft OneDrive.",
+      "hot_level": 4,
+      "hot_reason": "Thay đổi lớn về nền tảng lưu trữ đám mây mặc định ảnh hưởng trực tiếp đến hàng triệu người dùng điện thoại Samsung tại Việt Nam.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-gallery-sync-google-storage-3733418/",
+      "source_title": "It’s official: Samsung Gallery now uses your Google storage to sync your photos and videos",
+      "related_urls": [
+        "https://www.gsmarena.com/samsung_officially_details_gallery_sync_with_google_storage-news-75424.php",
+        "https://9to5google.com/2026/11/10/samsung-gallery-google-photos-backup-rollout/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Lộ diện mô hình dummy dòng Samsung Galaxy S27",
+      "summary_vi": "Hình ảnh các mô hình mẫu của thế hệ Samsung Galaxy S27 bao gồm bản tiêu chuẩn, Pro và Ultra vừa bị rò rỉ trên mạng bởi leaker Sonny Dickson. Các mô hình này cho thấy cái nhìn ban đầu về thiết kế mặt lưng và bố cục cụm camera mới của dòng flagship năm 2027.",
+      "hot_level": 4,
+      "hot_reason": "Rò rỉ thiết kế của dòng smartphone cao cấp Galaxy S luôn là chủ đề cực hot đối với bạn đọc trong nước.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s27_series_dummy_units_surface_in_new_leak-news-75426.php",
+      "source_title": "Samsung Galaxy S27 series dummy units surface in new leak",
+      "related_urls": [
+        "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-plus-dummy-units-leak-3733332/"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
+          "GSMArena"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -112,43 +105,86 @@
     },
     {
       "rank": 5,
-      "title_vi": "Google Gemini ra mắt tính năng 'Memory summary' giúp người dùng quản lý dữ liệu cá nhân",
-      "summary_vi": "Google Gemini đang triển khai tính năng \"Memory summary\", cho phép người dùng xem, chỉnh sửa và xóa những gì Gemini Apps đã ghi nhớ về họ. Tính năng này nhằm tăng cường quyền kiểm soát dữ liệu cá nhân cho người dùng AI.",
+      "title_vi": "Steam hiển thị dữ liệu FPS trung bình ngay trên trang bán game",
+      "summary_vi": "Valve vừa bổ sung tính năng mới trên cửa hàng Steam giúp hiển thị mức khung hình trên giây (FPS) trung bình và tình trạng giật lag của trò chơi trước khi mua. Tính năng này hiện áp dụng dựa trên dữ liệu ẩn danh từ phần cứng Steam Deck và dự kiến sẽ sớm hỗ trợ người dùng PC để bàn.",
       "hot_level": 4,
-      "hot_reason": "Tính năng mới của Google Gemini tập trung vào quyền riêng tư và kiểm soát dữ liệu, một yếu tố quan trọng mà người dùng AI quan tâm.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/09/google-gemini-memory-summary/",
-      "source_title": "Google Gemini rolling out ‘Memory summary’ with everything it remembers about you",
+      "hot_reason": "Cải tiến cực kỳ hữu ích cho cộng đồng game thủ PC và người dùng máy chơi game cầm tay Steam Deck.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/steam-store-adds-average-fps-data-so-you-can-see-game-performance-before-making-a-purchase-steam-deck-only-for-now-with-desktop-pc-support-planned",
+      "source_title": "Steam Store adds average FPS data so you can see game performance before making a purchase",
       "related_urls": [
-        "https://www.androidauthority.com/google-gemini-memory-summary-rollout-3733179/"
+        "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+        "https://www.neowin.net/news/you-can-now-see-how-well-a-game-actually-runs-on-steam-deck-before-buying/?utm_source=rss"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
-          "Android Authority"
+          "Ars Technica",
+          "Neowin",
+          "Tom's Hardware"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 5.0
       }
     },
     {
       "rank": 6,
-      "title_vi": "Samsung tập trung sản xuất 70% Galaxy S27 Ultra và Pro",
-      "summary_vi": "Samsung được cho là đang tập trung 70% sản lượng dòng Galaxy S27 vào các mẫu Ultra và Pro, cho thấy hãng đang đặt cược lớn vào phân khúc điện thoại cao cấp hơn. Điều này có thể ảnh hưởng đến sự sẵn có và giá cả của các mẫu tiêu chuẩn.",
+      "title_vi": "SpaceX ra mắt thiết bị Starlink Mini 2 tích hợp pin có thể tháo rời",
+      "summary_vi": "SpaceX vừa giới thiệu trạm internet vệ tinh Starlink Mini 2 với kích thước nhỏ gọn tương đương một chiếc laptop. Thiết bị mới tích hợp sẵn chảo thu sóng, bộ định tuyến Wi-Fi và bổ sung viên pin hỗ trợ tháo lắp nhanh để phục vụ nhu cầu di động linh hoạt.",
       "hot_level": 4,
-      "hot_reason": "Rò rỉ về chiến lược sản xuất của Samsung cho dòng flagship Galaxy S27, cho thấy xu hướng ưu tiên các mẫu cao cấp.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/09/samsung-bets-that-youll-either-buy-a-galaxy-s27-pro-or-ultra-next-year/",
-      "source_title": "Samsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year",
+      "hot_reason": "Công nghệ internet vệ tinh Starlink nhận được sự quan tâm rất lớn từ người yêu công nghệ toàn cầu.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+      "source_title": "Starlink Mini 2 adds a swappable battery",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "The Verge"
+        ],
+        "techmeme": true,
+        "hn_points": 181,
+        "trends": [],
+        "score": 5.81
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Anthropic ra mắt mô hình AI Claude Fable 5.2 và Claude Mythos 5.2",
+      "summary_vi": "Anthropic vừa giới thiệu thế hệ mô hình ngôn ngữ lớn mới gồm Claude Fable 5.2 và Claude Mythos 5.2 với năng lực lập trình vượt trội đối thủ GPT-6. Trong các thử nghiệm thực tế, mô hình thậm chí có khả năng tự xây dựng cả một hệ điều hành hoặc tạo bản sao game hoàn chỉnh.",
+      "hot_level": 4,
+      "hot_reason": "Mô hình AI mới đạt kỷ lục thảo luận trên cộng đồng công nghệ Hacker News và là bước tiến lớn của Anthropic.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/anthropics-claude-fable-52-beats-gpt-6-astra-in-coding-can-even-build-an-operating-system/?utm_source=rss",
+      "source_title": "Anthropic's Claude Fable 5.2 beats GPT-6 Astra in coding, can even build an operating system",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 986,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "iPad Air thế hệ mới dự kiến sẽ trang bị màn hình OLED vào đầu năm 2027",
+      "summary_vi": "Báo cáo từ chuỗi cung ứng cho biết Apple đang lên kế hoạch thay thế tấm nền LCD bằng màn hình OLED cho cả hai kích thước của iPad Air. Dòng máy tính bảng mới này dự kiến sẽ ra mắt vào đầu năm 2027 sau đợt nâng cấp gần đây của iPad mini.",
+      "hot_level": 3,
+      "hot_reason": "Tin tức nâng cấp màn hình OLED cho dòng iPad Air nhận được sự mong đợi từ đông đảo người dùng Apple.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/another-report-backs-oled-ipad-air-early-next-year/",
+      "source_title": "Another report backs OLED iPad Air early next year",
       "related_urls": [
-        "https://www.androidauthority.com/galaxy-s27-ultra-pro-production-volume-3733071/"
+        "https://www.macrumors.com/2026/11/10/next-ipad-air-10-likely-new-features/",
+        "https://www.macrumors.com/2026/11/10/oled-ipad-air-rumored-to-launch-in-early-2027/"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
-          "Android Authority"
+          "9to5Mac",
+          "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -157,88 +193,51 @@
       }
     },
     {
-      "rank": 7,
-      "title_vi": "Apple Intelligence hoàn tất đăng ký pháp lý cho iPad và Mac tại Trung Quốc",
-      "summary_vi": "Apple đã hoàn thành một bước pháp lý quan trọng cho Apple Intelligence tại Trung Quốc, mở đường cho việc ra mắt dự kiến vào tháng 12 tới trên iPad và Mac. Đây là tín hiệu tích cực cho sự hiện diện AI của Apple tại thị trường lớn này.",
-      "hot_level": 4,
-      "hot_reason": "Tin tức quan trọng về việc Apple đưa AI của mình vào thị trường Trung Quốc, một thị trường khổng lồ và tiềm năng.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china/",
-      "source_title": "Apple Intelligence completes regulatory registration for iPad and Mac in China",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "9to5Mac"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 1.0
-      }
-    },
-    {
-      "rank": 8,
-      "title_vi": "Google mở rộng dòng TPU v8 với chip 8tx và 8i Max dành cho tác vụ AI",
-      "summary_vi": "Google đã mở rộng dòng chip TPU v8 của mình bằng cách giới thiệu hai biến thể mới: TPU 8tx, kết hợp với CPU AMD EPYC tùy chỉnh, và TPU 8i Max, tích hợp hai chip 8i trong một gói duy nhất, nhằm tối ưu hóa khả năng tính toán và mật độ bộ nhớ cho các tác vụ AI.",
-      "hot_level": 3,
-      "hot_reason": "Thông tin về phần cứng AI mới từ Google, đóng vai trò quan trọng trong việc phát triển và triển khai các mô hình AI tiên tiến.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/google-pairs-its-new-tpu-8tx-with-custom-amd-epyc-cpus-hosts-while-the-tpu-8i-max-combines-two-tpu-8i-chips-in-a-single-package-to-offer-phenomenal-compute-and-memory-density/",
-      "source_title": "Google Pairs Its New TPU 8tx With Custom AMD EPYC CPU Hosts, While The TPU 8i Max Combines Two TPU 8i Chips In A Single Package To Offer Phenomenal Compute And Memory Density",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "Wccftech"
-        ],
-        "techmeme": false,
-        "hn_points": 243,
-        "trends": [],
-        "score": 2.43
-      }
-    },
-    {
       "rank": 9,
-      "title_vi": "Motorola vô tình xác nhận điện thoại gập rộng Razr Flex ra mắt vào năm 2027",
-      "summary_vi": "Motorola đã vô tình đăng tải một trang hỗ trợ sớm, không chỉ xác nhận tên điện thoại gập rộng của hãng là \"Razr Flex\" mà còn hé lộ thiết bị này sẽ ra mắt vào năm 2027. Đây là một bước tiến mới trong thị trường điện thoại gập.",
+      "title_vi": "Apple phát hành bản cập nhật phần mềm mới cho dòng AirPods",
+      "summary_vi": "Apple đã bắt đầu phát hành phiên bản firmware mới mã hiệu 9B47 cho hàng loạt mẫu tai nghe gồm AirPods Pro 2, AirPods Pro 3, AirPods 4, AirPods 5 và AirPods Max 2. Bản cập nhật này tiếp nối giai đoạn thử nghiệm beta nhằm tối ưu hoá kết nối và sửa các lỗi phát sinh.",
       "hot_level": 3,
-      "hot_reason": "Rò rỉ về một mẫu điện thoại gập mới từ Motorola, cho thấy xu hướng phát triển tiếp theo của thị trường smartphone.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/09/motorola-razr-flex-wide-foldable-2027-leak/",
-      "source_title": "Motorola accidentally confirms its ‘Razr Flex’ wide foldable is coming in 2027",
+      "hot_reason": "Dòng tai nghe không dây phổ biến nhất thị trường có bản cập nhật phần mềm mới.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more/",
+      "source_title": "Apple just released new AirPods Pro 3 firmware and more",
       "related_urls": [
-        "https://www.androidauthority.com/motorola-razr-flex-2027-support-page-video-leak-3732853/"
+        "https://www.macrumors.com/2026/11/10/apple-releases-airpods-firmware-9b47/"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
-          "Android Authority"
+          "9to5Mac",
+          "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 2.0
+        "score": 3.0
       }
     },
     {
       "rank": 10,
-      "title_vi": "Xiaomi 18 Pro rò rỉ tháng ra mắt tại Ấn Độ cùng thông số Xiaomi 18T",
-      "summary_vi": "Xiaomi 18 Pro dự kiến sẽ ra mắt tại Ấn Độ vào tháng tới, cùng với việc rò rỉ thông số kỹ thuật của Xiaomi 18T. Đây là những thông tin đáng chú ý cho thị trường smartphone đang phát triển mạnh ở khu vực này.",
+      "title_vi": "Amazon Ring trình làng drone an ninh bay và robot tuần tra trong nhà",
+      "summary_vi": "Thương hiệu Ring của Amazon vừa công bố thiết bị camera an ninh dạng bay Ring Drone Cam giá 250 USD và robot tuần tra mặt đất Rover Cam giá 1.000 USD. Hai sản phẩm này có khả năng tự động phản ứng và di chuyển giám sát các khu vực trong nhà thay vì chỉ cố định như camera truyền thống.",
       "hot_level": 3,
-      "hot_reason": "Thông tin rò rỉ về lịch ra mắt và cấu hình các mẫu smartphone mới từ Xiaomi, một thương hiệu được ưa chuộng tại Việt Nam.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/xiaomi_18_pro_india_launch_month_leaks_along_with_xiaomi_18t_specs-news-75414.php",
-      "source_title": "Xiaomi 18 Pro India launch month leaks along with Xiaomi 18T specs",
+      "hot_reason": "Thiết bị smarthome robot tuần tra và drone an ninh độc đáo từ Amazon thu hút nhiều sự chú ý của người dùng công nghệ.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/rings-wheeled-and-flying-robots-will-patrol-your-home/",
+      "source_title": "Ring’s wheeled and flying robots will patrol your home",
       "related_urls": [
-        "https://www.gsmarena.com/xiaomi_18_pro_max_in_for_review-news-75411.php"
+        "https://www.neowin.net/news/amazons-ring-brings-back-its-flying-security-camera-and-launches-a-1000-security-robot/?utm_source=rss",
+        "https://www.androidauthority.com/ring-drone-cam-launch-3733467/"
       ],
       "signals": {
         "outlets": [
-          "GSMArena"
+          "9to5Mac",
+          "Android Authority",
+          "Neowin"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 1.0
+        "score": 5.0
       }
     }
   ]

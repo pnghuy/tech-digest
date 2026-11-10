@@ -1,0 +1,244 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T04:54:04.707025+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Google tung bản cập nhật Pixel Drop tháng 11 cùng Android 17 QPR2",
+      "summary_vi": "Google vừa phát hành bản cập nhật Pixel Drop sớm hơn một tháng mang đến nhiều tính năng Gemini và AI mới cho các dòng Pixel 10 và Pixel Watch. Bản cập nhật này cũng đi kèm Android 17 QPR2 với hàng loạt cải tiến giao diện như tạo widget bằng AI và tùy biến biểu tượng ứng dụng.",
+      "hot_level": 5,
+      "hot_reason": "Bản cập nhật tính năng lớn của hệ điều hành Android và phần cứng Pixel luôn nhận được sự quan tâm rất cao của cộng đồng công nghệ.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/10/november-2026-pixel-feature-drop/",
+      "source_title": "November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, & more",
+      "related_urls": [
+        "https://9to5google.com/2026/11/10/november-2026-pixel-watch-drop/",
+        "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+        "https://www.androidauthority.com/pixel-custom-icon-expansion-3733125/",
+        "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority",
+          "Ars Technica",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 7.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "AMD công bố kiến trúc Zen 6 trên vi xử lý EPYC Venice",
+      "summary_vi": "AMD đã chính thức hé lộ chi tiết kiến trúc microarchitecture Zen 6 với cấu hình thử nghiệm EPYC Venice mang lại hiệu năng vượt trội so với thế hệ trước. Dòng chip này dự kiến sở hữu tới 96 nhân và bộ nhớ đệm 3D V-Cache dung lượng lên tới 1152 MB trên phiên bản Venice-X.",
+      "hot_level": 4,
+      "hot_reason": "Kiến trúc vi xử lý thế hệ mới từ AMD nhận được sự chú ý đặc biệt từ giới công nghệ và người dùng PC.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera",
+      "source_title": "AMD Zen 6 EPYC ‘Venice’ deep dive and benchmarking",
+      "related_urls": [
+        "https://wccftech.com/amd-epyc-venice-x-best-3d-v-cache-to-date-96-zen-6-cores-1152-mb-l3/",
+        "https://www.pcworld.com/article/3280345/with-zen-6-amds-next-great-gaming-cpu-could-have-it-all.html"
+      ],
+      "signals": {
+        "outlets": [
+          "PCWorld",
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 139,
+        "trends": [],
+        "score": 6.39
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Samsung Gallery chính thức chuyển sang đồng bộ ảnh qua Google Photos",
+      "summary_vi": "Samsung đã chính thức công bố việc ứng dụng Bộ sưu tập (Gallery) chuyển sang sử dụng bộ nhớ Google Photos để sao lưu và đồng bộ hình ảnh cũng như video. Sự thay đổi này diễn ra trên diện rộng cho người dùng thiết bị Galaxy sau khi hãng ngừng tính năng đồng bộ trực tiếp với Microsoft OneDrive.",
+      "hot_level": 4,
+      "hot_reason": "Thay đổi lớn về nền tảng lưu trữ đám mây mặc định ảnh hưởng trực tiếp đến hàng triệu người dùng điện thoại Samsung tại Việt Nam.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-gallery-sync-google-storage-3733418/",
+      "source_title": "It’s official: Samsung Gallery now uses your Google storage to sync your photos and videos",
+      "related_urls": [
+        "https://www.gsmarena.com/samsung_officially_details_gallery_sync_with_google_storage-news-75424.php",
+        "https://9to5google.com/2026/11/10/samsung-gallery-google-photos-backup-rollout/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Lộ diện mô hình dummy dòng Samsung Galaxy S27",
+      "summary_vi": "Hình ảnh các mô hình mẫu của thế hệ Samsung Galaxy S27 bao gồm bản tiêu chuẩn, Pro và Ultra vừa bị rò rỉ trên mạng bởi leaker Sonny Dickson. Các mô hình này cho thấy cái nhìn ban đầu về thiết kế mặt lưng và bố cục cụm camera mới của dòng flagship năm 2027.",
+      "hot_level": 4,
+      "hot_reason": "Rò rỉ thiết kế của dòng smartphone cao cấp Galaxy S luôn là chủ đề cực hot đối với bạn đọc trong nước.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s27_series_dummy_units_surface_in_new_leak-news-75426.php",
+      "source_title": "Samsung Galaxy S27 series dummy units surface in new leak",
+      "related_urls": [
+        "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-plus-dummy-units-leak-3733332/"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Steam hiển thị dữ liệu FPS trung bình ngay trên trang bán game",
+      "summary_vi": "Valve vừa bổ sung tính năng mới trên cửa hàng Steam giúp hiển thị mức khung hình trên giây (FPS) trung bình và tình trạng giật lag của trò chơi trước khi mua. Tính năng này hiện áp dụng dựa trên dữ liệu ẩn danh từ phần cứng Steam Deck và dự kiến sẽ sớm hỗ trợ người dùng PC để bàn.",
+      "hot_level": 4,
+      "hot_reason": "Cải tiến cực kỳ hữu ích cho cộng đồng game thủ PC và người dùng máy chơi game cầm tay Steam Deck.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/steam-store-adds-average-fps-data-so-you-can-see-game-performance-before-making-a-purchase-steam-deck-only-for-now-with-desktop-pc-support-planned",
+      "source_title": "Steam Store adds average FPS data so you can see game performance before making a purchase",
+      "related_urls": [
+        "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+        "https://www.neowin.net/news/you-can-now-see-how-well-a-game-actually-runs-on-steam-deck-before-buying/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "Ars Technica",
+          "Neowin",
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "SpaceX ra mắt thiết bị Starlink Mini 2 tích hợp pin có thể tháo rời",
+      "summary_vi": "SpaceX vừa giới thiệu trạm internet vệ tinh Starlink Mini 2 với kích thước nhỏ gọn tương đương một chiếc laptop. Thiết bị mới tích hợp sẵn chảo thu sóng, bộ định tuyến Wi-Fi và bổ sung viên pin hỗ trợ tháo lắp nhanh để phục vụ nhu cầu di động linh hoạt.",
+      "hot_level": 4,
+      "hot_reason": "Công nghệ internet vệ tinh Starlink nhận được sự quan tâm rất lớn từ người yêu công nghệ toàn cầu.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+      "source_title": "Starlink Mini 2 adds a swappable battery",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "The Verge"
+        ],
+        "techmeme": true,
+        "hn_points": 181,
+        "trends": [],
+        "score": 5.81
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Anthropic ra mắt mô hình AI Claude Fable 5.2 và Claude Mythos 5.2",
+      "summary_vi": "Anthropic vừa giới thiệu thế hệ mô hình ngôn ngữ lớn mới gồm Claude Fable 5.2 và Claude Mythos 5.2 với năng lực lập trình vượt trội đối thủ GPT-6. Trong các thử nghiệm thực tế, mô hình thậm chí có khả năng tự xây dựng cả một hệ điều hành hoặc tạo bản sao game hoàn chỉnh.",
+      "hot_level": 4,
+      "hot_reason": "Mô hình AI mới đạt kỷ lục thảo luận trên cộng đồng công nghệ Hacker News và là bước tiến lớn của Anthropic.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/anthropics-claude-fable-52-beats-gpt-6-astra-in-coding-can-even-build-an-operating-system/?utm_source=rss",
+      "source_title": "Anthropic's Claude Fable 5.2 beats GPT-6 Astra in coding, can even build an operating system",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 986,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "iPad Air thế hệ mới dự kiến sẽ trang bị màn hình OLED vào đầu năm 2027",
+      "summary_vi": "Báo cáo từ chuỗi cung ứng cho biết Apple đang lên kế hoạch thay thế tấm nền LCD bằng màn hình OLED cho cả hai kích thước của iPad Air. Dòng máy tính bảng mới này dự kiến sẽ ra mắt vào đầu năm 2027 sau đợt nâng cấp gần đây của iPad mini.",
+      "hot_level": 3,
+      "hot_reason": "Tin tức nâng cấp màn hình OLED cho dòng iPad Air nhận được sự mong đợi từ đông đảo người dùng Apple.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/another-report-backs-oled-ipad-air-early-next-year/",
+      "source_title": "Another report backs OLED iPad Air early next year",
+      "related_urls": [
+        "https://www.macrumors.com/2026/11/10/next-ipad-air-10-likely-new-features/",
+        "https://www.macrumors.com/2026/11/10/oled-ipad-air-rumored-to-launch-in-early-2027/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Apple phát hành bản cập nhật phần mềm mới cho dòng AirPods",
+      "summary_vi": "Apple đã bắt đầu phát hành phiên bản firmware mới mã hiệu 9B47 cho hàng loạt mẫu tai nghe gồm AirPods Pro 2, AirPods Pro 3, AirPods 4, AirPods 5 và AirPods Max 2. Bản cập nhật này tiếp nối giai đoạn thử nghiệm beta nhằm tối ưu hoá kết nối và sửa các lỗi phát sinh.",
+      "hot_level": 3,
+      "hot_reason": "Dòng tai nghe không dây phổ biến nhất thị trường có bản cập nhật phần mềm mới.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more/",
+      "source_title": "Apple just released new AirPods Pro 3 firmware and more",
+      "related_urls": [
+        "https://www.macrumors.com/2026/11/10/apple-releases-airpods-firmware-9b47/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Amazon Ring trình làng drone an ninh bay và robot tuần tra trong nhà",
+      "summary_vi": "Thương hiệu Ring của Amazon vừa công bố thiết bị camera an ninh dạng bay Ring Drone Cam giá 250 USD và robot tuần tra mặt đất Rover Cam giá 1.000 USD. Hai sản phẩm này có khả năng tự động phản ứng và di chuyển giám sát các khu vực trong nhà thay vì chỉ cố định như camera truyền thống.",
+      "hot_level": 3,
+      "hot_reason": "Thiết bị smarthome robot tuần tra và drone an ninh độc đáo từ Amazon thu hút nhiều sự chú ý của người dùng công nghệ.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/rings-wheeled-and-flying-robots-will-patrol-your-home/",
+      "source_title": "Ring’s wheeled and flying robots will patrol your home",
+      "related_urls": [
+        "https://www.neowin.net/news/amazons-ring-brings-back-its-flying-security-camera-and-launches-a-1000-security-robot/?utm_source=rss",
+        "https://www.androidauthority.com/ring-drone-cam-launch-3733467/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Android Authority",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    }
+  ]
+}
