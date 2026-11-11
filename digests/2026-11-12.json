@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T04:54:11.241116+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Apple chính thức đóng cửa vĩnh viễn diễn đàn cộng đồng hỗ trợ sau 28 năm hoạt động",
+      "summary_vi": "Apple vừa phát đi thông báo sẽ đóng cửa vĩnh viễn diễn đàn Apple Support Community từ ngày 20 tháng 11. Hiện tại toàn bộ hệ thống diễn đàn đã được chuyển sang chế độ chỉ đọc.",
+      "hot_level": 5,
+      "hot_reason": "Sự kiện lịch sử ảnh hưởng trực tiếp đến cộng đồng người dùng Apple toàn cầu sau gần ba thập kỷ tồn tại",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/",
+      "source_title": "End of an era: Apple Support Community forums will permanently close on November 20",
+      "related_urls": [
+        "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+        "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/",
+        "https://www.macrumors.com/2026/11/10/apple-support-community-closing-november-20/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Ars Technica",
+          "Engadget",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 254,
+        "trends": [],
+        "score": 9.54
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Google đưa ứng dụng Gemini độc lập lên Apple CarPlay",
+      "summary_vi": "Google vừa phát hành ứng dụng Gemini độc lập trên nền tảng Apple CarPlay hỗ trợ nhiều ngôn ngữ trên toàn cầu. Bản cập nhật cho phép người dùng iOS có thể trò chuyện trực tiếp với Gemini Live ngay khi đang lái xe.",
+      "hot_level": 5,
+      "hot_reason": "Tính năng AI mới kết nối trực tiếp hai hệ sinh thái lớn của Apple và Google được nhiều trang công nghệ hàng đầu cùng đưa tin",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/11/gemini-app-carplay/",
+      "source_title": "Google rolling out Gemini app for CarPlay",
+      "related_urls": [
+        "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+        "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/",
+        "https://www.androidauthority.com/google-gemini-live-apple-carplay-launch-3734084/",
+        "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "9to5Mac",
+          "Android Authority",
+          "Engadget",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 9.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "iFixit 'mổ bụng' MacBook Pro OLED mới, hé lộ cơ chế hoạt động của logo Apple phát sáng",
+      "summary_vi": "Video mổ xẻ mới nhất của iFixit trên mẫu MacBook Pro màn hình cảm ứng PROLED XDR đã làm rõ cách Apple mang trở lại logo quả táo phát sáng trên nắp lưng. Quá trình tháo máy cũng giải thích cách thiết bị cắt giảm trọng lượng và vị trí đặt các cụm đèn LED trợ sáng.",
+      "hot_level": 4,
+      "hot_reason": "Màn bung máy mẫu MacBook Pro mới nhất với tính năng màn hình cảm ứng và logo phát sáng đang thu hút sự chú ý lớn từ người yêu công nghệ",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details/",
+      "source_title": "iFixit tears down touchscreen MacBook Pro, reveals light-up Apple logo details",
+      "related_urls": [
+        "https://www.gsmarena.com/ifixit_reveals_the_tech_behind_the_macbook_proleds_light_up_apple_logo-news-75434.php",
+        "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
+        "https://www.macrumors.com/2026/11/10/ifixit-proled-macbook-pro-teardown/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Engadget",
+          "GSMArena",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 6.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Google mở rộng phát hành mô hình Gemini 4 Carbon cho người dùng gói AI Ultra",
+      "summary_vi": "Sau thời gian thử nghiệm giới hạn, Google bắt đầu triển khai mô hình AI Gemini 4 Carbon cho các thuê bao đăng ký gói dịch vụ AI Ultra. Đây là một trong những mô hình xử lý thông minh mạnh nhất hiện tại của hãng.",
+      "hot_level": 4,
+      "hot_reason": "Bản cập nhật mô hình trí tuệ nhân tạo thế hệ mới của Google nhận được sự quan tâm lớn từ giới công nghệ và cộng đồng thảo luận",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-gemini-4-carbon-rollout-3733702/",
+      "source_title": "Google rolls out Gemini 4 Carbon to AI Ultra subscribers",
+      "related_urls": [
+        "https://9to5google.com/2026/11/10/gemini-app-4-carbon/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 291,
+        "trends": [],
+        "score": 4.91
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "iPhone 18 Pro Max đứng đầu bảng thử nghiệm thời lượng pin đối đầu 32 smartphone",
+      "summary_vi": "Trong bài kiểm tra pin chi tiết đối đầu 32 mẫu smartphone của CNET, iPhone 18 Pro Max đã giành vị trí dẫn đầu tổng thể. Nhiều dòng iPhone khác cũng ghi nhận thành tích tốt trong các bài đo riêng lẻ so với đối thủ Android.",
+      "hot_level": 4,
+      "hot_reason": "Kết quả so sánh pin giữa các smartphone cao cấp nhất luôn là đề tài thảo luận sôi nổi của cộng đồng người dùng tại Việt Nam",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/11/iphone-18-pro-max-wins-battery-test/",
+      "source_title": "iPhone 18 Pro Max Wins Battery Test Involving 32 Smartphones",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/11/iphone-is-the-winner-of-new-battery-test-topping-all-androids/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Google Wallet bổ sung chìa khóa nhà kỹ thuật số giúp mở khóa cửa thông minh bằng một chạm",
+      "summary_vi": "Google Wallet trên Android đang triển khai tính năng lưu trữ chìa khóa nhà kỹ thuật số dành cho các mẫu khóa thông minh tương thích Google Home. Người dùng có thể chạm thiết bị qua NFC hoặc mở khóa rảnh tay nhờ kết nối UWB.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng nhà thông minh tiện ích cho lượng lớn người dùng smartphone Android",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-wallet-digital-home-keys-nfc-uwb-unlocking-3734133/",
+      "source_title": "Google Wallet adds digital home keys to open your front door smart lock with a tap",
+      "related_urls": [
+        "https://9to5google.com/2026/11/11/google-wallet-home-key/",
+        "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "OpenAI sẽ khai tử chế độ giọng nói Standard và Advanced Voice trên ChatGPT vào tháng sau",
+      "summary_vi": "OpenAI thông báo kế hoạch ngừng hoạt động hai chế độ giọng nói quen thuộc trên ChatGPT để tập trung hoàn toàn vào mô hình tương tác thời gian thực GPT-Live. Động thái này nhằm hợp nhất toàn bộ trải nghiệm đàm thoại âm thanh của dịch vụ.",
+      "hot_level": 3,
+      "hot_reason": "Thay đổi lớn đối với dịch vụ AI phổ biến nhất hiện nay ảnh hưởng trực tiếp tới thói quen tương tác của người dùng",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/openai-retiring-chatgpt-advanced-standard-voice-3733978/",
+      "source_title": "OpenAI is sunsetting ChatGPT Advanced and Standard voice next month",
+      "related_urls": [
+        "https://www.neowin.net/news/openai-is-retiring-chatgpts-advanced-and-standard-voice-modes-sparking-user-backlash/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Xiaomi xác nhận ra mắt Xiaomi Watch S5, Smart Band 11 và tai nghe dạng kẹp tại sự kiện ngày 17/11",
+      "summary_vi": "Bên cạnh bộ đôi điện thoại 18 Pro và 18 Pro Max, Xiaomi xác nhận sẽ giới thiệu thêm đồng hồ thông minh Watch S5 bản 41mm, vòng đeo tay Smart Band 11 cùng mẫu tai nghe kẹp tai Clip tại sự kiện toàn cầu ở Paris. Loạt phụ kiện mới sẽ chính thức ra mắt vào ngày 17 tháng 11.",
+      "hot_level": 3,
+      "hot_reason": "Các dòng thiết bị đeo thông minh của Xiaomi như Smart Band luôn có lượng người dùng rất lớn và được quan tâm tại thị trường Việt Nam",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/xiaomi_watch_s5_41mm_xiaomi_smart_band_11_xiaomi_clip_earbuds_will_be_at_next_weeks_event_too-news-75442.php",
+      "source_title": "Xiaomi Watch S5 41mm, Xiaomi Smart Band 11, Xiaomi Clip earbuds will be at next week's event",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Apple phát triển ứng dụng Harbor giúp chạy các mô hình AI cục bộ ngay trên máy Mac",
+      "summary_vi": "Dữ liệu rò rỉ cho thấy Apple đang chuẩn bị tung ra một ứng dụng mới dành riêng cho macOS có tên mã Harbor. Phần mềm này được thiết kế nhằm giúp người dùng dễ dàng chạy và điều phối các mô hình AI cục bộ trên một hoặc nhiều thiết bị Mac liên kết.",
+      "hot_level": 3,
+      "hot_reason": "Bước đi quan trọng của Apple hỗ trợ chạy AI trực tiếp trên máy Mac thu hút sự chú ý của giới lập trình viên và người dùng chuyên nghiệp",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "source_title": "Apple has new Mac app coming to make running local AI models easy",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Mac"
+        ],
+        "techmeme": false,
+        "hn_points": 505,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "TSMC dự kiến đầu tư 1 tỷ USD vào Anthropic và OpenAI",
+      "summary_vi": "Tập đoàn gia công bán dẫn TSMC đang chuẩn bị rót khoản vốn trị giá 1 tỷ USD vào hai công ty trí tuệ nhân tạo lớn là Anthropic và OpenAI. Bước đi này phản ánh xu hướng liên kết tài chính chặt chẽ giữa các chuỗi cung ứng chip và các công ty phát triển mô hình AI hàng đầu.",
+      "hot_level": 3,
+      "hot_reason": "Hãng gia công chip lớn nhất thế giới đầu tư mạnh vào các tên tuổi AI đầu ngành là chỉ dấu quan trọng cho ngành bán dẫn",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "source_title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Ars Technica"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    }
+  ]
+}

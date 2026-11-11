@@ -1,101 +1,129 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T04:54:04.707025+07:00",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T04:54:11.241116+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Google tung bản cập nhật Pixel Drop tháng 11 cùng Android 17 QPR2",
-      "summary_vi": "Google vừa phát hành bản cập nhật Pixel Drop sớm hơn một tháng mang đến nhiều tính năng Gemini và AI mới cho các dòng Pixel 10 và Pixel Watch. Bản cập nhật này cũng đi kèm Android 17 QPR2 với hàng loạt cải tiến giao diện như tạo widget bằng AI và tùy biến biểu tượng ứng dụng.",
+      "title_vi": "Apple chính thức đóng cửa vĩnh viễn diễn đàn cộng đồng hỗ trợ sau 28 năm hoạt động",
+      "summary_vi": "Apple vừa phát đi thông báo sẽ đóng cửa vĩnh viễn diễn đàn Apple Support Community từ ngày 20 tháng 11. Hiện tại toàn bộ hệ thống diễn đàn đã được chuyển sang chế độ chỉ đọc.",
       "hot_level": 5,
-      "hot_reason": "Bản cập nhật tính năng lớn của hệ điều hành Android và phần cứng Pixel luôn nhận được sự quan tâm rất cao của cộng đồng công nghệ.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/10/november-2026-pixel-feature-drop/",
-      "source_title": "November 2026 Pixel Drop: Create My Widget, HiLight for Google Messages, Pixel 10 Rambler, & more",
+      "hot_reason": "Sự kiện lịch sử ảnh hưởng trực tiếp đến cộng đồng người dùng Apple toàn cầu sau gần ba thập kỷ tồn tại",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/",
+      "source_title": "End of an era: Apple Support Community forums will permanently close on November 20",
       "related_urls": [
-        "https://9to5google.com/2026/11/10/november-2026-pixel-watch-drop/",
-        "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
-        "https://www.androidauthority.com/pixel-custom-icon-expansion-3733125/",
-        "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight"
+        "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+        "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/",
+        "https://www.macrumors.com/2026/11/10/apple-support-community-closing-november-20/"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
-          "Android Authority",
+          "9to5Mac",
           "Ars Technica",
-          "The Verge"
+          "Engadget",
+          "MacRumors"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 254,
         "trends": [],
-        "score": 7.0
+        "score": 9.54
       }
     },
     {
       "rank": 2,
-      "title_vi": "AMD công bố kiến trúc Zen 6 trên vi xử lý EPYC Venice",
-      "summary_vi": "AMD đã chính thức hé lộ chi tiết kiến trúc microarchitecture Zen 6 với cấu hình thử nghiệm EPYC Venice mang lại hiệu năng vượt trội so với thế hệ trước. Dòng chip này dự kiến sở hữu tới 96 nhân và bộ nhớ đệm 3D V-Cache dung lượng lên tới 1152 MB trên phiên bản Venice-X.",
-      "hot_level": 4,
-      "hot_reason": "Kiến trúc vi xử lý thế hệ mới từ AMD nhận được sự chú ý đặc biệt từ giới công nghệ và người dùng PC.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera",
-      "source_title": "AMD Zen 6 EPYC ‘Venice’ deep dive and benchmarking",
+      "title_vi": "Google đưa ứng dụng Gemini độc lập lên Apple CarPlay",
+      "summary_vi": "Google vừa phát hành ứng dụng Gemini độc lập trên nền tảng Apple CarPlay hỗ trợ nhiều ngôn ngữ trên toàn cầu. Bản cập nhật cho phép người dùng iOS có thể trò chuyện trực tiếp với Gemini Live ngay khi đang lái xe.",
+      "hot_level": 5,
+      "hot_reason": "Tính năng AI mới kết nối trực tiếp hai hệ sinh thái lớn của Apple và Google được nhiều trang công nghệ hàng đầu cùng đưa tin",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/11/gemini-app-carplay/",
+      "source_title": "Google rolling out Gemini app for CarPlay",
       "related_urls": [
-        "https://wccftech.com/amd-epyc-venice-x-best-3d-v-cache-to-date-96-zen-6-cores-1152-mb-l3/",
-        "https://www.pcworld.com/article/3280345/with-zen-6-amds-next-great-gaming-cpu-could-have-it-all.html"
-      ],
-      "signals": {
-        "outlets": [
-          "PCWorld",
-          "Tom's Hardware",
-          "Wccftech"
-        ],
-        "techmeme": false,
-        "hn_points": 139,
-        "trends": [],
-        "score": 6.39
-      }
-    },
-    {
-      "rank": 3,
-      "title_vi": "Samsung Gallery chính thức chuyển sang đồng bộ ảnh qua Google Photos",
-      "summary_vi": "Samsung đã chính thức công bố việc ứng dụng Bộ sưu tập (Gallery) chuyển sang sử dụng bộ nhớ Google Photos để sao lưu và đồng bộ hình ảnh cũng như video. Sự thay đổi này diễn ra trên diện rộng cho người dùng thiết bị Galaxy sau khi hãng ngừng tính năng đồng bộ trực tiếp với Microsoft OneDrive.",
-      "hot_level": 4,
-      "hot_reason": "Thay đổi lớn về nền tảng lưu trữ đám mây mặc định ảnh hưởng trực tiếp đến hàng triệu người dùng điện thoại Samsung tại Việt Nam.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/samsung-gallery-sync-google-storage-3733418/",
-      "source_title": "It’s official: Samsung Gallery now uses your Google storage to sync your photos and videos",
-      "related_urls": [
-        "https://www.gsmarena.com/samsung_officially_details_gallery_sync_with_google_storage-news-75424.php",
-        "https://9to5google.com/2026/11/10/samsung-gallery-google-photos-backup-rollout/"
+        "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+        "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/",
+        "https://www.androidauthority.com/google-gemini-live-apple-carplay-launch-3734084/",
+        "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/"
       ],
       "signals": {
         "outlets": [
           "9to5Google",
+          "9to5Mac",
           "Android Authority",
-          "GSMArena"
+          "Engadget",
+          "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 5.0
+        "score": 9.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "iFixit 'mổ bụng' MacBook Pro OLED mới, hé lộ cơ chế hoạt động của logo Apple phát sáng",
+      "summary_vi": "Video mổ xẻ mới nhất của iFixit trên mẫu MacBook Pro màn hình cảm ứng PROLED XDR đã làm rõ cách Apple mang trở lại logo quả táo phát sáng trên nắp lưng. Quá trình tháo máy cũng giải thích cách thiết bị cắt giảm trọng lượng và vị trí đặt các cụm đèn LED trợ sáng.",
+      "hot_level": 4,
+      "hot_reason": "Màn bung máy mẫu MacBook Pro mới nhất với tính năng màn hình cảm ứng và logo phát sáng đang thu hút sự chú ý lớn từ người yêu công nghệ",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details/",
+      "source_title": "iFixit tears down touchscreen MacBook Pro, reveals light-up Apple logo details",
+      "related_urls": [
+        "https://www.gsmarena.com/ifixit_reveals_the_tech_behind_the_macbook_proleds_light_up_apple_logo-news-75434.php",
+        "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
+        "https://www.macrumors.com/2026/11/10/ifixit-proled-macbook-pro-teardown/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Engadget",
+          "GSMArena",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 6.0
       }
     },
     {
       "rank": 4,
-      "title_vi": "Lộ diện mô hình dummy dòng Samsung Galaxy S27",
-      "summary_vi": "Hình ảnh các mô hình mẫu của thế hệ Samsung Galaxy S27 bao gồm bản tiêu chuẩn, Pro và Ultra vừa bị rò rỉ trên mạng bởi leaker Sonny Dickson. Các mô hình này cho thấy cái nhìn ban đầu về thiết kế mặt lưng và bố cục cụm camera mới của dòng flagship năm 2027.",
+      "title_vi": "Google mở rộng phát hành mô hình Gemini 4 Carbon cho người dùng gói AI Ultra",
+      "summary_vi": "Sau thời gian thử nghiệm giới hạn, Google bắt đầu triển khai mô hình AI Gemini 4 Carbon cho các thuê bao đăng ký gói dịch vụ AI Ultra. Đây là một trong những mô hình xử lý thông minh mạnh nhất hiện tại của hãng.",
       "hot_level": 4,
-      "hot_reason": "Rò rỉ thiết kế của dòng smartphone cao cấp Galaxy S luôn là chủ đề cực hot đối với bạn đọc trong nước.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s27_series_dummy_units_surface_in_new_leak-news-75426.php",
-      "source_title": "Samsung Galaxy S27 series dummy units surface in new leak",
+      "hot_reason": "Bản cập nhật mô hình trí tuệ nhân tạo thế hệ mới của Google nhận được sự quan tâm lớn từ giới công nghệ và cộng đồng thảo luận",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-gemini-4-carbon-rollout-3733702/",
+      "source_title": "Google rolls out Gemini 4 Carbon to AI Ultra subscribers",
       "related_urls": [
-        "https://www.androidauthority.com/samsung-galaxy-s27-pro-ultra-plus-dummy-units-leak-3733332/"
+        "https://9to5google.com/2026/11/10/gemini-app-4-carbon/"
       ],
       "signals": {
         "outlets": [
-          "Android Authority",
-          "GSMArena"
+          "9to5Google",
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 291,
+        "trends": [],
+        "score": 4.91
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "iPhone 18 Pro Max đứng đầu bảng thử nghiệm thời lượng pin đối đầu 32 smartphone",
+      "summary_vi": "Trong bài kiểm tra pin chi tiết đối đầu 32 mẫu smartphone của CNET, iPhone 18 Pro Max đã giành vị trí dẫn đầu tổng thể. Nhiều dòng iPhone khác cũng ghi nhận thành tích tốt trong các bài đo riêng lẻ so với đối thủ Android.",
+      "hot_level": 4,
+      "hot_reason": "Kết quả so sánh pin giữa các smartphone cao cấp nhất luôn là đề tài thảo luận sôi nổi của cộng đồng người dùng tại Việt Nam",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/11/iphone-18-pro-max-wins-battery-test/",
+      "source_title": "iPhone 18 Pro Max Wins Battery Test Involving 32 Smartphones",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/11/iphone-is-the-winner-of-new-battery-test-topping-all-androids/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -104,140 +132,110 @@
       }
     },
     {
-      "rank": 5,
-      "title_vi": "Steam hiển thị dữ liệu FPS trung bình ngay trên trang bán game",
-      "summary_vi": "Valve vừa bổ sung tính năng mới trên cửa hàng Steam giúp hiển thị mức khung hình trên giây (FPS) trung bình và tình trạng giật lag của trò chơi trước khi mua. Tính năng này hiện áp dụng dựa trên dữ liệu ẩn danh từ phần cứng Steam Deck và dự kiến sẽ sớm hỗ trợ người dùng PC để bàn.",
-      "hot_level": 4,
-      "hot_reason": "Cải tiến cực kỳ hữu ích cho cộng đồng game thủ PC và người dùng máy chơi game cầm tay Steam Deck.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/steam-store-adds-average-fps-data-so-you-can-see-game-performance-before-making-a-purchase-steam-deck-only-for-now-with-desktop-pc-support-planned",
-      "source_title": "Steam Store adds average FPS data so you can see game performance before making a purchase",
+      "rank": 6,
+      "title_vi": "Google Wallet bổ sung chìa khóa nhà kỹ thuật số giúp mở khóa cửa thông minh bằng một chạm",
+      "summary_vi": "Google Wallet trên Android đang triển khai tính năng lưu trữ chìa khóa nhà kỹ thuật số dành cho các mẫu khóa thông minh tương thích Google Home. Người dùng có thể chạm thiết bị qua NFC hoặc mở khóa rảnh tay nhờ kết nối UWB.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng nhà thông minh tiện ích cho lượng lớn người dùng smartphone Android",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-wallet-digital-home-keys-nfc-uwb-unlocking-3734133/",
+      "source_title": "Google Wallet adds digital home keys to open your front door smart lock with a tap",
       "related_urls": [
-        "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
-        "https://www.neowin.net/news/you-can-now-see-how-well-a-game-actually-runs-on-steam-deck-before-buying/?utm_source=rss"
+        "https://9to5google.com/2026/11/11/google-wallet-home-key/",
+        "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/"
       ],
       "signals": {
         "outlets": [
-          "Ars Technica",
-          "Neowin",
-          "Tom's Hardware"
+          "9to5Google",
+          "Android Authority"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 5.0
-      }
-    },
-    {
-      "rank": 6,
-      "title_vi": "SpaceX ra mắt thiết bị Starlink Mini 2 tích hợp pin có thể tháo rời",
-      "summary_vi": "SpaceX vừa giới thiệu trạm internet vệ tinh Starlink Mini 2 với kích thước nhỏ gọn tương đương một chiếc laptop. Thiết bị mới tích hợp sẵn chảo thu sóng, bộ định tuyến Wi-Fi và bổ sung viên pin hỗ trợ tháo lắp nhanh để phục vụ nhu cầu di động linh hoạt.",
-      "hot_level": 4,
-      "hot_reason": "Công nghệ internet vệ tinh Starlink nhận được sự quan tâm rất lớn từ người yêu công nghệ toàn cầu.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
-      "source_title": "Starlink Mini 2 adds a swappable battery",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "The Verge"
-        ],
-        "techmeme": true,
-        "hn_points": 181,
-        "trends": [],
-        "score": 5.81
+        "score": 3.0
       }
     },
     {
       "rank": 7,
-      "title_vi": "Anthropic ra mắt mô hình AI Claude Fable 5.2 và Claude Mythos 5.2",
-      "summary_vi": "Anthropic vừa giới thiệu thế hệ mô hình ngôn ngữ lớn mới gồm Claude Fable 5.2 và Claude Mythos 5.2 với năng lực lập trình vượt trội đối thủ GPT-6. Trong các thử nghiệm thực tế, mô hình thậm chí có khả năng tự xây dựng cả một hệ điều hành hoặc tạo bản sao game hoàn chỉnh.",
-      "hot_level": 4,
-      "hot_reason": "Mô hình AI mới đạt kỷ lục thảo luận trên cộng đồng công nghệ Hacker News và là bước tiến lớn của Anthropic.",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/anthropics-claude-fable-52-beats-gpt-6-astra-in-coding-can-even-build-an-operating-system/?utm_source=rss",
-      "source_title": "Anthropic's Claude Fable 5.2 beats GPT-6 Astra in coding, can even build an operating system",
-      "related_urls": [],
+      "title_vi": "OpenAI sẽ khai tử chế độ giọng nói Standard và Advanced Voice trên ChatGPT vào tháng sau",
+      "summary_vi": "OpenAI thông báo kế hoạch ngừng hoạt động hai chế độ giọng nói quen thuộc trên ChatGPT để tập trung hoàn toàn vào mô hình tương tác thời gian thực GPT-Live. Động thái này nhằm hợp nhất toàn bộ trải nghiệm đàm thoại âm thanh của dịch vụ.",
+      "hot_level": 3,
+      "hot_reason": "Thay đổi lớn đối với dịch vụ AI phổ biến nhất hiện nay ảnh hưởng trực tiếp tới thói quen tương tác của người dùng",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/openai-retiring-chatgpt-advanced-standard-voice-3733978/",
+      "source_title": "OpenAI is sunsetting ChatGPT Advanced and Standard voice next month",
+      "related_urls": [
+        "https://www.neowin.net/news/openai-is-retiring-chatgpts-advanced-and-standard-voice-modes-sparking-user-backlash/?utm_source=rss"
+      ],
       "signals": {
         "outlets": [
+          "Android Authority",
           "Neowin"
         ],
         "techmeme": false,
-        "hn_points": 986,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Xiaomi xác nhận ra mắt Xiaomi Watch S5, Smart Band 11 và tai nghe dạng kẹp tại sự kiện ngày 17/11",
+      "summary_vi": "Bên cạnh bộ đôi điện thoại 18 Pro và 18 Pro Max, Xiaomi xác nhận sẽ giới thiệu thêm đồng hồ thông minh Watch S5 bản 41mm, vòng đeo tay Smart Band 11 cùng mẫu tai nghe kẹp tai Clip tại sự kiện toàn cầu ở Paris. Loạt phụ kiện mới sẽ chính thức ra mắt vào ngày 17 tháng 11.",
+      "hot_level": 3,
+      "hot_reason": "Các dòng thiết bị đeo thông minh của Xiaomi như Smart Band luôn có lượng người dùng rất lớn và được quan tâm tại thị trường Việt Nam",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/xiaomi_watch_s5_41mm_xiaomi_smart_band_11_xiaomi_clip_earbuds_will_be_at_next_weeks_event_too-news-75442.php",
+      "source_title": "Xiaomi Watch S5 41mm, Xiaomi Smart Band 11, Xiaomi Clip earbuds will be at next week's event",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Apple phát triển ứng dụng Harbor giúp chạy các mô hình AI cục bộ ngay trên máy Mac",
+      "summary_vi": "Dữ liệu rò rỉ cho thấy Apple đang chuẩn bị tung ra một ứng dụng mới dành riêng cho macOS có tên mã Harbor. Phần mềm này được thiết kế nhằm giúp người dùng dễ dàng chạy và điều phối các mô hình AI cục bộ trên một hoặc nhiều thiết bị Mac liên kết.",
+      "hot_level": 3,
+      "hot_reason": "Bước đi quan trọng của Apple hỗ trợ chạy AI trực tiếp trên máy Mac thu hút sự chú ý của giới lập trình viên và người dùng chuyên nghiệp",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "source_title": "Apple has new Mac app coming to make running local AI models easy",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Mac"
+        ],
+        "techmeme": false,
+        "hn_points": 505,
         "trends": [],
         "score": 4.0
       }
     },
     {
-      "rank": 8,
-      "title_vi": "iPad Air thế hệ mới dự kiến sẽ trang bị màn hình OLED vào đầu năm 2027",
-      "summary_vi": "Báo cáo từ chuỗi cung ứng cho biết Apple đang lên kế hoạch thay thế tấm nền LCD bằng màn hình OLED cho cả hai kích thước của iPad Air. Dòng máy tính bảng mới này dự kiến sẽ ra mắt vào đầu năm 2027 sau đợt nâng cấp gần đây của iPad mini.",
-      "hot_level": 3,
-      "hot_reason": "Tin tức nâng cấp màn hình OLED cho dòng iPad Air nhận được sự mong đợi từ đông đảo người dùng Apple.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/10/another-report-backs-oled-ipad-air-early-next-year/",
-      "source_title": "Another report backs OLED iPad Air early next year",
-      "related_urls": [
-        "https://www.macrumors.com/2026/11/10/next-ipad-air-10-likely-new-features/",
-        "https://www.macrumors.com/2026/11/10/oled-ipad-air-rumored-to-launch-in-early-2027/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "MacRumors"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
-      "rank": 9,
-      "title_vi": "Apple phát hành bản cập nhật phần mềm mới cho dòng AirPods",
-      "summary_vi": "Apple đã bắt đầu phát hành phiên bản firmware mới mã hiệu 9B47 cho hàng loạt mẫu tai nghe gồm AirPods Pro 2, AirPods Pro 3, AirPods 4, AirPods 5 và AirPods Max 2. Bản cập nhật này tiếp nối giai đoạn thử nghiệm beta nhằm tối ưu hoá kết nối và sửa các lỗi phát sinh.",
-      "hot_level": 3,
-      "hot_reason": "Dòng tai nghe không dây phổ biến nhất thị trường có bản cập nhật phần mềm mới.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more/",
-      "source_title": "Apple just released new AirPods Pro 3 firmware and more",
-      "related_urls": [
-        "https://www.macrumors.com/2026/11/10/apple-releases-airpods-firmware-9b47/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "MacRumors"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
       "rank": 10,
-      "title_vi": "Amazon Ring trình làng drone an ninh bay và robot tuần tra trong nhà",
-      "summary_vi": "Thương hiệu Ring của Amazon vừa công bố thiết bị camera an ninh dạng bay Ring Drone Cam giá 250 USD và robot tuần tra mặt đất Rover Cam giá 1.000 USD. Hai sản phẩm này có khả năng tự động phản ứng và di chuyển giám sát các khu vực trong nhà thay vì chỉ cố định như camera truyền thống.",
+      "title_vi": "TSMC dự kiến đầu tư 1 tỷ USD vào Anthropic và OpenAI",
+      "summary_vi": "Tập đoàn gia công bán dẫn TSMC đang chuẩn bị rót khoản vốn trị giá 1 tỷ USD vào hai công ty trí tuệ nhân tạo lớn là Anthropic và OpenAI. Bước đi này phản ánh xu hướng liên kết tài chính chặt chẽ giữa các chuỗi cung ứng chip và các công ty phát triển mô hình AI hàng đầu.",
       "hot_level": 3,
-      "hot_reason": "Thiết bị smarthome robot tuần tra và drone an ninh độc đáo từ Amazon thu hút nhiều sự chú ý của người dùng công nghệ.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/10/rings-wheeled-and-flying-robots-will-patrol-your-home/",
-      "source_title": "Ring’s wheeled and flying robots will patrol your home",
-      "related_urls": [
-        "https://www.neowin.net/news/amazons-ring-brings-back-its-flying-security-camera-and-launches-a-1000-security-robot/?utm_source=rss",
-        "https://www.androidauthority.com/ring-drone-cam-launch-3733467/"
-      ],
+      "hot_reason": "Hãng gia công chip lớn nhất thế giới đầu tư mạnh vào các tên tuổi AI đầu ngành là chỉ dấu quan trọng cho ngành bán dẫn",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "source_title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "9to5Mac",
-          "Android Authority",
-          "Neowin"
+          "Ars Technica"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 5.0
+        "score": 1.0
       }
     }
   ]
