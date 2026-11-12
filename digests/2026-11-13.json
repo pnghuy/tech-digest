@@ -1,0 +1,263 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T04:53:52.349544+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Trump đề xuất Tim Cook làm CEO Nvidia sau khi Jensen Huang từ chức",
+      "summary_vi": "Tổng thống Mỹ Donald Trump hôm nay nói rằng chủ tịch Apple Tim Cook nên trở thành CEO của Nvidia sau khi Jensen Huang bất ngờ từ chức. Quyết định từ chức diễn ra sau cuộc họp hội đồng quản trị khẩn cấp.",
+      "hot_level": 5,
+      "hot_reason": "Sự từ chức của CEO Nvidia là tin tức gây chấn động ngành công nghệ, thu hút sự chú ý của tổng thống Mỹ.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/12/trump-says-tim-cook-should-be-nvidia-ceo/",
+      "source_title": "Trump Says Tim Cook Should Be Nvidia CEO as Jensen Huang Resigns",
+      "related_urls": [
+        "https://www.gsmarena.com/jensen_huang_steps_down_as_nvidia_ceo_after_a_week_of_scandal_reports-news-75459.php",
+        "https://www.tomshardware.com/tech-industry/president-trump-says-apples-tim-cook-is-the-only-man-to-replace-jensen-huang-as-nvidia-ceo-proposes-a-legend-replaces-a-legend-in-call-for-apples-executive-chairman-of-its-board",
+        "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+        "https://www.androidauthority.com/jensen-huang-nvidia-resignation-3734527/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Android Authority",
+          "GSMArena",
+          "MacRumors",
+          "Neowin",
+          "PCWorld",
+          "TechCrunch",
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 2480,
+        "trends": [],
+        "score": 19.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Giới công nghệ phản ứng trái chiều về việc Jensen Huang rời chức CEO Nvidia",
+      "summary_vi": "Sau thông tin Jensen Huang từ chức CEO Nvidia do bê bối ngoại tình, nhiều lãnh đạo công nghệ đã bày tỏ sự tiếc nuối và ngạc nhiên về quyết định này. Một số cho rằng đây là sai lầm của Nvidia.",
+      "hot_level": 5,
+      "hot_reason": "Phản ứng của giới công nghệ cho thấy tầm ảnh hưởng lớn của sự kiện Jensen Huang từ chức CEO Nvidia.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+      "source_title": "‘It’s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
+      "related_urls": [
+        "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+        "https://www.engadget.com/2314584/jensen-huang-is-out-as-nvidia-ceo/",
+        "https://9to5mac.com/2026/11/12/jensen-huang-resigns-as-ceo-of-nvidia/",
+        "https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Ars Technica",
+          "Engadget",
+          "Neowin",
+          "The Verge",
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 2480,
+        "trends": [],
+        "score": 15.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Dịch vụ Microsoft Outlook, Exchange và SharePoint ngừng hoạt động toàn cầu",
+      "summary_vi": "Hàng loạt người dùng báo cáo không thể truy cập email Outlook qua web và ứng dụng. Microsoft đã thừa nhận sự cố đang ảnh hưởng đến các dịch vụ Microsoft 365.",
+      "hot_level": 4,
+      "hot_reason": "Sự cố ngừng hoạt động của các dịch vụ Microsoft 365 ảnh hưởng đến hàng triệu người dùng trên toàn cầu.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "source_title": "Microsoft Outlook is down",
+      "related_urls": [
+        "https://www.neowin.net/news/microsoft-exchange-and-outlook-go-down-right-after-teams-outage/?utm_source=rss",
+        "https://www.androidauthority.com/microsoft-outlook-outage-nov-2026-3734664/",
+        "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+        "https://9to5mac.com/2026/11/12/microsoft-outlook-experiencing-widespread-outage/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Android Authority",
+          "Neowin",
+          "TechCrunch",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 284,
+        "trends": [],
+        "score": 11.84
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Google ra mắt Gemini 4 Hydrogen, thay thế Gemini 3.8 Flash và hỗ trợ Apple CarPlay",
+      "summary_vi": "Google đã chính thức triển khai Gemini 4 Hydrogen, phiên bản mới thay thế 3.8 Flash. Gemini cũng sẽ sớm có mặt trên Apple CarPlay.",
+      "hot_level": 4,
+      "hot_reason": "Google ra mắt phiên bản AI Gemini mới với nhiều cải tiến và mở rộng hỗ trợ sang Apple CarPlay, một tin tức lớn về AI và hệ sinh thái.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "source_title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "related_urls": [
+        "https://www.neowin.net/news/google-finally-brings-gemini-to-apple-carplay/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "Ars Technica",
+          "Neowin"
+        ],
+        "techmeme": true,
+        "hn_points": 383,
+        "trends": [
+          "google (VN, ~1,000 lượt tìm)"
+        ],
+        "score": 12.83
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Kính thông minh Gemini hợp tác giữa Google và Samsung chính thức mở đặt trước",
+      "summary_vi": "Google và Samsung đã bắt đầu mở đặt trước bộ sưu tập kính thông minh Intelligent Eyewear mới, được phát triển cùng Gentle Monster và Warby Parker. Kính sẽ có mặt từ ngày 10 tháng 12.",
+      "hot_level": 4,
+      "hot_reason": "Sản phẩm kính thông minh mới từ hai ông lớn Google và Samsung, tích hợp AI Gemini, hứa hẹn mở ra xu hướng công nghệ mới.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/you-can-now-pre-order-google-and-samsungs-gemini-powered-smart-glasses/?utm_source=rss",
+      "source_title": "You can now pre-order Google and Samsung's Gemini-powered smart glasses",
+      "related_urls": [
+        "https://9to5google.com/2026/11/12/google-glasses-hands-on/",
+        "https://www.androidauthority.com/samsung-google-smart-glasses-phone-compatibility-3734240/",
+        "https://www.androidauthority.com/samsung-android-xr-smart-glass-pre-order-3734248/",
+        "https://www.gsmarena.com/samsungs_intelligent_eyewear_glasses_are_now_up_for_preorder-news-75454.php"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority",
+          "GSMArena",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [
+          "google (VN, ~1,000 lượt tìm)"
+        ],
+        "score": 10.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Google tích hợp Gemini 4 Hydrogen vào công cụ Search với câu trả lời thông minh hơn",
+      "summary_vi": "Google Search được nâng cấp với Gemini 4 Hydrogen, hứa hẹn cung cấp câu trả lời thông minh hơn và hỗ trợ tốt hơn cho các truy vấn phức tạp, cả lỗi chính tả.",
+      "hot_level": 4,
+      "hot_reason": "Nâng cấp mạnh mẽ cho Google Search bằng AI Gemini 4 Hydrogen sẽ cải thiện đáng kể trải nghiệm tìm kiếm của người dùng.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/gemini-4-hydrogen-on-google-search-3734653/",
+      "source_title": "Google brings Gemini 4 Hydrogen to Search with smarter answers and better visuals",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Android Authority"
+        ],
+        "techmeme": true,
+        "hn_points": 383,
+        "trends": [
+          "google (VN, ~1,000 lượt tìm)"
+        ],
+        "score": 10.83
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Cựu CEO Nvidia Jensen Huang đồng ý điều trần trước Quốc hội Mỹ",
+      "summary_vi": "Jensen Huang, người bị buộc thôi chức CEO Nvidia sau các báo cáo về ngoại tình và nghi vấn gián điệp Trung Quốc, đã đồng ý điều trần trước Quốc hội Mỹ trong tháng này.",
+      "hot_level": 4,
+      "hot_reason": "Diễn biến mới trong bê bối của cựu CEO Nvidia, việc điều trần trước Quốc hội sẽ mang lại nhiều thông tin quan trọng.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "source_title": "Jensen Huang agrees to testify before Congress",
+      "related_urls": [
+        "https://www.engadget.com/2315091/ex-nvidia-ceo-jensen-huang-is-set-to-testify-before-congress-this-month/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 373,
+        "trends": [],
+        "score": 6.73
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Reuters: Jensen Huang còn có vụ ngoại tình thứ ba",
+      "summary_vi": "Reuters báo cáo cựu CEO Nvidia Jensen Huang được cho là có vụ ngoại tình thứ ba với một nhân viên của Nvidia. Thông tin này tiếp tục làm nóng bê bối đời tư của ông.",
+      "hot_level": 3,
+      "hot_reason": "Thông tin mới về bê bối đời tư của cựu CEO Nvidia, tiếp tục gây chấn động và thu hút sự chú ý.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "source_title": "Jensen Huang was having a third affair, Reuters reports",
+      "related_urls": [
+        "https://www.tomshardware.com/tech-industry/suspected-chinese-spy-at-center-of-jensen-huang-affair-surfaces-in-beijing-alice-huang-last-spotted-heading-to-shanghai-after-being-detained-questioned-in-singapore-in-2025-allegedly-helped-china-smuggle-hundreds-of-thousands-of-banned-chips"
+      ],
+      "signals": {
+        "outlets": [
+          "TechCrunch",
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 52,
+        "trends": [],
+        "score": 3.52
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "United Airlines cấm các tác nhân AI đặt vé máy bay do lo ngại rủi ro an ninh mạng",
+      "summary_vi": "Hãng hàng không United Airlines tuyên bố sẽ không cho phép khách hàng sử dụng các tác nhân AI để đặt vé hoặc quản lý đặt chỗ. Lý do được đưa ra là các rủi ro về an ninh mạng.",
+      "hot_level": 3,
+      "hot_reason": "Chính sách mới từ một hãng hàng không lớn về việc hạn chế AI, phản ánh lo ngại về an ninh mạng trong ngành.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "source_title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "related_urls": [
+        "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 656,
+        "trends": [],
+        "score": 7.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Humble Bundle bị chỉ trích vì gỡ bỏ xác thực 2 yếu tố trong bản thiết kế lại",
+      "summary_vi": "Nền tảng Humble Bundle đã lặng lẽ triển khai bản thiết kế lại trang web gây tranh cãi, trong đó gỡ bỏ tính năng xác thực hai yếu tố (2FA). Điều này làm dấy lên lo ngại về bảo mật cho người dùng.",
+      "hot_level": 3,
+      "hot_reason": "Việc gỡ bỏ tính năng bảo mật quan trọng như 2FA gây ra mối lo ngại lớn cho hàng triệu người dùng.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/humble-bundles-sudden-redesign-removes-2fa-sparking-security-fears/?utm_source=rss",
+      "source_title": "Humble Bundle's sudden redesign removes 2FA, sparking security fears",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 357,
+        "trends": [],
+        "score": 4.57
+      }
+    }
+  ]
+}

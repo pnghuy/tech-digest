@@ -1,241 +1,262 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T04:54:11.241116+07:00",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T04:53:52.349544+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Apple chính thức đóng cửa vĩnh viễn diễn đàn cộng đồng hỗ trợ sau 28 năm hoạt động",
-      "summary_vi": "Apple vừa phát đi thông báo sẽ đóng cửa vĩnh viễn diễn đàn Apple Support Community từ ngày 20 tháng 11. Hiện tại toàn bộ hệ thống diễn đàn đã được chuyển sang chế độ chỉ đọc.",
+      "title_vi": "Trump đề xuất Tim Cook làm CEO Nvidia sau khi Jensen Huang từ chức",
+      "summary_vi": "Tổng thống Mỹ Donald Trump hôm nay nói rằng chủ tịch Apple Tim Cook nên trở thành CEO của Nvidia sau khi Jensen Huang bất ngờ từ chức. Quyết định từ chức diễn ra sau cuộc họp hội đồng quản trị khẩn cấp.",
       "hot_level": 5,
-      "hot_reason": "Sự kiện lịch sử ảnh hưởng trực tiếp đến cộng đồng người dùng Apple toàn cầu sau gần ba thập kỷ tồn tại",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/",
-      "source_title": "End of an era: Apple Support Community forums will permanently close on November 20",
+      "hot_reason": "Sự từ chức của CEO Nvidia là tin tức gây chấn động ngành công nghệ, thu hút sự chú ý của tổng thống Mỹ.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/12/trump-says-tim-cook-should-be-nvidia-ceo/",
+      "source_title": "Trump Says Tim Cook Should Be Nvidia CEO as Jensen Huang Resigns",
       "related_urls": [
-        "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
-        "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/",
-        "https://www.macrumors.com/2026/11/10/apple-support-community-closing-november-20/"
+        "https://www.gsmarena.com/jensen_huang_steps_down_as_nvidia_ceo_after_a_week_of_scandal_reports-news-75459.php",
+        "https://www.tomshardware.com/tech-industry/president-trump-says-apples-tim-cook-is-the-only-man-to-replace-jensen-huang-as-nvidia-ceo-proposes-a-legend-replaces-a-legend-in-call-for-apples-executive-chairman-of-its-board",
+        "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+        "https://www.androidauthority.com/jensen-huang-nvidia-resignation-3734527/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Android Authority",
+          "GSMArena",
+          "MacRumors",
+          "Neowin",
+          "PCWorld",
+          "TechCrunch",
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 2480,
+        "trends": [],
+        "score": 19.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Giới công nghệ phản ứng trái chiều về việc Jensen Huang rời chức CEO Nvidia",
+      "summary_vi": "Sau thông tin Jensen Huang từ chức CEO Nvidia do bê bối ngoại tình, nhiều lãnh đạo công nghệ đã bày tỏ sự tiếc nuối và ngạc nhiên về quyết định này. Một số cho rằng đây là sai lầm của Nvidia.",
+      "hot_level": 5,
+      "hot_reason": "Phản ứng của giới công nghệ cho thấy tầm ảnh hưởng lớn của sự kiện Jensen Huang từ chức CEO Nvidia.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+      "source_title": "‘It’s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
+      "related_urls": [
+        "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+        "https://www.engadget.com/2314584/jensen-huang-is-out-as-nvidia-ceo/",
+        "https://9to5mac.com/2026/11/12/jensen-huang-resigns-as-ceo-of-nvidia/",
+        "https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
           "Ars Technica",
           "Engadget",
-          "MacRumors"
+          "Neowin",
+          "The Verge",
+          "Tom's Hardware"
         ],
         "techmeme": false,
-        "hn_points": 254,
+        "hn_points": 2480,
         "trends": [],
-        "score": 9.54
-      }
-    },
-    {
-      "rank": 2,
-      "title_vi": "Google đưa ứng dụng Gemini độc lập lên Apple CarPlay",
-      "summary_vi": "Google vừa phát hành ứng dụng Gemini độc lập trên nền tảng Apple CarPlay hỗ trợ nhiều ngôn ngữ trên toàn cầu. Bản cập nhật cho phép người dùng iOS có thể trò chuyện trực tiếp với Gemini Live ngay khi đang lái xe.",
-      "hot_level": 5,
-      "hot_reason": "Tính năng AI mới kết nối trực tiếp hai hệ sinh thái lớn của Apple và Google được nhiều trang công nghệ hàng đầu cùng đưa tin",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/11/gemini-app-carplay/",
-      "source_title": "Google rolling out Gemini app for CarPlay",
-      "related_urls": [
-        "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
-        "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/",
-        "https://www.androidauthority.com/google-gemini-live-apple-carplay-launch-3734084/",
-        "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Google",
-          "9to5Mac",
-          "Android Authority",
-          "Engadget",
-          "MacRumors"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 9.0
+        "score": 15.0
       }
     },
     {
       "rank": 3,
-      "title_vi": "iFixit 'mổ bụng' MacBook Pro OLED mới, hé lộ cơ chế hoạt động của logo Apple phát sáng",
-      "summary_vi": "Video mổ xẻ mới nhất của iFixit trên mẫu MacBook Pro màn hình cảm ứng PROLED XDR đã làm rõ cách Apple mang trở lại logo quả táo phát sáng trên nắp lưng. Quá trình tháo máy cũng giải thích cách thiết bị cắt giảm trọng lượng và vị trí đặt các cụm đèn LED trợ sáng.",
+      "title_vi": "Dịch vụ Microsoft Outlook, Exchange và SharePoint ngừng hoạt động toàn cầu",
+      "summary_vi": "Hàng loạt người dùng báo cáo không thể truy cập email Outlook qua web và ứng dụng. Microsoft đã thừa nhận sự cố đang ảnh hưởng đến các dịch vụ Microsoft 365.",
       "hot_level": 4,
-      "hot_reason": "Màn bung máy mẫu MacBook Pro mới nhất với tính năng màn hình cảm ứng và logo phát sáng đang thu hút sự chú ý lớn từ người yêu công nghệ",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details/",
-      "source_title": "iFixit tears down touchscreen MacBook Pro, reveals light-up Apple logo details",
+      "hot_reason": "Sự cố ngừng hoạt động của các dịch vụ Microsoft 365 ảnh hưởng đến hàng triệu người dùng trên toàn cầu.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "source_title": "Microsoft Outlook is down",
       "related_urls": [
-        "https://www.gsmarena.com/ifixit_reveals_the_tech_behind_the_macbook_proleds_light_up_apple_logo-news-75434.php",
-        "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
-        "https://www.macrumors.com/2026/11/10/ifixit-proled-macbook-pro-teardown/"
+        "https://www.neowin.net/news/microsoft-exchange-and-outlook-go-down-right-after-teams-outage/?utm_source=rss",
+        "https://www.androidauthority.com/microsoft-outlook-outage-nov-2026-3734664/",
+        "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+        "https://9to5mac.com/2026/11/12/microsoft-outlook-experiencing-widespread-outage/"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
-          "Engadget",
-          "GSMArena",
-          "MacRumors"
+          "Android Authority",
+          "Neowin",
+          "TechCrunch",
+          "The Verge"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 284,
         "trends": [],
-        "score": 6.0
+        "score": 11.84
       }
     },
     {
       "rank": 4,
-      "title_vi": "Google mở rộng phát hành mô hình Gemini 4 Carbon cho người dùng gói AI Ultra",
-      "summary_vi": "Sau thời gian thử nghiệm giới hạn, Google bắt đầu triển khai mô hình AI Gemini 4 Carbon cho các thuê bao đăng ký gói dịch vụ AI Ultra. Đây là một trong những mô hình xử lý thông minh mạnh nhất hiện tại của hãng.",
+      "title_vi": "Google ra mắt Gemini 4 Hydrogen, thay thế Gemini 3.8 Flash và hỗ trợ Apple CarPlay",
+      "summary_vi": "Google đã chính thức triển khai Gemini 4 Hydrogen, phiên bản mới thay thế 3.8 Flash. Gemini cũng sẽ sớm có mặt trên Apple CarPlay.",
       "hot_level": 4,
-      "hot_reason": "Bản cập nhật mô hình trí tuệ nhân tạo thế hệ mới của Google nhận được sự quan tâm lớn từ giới công nghệ và cộng đồng thảo luận",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-gemini-4-carbon-rollout-3733702/",
-      "source_title": "Google rolls out Gemini 4 Carbon to AI Ultra subscribers",
+      "hot_reason": "Google ra mắt phiên bản AI Gemini mới với nhiều cải tiến và mở rộng hỗ trợ sang Apple CarPlay, một tin tức lớn về AI và hệ sinh thái.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "source_title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
       "related_urls": [
-        "https://9to5google.com/2026/11/10/gemini-app-4-carbon/"
+        "https://www.neowin.net/news/google-finally-brings-gemini-to-apple-carplay/?utm_source=rss"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
-          "Android Authority"
+          "Ars Technica",
+          "Neowin"
         ],
-        "techmeme": false,
-        "hn_points": 291,
-        "trends": [],
-        "score": 4.91
+        "techmeme": true,
+        "hn_points": 383,
+        "trends": [
+          "google (VN, ~1,000 lượt tìm)"
+        ],
+        "score": 12.83
       }
     },
     {
       "rank": 5,
-      "title_vi": "iPhone 18 Pro Max đứng đầu bảng thử nghiệm thời lượng pin đối đầu 32 smartphone",
-      "summary_vi": "Trong bài kiểm tra pin chi tiết đối đầu 32 mẫu smartphone của CNET, iPhone 18 Pro Max đã giành vị trí dẫn đầu tổng thể. Nhiều dòng iPhone khác cũng ghi nhận thành tích tốt trong các bài đo riêng lẻ so với đối thủ Android.",
+      "title_vi": "Kính thông minh Gemini hợp tác giữa Google và Samsung chính thức mở đặt trước",
+      "summary_vi": "Google và Samsung đã bắt đầu mở đặt trước bộ sưu tập kính thông minh Intelligent Eyewear mới, được phát triển cùng Gentle Monster và Warby Parker. Kính sẽ có mặt từ ngày 10 tháng 12.",
       "hot_level": 4,
-      "hot_reason": "Kết quả so sánh pin giữa các smartphone cao cấp nhất luôn là đề tài thảo luận sôi nổi của cộng đồng người dùng tại Việt Nam",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/11/iphone-18-pro-max-wins-battery-test/",
-      "source_title": "iPhone 18 Pro Max Wins Battery Test Involving 32 Smartphones",
+      "hot_reason": "Sản phẩm kính thông minh mới từ hai ông lớn Google và Samsung, tích hợp AI Gemini, hứa hẹn mở ra xu hướng công nghệ mới.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/you-can-now-pre-order-google-and-samsungs-gemini-powered-smart-glasses/?utm_source=rss",
+      "source_title": "You can now pre-order Google and Samsung's Gemini-powered smart glasses",
       "related_urls": [
-        "https://9to5mac.com/2026/11/11/iphone-is-the-winner-of-new-battery-test-topping-all-androids/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "MacRumors"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
-      "rank": 6,
-      "title_vi": "Google Wallet bổ sung chìa khóa nhà kỹ thuật số giúp mở khóa cửa thông minh bằng một chạm",
-      "summary_vi": "Google Wallet trên Android đang triển khai tính năng lưu trữ chìa khóa nhà kỹ thuật số dành cho các mẫu khóa thông minh tương thích Google Home. Người dùng có thể chạm thiết bị qua NFC hoặc mở khóa rảnh tay nhờ kết nối UWB.",
-      "hot_level": 3,
-      "hot_reason": "Tính năng nhà thông minh tiện ích cho lượng lớn người dùng smartphone Android",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-wallet-digital-home-keys-nfc-uwb-unlocking-3734133/",
-      "source_title": "Google Wallet adds digital home keys to open your front door smart lock with a tap",
-      "related_urls": [
-        "https://9to5google.com/2026/11/11/google-wallet-home-key/",
-        "https://9to5google.com/2026/11/10/android-17-qpr2-pixel/"
+        "https://9to5google.com/2026/11/12/google-glasses-hands-on/",
+        "https://www.androidauthority.com/samsung-google-smart-glasses-phone-compatibility-3734240/",
+        "https://www.androidauthority.com/samsung-android-xr-smart-glass-pre-order-3734248/",
+        "https://www.gsmarena.com/samsungs_intelligent_eyewear_glasses_are_now_up_for_preorder-news-75454.php"
       ],
       "signals": {
         "outlets": [
           "9to5Google",
-          "Android Authority"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
-      "rank": 7,
-      "title_vi": "OpenAI sẽ khai tử chế độ giọng nói Standard và Advanced Voice trên ChatGPT vào tháng sau",
-      "summary_vi": "OpenAI thông báo kế hoạch ngừng hoạt động hai chế độ giọng nói quen thuộc trên ChatGPT để tập trung hoàn toàn vào mô hình tương tác thời gian thực GPT-Live. Động thái này nhằm hợp nhất toàn bộ trải nghiệm đàm thoại âm thanh của dịch vụ.",
-      "hot_level": 3,
-      "hot_reason": "Thay đổi lớn đối với dịch vụ AI phổ biến nhất hiện nay ảnh hưởng trực tiếp tới thói quen tương tác của người dùng",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/openai-retiring-chatgpt-advanced-standard-voice-3733978/",
-      "source_title": "OpenAI is sunsetting ChatGPT Advanced and Standard voice next month",
-      "related_urls": [
-        "https://www.neowin.net/news/openai-is-retiring-chatgpts-advanced-and-standard-voice-modes-sparking-user-backlash/?utm_source=rss"
-      ],
-      "signals": {
-        "outlets": [
           "Android Authority",
+          "GSMArena",
           "Neowin"
         ],
         "techmeme": false,
         "hn_points": 0,
+        "trends": [
+          "google (VN, ~1,000 lượt tìm)"
+        ],
+        "score": 10.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Google tích hợp Gemini 4 Hydrogen vào công cụ Search với câu trả lời thông minh hơn",
+      "summary_vi": "Google Search được nâng cấp với Gemini 4 Hydrogen, hứa hẹn cung cấp câu trả lời thông minh hơn và hỗ trợ tốt hơn cho các truy vấn phức tạp, cả lỗi chính tả.",
+      "hot_level": 4,
+      "hot_reason": "Nâng cấp mạnh mẽ cho Google Search bằng AI Gemini 4 Hydrogen sẽ cải thiện đáng kể trải nghiệm tìm kiếm của người dùng.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/gemini-4-hydrogen-on-google-search-3734653/",
+      "source_title": "Google brings Gemini 4 Hydrogen to Search with smarter answers and better visuals",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Android Authority"
+        ],
+        "techmeme": true,
+        "hn_points": 383,
+        "trends": [
+          "google (VN, ~1,000 lượt tìm)"
+        ],
+        "score": 10.83
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Cựu CEO Nvidia Jensen Huang đồng ý điều trần trước Quốc hội Mỹ",
+      "summary_vi": "Jensen Huang, người bị buộc thôi chức CEO Nvidia sau các báo cáo về ngoại tình và nghi vấn gián điệp Trung Quốc, đã đồng ý điều trần trước Quốc hội Mỹ trong tháng này.",
+      "hot_level": 4,
+      "hot_reason": "Diễn biến mới trong bê bối của cựu CEO Nvidia, việc điều trần trước Quốc hội sẽ mang lại nhiều thông tin quan trọng.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "source_title": "Jensen Huang agrees to testify before Congress",
+      "related_urls": [
+        "https://www.engadget.com/2315091/ex-nvidia-ceo-jensen-huang-is-set-to-testify-before-congress-this-month/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 373,
         "trends": [],
-        "score": 3.0
+        "score": 6.73
       }
     },
     {
       "rank": 8,
-      "title_vi": "Xiaomi xác nhận ra mắt Xiaomi Watch S5, Smart Band 11 và tai nghe dạng kẹp tại sự kiện ngày 17/11",
-      "summary_vi": "Bên cạnh bộ đôi điện thoại 18 Pro và 18 Pro Max, Xiaomi xác nhận sẽ giới thiệu thêm đồng hồ thông minh Watch S5 bản 41mm, vòng đeo tay Smart Band 11 cùng mẫu tai nghe kẹp tai Clip tại sự kiện toàn cầu ở Paris. Loạt phụ kiện mới sẽ chính thức ra mắt vào ngày 17 tháng 11.",
+      "title_vi": "Reuters: Jensen Huang còn có vụ ngoại tình thứ ba",
+      "summary_vi": "Reuters báo cáo cựu CEO Nvidia Jensen Huang được cho là có vụ ngoại tình thứ ba với một nhân viên của Nvidia. Thông tin này tiếp tục làm nóng bê bối đời tư của ông.",
       "hot_level": 3,
-      "hot_reason": "Các dòng thiết bị đeo thông minh của Xiaomi như Smart Band luôn có lượng người dùng rất lớn và được quan tâm tại thị trường Việt Nam",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/xiaomi_watch_s5_41mm_xiaomi_smart_band_11_xiaomi_clip_earbuds_will_be_at_next_weeks_event_too-news-75442.php",
-      "source_title": "Xiaomi Watch S5 41mm, Xiaomi Smart Band 11, Xiaomi Clip earbuds will be at next week's event",
-      "related_urls": [],
+      "hot_reason": "Thông tin mới về bê bối đời tư của cựu CEO Nvidia, tiếp tục gây chấn động và thu hút sự chú ý.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "source_title": "Jensen Huang was having a third affair, Reuters reports",
+      "related_urls": [
+        "https://www.tomshardware.com/tech-industry/suspected-chinese-spy-at-center-of-jensen-huang-affair-surfaces-in-beijing-alice-huang-last-spotted-heading-to-shanghai-after-being-detained-questioned-in-singapore-in-2025-allegedly-helped-china-smuggle-hundreds-of-thousands-of-banned-chips"
+      ],
       "signals": {
         "outlets": [
-          "GSMArena"
+          "TechCrunch",
+          "Tom's Hardware"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 52,
         "trends": [],
-        "score": 1.0
+        "score": 3.52
       }
     },
     {
       "rank": 9,
-      "title_vi": "Apple phát triển ứng dụng Harbor giúp chạy các mô hình AI cục bộ ngay trên máy Mac",
-      "summary_vi": "Dữ liệu rò rỉ cho thấy Apple đang chuẩn bị tung ra một ứng dụng mới dành riêng cho macOS có tên mã Harbor. Phần mềm này được thiết kế nhằm giúp người dùng dễ dàng chạy và điều phối các mô hình AI cục bộ trên một hoặc nhiều thiết bị Mac liên kết.",
+      "title_vi": "United Airlines cấm các tác nhân AI đặt vé máy bay do lo ngại rủi ro an ninh mạng",
+      "summary_vi": "Hãng hàng không United Airlines tuyên bố sẽ không cho phép khách hàng sử dụng các tác nhân AI để đặt vé hoặc quản lý đặt chỗ. Lý do được đưa ra là các rủi ro về an ninh mạng.",
       "hot_level": 3,
-      "hot_reason": "Bước đi quan trọng của Apple hỗ trợ chạy AI trực tiếp trên máy Mac thu hút sự chú ý của giới lập trình viên và người dùng chuyên nghiệp",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "source_title": "Apple has new Mac app coming to make running local AI models easy",
-      "related_urls": [],
+      "hot_reason": "Chính sách mới từ một hãng hàng không lớn về việc hạn chế AI, phản ánh lo ngại về an ninh mạng trong ngành.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "source_title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "related_urls": [
+        "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/"
+      ],
       "signals": {
         "outlets": [
-          "9to5Mac"
+          "Engadget",
+          "TechCrunch"
         ],
         "techmeme": false,
-        "hn_points": 505,
+        "hn_points": 656,
         "trends": [],
-        "score": 4.0
+        "score": 7.0
       }
     },
     {
       "rank": 10,
-      "title_vi": "TSMC dự kiến đầu tư 1 tỷ USD vào Anthropic và OpenAI",
-      "summary_vi": "Tập đoàn gia công bán dẫn TSMC đang chuẩn bị rót khoản vốn trị giá 1 tỷ USD vào hai công ty trí tuệ nhân tạo lớn là Anthropic và OpenAI. Bước đi này phản ánh xu hướng liên kết tài chính chặt chẽ giữa các chuỗi cung ứng chip và các công ty phát triển mô hình AI hàng đầu.",
+      "title_vi": "Humble Bundle bị chỉ trích vì gỡ bỏ xác thực 2 yếu tố trong bản thiết kế lại",
+      "summary_vi": "Nền tảng Humble Bundle đã lặng lẽ triển khai bản thiết kế lại trang web gây tranh cãi, trong đó gỡ bỏ tính năng xác thực hai yếu tố (2FA). Điều này làm dấy lên lo ngại về bảo mật cho người dùng.",
       "hot_level": 3,
-      "hot_reason": "Hãng gia công chip lớn nhất thế giới đầu tư mạnh vào các tên tuổi AI đầu ngành là chỉ dấu quan trọng cho ngành bán dẫn",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-      "source_title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "hot_reason": "Việc gỡ bỏ tính năng bảo mật quan trọng như 2FA gây ra mối lo ngại lớn cho hàng triệu người dùng.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/humble-bundles-sudden-redesign-removes-2fa-sparking-security-fears/?utm_source=rss",
+      "source_title": "Humble Bundle's sudden redesign removes 2FA, sparking security fears",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "Ars Technica"
+          "Neowin"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 357,
         "trends": [],
-        "score": 1.0
+        "score": 4.57
       }
     }
   ]
