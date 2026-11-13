@@ -1,83 +1,117 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T04:53:52.349544+07:00",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T04:54:06.051283+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Trump đề xuất Tim Cook làm CEO Nvidia sau khi Jensen Huang từ chức",
-      "summary_vi": "Tổng thống Mỹ Donald Trump hôm nay nói rằng chủ tịch Apple Tim Cook nên trở thành CEO của Nvidia sau khi Jensen Huang bất ngờ từ chức. Quyết định từ chức diễn ra sau cuộc họp hội đồng quản trị khẩn cấp.",
+      "title_vi": "Microsoft khắc phục sự cố Outlook và các dịch vụ khác sau hai ngày gián đoạn",
+      "summary_vi": "Các dịch vụ tiêu dùng của Microsoft bao gồm Outlook đã hoạt động trở lại sau gần hai ngày ngừng hoạt động. Công ty cho biết sự cố không phải do hoạt động độc hại hay AI gây ra.",
       "hot_level": 5,
-      "hot_reason": "Sự từ chức của CEO Nvidia là tin tức gây chấn động ngành công nghệ, thu hút sự chú ý của tổng thống Mỹ.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/12/trump-says-tim-cook-should-be-nvidia-ceo/",
-      "source_title": "Trump Says Tim Cook Should Be Nvidia CEO as Jensen Huang Resigns",
+      "hot_reason": "Sự cố quy mô toàn cầu ảnh hưởng hàng triệu người dùng, nhiều trang tin cùng đăng và Microsoft đã đưa ra giải thích chính thức.",
+      "source": "PCWorld",
+      "url": "https://www.pcworld.com/article/3285440/microsoft-ai-hackers-not-to-blame-for-outlook-services-outage.html",
+      "source_title": "Microsoft: AI, hackers not to blame for Outlook services outage",
       "related_urls": [
-        "https://www.gsmarena.com/jensen_huang_steps_down_as_nvidia_ceo_after_a_week_of_scandal_reports-news-75459.php",
-        "https://www.tomshardware.com/tech-industry/president-trump-says-apples-tim-cook-is-the-only-man-to-replace-jensen-huang-as-nvidia-ceo-proposes-a-legend-replaces-a-legend-in-call-for-apples-executive-chairman-of-its-board",
-        "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-        "https://www.androidauthority.com/jensen-huang-nvidia-resignation-3734527/"
+        "https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/",
+        "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+        "https://www.gsmarena.com/microsoft_teams_outlook_and_365_services_are_down_more_than_12_hours_now-news-75469.php",
+        "https://wccftech.com/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-and-more-worldwide-as-recovery-remains-ongoing/"
       ],
       "signals": {
         "outlets": [
-          "9to5Mac",
-          "Android Authority",
+          "Engadget",
           "GSMArena",
-          "MacRumors",
-          "Neowin",
           "PCWorld",
-          "TechCrunch",
-          "Tom's Hardware"
+          "The Verge",
+          "Wccftech"
         ],
         "techmeme": false,
-        "hn_points": 2480,
+        "hn_points": 455,
         "trends": [],
-        "score": 19.0
+        "score": 13.0
       }
     },
     {
       "rank": 2,
-      "title_vi": "Giới công nghệ phản ứng trái chiều về việc Jensen Huang rời chức CEO Nvidia",
-      "summary_vi": "Sau thông tin Jensen Huang từ chức CEO Nvidia do bê bối ngoại tình, nhiều lãnh đạo công nghệ đã bày tỏ sự tiếc nuối và ngạc nhiên về quyết định này. Một số cho rằng đây là sai lầm của Nvidia.",
+      "title_vi": "NVIDIA xác nhận thư yêu cầu Jensen Huang trở lại CEO là giả mạo",
+      "summary_vi": "Phó chủ tịch nghiên cứu của NVIDIA xác nhận lá thư lan truyền trên mạng yêu cầu cựu CEO Jensen Huang trở lại vị trí lãnh đạo là giả mạo. Các bài báo khác đào sâu nguyên nhân Huang từ chức do các tranh cãi liên quan đến AI và game thủ.",
       "hot_level": 5,
-      "hot_reason": "Phản ứng của giới công nghệ cho thấy tầm ảnh hưởng lớn của sự kiện Jensen Huang từ chức CEO Nvidia.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
-      "source_title": "‘It’s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
+      "hot_reason": "Tin tức nóng hổi về cựu CEO NVIDIA, tín hiệu Hacker News cực cao cho thấy mức độ quan tâm lớn, và là diễn biến mới về bê bối.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/letter-seeking-ex-ceo-jensen-huangs-return-is-obviously-fake-says-nvidia-vp-after-he-is-made-a-named-signatory-alongside-top-leadership-at-firm/",
+      "source_title": "Letter Seeking Ex CEO Jensen Huang’s Return Is “Obviously Fake,” Says NVIDIA VP After He Is Made A Named Signatory Alongside Top Leadership At Firm",
       "related_urls": [
-        "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
-        "https://www.engadget.com/2314584/jensen-huang-is-out-as-nvidia-ceo/",
-        "https://9to5mac.com/2026/11/12/jensen-huang-resigns-as-ceo-of-nvidia/",
-        "https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo"
+        "https://www.pcworld.com/article/3284206/jensen-huang-built-nvidia-on-gamers-ai-made-them-an-afterthought.html",
+        "https://www.pcworld.com/article/3283741/nvidia-ceo-jensen-huang-resigns-in-the-wake-of-multiple-controversies.html"
       ],
       "signals": {
         "outlets": [
-          "9to5Mac",
-          "Ars Technica",
-          "Engadget",
-          "Neowin",
-          "The Verge",
-          "Tom's Hardware"
+          "PCWorld",
+          "Wccftech"
         ],
         "techmeme": false,
-        "hn_points": 2480,
+        "hn_points": 3996,
         "trends": [],
-        "score": 15.0
+        "score": 7.0
       }
     },
     {
       "rank": 3,
-      "title_vi": "Dịch vụ Microsoft Outlook, Exchange và SharePoint ngừng hoạt động toàn cầu",
-      "summary_vi": "Hàng loạt người dùng báo cáo không thể truy cập email Outlook qua web và ứng dụng. Microsoft đã thừa nhận sự cố đang ảnh hưởng đến các dịch vụ Microsoft 365.",
-      "hot_level": 4,
-      "hot_reason": "Sự cố ngừng hoạt động của các dịch vụ Microsoft 365 ảnh hưởng đến hàng triệu người dùng trên toàn cầu.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-      "source_title": "Microsoft Outlook is down",
+      "title_vi": "Bloomberg tiết lộ mạng lưới các công ty Trung Quốc buôn lậu chip NVIDIA, liên quan đến Alice Huang",
+      "summary_vi": "Bloomberg đã tìm thấy bằng chứng về một mạng lưới các công ty Trung Quốc buôn lậu chip NVIDIA với Alice Huang là trung tâm. Thực thể mới liên quan đến Alice Huang đã khai báo GPU NVIDIA bị cấm như tài sản thế chấp.",
+      "hot_level": 5,
+      "hot_reason": "Bê bối nghiêm trọng liên quan đến cựu CEO NVIDIA Jensen Huang, tình báo và buôn lậu chip AI với quy mô lớn, ảnh hưởng đến an ninh quốc gia.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-founder-jensen-huangs-alleged-spy-associate-alice-huang-was-deeply-tied-to-another-chinese-firm-with-access-to-banned-nvidia-chips-says-report/",
+      "source_title": "NVIDIA Founder Jensen Huang’s Alleged Spy Associate Alice Huang Was Deeply Tied To Another Chinese Firm With Access To Banned NVIDIA Chips, Says Report",
       "related_urls": [
-        "https://www.neowin.net/news/microsoft-exchange-and-outlook-go-down-right-after-teams-outage/?utm_source=rss",
-        "https://www.androidauthority.com/microsoft-outlook-outage-nov-2026-3734664/",
-        "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
-        "https://9to5mac.com/2026/11/12/microsoft-outlook-experiencing-widespread-outage/"
+        "https://www.engadget.com/2315710/bloomberg-details-web-of-chinese-ai-companies-with-smuggled-nvidia-chips-linked-to-alice-huang/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 375,
+        "trends": [],
+        "score": 6.75
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Phân tích cho thấy buôn lậu 1.5 triệu GPU AI NVIDIA có thể là nguyên nhân Jensen Huang từ chức",
+      "summary_vi": "Một công ty phân tích hàng đầu cho biết đã theo dõi lượng lớn 1.5 gigawatt bộ tăng tốc AI bị cấm tuồn vào Trung Quốc. Đây được cho là nguyên nhân sâu xa dẫn đến sự ra đi của cựu CEO NVIDIA Jensen Huang.",
+      "hot_level": 5,
+      "hot_reason": "Cung cấp nguyên nhân chính và quy mô khổng lồ đằng sau vụ bê bối của cựu CEO NVIDIA Jensen Huang, có ý nghĩa lớn về kinh tế và chính trị.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+      "source_title": "Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 375,
+        "trends": [],
+        "score": 4.75
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "ChatGPT Wallet cho phép các AI Agent của OpenAI thực hiện giao dịch mua hàng",
+      "summary_vi": "OpenAI ra mắt ChatGPT Wallet, cho phép các AI Agent của họ thực hiện giao dịch mua hàng trực tuyến cho người dùng. Tính năng này được triển khai cho thuê bao ChatGPT Pro tại Mỹ, hợp tác với American Express, Mastercard và Visa.",
+      "hot_level": 4,
+      "hot_reason": "Một bước tiến lớn của AI trong giao dịch tài chính, mở rộng khả năng của AI Agent, thu hút sự chú ý của giới công nghệ.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source_title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "related_urls": [
+        "https://www.androidauthority.com/chatgpt-wallet-3735154/",
+        "https://www.neowin.net/news/openai-launches-chatgpt-wallet-allowing-ai-agents-to-make-purchases-on-your-behalf/?utm_source=rss",
+        "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "https://9to5mac.com/2026/11/13/openai-launches-chatgpt-wallet-enabling-dot-agents-to-make-purchases/"
       ],
       "signals": {
         "outlets": [
@@ -88,175 +122,114 @@
           "The Verge"
         ],
         "techmeme": false,
-        "hn_points": 284,
-        "trends": [],
-        "score": 11.84
-      }
-    },
-    {
-      "rank": 4,
-      "title_vi": "Google ra mắt Gemini 4 Hydrogen, thay thế Gemini 3.8 Flash và hỗ trợ Apple CarPlay",
-      "summary_vi": "Google đã chính thức triển khai Gemini 4 Hydrogen, phiên bản mới thay thế 3.8 Flash. Gemini cũng sẽ sớm có mặt trên Apple CarPlay.",
-      "hot_level": 4,
-      "hot_reason": "Google ra mắt phiên bản AI Gemini mới với nhiều cải tiến và mở rộng hỗ trợ sang Apple CarPlay, một tin tức lớn về AI và hệ sinh thái.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "source_title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "related_urls": [
-        "https://www.neowin.net/news/google-finally-brings-gemini-to-apple-carplay/?utm_source=rss"
-      ],
-      "signals": {
-        "outlets": [
-          "Ars Technica",
-          "Neowin"
-        ],
-        "techmeme": true,
-        "hn_points": 383,
-        "trends": [
-          "google (VN, ~1,000 lượt tìm)"
-        ],
-        "score": 12.83
-      }
-    },
-    {
-      "rank": 5,
-      "title_vi": "Kính thông minh Gemini hợp tác giữa Google và Samsung chính thức mở đặt trước",
-      "summary_vi": "Google và Samsung đã bắt đầu mở đặt trước bộ sưu tập kính thông minh Intelligent Eyewear mới, được phát triển cùng Gentle Monster và Warby Parker. Kính sẽ có mặt từ ngày 10 tháng 12.",
-      "hot_level": 4,
-      "hot_reason": "Sản phẩm kính thông minh mới từ hai ông lớn Google và Samsung, tích hợp AI Gemini, hứa hẹn mở ra xu hướng công nghệ mới.",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/you-can-now-pre-order-google-and-samsungs-gemini-powered-smart-glasses/?utm_source=rss",
-      "source_title": "You can now pre-order Google and Samsung's Gemini-powered smart glasses",
-      "related_urls": [
-        "https://9to5google.com/2026/11/12/google-glasses-hands-on/",
-        "https://www.androidauthority.com/samsung-google-smart-glasses-phone-compatibility-3734240/",
-        "https://www.androidauthority.com/samsung-android-xr-smart-glass-pre-order-3734248/",
-        "https://www.gsmarena.com/samsungs_intelligent_eyewear_glasses_are_now_up_for_preorder-news-75454.php"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Google",
-          "Android Authority",
-          "GSMArena",
-          "Neowin"
-        ],
-        "techmeme": false,
         "hn_points": 0,
-        "trends": [
-          "google (VN, ~1,000 lượt tìm)"
-        ],
-        "score": 10.0
+        "trends": [],
+        "score": 9.0
       }
     },
     {
       "rank": 6,
-      "title_vi": "Google tích hợp Gemini 4 Hydrogen vào công cụ Search với câu trả lời thông minh hơn",
-      "summary_vi": "Google Search được nâng cấp với Gemini 4 Hydrogen, hứa hẹn cung cấp câu trả lời thông minh hơn và hỗ trợ tốt hơn cho các truy vấn phức tạp, cả lỗi chính tả.",
+      "title_vi": "Dịch vụ AI Claude của Anthropic gặp sự cố ngừng hoạt động trên diện rộng",
+      "summary_vi": "Dịch vụ AI Claude của Anthropic đã gặp phải một sự cố ngừng hoạt động trên diện rộng, gây ra các lỗi tăng cao cho người dùng. Vấn đề đã được khắc phục sau đó.",
       "hot_level": 4,
-      "hot_reason": "Nâng cấp mạnh mẽ cho Google Search bằng AI Gemini 4 Hydrogen sẽ cải thiện đáng kể trải nghiệm tìm kiếm của người dùng.",
+      "hot_reason": "Sự cố lớn của một nền tảng AI hàng đầu, có khả năng ảnh hưởng đến nhiều doanh nghiệp và nhà phát triển sử dụng dịch vụ này.",
       "source": "Android Authority",
-      "url": "https://www.androidauthority.com/gemini-4-hydrogen-on-google-search-3734653/",
-      "source_title": "Google brings Gemini 4 Hydrogen to Search with smarter answers and better visuals",
+      "url": "https://www.androidauthority.com/anthropic-claude-outage-nov-2026-3735078/",
+      "source_title": "Anthropic’s Claude is experiencing a widespread outage, causing elevated errors (Update: Back up)",
       "related_urls": [],
       "signals": {
         "outlets": [
           "Android Authority"
         ],
-        "techmeme": true,
-        "hn_points": 383,
-        "trends": [
-          "google (VN, ~1,000 lượt tìm)"
-        ],
-        "score": 10.83
+        "techmeme": false,
+        "hn_points": 476,
+        "trends": [],
+        "score": 5.0
       }
     },
     {
       "rank": 7,
-      "title_vi": "Cựu CEO Nvidia Jensen Huang đồng ý điều trần trước Quốc hội Mỹ",
-      "summary_vi": "Jensen Huang, người bị buộc thôi chức CEO Nvidia sau các báo cáo về ngoại tình và nghi vấn gián điệp Trung Quốc, đã đồng ý điều trần trước Quốc hội Mỹ trong tháng này.",
+      "title_vi": "Jensen Huang bị cáo buộc tài trợ startup AI để hấp thụ lượng silicon dư thừa thay vì giảm giá GPU",
+      "summary_vi": "Có thông tin cho rằng cựu CEO NVIDIA Jensen Huang đã tài trợ cho các startup AI để hấp thụ lượng silicon dư thừa. Điều này được cho là đã làm lu mờ nhận thức về tình trạng thiếu hụt chip và giữ giá cao.",
       "hot_level": 4,
-      "hot_reason": "Diễn biến mới trong bê bối của cựu CEO Nvidia, việc điều trần trước Quốc hội sẽ mang lại nhiều thông tin quan trọng.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-      "source_title": "Jensen Huang agrees to testify before Congress",
-      "related_urls": [
-        "https://www.engadget.com/2315091/ex-nvidia-ceo-jensen-huang-is-set-to-testify-before-congress-this-month/"
-      ],
+      "hot_reason": "Cáo buộc nghiêm trọng liên quan đến thao túng thị trường chip AI của cựu CEO NVIDIA, ảnh hưởng đến giá cả và chuỗi cung ứng.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
+      "source_title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "Engadget",
-          "TechCrunch"
+          "Wccftech"
         ],
         "techmeme": false,
-        "hn_points": 373,
+        "hn_points": 375,
         "trends": [],
-        "score": 6.73
+        "score": 4.75
       }
     },
     {
       "rank": 8,
-      "title_vi": "Reuters: Jensen Huang còn có vụ ngoại tình thứ ba",
-      "summary_vi": "Reuters báo cáo cựu CEO Nvidia Jensen Huang được cho là có vụ ngoại tình thứ ba với một nhân viên của Nvidia. Thông tin này tiếp tục làm nóng bê bối đời tư của ông.",
-      "hot_level": 3,
-      "hot_reason": "Thông tin mới về bê bối đời tư của cựu CEO Nvidia, tiếp tục gây chấn động và thu hút sự chú ý.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-      "source_title": "Jensen Huang was having a third affair, Reuters reports",
-      "related_urls": [
-        "https://www.tomshardware.com/tech-industry/suspected-chinese-spy-at-center-of-jensen-huang-affair-surfaces-in-beijing-alice-huang-last-spotted-heading-to-shanghai-after-being-detained-questioned-in-singapore-in-2025-allegedly-helped-china-smuggle-hundreds-of-thousands-of-banned-chips"
-      ],
+      "title_vi": "Hội đồng quản trị Nvidia đã tiếp cận CEO Arm Rene Haas trong quá trình tìm kiếm người thay thế",
+      "summary_vi": "Theo báo cáo, hội đồng quản trị của Nvidia đã tiếp cận Rene Haas, giám đốc điều hành của Arm và cựu binh lâu năm của Nvidia, trong quá trình tìm kiếm CEO mới. Thông tin này xuất hiện sau những lùm xùm dẫn đến việc Jensen Huang từ chức.",
+      "hot_level": 4,
+      "hot_reason": "Thông tin quan trọng về quá trình tìm kiếm lãnh đạo tương lai cho NVIDIA, một trong những công ty công nghệ lớn nhất thế giới.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
+      "source_title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "TechCrunch",
           "Tom's Hardware"
         ],
-        "techmeme": false,
-        "hn_points": 52,
+        "techmeme": true,
+        "hn_points": 63,
         "trends": [],
-        "score": 3.52
+        "score": 4.63
       }
     },
     {
       "rank": 9,
-      "title_vi": "United Airlines cấm các tác nhân AI đặt vé máy bay do lo ngại rủi ro an ninh mạng",
-      "summary_vi": "Hãng hàng không United Airlines tuyên bố sẽ không cho phép khách hàng sử dụng các tác nhân AI để đặt vé hoặc quản lý đặt chỗ. Lý do được đưa ra là các rủi ro về an ninh mạng.",
-      "hot_level": 3,
-      "hot_reason": "Chính sách mới từ một hãng hàng không lớn về việc hạn chế AI, phản ánh lo ngại về an ninh mạng trong ngành.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "source_title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "related_urls": [
-        "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/"
-      ],
-      "signals": {
-        "outlets": [
-          "Engadget",
-          "TechCrunch"
-        ],
-        "techmeme": false,
-        "hn_points": 656,
-        "trends": [],
-        "score": 7.0
-      }
-    },
-    {
-      "rank": 10,
-      "title_vi": "Humble Bundle bị chỉ trích vì gỡ bỏ xác thực 2 yếu tố trong bản thiết kế lại",
-      "summary_vi": "Nền tảng Humble Bundle đã lặng lẽ triển khai bản thiết kế lại trang web gây tranh cãi, trong đó gỡ bỏ tính năng xác thực hai yếu tố (2FA). Điều này làm dấy lên lo ngại về bảo mật cho người dùng.",
-      "hot_level": 3,
-      "hot_reason": "Việc gỡ bỏ tính năng bảo mật quan trọng như 2FA gây ra mối lo ngại lớn cho hàng triệu người dùng.",
+      "title_vi": "Google Gemini 4 Hydrogen vượt trội GPT-6.1 Terra trên hầu hết các điểm chuẩn AI chính",
+      "summary_vi": "Gemini 4 Hydrogen của Google đã đánh bại GPT-6.1 Terra của đối thủ trên hầu hết các điểm chuẩn AI quan trọng. Mẫu AI này cũng có mức giá thấp hơn so với các phiên bản cao cấp Carbon và Argon của Google.",
+      "hot_level": 4,
+      "hot_reason": "Cuộc đua AI cạnh tranh gay gắt, kết quả điểm chuẩn cho thấy Google đang dẫn trước OpenAI trong một số lĩnh vực quan trọng.",
       "source": "Neowin",
-      "url": "https://www.neowin.net/news/humble-bundles-sudden-redesign-removes-2fa-sparking-security-fears/?utm_source=rss",
-      "source_title": "Humble Bundle's sudden redesign removes 2FA, sparking security fears",
+      "url": "https://www.neowin.net/news/googles-gemini-4-hydrogen-beats-gpt-61-terra-on-most-key-ai-benchmarks/?utm_source=rss",
+      "source_title": "Google's Gemini 4 Hydrogen beats GPT-6.1 Terra on most key AI benchmarks",
       "related_urls": [],
       "signals": {
         "outlets": [
           "Neowin"
         ],
         "techmeme": false,
-        "hn_points": 357,
+        "hn_points": 556,
         "trends": [],
-        "score": 4.57
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Màn hình phụ Xiaomi 18 Pro hỗ trợ Google Maps, Spotify và các ứng dụng khác",
+      "summary_vi": "Điện thoại Xiaomi 18 Pro sắp ra mắt sẽ có màn hình phụ phía sau hỗ trợ các ứng dụng phổ biến như Google Maps, Spotify và YouTube Music. Điều này nhằm tối ưu hóa trải nghiệm người dùng và khuyến khích sử dụng mặt sau điện thoại nhiều hơn.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng mới trên smartphone của Xiaomi, một thương hiệu được quan tâm tại Việt Nam, tăng thêm tiện ích cho người dùng.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/xiaomi-18-pro-rear-display-features-3735180/",
+      "source_title": "Google Maps, Spotify, and more are coming to Xiaomi 18 Pro’s rear display",
+      "related_urls": [
+        "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
+        "https://www.gsmarena.com/xiaomi_confirms_google_maps_spotify_and_youtube_music_for_the_18_pro_rear_display-news-75460.php"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
       }
     }
   ]
