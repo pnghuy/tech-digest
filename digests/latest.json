@@ -1,235 +1,227 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T04:54:06.051283+07:00",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T04:54:09.461841+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Microsoft khắc phục sự cố Outlook và các dịch vụ khác sau hai ngày gián đoạn",
-      "summary_vi": "Các dịch vụ tiêu dùng của Microsoft bao gồm Outlook đã hoạt động trở lại sau gần hai ngày ngừng hoạt động. Công ty cho biết sự cố không phải do hoạt động độc hại hay AI gây ra.",
+      "title_vi": "Elon Musk cùng nhiều lãnh đạo công nghệ ký đơn kêu gọi Nvidia phục chức cho Jensen Huang",
+      "summary_vi": "Đơn thỉnh nguyện trực tuyến đã thu hút hơn 115.000 chữ ký tính đến chiều thứ Bảy nhằm kêu gọi đưa cựu CEO Jensen Huang trở lại Nvidia. Tỷ phú Elon Musk cũng xác nhận sẽ đặt bút ký ủng hộ động thái này.",
       "hot_level": 5,
-      "hot_reason": "Sự cố quy mô toàn cầu ảnh hưởng hàng triệu người dùng, nhiều trang tin cùng đăng và Microsoft đã đưa ra giải thích chính thức.",
-      "source": "PCWorld",
-      "url": "https://www.pcworld.com/article/3285440/microsoft-ai-hackers-not-to-blame-for-outlook-services-outage.html",
-      "source_title": "Microsoft: AI, hackers not to blame for Outlook services outage",
+      "hot_reason": "Diễn biến chấn động mới nhất xoay quanh tương lai hãng chip số một thế giới và sự can thiệp của Elon Musk",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source_title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "related_urls": [
-        "https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/",
-        "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-        "https://www.gsmarena.com/microsoft_teams_outlook_and_365_services_are_down_more_than_12_hours_now-news-75469.php",
-        "https://wccftech.com/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-and-more-worldwide-as-recovery-remains-ongoing/"
+        "https://wccftech.com/elon-musk-says-petition-to-bring-jensen-huang-back-to-nvidia-is-underway-and-hell-sign-it/"
       ],
       "signals": {
         "outlets": [
-          "Engadget",
-          "GSMArena",
-          "PCWorld",
-          "The Verge",
+          "TechCrunch",
           "Wccftech"
         ],
-        "techmeme": false,
-        "hn_points": 455,
+        "techmeme": true,
+        "hn_points": 0,
         "trends": [],
-        "score": 13.0
+        "score": 6.0
       }
     },
     {
       "rank": 2,
-      "title_vi": "NVIDIA xác nhận thư yêu cầu Jensen Huang trở lại CEO là giả mạo",
-      "summary_vi": "Phó chủ tịch nghiên cứu của NVIDIA xác nhận lá thư lan truyền trên mạng yêu cầu cựu CEO Jensen Huang trở lại vị trí lãnh đạo là giả mạo. Các bài báo khác đào sâu nguyên nhân Huang từ chức do các tranh cãi liên quan đến AI và game thủ.",
+      "title_vi": "SpaceX lần đầu tiên tóm gọn thành công tàu vũ trụ Starship bằng cánh tay tháp phóng",
+      "summary_vi": "Trong chuyến bay thử nghiệm Flight 15, SpaceX đã lần đầu tiên bắt thành công tầng trên của tàu Starship bằng cánh tay tháp Mechazilla. Trước đây công ty chỉ mới thực hiện thao tác tương tự đối với tầng đẩy Super Heavy.",
       "hot_level": 5,
-      "hot_reason": "Tin tức nóng hổi về cựu CEO NVIDIA, tín hiệu Hacker News cực cao cho thấy mức độ quan tâm lớn, và là diễn biến mới về bê bối.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/letter-seeking-ex-ceo-jensen-huangs-return-is-obviously-fake-says-nvidia-vp-after-he-is-made-a-named-signatory-alongside-top-leadership-at-firm/",
-      "source_title": "Letter Seeking Ex CEO Jensen Huang’s Return Is “Obviously Fake,” Says NVIDIA VP After He Is Made A Named Signatory Alongside Top Leadership At Firm",
+      "hot_reason": "Thành tựu công nghệ hàng không vũ trụ đột phá thu hút sự chú ý cực lớn của toàn thế giới",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "source_title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
       "related_urls": [
-        "https://www.pcworld.com/article/3284206/jensen-huang-built-nvidia-on-gamers-ai-made-them-an-afterthought.html",
-        "https://www.pcworld.com/article/3283741/nvidia-ceo-jensen-huang-resigns-in-the-wake-of-multiple-controversies.html"
-      ],
-      "signals": {
-        "outlets": [
-          "PCWorld",
-          "Wccftech"
-        ],
-        "techmeme": false,
-        "hn_points": 3996,
-        "trends": [],
-        "score": 7.0
-      }
-    },
-    {
-      "rank": 3,
-      "title_vi": "Bloomberg tiết lộ mạng lưới các công ty Trung Quốc buôn lậu chip NVIDIA, liên quan đến Alice Huang",
-      "summary_vi": "Bloomberg đã tìm thấy bằng chứng về một mạng lưới các công ty Trung Quốc buôn lậu chip NVIDIA với Alice Huang là trung tâm. Thực thể mới liên quan đến Alice Huang đã khai báo GPU NVIDIA bị cấm như tài sản thế chấp.",
-      "hot_level": 5,
-      "hot_reason": "Bê bối nghiêm trọng liên quan đến cựu CEO NVIDIA Jensen Huang, tình báo và buôn lậu chip AI với quy mô lớn, ảnh hưởng đến an ninh quốc gia.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/nvidia-founder-jensen-huangs-alleged-spy-associate-alice-huang-was-deeply-tied-to-another-chinese-firm-with-access-to-banned-nvidia-chips-says-report/",
-      "source_title": "NVIDIA Founder Jensen Huang’s Alleged Spy Associate Alice Huang Was Deeply Tied To Another Chinese Firm With Access To Banned NVIDIA Chips, Says Report",
-      "related_urls": [
-        "https://www.engadget.com/2315710/bloomberg-details-web-of-chinese-ai-companies-with-smuggled-nvidia-chips-linked-to-alice-huang/"
+        "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/"
       ],
       "signals": {
         "outlets": [
           "Engadget",
-          "Wccftech"
+          "The Verge"
         ],
         "techmeme": false,
-        "hn_points": 375,
+        "hn_points": 179,
         "trends": [],
-        "score": 6.75
+        "score": 4.79
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "FAA xác định sự cố cáp đồng cũ kỹ là nguyên nhân khiến toàn bộ chuyến bay Mỹ bị đình trệ",
+      "summary_vi": "Bộ trưởng Giao thông Vận tải Sean Duffy cho biết lệnh dừng cất cánh toàn quốc của FAA xuất phát từ quá trình thay thế đường dây cáp đồng lỗi thời bằng cáp quang tại một cơ sở từ xa. Cơ quan này cũng bác bỏ tin đồn sự cố có liên quan đến hệ thống điều hành AI.",
+      "hot_level": 4,
+      "hot_reason": "Nguyên nhân chính thức được công bố cho sự cố kỹ thuật nghiêm trọng làm tê liệt ngành hàng không Mỹ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+      "source_title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "related_urls": [
+        "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+      ],
+      "signals": {
+        "outlets": [
+          "Ars Technica",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 209,
+        "trends": [],
+        "score": 5.09
       }
     },
     {
       "rank": 4,
-      "title_vi": "Phân tích cho thấy buôn lậu 1.5 triệu GPU AI NVIDIA có thể là nguyên nhân Jensen Huang từ chức",
-      "summary_vi": "Một công ty phân tích hàng đầu cho biết đã theo dõi lượng lớn 1.5 gigawatt bộ tăng tốc AI bị cấm tuồn vào Trung Quốc. Đây được cho là nguyên nhân sâu xa dẫn đến sự ra đi của cựu CEO NVIDIA Jensen Huang.",
-      "hot_level": 5,
-      "hot_reason": "Cung cấp nguyên nhân chính và quy mô khổng lồ đằng sau vụ bê bối của cựu CEO NVIDIA Jensen Huang, có ý nghĩa lớn về kinh tế và chính trị.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
-      "source_title": "Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, analysts claim",
-      "related_urls": [],
+      "title_vi": "Google tích hợp Gemini vào Google Wallet giúp phân tích chi tiêu cá nhân",
+      "summary_vi": "Ứng dụng Gemini đã bắt đầu bổ sung tiện ích kết nối với Google Wallet tại Mỹ nhằm cung cấp các phản hồi tài chính thông minh dựa trên thói quen chi tiêu thực tế của người dùng.",
+      "hot_level": 4,
+      "hot_reason": "Tính năng AI mới tác động trực tiếp đến người dùng hệ sinh thái Android và Google",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/13/gemini-google-wallet/",
+      "source_title": "You can now set up Gemini’s Google Wallet integration for ‘personal finance insights’",
+      "related_urls": [
+        "https://www.neowin.net/news/google-follows-chatgpt-with-gemini-finance-insights-that-can-analyze-your-bank-accounts/?utm_source=rss"
+      ],
       "signals": {
         "outlets": [
-          "Tom's Hardware"
+          "9to5Google",
+          "Neowin"
         ],
         "techmeme": false,
-        "hn_points": 375,
+        "hn_points": 0,
         "trends": [],
-        "score": 4.75
+        "score": 3.0
       }
     },
     {
       "rank": 5,
-      "title_vi": "ChatGPT Wallet cho phép các AI Agent của OpenAI thực hiện giao dịch mua hàng",
-      "summary_vi": "OpenAI ra mắt ChatGPT Wallet, cho phép các AI Agent của họ thực hiện giao dịch mua hàng trực tuyến cho người dùng. Tính năng này được triển khai cho thuê bao ChatGPT Pro tại Mỹ, hợp tác với American Express, Mastercard và Visa.",
-      "hot_level": 4,
-      "hot_reason": "Một bước tiến lớn của AI trong giao dịch tài chính, mở rộng khả năng của AI Agent, thu hút sự chú ý của giới công nghệ.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "source_title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "title_vi": "Uber xác nhận bị rò rỉ dữ liệu làm lộ thông tin bằng lái của hàng nghìn tài xế",
+      "summary_vi": "Uber thông báo tin tặc đã đánh cắp thông tin giấy phép lái xe của hàng nghìn tài xế thông qua sự cố bảo mật tại đối tác đám mây AI Fireworks AI.",
+      "hot_level": 3,
+      "hot_reason": "Vấn đề bảo mật thông tin liên quan đến nền tảng gọi xe lớn toàn cầu",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "source_title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
       "related_urls": [
-        "https://www.androidauthority.com/chatgpt-wallet-3735154/",
-        "https://www.neowin.net/news/openai-launches-chatgpt-wallet-allowing-ai-agents-to-make-purchases-on-your-behalf/?utm_source=rss",
-        "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-        "https://9to5mac.com/2026/11/13/openai-launches-chatgpt-wallet-enabling-dot-agents-to-make-purchases/"
+        "https://www.neowin.net/news/uber-confirms-data-breach-that-stole-thousands-of-drivers-information/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "Neowin",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Intel âm thầm ra mắt vi xử lý Core Ultra 7 260K 20 nhân trên máy bộ",
+      "summary_vi": "Bộ vi xử lý Arrow Lake mới sở hữu 20 nhân và xung nhịp turbo đạt 5,4 GHz vừa xuất hiện độc quyền trên các cấu hình PC ráp sẵn của Newegg mà chưa được Intel công bố thông số chính thức.",
+      "hot_level": 3,
+      "hot_reason": "Rò rỉ chip CPU máy tính mới thuộc thế hệ Arrow Lake từ Intel",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/intel-core-ultra-7-260k-quietly-launches-as-newegg-exclusive-cpu/",
+      "source_title": "Intel Core Ultra 7 260K Quietly Launches As Newegg-Exclusive CPU, Paired With Up To GeForce RTX 5070 At $1999",
+      "related_urls": [
+        "https://www.tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip"
+      ],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 2.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Apple phát hành tvOS 27.2.1 bổ sung tính năng Siri AI cho các mẫu Apple TV cũ",
+      "summary_vi": "Bản cập nhật tvOS 27.2.1 vừa được Apple tung ra để đem lại khả năng hỗ trợ Siri AI cho các thế hệ Apple TV 4K đời trước bên cạnh dòng sản phẩm mới.",
+      "hot_level": 3,
+      "hot_reason": "Cập nhật hệ điều hành và tính năng AI mới cho người dùng thiết bị Apple",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/",
+      "source_title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/13/apple-releases-tvos-27-2-1-and-homepod-27-2-1-heres-whats-new/",
+        "https://9to5mac.com/2026/11/13/tvos-27-2-1-launching-soon-with-siri-ai-for-older-apple-tv-4k-models/"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
-          "Android Authority",
-          "Neowin",
-          "TechCrunch",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 2.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Tesla mở đặt trước xe tự hành Cybercab cho khách hàng cá nhân kèm phí thuê bao hàng tháng",
+      "summary_vi": "Tesla bắt đầu gửi thư mời đặt mua mẫu xe không vô lăng Cybercab cho mục đích sử dụng cá nhân kèm điều kiện giới hạn khu vực và mức phí dịch vụ 299 USD mỗi tháng.",
+      "hot_level": 3,
+      "hot_reason": "Bước đi thương mại hóa mẫu xe tự hành tương lai đang được giới công nghệ quan tâm của Tesla",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "source_title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
           "The Verge"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 9.0
+        "score": 1.0
       }
     },
     {
-      "rank": 6,
-      "title_vi": "Dịch vụ AI Claude của Anthropic gặp sự cố ngừng hoạt động trên diện rộng",
-      "summary_vi": "Dịch vụ AI Claude của Anthropic đã gặp phải một sự cố ngừng hoạt động trên diện rộng, gây ra các lỗi tăng cao cho người dùng. Vấn đề đã được khắc phục sau đó.",
-      "hot_level": 4,
-      "hot_reason": "Sự cố lớn của một nền tảng AI hàng đầu, có khả năng ảnh hưởng đến nhiều doanh nghiệp và nhà phát triển sử dụng dịch vụ này.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/anthropic-claude-outage-nov-2026-3735078/",
-      "source_title": "Anthropic’s Claude is experiencing a widespread outage, causing elevated errors (Update: Back up)",
+      "rank": 9,
+      "title_vi": "Lộ diện thông số kỹ thuật bộ đôi OPPO Reno17 và Reno17 Pro trước ngày ra mắt",
+      "summary_vi": "Toàn bộ bảng thông số của OPPO Reno17 và Reno17 Pro đã bị rò rỉ trước thềm sự kiện trình làng chính thức tại thị trường Trung Quốc vào ngày 16 tháng 11.",
+      "hot_level": 3,
+      "hot_reason": "Dòng smartphone phổ biến và rất quen thuộc với người tiêu dùng Việt Nam",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/oppo_reno17_reno17_pro_full_specs_tipped-news-75484.php",
+      "source_title": "Oppo Reno17 and Reno17 Pro's full specs tipped ahead of November 16 launch",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "Android Authority"
+          "GSMArena"
         ],
         "techmeme": false,
-        "hn_points": 476,
+        "hn_points": 0,
         "trends": [],
-        "score": 5.0
+        "score": 1.0
       }
     },
     {
-      "rank": 7,
-      "title_vi": "Jensen Huang bị cáo buộc tài trợ startup AI để hấp thụ lượng silicon dư thừa thay vì giảm giá GPU",
-      "summary_vi": "Có thông tin cho rằng cựu CEO NVIDIA Jensen Huang đã tài trợ cho các startup AI để hấp thụ lượng silicon dư thừa. Điều này được cho là đã làm lu mờ nhận thức về tình trạng thiếu hụt chip và giữ giá cao.",
-      "hot_level": 4,
-      "hot_reason": "Cáo buộc nghiêm trọng liên quan đến thao túng thị trường chip AI của cựu CEO NVIDIA, ảnh hưởng đến giá cả và chuỗi cung ứng.",
+      "rank": 10,
+      "title_vi": "CEO TeamGroup cảnh báo tình trạng khan hiếm RAM có thể trở nên tồi tệ vào năm 2027",
+      "summary_vi": "Lãnh đạo TeamGroup nhận định cuộc khủng hoảng nguồn cung bộ nhớ toàn cầu sẽ nghiêm trọng hơn vào năm 2027 khiến việc có sẵn tiền mặt cũng chưa chắc mua được chip DRAM.",
+      "hot_level": 3,
+      "hot_reason": "Cảnh báo ảnh hưởng lớn đến giá linh kiện và thị trường máy tính cá nhân trong tương lai",
       "source": "Wccftech",
-      "url": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
-      "source_title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+      "url": "https://wccftech.com/teamgroup-ceo-warns-2027-ram-shortage-could-become-so-severe-that-even-money-wont-guarantee-supply/",
+      "source_title": "TeamGroup CEO Warns 2027 DRAM Shortage Could Become So Severe That Even Money Won’t Guarantee Supply",
       "related_urls": [],
       "signals": {
         "outlets": [
           "Wccftech"
         ],
         "techmeme": false,
-        "hn_points": 375,
-        "trends": [],
-        "score": 4.75
-      }
-    },
-    {
-      "rank": 8,
-      "title_vi": "Hội đồng quản trị Nvidia đã tiếp cận CEO Arm Rene Haas trong quá trình tìm kiếm người thay thế",
-      "summary_vi": "Theo báo cáo, hội đồng quản trị của Nvidia đã tiếp cận Rene Haas, giám đốc điều hành của Arm và cựu binh lâu năm của Nvidia, trong quá trình tìm kiếm CEO mới. Thông tin này xuất hiện sau những lùm xùm dẫn đến việc Jensen Huang từ chức.",
-      "hot_level": 4,
-      "hot_reason": "Thông tin quan trọng về quá trình tìm kiếm lãnh đạo tương lai cho NVIDIA, một trong những công ty công nghệ lớn nhất thế giới.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
-      "source_title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "Tom's Hardware"
-        ],
-        "techmeme": true,
-        "hn_points": 63,
-        "trends": [],
-        "score": 4.63
-      }
-    },
-    {
-      "rank": 9,
-      "title_vi": "Google Gemini 4 Hydrogen vượt trội GPT-6.1 Terra trên hầu hết các điểm chuẩn AI chính",
-      "summary_vi": "Gemini 4 Hydrogen của Google đã đánh bại GPT-6.1 Terra của đối thủ trên hầu hết các điểm chuẩn AI quan trọng. Mẫu AI này cũng có mức giá thấp hơn so với các phiên bản cao cấp Carbon và Argon của Google.",
-      "hot_level": 4,
-      "hot_reason": "Cuộc đua AI cạnh tranh gay gắt, kết quả điểm chuẩn cho thấy Google đang dẫn trước OpenAI trong một số lĩnh vực quan trọng.",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/googles-gemini-4-hydrogen-beats-gpt-61-terra-on-most-key-ai-benchmarks/?utm_source=rss",
-      "source_title": "Google's Gemini 4 Hydrogen beats GPT-6.1 Terra on most key AI benchmarks",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "Neowin"
-        ],
-        "techmeme": false,
-        "hn_points": 556,
-        "trends": [],
-        "score": 4.0
-      }
-    },
-    {
-      "rank": 10,
-      "title_vi": "Màn hình phụ Xiaomi 18 Pro hỗ trợ Google Maps, Spotify và các ứng dụng khác",
-      "summary_vi": "Điện thoại Xiaomi 18 Pro sắp ra mắt sẽ có màn hình phụ phía sau hỗ trợ các ứng dụng phổ biến như Google Maps, Spotify và YouTube Music. Điều này nhằm tối ưu hóa trải nghiệm người dùng và khuyến khích sử dụng mặt sau điện thoại nhiều hơn.",
-      "hot_level": 3,
-      "hot_reason": "Tính năng mới trên smartphone của Xiaomi, một thương hiệu được quan tâm tại Việt Nam, tăng thêm tiện ích cho người dùng.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/xiaomi-18-pro-rear-display-features-3735180/",
-      "source_title": "Google Maps, Spotify, and more are coming to Xiaomi 18 Pro’s rear display",
-      "related_urls": [
-        "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
-        "https://www.gsmarena.com/xiaomi_confirms_google_maps_spotify_and_youtube_music_for_the_18_pro_rear_display-news-75460.php"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Google",
-          "Android Authority",
-          "GSMArena"
-        ],
-        "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 5.0
+        "score": 1.0
       }
     }
   ]
