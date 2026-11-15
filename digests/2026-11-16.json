@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T04:53:59.769375+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Apple dự kiến ra mắt kính thông minh tích hợp Siri AI vào năm sau",
+      "summary_vi": "Kính thông minh đầu tiên của Apple dự kiến được giới thiệu tại WWDC và mở bán vào cuối năm 2027. Thiết bị này sẽ cạnh tranh với Meta Ray-Ban và tập trung sâu vào trợ lý Siri AI cùng hệ sinh thái ứng dụng iPhone.",
+      "hot_level": 5,
+      "hot_reason": "Sản phẩm phần cứng hoàn toàn mới của Apple kết hợp AI luôn thu hút sự quan tâm lớn của cộng đồng công nghệ.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/15/apples-siri-ai-smart-glasses-are-reportedly-launching-next-year-heres-what-to-expect/",
+      "source_title": "Apple’s Siri AI smart glasses are reportedly launching next year, here’s what to expect",
+      "related_urls": [
+        "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
+        "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Làn sóng ủng hộ Jensen Huang trở lại ghế CEO Nvidia tăng cao",
+      "summary_vi": "Nhiều nguồn tin cho thấy cựu CEO Jensen Huang có thể đang chuẩn bị cho sự trở lại Nvidia khi một chiến dịch vận động quy mô lớn được thiết lập. Trong khi đó, các chính phủ châu Á cũng đang theo dõi sát sao chuỗi cung ứng chip sau sự ra đi bất ngờ của ông.",
+      "hot_level": 5,
+      "hot_reason": "Diễn biến mới nhất trong khủng hoảng lãnh đạo của Nvidia, hãng chip AI quan trọng nhất thế giới hiện nay.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source_title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "related_urls": [
+        "https://wccftech.com/over-100000-people-now-call-for-jensen-huangs-return-to-nvidia-as-the-paypal-veteran-david-sacks-terms-his-forced-exit-the-stupidest-most-moot-hill-to-die-on/",
+        "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+      ],
+      "signals": {
+        "outlets": [
+          "TechCrunch",
+          "The Verge",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 74,
+        "trends": [],
+        "score": 5.74
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Tòa án bác đơn hủy vụ kiện thao túng giá DRAM của Micron, Samsung và SK hynix",
+      "summary_vi": "Thẩm phán đã bác yêu cầu bãi bỏ vụ kiện cáo buộc Micron, Samsung và SK hynix thông đồng đẩy giá DRAM tăng vọt 500%. Bằng chứng cho thấy ba nhà sản xuất bộ nhớ lớn nhất thế giới có dấu hiệu phối hợp hành động chặt chẽ trên thị trường.",
+      "hot_level": 4,
+      "hot_reason": "Vụ kiện liên quan đến ba gã khổng lồ sản xuất RAM và ảnh hưởng trực tiếp đến giá linh kiện phần cứng toàn cầu.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
+      "source_title": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 471,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Intel bất ngờ giành lại thị phần CPU máy bàn trước AMD trong quý 3",
+      "summary_vi": "Báo cáo từ Mercury Research cho thấy doanh số vi xử lý máy bàn tăng mạnh đã giúp Intel lấy lại thị phần CPU tổng thể lần đầu tiên kể từ năm 2025. Dù vậy, AMD vẫn tiếp tục tăng trưởng mạnh ở mảng vi xử lý cho máy chủ và trung tâm dữ liệu.",
+      "hot_level": 4,
+      "hot_reason": "Cuộc chiến thị phần khốc liệt giữa hai ông lớn chip vi xử lý máy tính Intel và AMD.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-reclaims-overall-cpu-market-share-for-the-first-time-since-2025-massive-desktop-gains-offset-amds-record-server-and-mobile-growth",
+      "source_title": "Intel reclaims overall CPU market share for the first time since 2025",
+      "related_urls": [
+        "https://wccftech.com/intel-reclaims-70-desktop-cpu-market-share-as-amd-falls-below-30-in-surprise-q3-2026-turnaround/"
+      ],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Sự cố Microsoft 365 khiến hệ thống an toàn khách sạn ngưng trệ gây ngộ độc khí",
+      "summary_vi": "Một sự cố ngừng hoạt động của Microsoft 365 đã khiến hệ thống cảnh báo qua Outlook không thể gửi thông báo, dẫn đến vụ ngộ độc khí clo tại một khách sạn. Sự việc khiến 15 khách bị ảnh hưởng và 4 người phải nhập viện cấp cứu.",
+      "hot_level": 3,
+      "hot_reason": "Sự cố hy hữu nhưng gióng lên hồi chuông cảnh báo lớn về việc phụ thuộc vào dịch vụ đám mây cho an toàn vận hành.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized",
+      "source_title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 224,
+        "trends": [],
+        "score": 3.24
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Lỗ hổng zero-day SignDrop trên Windows 11 cho phép chiếm quyền SYSTEM",
+      "summary_vi": "Lỗ hổng zero-day mới mang tên SignDrop trên Windows 11 cho phép kẻ tấn công với quyền người dùng tiêu chuẩn có thể leo thang lên quyền SYSTEM cao nhất. Đáng chú ý, lỗi bảo mật này lại lợi dụng chính cơ chế sửa lỗi an toàn mà Microsoft đã triển khai trước đó.",
+      "hot_level": 3,
+      "hot_reason": "Lỗ hổng zero-day nghiêm trọng ảnh hưởng trực tiếp đến hệ điều hành Windows 11 phổ biến.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/windows-11-signdrop-zero-day-exploit-turns-microsofts-own-security-fix-against-itself-grants-system-privileges/",
+      "source_title": "Windows 11 “SignDrop” Zero-Day Exploit Turns Microsoft’s Own Security Fix Against Itself, Grants SYSTEM Privileges",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Apple lên kế hoạch nâng cấp Face ID và camera tele cho iPhone Duo thế hệ mới",
+      "summary_vi": "Theo Mark Gurman, Apple đặt mục tiêu trang bị tính năng nhận diện Face ID cho màn hình ngoài trên phiên bản iPhone Duo tiếp theo. Hãng cũng đang nghiên cứu bổ sung nút Action, ống kính tele và tối ưu thiết kế mỏng nhẹ hơn.",
+      "hot_level": 3,
+      "hot_reason": "Thông tin rò rỉ về thế hệ tiếp theo của mẫu iPhone màn hình gập Duo từ Apple.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/15/apple-aims-to-upgrade-iphone-duo-in-four-ways/",
+      "source_title": "Apple Aiming to Upgrade the iPhone Duo in Four Ways",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Ý phạt Meta gần 890 triệu USD vì tự ý truy cập hình ảnh người dùng",
+      "summary_vi": "Cơ quan quản lý quyền riêng tư của Ý đã phạt Meta số tiền 887 triệu USD do tính năng trên Facebook truy cập dữ liệu hình ảnh người dùng mà không có sự đồng ý cụ thể. Meta được yêu cầu khắc phục vi phạm trong vòng 60 ngày nhưng công ty dự kiến sẽ kháng cáo.",
+      "hot_level": 3,
+      "hot_reason": "Án phạt bảo mật và quyền riêng tư khổng lồ nhằm vào mạng xã hội lớn nhất thế giới Meta.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2317185/italy-orders-meta-to-pay-887m-for-not-obtaining-specific-consent-over-user-photos/",
+      "source_title": "Italy orders Meta to pay $887M for not obtaining specific consent over user photos",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Engadget"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Tên lửa Vulcan gặp sự cố, phá hủy 40 vệ tinh internet của Amazon",
+      "summary_vi": "United Launch Alliance vừa phải hứng chịu thất bại đầu tiên trong lịch sử 20 năm khi tên lửa Vulcan không thể đưa 40 vệ tinh Amazon Leo lên quỹ đạo. Số vệ tinh này thuộc dự án mạng internet vệ tinh do Amazon phát triển để cạnh tranh trực tiếp với Starlink.",
+      "hot_level": 3,
+      "hot_reason": "Đòn giáng mạnh vào tham vọng phủ sóng internet vệ tinh cạnh tranh với Starlink của Amazon.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "source_title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Lộ diện thiết kế máy tính bảng tháo rời Lenovo Googlebook Duet 13",
+      "summary_vi": "Hình ảnh rò rỉ cho thấy cái nhìn chi tiết về mẫu máy tính dạng tháo rời Lenovo Googlebook Duet 13 chuẩn bị ra mắt vào tháng 1 tới. Thiết bị mới sở hữu thiết kế mỏng nhẹ, bàn phím rời và chạy trên nền tảng phần mềm thế hệ mới của Google.",
+      "hot_level": 3,
+      "hot_reason": "Dòng thiết bị phần cứng lai laptop mới của Lenovo hợp tác với Google sắp ra mắt.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/",
+      "source_title": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery]",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Google"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    }
+  ]
+}
