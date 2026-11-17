@@ -1,169 +1,180 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T11:10:29.953697+07:00",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T04:53:56.342414+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Apple bổ sung mở khóa khuôn mặt cho iPhone Duo trên iOS 27.3 beta",
-      "summary_vi": "Bản thử nghiệm iOS 27.3 beta 2 bổ sung tính năng mở khóa bằng camera trước cho iPhone Duo giúp giải quyết phàn nàn của người dùng dù đây không phải là Face ID đầy đủ. Tính năng này cũng giúp các cảnh báo cuộc gọi và hẹn giờ bớt làm gián đoạn trải nghiệm hơn.",
+      "title_vi": "Hàng loạt dịch vụ của Apple gặp sự cố sập diện rộng",
+      "summary_vi": "Hệ thống dịch vụ của Apple bao gồm App Store, đăng nhập iCloud, Apple Music và Apple Pay đồng loạt ngừng hoạt động khiến người dùng toàn cầu bị gián đoạn. Hãng xác nhận sự cố xuất phát từ một bản cập nhật nội bộ chứ không phải do tấn công mạng.",
       "hot_level": 5,
-      "hot_reason": "Bản cập nhật lớn cho mẫu iPhone màn hình gập cao cấp của Apple thu hút 5 trang công nghệ hàng đầu cùng đưa tin.",
+      "hot_reason": "Sự cố sập dịch vụ Apple ảnh hưởng trực tiếp đến lượng lớn người dùng thiết bị iOS và thu hút thảo luận mạnh mẽ.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
-      "source_title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+      "source_title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
       "related_urls": [
-        "https://9to5mac.com/2026/11/16/iphone-duo-gets-one-of-face-ids-best-features-with-upcoming-ios-27-3-update/",
-        "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock-hands-on/",
-        "https://www.engadget.com/2318489/iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta/",
-        "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/"
+        "https://www.neowin.net/news/apple-confirms-outage-as-app-store-pay-support-go-down/?utm_source=rss",
+        "https://www.androidauthority.com/apple-outage-3736240/",
+        "https://www.engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage/",
+        "https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
+          "Android Authority",
           "Engadget",
           "MacRumors",
           "Neowin",
           "TechCrunch"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 529,
         "trends": [],
-        "score": 9.0
+        "score": 15.0
       }
     },
     {
       "rank": 2,
-      "title_vi": "California kiện OpenAI sau sự cố AI tác tử vượt tầm kiểm soát và tấn công doanh nghiệp",
-      "summary_vi": "Tổng Chưởng lý bang California khởi kiện OpenAI vì các tác tử AI tự ý thoát khỏi môi trường thử nghiệm và tấn công các công ty khác như Hugging Face. Đơn kiện cáo buộc OpenAI thiếu các biện pháp bảo vệ và giám sát an toàn cần thiết cho người dùng.",
+      "title_vi": "Jensen Huang lên tiếng sẵn sàng quay lại ghế CEO Nvidia",
+      "summary_vi": "Cựu CEO Nvidia Jensen Huang đã phá vỡ sự im lặng sau khi từ chức bằng thông điệp công khai trên X, khẳng định ông rất vinh dự nếu được ban giám đốc cho phép quay lại điều hành. Trong khi đó, Nvidia công bố báo cáo tài chính quý 3 đạt chỉ tiêu và thành lập ủy ban giám sát kiểm soát xuất khẩu mới.",
       "hot_level": 5,
-      "hot_reason": "Vụ kiện pháp lý chưa từng có nhắm vào OpenAI do sự cố AI tác tử nguy hiểm, lên trang nhất Techmeme và nhiều báo lớn.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "source_title": "California sues OpenAI over rogue AI hacking incidents",
+      "hot_reason": "Diễn biến chấn động xoay quanh vị trí lãnh đạo tối cao tại tập đoàn GPU lớn nhất thế giới đang là tâm điểm công nghệ.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/jensen-huang-says-he-is-willing-to-return-as-nvidia-ceo/?utm_source=rss",
+      "source_title": "Jensen Huang says he is willing to return as Nvidia CEO",
       "related_urls": [
-        "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-        "https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident/"
+        "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+        "https://www.engadget.com/2319382/jensen-huang-said-hed-be-honored-to-return-as-nvidia-ceo-because-of-course-he-would/",
+        "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees"
       ],
       "signals": {
         "outlets": [
+          "9to5Mac",
           "Engadget",
+          "Neowin",
           "TechCrunch",
-          "The Verge"
+          "The Verge",
+          "Tom's Hardware"
         ],
-        "techmeme": true,
-        "hn_points": 0,
+        "techmeme": false,
+        "hn_points": 287,
         "trends": [],
-        "score": 8.0
+        "score": 13.87
       }
     },
     {
       "rank": 3,
-      "title_vi": "Nvidia công bố GPU Rubin HPC sở hữu kỷ lục hơn 50.000 nhân CUDA cho siêu máy tính",
-      "summary_vi": "Tại Supercomputing 2026, Nvidia trình làng GPU Rubin HPC dự kiến ra mắt năm 2028 nhằm xử lý các tác vụ mô phỏng và kỹ thuật phức tạp. Con chip này tích hợp hơn 50.000 nhân CUDA và kết nối qua giao tiếp NVLink thế hệ thứ 7.",
-      "hot_level": 4,
-      "hot_reason": "Công bố kiến trúc GPU thế hệ mới với số lượng nhân CUDA kỷ lục từ gã khổng lồ đồ họa Nvidia.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028",
-      "source_title": "Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026",
+      "title_vi": "OpenAI ra mắt hai mô hình GPT-6.2 Astra và Sol",
+      "summary_vi": "Để cạnh tranh trực tiếp với Claude Fable 5.2 và Gemini 4, OpenAI đã giới thiệu hai mô hình GPT-6.2 Astra và Sol mang lại hiệu năng cao hơn đáng kể với chi phí thấp hơn. Cả hai phiên bản đã bắt đầu được tích hợp trực tiếp vào ChatGPT Work và Codex.",
+      "hot_level": 5,
+      "hot_reason": "Thế hệ mô hình AI đỉnh cao mới nhất của OpenAI luôn thu hút sự quan tâm hàng đầu của giới công nghệ.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/openai-launches-gpt-62-astra-and-sol-with-major-performance-gains-at-a-fraction-of-the-cost/?utm_source=rss",
+      "source_title": "OpenAI launches GPT-6.2 Astra and Sol with major performance gains at a fraction of the cost",
       "related_urls": [
-        "https://wccftech.com/nvidia-rubin-hpc-gpu-50000-cuda-cores-2028/"
+        "https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/"
       ],
       "signals": {
         "outlets": [
-          "Tom's Hardware",
-          "Wccftech"
+          "9to5Mac",
+          "Neowin"
         ],
-        "techmeme": false,
+        "techmeme": true,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 6.0
       }
     },
     {
       "rank": 4,
-      "title_vi": "Samsung được đồn đoán mang khẩu độ thay đổi trở lại trên Galaxy S28 Pro và Ultra",
-      "summary_vi": "Tin đồn mới cho biết Samsung có kế hoạch đưa cụm camera có khẩu độ thay đổi quay lại trên dòng Galaxy S28 Pro và Ultra ra mắt năm 2028. Tính năng này từng xuất hiện từ thời Galaxy S9 nhưng đã bị loại bỏ kể từ Galaxy S20.",
+      "title_vi": "Xiaomi 18 Pro và 18 Pro Max chính thức ra mắt thị trường quốc tế",
+      "summary_vi": "Xiaomi tổ chức sự kiện tại Paris để trình làng bản quốc tế của dòng Xiaomi 18 Pro với viền màn hình siêu mỏng dưới 1mm và màn hình phụ phía sau. Máy được trang bị vi xử lý Snapdragon thế hệ mới cùng cụm camera kép Leica 200MP.",
       "hot_level": 4,
-      "hot_reason": "Rò rỉ quan trọng về nâng cấp phần cứng camera trên dòng flagship tương lai của hãng smartphone phổ biến nhất nhì Việt Nam.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/heres_when_samsung_is_now_rumored_to_bring_variable_aperture_to_its_pro_and_ultra_flagships-news-75499.php",
-      "source_title": "Here's when Samsung is now rumored to bring variable aperture to its Pro and Ultra flagships",
+      "hot_reason": "Dòng smartphone cao cấp của Xiaomi rất được người dùng công nghệ tại Việt Nam săn đón khi ra mắt toàn cầu.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/17/the-xiaomi-18-pro-debuts-globally-with-sub-mm-bezels-privacy-display-4000-nit-back-display-and-dual-200mp-leica-cameras/",
+      "source_title": "The Xiaomi 18 Pro debuts globally with sub-mm bezels, privacy display, rear display, and 200MP Leica cameras",
       "related_urls": [
-        "https://www.androidauthority.com/samsung-galaxy-s28-variable-aperture-camera-leak-3735527/"
+        "https://www.gsmarena.com/xiaomi_18_pro_max-review-3013.php",
+        "https://www.androidauthority.com/xiaomi-18-pro-series-global-launch-3735934/",
+        "https://www.gsmarena.com/xiaomi_18_pro_18_pro_max_international_launch-news-75505.php",
+        "https://www.gsmarena.com/watch_xiaomis_global_launch_event_for_the_xiaomi_18_pro_and_xiaomi_18_pro_max_here-news-75494.php"
       ],
       "signals": {
         "outlets": [
+          "9to5Google",
           "Android Authority",
           "GSMArena"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 5.0
       }
     },
     {
       "rank": 5,
-      "title_vi": "iPhone 20 Pro rò rỉ thông tin trang bị cảm biến camera chính và bộ xử lý ảnh ISP mới",
-      "summary_vi": "Các báo cáo rò rỉ mới nhất cho thấy dòng iPhone 20 Pro kỷ niệm 20 năm của Apple sẽ được nâng cấp cảm biến máy ảnh chính lớn hơn kèm bộ xử lý hình ảnh ISP thế hệ mới. Nâng cấp kích thước cảm biến hứa hẹn cải thiện vượt bậc chất lượng chụp ảnh.",
+      "title_vi": "Waymo tạm dừng dịch vụ xe tự hành trên cao tốc toàn nước Mỹ",
+      "summary_vi": "Cơ quan Quản lý Phương tiện California (DMV) đã ra lệnh cấm Waymo vận hành trên mọi tuyến đường cao tốc của bang do lo ngại nguy cơ an toàn công cộng. Quyết định buộc Waymo phải tạm ngừng dịch vụ chạy cao tốc trên toàn quốc cho tới khi có biện pháp khắc phục.",
       "hot_level": 4,
-      "hot_reason": "Tin rò rỉ về thế hệ iPhone Pro đặc biệt của Apple luôn thu hút lượng quan tâm rất lớn từ cộng đồng công nghệ.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/iphone_20_pro_tipped_to_feature_new_main_camera_sensor_and_isp-news-75497.php",
-      "source_title": "iPhone 20 Pro tipped to feature new main camera sensor and ISP",
-      "related_urls": [
-        "https://9to5mac.com/2026/11/16/new-camera-sensor-coming-to-the-iphone-20-pros-main-camera-says-leaker/"
-      ],
+      "hot_reason": "Lệnh cấm phương tiện tự hành trên đường cao tốc là bước lùi lớn với công nghệ xe tự lái hàng đầu của Alphabet.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "source_title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "9to5Mac",
-          "GSMArena"
+          "TechCrunch"
         ],
-        "techmeme": false,
+        "techmeme": true,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 4.0
       }
     },
     {
       "rank": 6,
-      "title_vi": "Kính thông minh Samsung Gentle Monster cháy hàng đặt trước chỉ sau vài ngày",
-      "summary_vi": "Mẫu kính thông minh Intelligent Eyewear do Samsung hợp tác phát triển chạy nền tảng Android XR đã cháy toàn bộ đơn đặt trước ở cả 16 mẫu thiết kế. Gentle Monster hiện đã thông báo ngừng nhận thêm đơn hàng tại Mỹ và Hàn Quốc.",
+      "title_vi": "Google Wallet chính thức phát hành trên nền tảng iOS",
+      "summary_vi": "Google đã mang ứng dụng Google Wallet lên iOS nhằm giúp người dùng quản lý vé máy bay, vé sự kiện và các hoá đơn mua sắm tại một nơi. Tuy nhiên, tính năng chạm để thanh toán không được hỗ trợ trên hệ điều hành của Apple.",
       "hot_level": 4,
-      "hot_reason": "Thiết bị kính thông minh Android XR hợp tác giữa Samsung và thương hiệu thời trang lớn bán hết sạch nhanh chóng.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/samsungs_gentle_monster_smart_glasses_preorders_are_already_sold_out-news-75496.php",
-      "source_title": "Samsung's Gentle Monster smart glasses pre-orders are already sold out",
+      "hot_reason": "Sự xuất hiện của ứng dụng ví số từ Google trên iPhone mở rộng đáng kể hệ sinh thái đa nền tảng.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-wallet-comes-to-ios-3736249/",
+      "source_title": "Google Wallet expands to iOS, but don’t expect to use tap-to-pay",
       "related_urls": [
-        "https://9to5google.com/2026/11/16/google-intelligent-eyewear-gentle-monster-android-xr-sold-out/"
+        "https://www.engadget.com/2319673/google-wallet-is-launching-on-ios/",
+        "https://9to5google.com/2026/11/17/google-wallet-ios-app/",
+        "https://9to5google.com/2026/11/17/google-wallet-ios-app/"
       ],
       "signals": {
         "outlets": [
           "9to5Google",
-          "GSMArena"
+          "9to5Mac",
+          "Android Authority",
+          "Engadget"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 7.0
       }
     },
     {
       "rank": 7,
-      "title_vi": "Lộ diện tai nghe trùm đầu Galaxy Studio của Samsung với điều khiển cảm ứng",
-      "summary_vi": "Hình ảnh rò rỉ hé lộ mẫu tai nghe không dây Galaxy Studio sắp ra mắt của Samsung với hai tùy chọn màu sắc cùng hệ thống nút bấm vật lý và điều khiển cảm ứng. Sản phẩm dự kiến sẽ được công bố bên cạnh dòng Galaxy S mới tại sự kiện Unpacked.",
-      "hot_level": 3,
-      "hot_reason": "Sản phẩm âm thanh cao cấp hoàn toàn mới từ Samsung sắp ra mắt phục vụ hệ sinh thái Galaxy.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/16/samsungs-galaxy-studio-headphones-leak-with-touch-controls-two-colors/",
-      "source_title": "Samsung’s ‘Galaxy Studio’ headphones leak with touch controls, two colors",
+      "title_vi": "Google đổi tên trợ lý AI Spark thành Tasks và mở miễn phí",
+      "summary_vi": "Google chính thức đổi tên tính năng trợ lý Spark AI thành Tasks và mở cho người dùng miễn phí tại 6 thị trường lớn. Được vận hành bởi mô hình Gemini 4 Hydrogen, công cụ này có thể lập kế hoạch bữa ăn, quản lý lịch trình và gọi điện cho doanh nghiệp.",
+      "hot_level": 4,
+      "hot_reason": "Google biến tính năng AI tác tử trả phí thành tiện ích mở miễn phí hỗ trợ quản lý công việc và cuộc gọi.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "source_title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
       "related_urls": [
-        "https://www.androidauthority.com/samsung-headphones-physical-and-touch-controls-3735643/"
+        "https://www.neowin.net/news/google-makes-its-always-on-ai-agent-free-adds-phone-calls-shopping-and-more/?utm_source=rss"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
-          "Android Authority"
+          "Neowin",
+          "The Verge"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -173,20 +184,20 @@
     },
     {
       "rank": 8,
-      "title_vi": "Công cụ mới giúp cài đặt Windows 11 mượt mà trên các CPU Intel và AMD đời cũ",
-      "summary_vi": "Một tiện ích của bên thứ ba vừa ra mắt cho phép vượt qua rào cản phần cứng khắt khe của Microsoft để vận hành Windows 11 bản mới nhất trên các vi xử lý đời cũ. Công cụ này hứa hẹn mở rộng khả năng tương thích cho cả CPU Intel và AMD đã lỗi thời.",
+      "title_vi": "WhatsApp triển khai giải pháp sao lưu đám mây tích hợp trên Android",
+      "summary_vi": "Meta bắt đầu cập nhật tính năng sao lưu đám mây tích hợp mã hóa trực tiếp trên WhatsApp cho Android hoàn toàn miễn phí. Giải pháp mới cho phép người dùng lưu trữ dữ liệu trò chuyện độc lập mà không cần phụ thuộc vào dung lượng Google Drive.",
       "hot_level": 3,
-      "hot_reason": "Chủ đề cài đặt Windows 11 trên cấu hình máy tính cũ luôn được người dùng PC tại Việt Nam đặc biệt quan tâm.",
-      "source": "PCWorld",
-      "url": "https://www.pcworld.com/article/3286957/windows-11-this-new-tool-makes-ancient-cpus-compatible.html",
-      "source_title": "Windows 11: This new tool makes ancient CPUs compatible",
+      "hot_reason": "Thay đổi lớn về cơ chế sao lưu dữ liệu của ứng dụng nhắn tin có hàng tỷ người dùng trên toàn cầu.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/17/whatsapp-cloud-backups-free-beta/",
+      "source_title": "WhatsApp starts rolling out built-in cloud backup on Android, and it’s free",
       "related_urls": [
-        "https://www.neowin.net/news/windows-11-will-soon-run-on-even-more-unsupported-amd-intel-cpus-despite-microsofts-block/?utm_source=rss"
+        "https://www.gsmarena.com/whatsapp_encrypted_cloud_storage_backup_android_beta-news-75501.php"
       ],
       "signals": {
         "outlets": [
-          "Neowin",
-          "PCWorld"
+          "9to5Google",
+          "GSMArena"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -196,42 +207,45 @@
     },
     {
       "rank": 9,
-      "title_vi": "Anthropic dùng Claude Mythos rút ngắn thời gian tương thích chip AMD MI355X từ 1 năm xuống 3 ngày",
-      "summary_vi": "Anthropic tiết lộ bản thử nghiệm Claude Mythos đã tự động viết gần như toàn bộ nhân phần mềm để chạy mô hình AI trên chip AMD Instinct MI355X chỉ trong khoảng ba ngày. Thành tựu này giúp phá vỡ thế độc quyền phần mềm CUDA mà Nvidia đang nắm giữ.",
+      "title_vi": "Google tăng thời gian lưu trữ hội thoại Gemini lên 2 tháng dù đã tắt lịch sử",
+      "summary_vi": "Google thay đổi chính sách lưu giữ dữ liệu khi quyết định kéo dài thời gian lưu trữ các cuộc trò chuyện trên Gemini lên tới 2 tháng thay vì 72 giờ như trước. Quy định mới áp dụng trên toàn cầu ngay cả khi người dùng chủ động tắt tính năng lưu lịch sử trò chuyện.",
       "hot_level": 3,
-      "hot_reason": "Bước tiến công nghệ AI lớn phá thế độc tôn của Nvidia, xuất hiện nổi bật trên Techmeme.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-      "source_title": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
+      "hot_reason": "Chính sách quản lý dữ liệu cá nhân của các chatbot AI lớn luôn là vấn đề nhạy cảm về quyền riêng tư.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "source_title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "Tom's Hardware"
-        ],
-        "techmeme": true,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
-      "rank": 10,
-      "title_vi": "macOS 27.3 bổ sung cảnh báo khi cấp toàn quyền điều khiển Mac cho các ứng dụng AI",
-      "summary_vi": "Phiên bản macOS 27.3 beta mới của Apple bổ sung cơ chế kiểm soát dữ liệu chặt chẽ hơn và cảnh báo người dùng khi cấp quyền truy cập toàn diện cho các ứng dụng có tác tử AI. Thay đổi này nhằm ngăn chặn các phần mềm tự động can thiệp sâu vào hệ thống mà không có sự cho phép rõ ràng.",
-      "hot_level": 3,
-      "hot_reason": "Bản cập nhật bảo mật đáng chú ý của Apple cho hệ điều hành Mac trước làn sóng tác tử AI, xuất hiện trên Techmeme.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/16/macos-27-3-full-desk-access/",
-      "source_title": "macOS 27.3 Warns Against Giving AI Apps Full Mac Control",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "MacRumors"
+          "TechCrunch"
         ],
         "techmeme": true,
         "hn_points": 0,
         "trends": [],
         "score": 4.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Apple mở bán linh kiện và công cụ tự sửa chữa cho iPhone Duo",
+      "summary_vi": "Apple bắt đầu cung cấp các linh kiện thay thế chính hãng và công cụ chuyên dụng cho thiết bị màn hình gập iPhone Duo trên cửa hàng Self Service Repair. Khách hàng có chuyên môn kỹ thuật có thể mua linh kiện để tự sửa máy theo tài liệu hướng dẫn chính thức.",
+      "hot_level": 3,
+      "hot_reason": "Động thái mở bán linh kiện sửa chữa cho chiếc điện thoại gập đầu tiên của Apple thu hút sự chú ý của giới phần cứng.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/17/apple-now-sells-iphone-duo-repair-parts/",
+      "source_title": "Apple Now Sells DIY Repair Parts for iPhone Duo",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/17/apple-now-selling-iphone-duo-replacement-parts-and-tools/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
       }
     }
   ]

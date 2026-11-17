@@ -1,0 +1,252 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T04:53:56.342414+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Hàng loạt dịch vụ của Apple gặp sự cố sập diện rộng",
+      "summary_vi": "Hệ thống dịch vụ của Apple bao gồm App Store, đăng nhập iCloud, Apple Music và Apple Pay đồng loạt ngừng hoạt động khiến người dùng toàn cầu bị gián đoạn. Hãng xác nhận sự cố xuất phát từ một bản cập nhật nội bộ chứ không phải do tấn công mạng.",
+      "hot_level": 5,
+      "hot_reason": "Sự cố sập dịch vụ Apple ảnh hưởng trực tiếp đến lượng lớn người dùng thiết bị iOS và thu hút thảo luận mạnh mẽ.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+      "source_title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+      "related_urls": [
+        "https://www.neowin.net/news/apple-confirms-outage-as-app-store-pay-support-go-down/?utm_source=rss",
+        "https://www.androidauthority.com/apple-outage-3736240/",
+        "https://www.engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage/",
+        "https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Android Authority",
+          "Engadget",
+          "MacRumors",
+          "Neowin",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 529,
+        "trends": [],
+        "score": 15.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Jensen Huang lên tiếng sẵn sàng quay lại ghế CEO Nvidia",
+      "summary_vi": "Cựu CEO Nvidia Jensen Huang đã phá vỡ sự im lặng sau khi từ chức bằng thông điệp công khai trên X, khẳng định ông rất vinh dự nếu được ban giám đốc cho phép quay lại điều hành. Trong khi đó, Nvidia công bố báo cáo tài chính quý 3 đạt chỉ tiêu và thành lập ủy ban giám sát kiểm soát xuất khẩu mới.",
+      "hot_level": 5,
+      "hot_reason": "Diễn biến chấn động xoay quanh vị trí lãnh đạo tối cao tại tập đoàn GPU lớn nhất thế giới đang là tâm điểm công nghệ.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/jensen-huang-says-he-is-willing-to-return-as-nvidia-ceo/?utm_source=rss",
+      "source_title": "Jensen Huang says he is willing to return as Nvidia CEO",
+      "related_urls": [
+        "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+        "https://www.engadget.com/2319382/jensen-huang-said-hed-be-honored-to-return-as-nvidia-ceo-because-of-course-he-would/",
+        "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Engadget",
+          "Neowin",
+          "TechCrunch",
+          "The Verge",
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 287,
+        "trends": [],
+        "score": 13.87
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "OpenAI ra mắt hai mô hình GPT-6.2 Astra và Sol",
+      "summary_vi": "Để cạnh tranh trực tiếp với Claude Fable 5.2 và Gemini 4, OpenAI đã giới thiệu hai mô hình GPT-6.2 Astra và Sol mang lại hiệu năng cao hơn đáng kể với chi phí thấp hơn. Cả hai phiên bản đã bắt đầu được tích hợp trực tiếp vào ChatGPT Work và Codex.",
+      "hot_level": 5,
+      "hot_reason": "Thế hệ mô hình AI đỉnh cao mới nhất của OpenAI luôn thu hút sự quan tâm hàng đầu của giới công nghệ.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/openai-launches-gpt-62-astra-and-sol-with-major-performance-gains-at-a-fraction-of-the-cost/?utm_source=rss",
+      "source_title": "OpenAI launches GPT-6.2 Astra and Sol with major performance gains at a fraction of the cost",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Neowin"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 6.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Xiaomi 18 Pro và 18 Pro Max chính thức ra mắt thị trường quốc tế",
+      "summary_vi": "Xiaomi tổ chức sự kiện tại Paris để trình làng bản quốc tế của dòng Xiaomi 18 Pro với viền màn hình siêu mỏng dưới 1mm và màn hình phụ phía sau. Máy được trang bị vi xử lý Snapdragon thế hệ mới cùng cụm camera kép Leica 200MP.",
+      "hot_level": 4,
+      "hot_reason": "Dòng smartphone cao cấp của Xiaomi rất được người dùng công nghệ tại Việt Nam săn đón khi ra mắt toàn cầu.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/17/the-xiaomi-18-pro-debuts-globally-with-sub-mm-bezels-privacy-display-4000-nit-back-display-and-dual-200mp-leica-cameras/",
+      "source_title": "The Xiaomi 18 Pro debuts globally with sub-mm bezels, privacy display, rear display, and 200MP Leica cameras",
+      "related_urls": [
+        "https://www.gsmarena.com/xiaomi_18_pro_max-review-3013.php",
+        "https://www.androidauthority.com/xiaomi-18-pro-series-global-launch-3735934/",
+        "https://www.gsmarena.com/xiaomi_18_pro_18_pro_max_international_launch-news-75505.php",
+        "https://www.gsmarena.com/watch_xiaomis_global_launch_event_for_the_xiaomi_18_pro_and_xiaomi_18_pro_max_here-news-75494.php"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Waymo tạm dừng dịch vụ xe tự hành trên cao tốc toàn nước Mỹ",
+      "summary_vi": "Cơ quan Quản lý Phương tiện California (DMV) đã ra lệnh cấm Waymo vận hành trên mọi tuyến đường cao tốc của bang do lo ngại nguy cơ an toàn công cộng. Quyết định buộc Waymo phải tạm ngừng dịch vụ chạy cao tốc trên toàn quốc cho tới khi có biện pháp khắc phục.",
+      "hot_level": 4,
+      "hot_reason": "Lệnh cấm phương tiện tự hành trên đường cao tốc là bước lùi lớn với công nghệ xe tự lái hàng đầu của Alphabet.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "source_title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "TechCrunch"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Google Wallet chính thức phát hành trên nền tảng iOS",
+      "summary_vi": "Google đã mang ứng dụng Google Wallet lên iOS nhằm giúp người dùng quản lý vé máy bay, vé sự kiện và các hoá đơn mua sắm tại một nơi. Tuy nhiên, tính năng chạm để thanh toán không được hỗ trợ trên hệ điều hành của Apple.",
+      "hot_level": 4,
+      "hot_reason": "Sự xuất hiện của ứng dụng ví số từ Google trên iPhone mở rộng đáng kể hệ sinh thái đa nền tảng.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-wallet-comes-to-ios-3736249/",
+      "source_title": "Google Wallet expands to iOS, but don’t expect to use tap-to-pay",
+      "related_urls": [
+        "https://www.engadget.com/2319673/google-wallet-is-launching-on-ios/",
+        "https://9to5google.com/2026/11/17/google-wallet-ios-app/",
+        "https://9to5google.com/2026/11/17/google-wallet-ios-app/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "9to5Mac",
+          "Android Authority",
+          "Engadget"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 7.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Google đổi tên trợ lý AI Spark thành Tasks và mở miễn phí",
+      "summary_vi": "Google chính thức đổi tên tính năng trợ lý Spark AI thành Tasks và mở cho người dùng miễn phí tại 6 thị trường lớn. Được vận hành bởi mô hình Gemini 4 Hydrogen, công cụ này có thể lập kế hoạch bữa ăn, quản lý lịch trình và gọi điện cho doanh nghiệp.",
+      "hot_level": 4,
+      "hot_reason": "Google biến tính năng AI tác tử trả phí thành tiện ích mở miễn phí hỗ trợ quản lý công việc và cuộc gọi.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "source_title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "related_urls": [
+        "https://www.neowin.net/news/google-makes-its-always-on-ai-agent-free-adds-phone-calls-shopping-and-more/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "Neowin",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "WhatsApp triển khai giải pháp sao lưu đám mây tích hợp trên Android",
+      "summary_vi": "Meta bắt đầu cập nhật tính năng sao lưu đám mây tích hợp mã hóa trực tiếp trên WhatsApp cho Android hoàn toàn miễn phí. Giải pháp mới cho phép người dùng lưu trữ dữ liệu trò chuyện độc lập mà không cần phụ thuộc vào dung lượng Google Drive.",
+      "hot_level": 3,
+      "hot_reason": "Thay đổi lớn về cơ chế sao lưu dữ liệu của ứng dụng nhắn tin có hàng tỷ người dùng trên toàn cầu.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/17/whatsapp-cloud-backups-free-beta/",
+      "source_title": "WhatsApp starts rolling out built-in cloud backup on Android, and it’s free",
+      "related_urls": [
+        "https://www.gsmarena.com/whatsapp_encrypted_cloud_storage_backup_android_beta-news-75501.php"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Google tăng thời gian lưu trữ hội thoại Gemini lên 2 tháng dù đã tắt lịch sử",
+      "summary_vi": "Google thay đổi chính sách lưu giữ dữ liệu khi quyết định kéo dài thời gian lưu trữ các cuộc trò chuyện trên Gemini lên tới 2 tháng thay vì 72 giờ như trước. Quy định mới áp dụng trên toàn cầu ngay cả khi người dùng chủ động tắt tính năng lưu lịch sử trò chuyện.",
+      "hot_level": 3,
+      "hot_reason": "Chính sách quản lý dữ liệu cá nhân của các chatbot AI lớn luôn là vấn đề nhạy cảm về quyền riêng tư.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "source_title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "TechCrunch"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Apple mở bán linh kiện và công cụ tự sửa chữa cho iPhone Duo",
+      "summary_vi": "Apple bắt đầu cung cấp các linh kiện thay thế chính hãng và công cụ chuyên dụng cho thiết bị màn hình gập iPhone Duo trên cửa hàng Self Service Repair. Khách hàng có chuyên môn kỹ thuật có thể mua linh kiện để tự sửa máy theo tài liệu hướng dẫn chính thức.",
+      "hot_level": 3,
+      "hot_reason": "Động thái mở bán linh kiện sửa chữa cho chiếc điện thoại gập đầu tiên của Apple thu hút sự chú ý của giới phần cứng.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/17/apple-now-sells-iphone-duo-repair-parts/",
+      "source_title": "Apple Now Sells DIY Repair Parts for iPhone Duo",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/17/apple-now-selling-iphone-duo-replacement-parts-and-tools/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    }
+  ]
+}
