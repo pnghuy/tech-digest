@@ -1,104 +1,115 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T04:53:56.342414+07:00",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T04:53:50.855771+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Hàng loạt dịch vụ của Apple gặp sự cố sập diện rộng",
-      "summary_vi": "Hệ thống dịch vụ của Apple bao gồm App Store, đăng nhập iCloud, Apple Music và Apple Pay đồng loạt ngừng hoạt động khiến người dùng toàn cầu bị gián đoạn. Hãng xác nhận sự cố xuất phát từ một bản cập nhật nội bộ chứ không phải do tấn công mạng.",
+      "title_vi": "Nvidia từ bỏ thị trường Trung Quốc sau khi Jensen Huang bị loại bỏ khỏi chức CEO",
+      "summary_vi": "Nvidia tuyên bố ngừng bán chip cho Trung Quốc sau vụ cựu CEO Jensen Huang bị loại bỏ, trong khi Palmer Luckey kêu gọi phục chức cho ông Huang vì lợi ích của Mỹ.",
       "hot_level": 5,
-      "hot_reason": "Sự cố sập dịch vụ Apple ảnh hưởng trực tiếp đến lượng lớn người dùng thiết bị iOS và thu hút thảo luận mạnh mẽ.",
+      "hot_reason": "Tin tức nóng hổi về thay đổi lãnh đạo Nvidia và quyết định từ bỏ thị trường Trung Quốc, có tác động kinh tế và công nghệ toàn cầu.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
-      "source_title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "source_title": "Nvidia is abandoning China after Jensen Huang’s ouster",
       "related_urls": [
-        "https://www.neowin.net/news/apple-confirms-outage-as-app-store-pay-support-go-down/?utm_source=rss",
-        "https://www.androidauthority.com/apple-outage-3736240/",
-        "https://www.engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage/",
-        "https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/"
+        "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+        "https://9to5mac.com/2026/11/17/jensen-huang-says-hes-ready-to-rejoin-nvidia-as-ceo-if-asked/"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
-          "Android Authority",
-          "Engadget",
-          "MacRumors",
-          "Neowin",
           "TechCrunch"
         ],
         "techmeme": false,
-        "hn_points": 529,
+        "hn_points": 0,
         "trends": [],
-        "score": 15.0
+        "score": 3.0
       }
     },
     {
       "rank": 2,
-      "title_vi": "Jensen Huang lên tiếng sẵn sàng quay lại ghế CEO Nvidia",
-      "summary_vi": "Cựu CEO Nvidia Jensen Huang đã phá vỡ sự im lặng sau khi từ chức bằng thông điệp công khai trên X, khẳng định ông rất vinh dự nếu được ban giám đốc cho phép quay lại điều hành. Trong khi đó, Nvidia công bố báo cáo tài chính quý 3 đạt chỉ tiêu và thành lập ủy ban giám sát kiểm soát xuất khẩu mới.",
+      "title_vi": "PC mini Nvidia RTX Spark đầu tiên ra mắt từ Asus, Dell và MSI",
+      "summary_vi": "Các mẫu PC mini đầu tiên trang bị chip Nvidia RTX Spark N1X đã chính thức được ra mắt từ Asus, Dell và MSI, hứa hẹn hiệu năng AI mạnh mẽ trong form dáng nhỏ gọn.",
       "hot_level": 5,
-      "hot_reason": "Diễn biến chấn động xoay quanh vị trí lãnh đạo tối cao tại tập đoàn GPU lớn nhất thế giới đang là tâm điểm công nghệ.",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/jensen-huang-says-he-is-willing-to-return-as-nvidia-ceo/?utm_source=rss",
-      "source_title": "Jensen Huang says he is willing to return as Nvidia CEO",
+      "hot_reason": "Ra mắt dòng sản phẩm PC mini mới sử dụng chip AI của Nvidia, thu hút sự chú ý lớn từ người dùng và giới công nghệ.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
+      "source_title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
       "related_urls": [
-        "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-        "https://www.engadget.com/2319382/jensen-huang-said-hed-be-honored-to-return-as-nvidia-ceo-because-of-course-he-would/",
-        "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees"
+        "https://wccftech.com/review/msi-edgemesa-n-ai-x-mini-pc-review-nvidia-rtx-spark-delivers-superb-gaming-ai-performance-in-a-compact-form-factor-with-uncompromised-140w-tdp/",
+        "https://www.pcworld.com/article/3288499/im-furious-that-i-love-nvidias-rtx-spark-so-much.html"
+      ],
+      "signals": {
+        "outlets": [
+          "PCWorld",
+          "The Verge",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Tính năng Gemini 'tasks' của Google giờ đây miễn phí cho tất cả người dùng",
+      "summary_vi": "Tính năng 'tasks' của ứng dụng Gemini, trước đây yêu cầu AI Pro, giờ đã có sẵn miễn phí cho người dùng ở sáu quốc gia, mở rộng khả năng tiếp cận AI.",
+      "hot_level": 5,
+      "hot_reason": "Tính năng AI quan trọng từ Google, từng phải trả phí, nay miễn phí, có tác động lớn đến số lượng người dùng và trải nghiệm AI.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+      "source_title": "You can now assign Gemini ‘tasks’ for free in six countries",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "9to5Mac"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Instagram cuối cùng cho phép người dùng chỉnh sửa Stories sau khi đăng",
+      "summary_vi": "Bản cập nhật mới nhất của Instagram cho phép người dùng chỉnh sửa Stories trong vòng 15 phút sau khi đăng mà không làm mất lượt xem, lượt thích hoặc trả lời.",
+      "hot_level": 4,
+      "hot_reason": "Tính năng được yêu cầu từ lâu trên một nền tảng mạng xã hội lớn, ảnh hưởng đến hàng trăm triệu người dùng.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them",
+      "source_title": "Instagram now lets you edit your stories after you post them",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/18/instagram-finally-lets-users-edit-stories-after-publishing-but-theres-a-catch/",
+        "https://www.engadget.com/2320953/you-can-finally-edit-an-instagram-story-without-deleting-it/"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
           "Engadget",
-          "Neowin",
-          "TechCrunch",
-          "The Verge",
-          "Tom's Hardware"
+          "The Verge"
         ],
         "techmeme": false,
-        "hn_points": 287,
-        "trends": [],
-        "score": 13.87
-      }
-    },
-    {
-      "rank": 3,
-      "title_vi": "OpenAI ra mắt hai mô hình GPT-6.2 Astra và Sol",
-      "summary_vi": "Để cạnh tranh trực tiếp với Claude Fable 5.2 và Gemini 4, OpenAI đã giới thiệu hai mô hình GPT-6.2 Astra và Sol mang lại hiệu năng cao hơn đáng kể với chi phí thấp hơn. Cả hai phiên bản đã bắt đầu được tích hợp trực tiếp vào ChatGPT Work và Codex.",
-      "hot_level": 5,
-      "hot_reason": "Thế hệ mô hình AI đỉnh cao mới nhất của OpenAI luôn thu hút sự quan tâm hàng đầu của giới công nghệ.",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/openai-launches-gpt-62-astra-and-sol-with-major-performance-gains-at-a-fraction-of-the-cost/?utm_source=rss",
-      "source_title": "OpenAI launches GPT-6.2 Astra and Sol with major performance gains at a fraction of the cost",
-      "related_urls": [
-        "https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "Neowin"
-        ],
-        "techmeme": true,
         "hn_points": 0,
         "trends": [],
-        "score": 6.0
+        "score": 5.0
       }
     },
     {
-      "rank": 4,
-      "title_vi": "Xiaomi 18 Pro và 18 Pro Max chính thức ra mắt thị trường quốc tế",
-      "summary_vi": "Xiaomi tổ chức sự kiện tại Paris để trình làng bản quốc tế của dòng Xiaomi 18 Pro với viền màn hình siêu mỏng dưới 1mm và màn hình phụ phía sau. Máy được trang bị vi xử lý Snapdragon thế hệ mới cùng cụm camera kép Leica 200MP.",
+      "rank": 5,
+      "title_vi": "Samsung ra mắt bản beta One UI 9.5 với nhiều cải tiến mới",
+      "summary_vi": "Bản beta One UI 9.5 của Samsung đã bắt đầu được triển khai cho các thiết bị Galaxy S26, mang đến khóa ứng dụng, chế độ máy ảnh tùy chỉnh và cải tiến màn hình khóa.",
       "hot_level": 4,
-      "hot_reason": "Dòng smartphone cao cấp của Xiaomi rất được người dùng công nghệ tại Việt Nam săn đón khi ra mắt toàn cầu.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/17/the-xiaomi-18-pro-debuts-globally-with-sub-mm-bezels-privacy-display-4000-nit-back-display-and-dual-200mp-leica-cameras/",
-      "source_title": "The Xiaomi 18 Pro debuts globally with sub-mm bezels, privacy display, rear display, and 200MP Leica cameras",
+      "hot_reason": "Bản cập nhật hệ điều hành lớn cho dòng smartphone Samsung Galaxy, thu hút sự quan tâm của cộng đồng Android.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-5-changelog-3736494/",
+      "source_title": "Here’s everything new in Samsung One UI 9.5 beta",
       "related_urls": [
-        "https://www.gsmarena.com/xiaomi_18_pro_max-review-3013.php",
-        "https://www.androidauthority.com/xiaomi-18-pro-series-global-launch-3735934/",
-        "https://www.gsmarena.com/xiaomi_18_pro_18_pro_max_international_launch-news-75505.php",
-        "https://www.gsmarena.com/watch_xiaomis_global_launch_event_for_the_xiaomi_18_pro_and_xiaomi_18_pro_max_here-news-75494.php"
+        "https://9to5google.com/2026/11/18/how-to-install-samsung-one-ui-9-5-beta/",
+        "https://9to5google.com/2026/11/18/samsung-one-ui-9-5-beta-release/",
+        "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_5_beta_program-news-75518.php"
       ],
       "signals": {
         "outlets": [
@@ -113,68 +124,41 @@
       }
     },
     {
-      "rank": 5,
-      "title_vi": "Waymo tạm dừng dịch vụ xe tự hành trên cao tốc toàn nước Mỹ",
-      "summary_vi": "Cơ quan Quản lý Phương tiện California (DMV) đã ra lệnh cấm Waymo vận hành trên mọi tuyến đường cao tốc của bang do lo ngại nguy cơ an toàn công cộng. Quyết định buộc Waymo phải tạm ngừng dịch vụ chạy cao tốc trên toàn quốc cho tới khi có biện pháp khắc phục.",
+      "rank": 6,
+      "title_vi": "Google ra mắt Gemini 4 Neon với tốc độ Flash và chất lượng Carbon",
+      "summary_vi": "Google vừa phát hành mô hình AI Gemini 4 Neon, cung cấp khả năng suy luận cấp độ tiên tiến cho các quy trình làm việc phức tạp với tốc độ và chi phí hiệu quả hơn.",
       "hot_level": 4,
-      "hot_reason": "Lệnh cấm phương tiện tự hành trên đường cao tốc là bước lùi lớn với công nghệ xe tự lái hàng đầu của Alphabet.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
-      "source_title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "hot_reason": "Ra mắt mô hình AI mới nhất của Google, đánh dấu bước tiến quan trọng trong công nghệ trí tuệ nhân tạo.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
+      "source_title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "TechCrunch"
-        ],
-        "techmeme": true,
-        "hn_points": 0,
-        "trends": [],
-        "score": 4.0
-      }
-    },
-    {
-      "rank": 6,
-      "title_vi": "Google Wallet chính thức phát hành trên nền tảng iOS",
-      "summary_vi": "Google đã mang ứng dụng Google Wallet lên iOS nhằm giúp người dùng quản lý vé máy bay, vé sự kiện và các hoá đơn mua sắm tại một nơi. Tuy nhiên, tính năng chạm để thanh toán không được hỗ trợ trên hệ điều hành của Apple.",
-      "hot_level": 4,
-      "hot_reason": "Sự xuất hiện của ứng dụng ví số từ Google trên iPhone mở rộng đáng kể hệ sinh thái đa nền tảng.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-wallet-comes-to-ios-3736249/",
-      "source_title": "Google Wallet expands to iOS, but don’t expect to use tap-to-pay",
-      "related_urls": [
-        "https://www.engadget.com/2319673/google-wallet-is-launching-on-ios/",
-        "https://9to5google.com/2026/11/17/google-wallet-ios-app/",
-        "https://9to5google.com/2026/11/17/google-wallet-ios-app/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Google",
-          "9to5Mac",
-          "Android Authority",
-          "Engadget"
+          "9to5Google"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 260,
         "trends": [],
-        "score": 7.0
+        "score": 3.6
       }
     },
     {
       "rank": 7,
-      "title_vi": "Google đổi tên trợ lý AI Spark thành Tasks và mở miễn phí",
-      "summary_vi": "Google chính thức đổi tên tính năng trợ lý Spark AI thành Tasks và mở cho người dùng miễn phí tại 6 thị trường lớn. Được vận hành bởi mô hình Gemini 4 Hydrogen, công cụ này có thể lập kế hoạch bữa ăn, quản lý lịch trình và gọi điện cho doanh nghiệp.",
+      "title_vi": "Lỗi driver Nvidia GeForce ghi đến 30GB dữ liệu mỗi giờ lên SSD",
+      "summary_vi": "Người dùng báo cáo driver Nvidia GeForce 621.14 và 621.24 đang liên tục ghi log file, gây ra hàng chục GB dữ liệu mỗi giờ lên SSD và có thể ảnh hưởng đến tuổi thọ ổ cứng.",
       "hot_level": 4,
-      "hot_reason": "Google biến tính năng AI tác tử trả phí thành tiện ích mở miễn phí hỗ trợ quản lý công việc và cuộc gọi.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "source_title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "hot_reason": "Lỗi phần mềm nghiêm trọng ảnh hưởng trực tiếp đến phần cứng máy tính và tuổi thọ linh kiện của hàng triệu người dùng Nvidia.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-geforce-driver-bug-reportedly-hammers-ssds-with-up-to-30gb-of-writes-per-hour-users-trace-massive-idle-wear-to-background-service-newer-driver-reportedly-still-affected",
+      "source_title": "Nvidia GeForce driver bug reportedly hammers SSDs with up to 30GB of writes per hour",
       "related_urls": [
-        "https://www.neowin.net/news/google-makes-its-always-on-ai-agent-free-adds-phone-calls-shopping-and-more/?utm_source=rss"
+        "https://wccftech.com/nvidia-gpu-drivers-reportedly-writing-up-to-30gb-per-hour-to-ssds-echoing-amds-recent-driver-bug/"
       ],
       "signals": {
         "outlets": [
-          "Neowin",
-          "The Verge"
+          "Tom's Hardware",
+          "Wccftech"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -184,20 +168,48 @@
     },
     {
       "rank": 8,
-      "title_vi": "WhatsApp triển khai giải pháp sao lưu đám mây tích hợp trên Android",
-      "summary_vi": "Meta bắt đầu cập nhật tính năng sao lưu đám mây tích hợp mã hóa trực tiếp trên WhatsApp cho Android hoàn toàn miễn phí. Giải pháp mới cho phép người dùng lưu trữ dữ liệu trò chuyện độc lập mà không cần phụ thuộc vào dung lượng Google Drive.",
+      "title_vi": "Apple công bố thay đổi giá trên App Store tại nhiều quốc gia",
+      "summary_vi": "Apple thông báo điều chỉnh giá ứng dụng và mua hàng trong ứng dụng trên App Store tại 5 quốc gia, có hiệu lực từ ngày 3 tháng 12, do thay đổi thuế và tỷ giá hối đoái.",
       "hot_level": 3,
-      "hot_reason": "Thay đổi lớn về cơ chế sao lưu dữ liệu của ứng dụng nhắn tin có hàng tỷ người dùng trên toàn cầu.",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/11/17/whatsapp-cloud-backups-free-beta/",
-      "source_title": "WhatsApp starts rolling out built-in cloud backup on Android, and it’s free",
+      "hot_reason": "Thay đổi chính sách giá của Apple ảnh hưởng trực tiếp đến người dùng và nhà phát triển trên App Store toàn cầu.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/17/apple-announces-app-store-price-changes-in-multiple-countries-new-california-tax-rules/",
+      "source_title": "Apple announces App Store price changes in multiple countries, new California tax rules",
       "related_urls": [
-        "https://www.gsmarena.com/whatsapp_encrypted_cloud_storage_backup_android_beta-news-75501.php"
+        "https://www.gsmarena.com/apple_reveals_its_2026_app_store_award_finalists-news-75529.php",
+        "https://www.macrumors.com/2026/11/18/2026-app-store-award-finalists/",
+        "https://9to5mac.com/2026/11/18/apple-announces-2026-app-store-award-finalists/",
+        "https://9to5mac.com/2026/11/17/apple-store-app-now-optimized-for-iphone-duo/"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
-          "GSMArena"
+          "9to5Mac",
+          "GSMArena",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Rò rỉ thông tin về thời điểm ra mắt và màn hình iPhone 18, iPhone Air 2",
+      "summary_vi": "Một báo cáo mới tiết lộ Apple sẽ ra mắt iPhone 18 và iPhone Air 2 vào mùa xuân tới, trong đó iPhone Air 2 vẫn giữ nguyên thông số màn hình của phiên bản tiền nhiệm.",
+      "hot_level": 3,
+      "hot_reason": "Thông tin rò rỉ về các mẫu iPhone thế hệ tiếp theo, luôn là chủ đề được độc giả quan tâm.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/18/iphone-18-iphone-air-2-get-new-release-timing-updates/",
+      "source_title": "iPhone 18, iPhone Air 2 get new release timing updates",
+      "related_urls": [
+        "https://www.macrumors.com/2026/11/18/iphone-air-2-reportedly-sticks-with-same-display/",
+        "https://www.macrumors.com/2026/11/18/iphone-18-iphone-air-2-display-production-begins/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -206,41 +218,21 @@
       }
     },
     {
-      "rank": 9,
-      "title_vi": "Google tăng thời gian lưu trữ hội thoại Gemini lên 2 tháng dù đã tắt lịch sử",
-      "summary_vi": "Google thay đổi chính sách lưu giữ dữ liệu khi quyết định kéo dài thời gian lưu trữ các cuộc trò chuyện trên Gemini lên tới 2 tháng thay vì 72 giờ như trước. Quy định mới áp dụng trên toàn cầu ngay cả khi người dùng chủ động tắt tính năng lưu lịch sử trò chuyện.",
-      "hot_level": 3,
-      "hot_reason": "Chính sách quản lý dữ liệu cá nhân của các chatbot AI lớn luôn là vấn đề nhạy cảm về quyền riêng tư.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-      "source_title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "TechCrunch"
-        ],
-        "techmeme": true,
-        "hn_points": 0,
-        "trends": [],
-        "score": 4.0
-      }
-    },
-    {
       "rank": 10,
-      "title_vi": "Apple mở bán linh kiện và công cụ tự sửa chữa cho iPhone Duo",
-      "summary_vi": "Apple bắt đầu cung cấp các linh kiện thay thế chính hãng và công cụ chuyên dụng cho thiết bị màn hình gập iPhone Duo trên cửa hàng Self Service Repair. Khách hàng có chuyên môn kỹ thuật có thể mua linh kiện để tự sửa máy theo tài liệu hướng dẫn chính thức.",
+      "title_vi": "Google Wallet có thể sớm lưu trữ thẻ An sinh xã hội kỹ thuật số",
+      "summary_vi": "Google Wallet đang chuẩn bị hỗ trợ lưu trữ thẻ An sinh xã hội (Social Security card) kỹ thuật số, hiển thị thông tin hưởng lợi và số SSN được che một phần.",
       "hot_level": 3,
-      "hot_reason": "Động thái mở bán linh kiện sửa chữa cho chiếc điện thoại gập đầu tiên của Apple thu hút sự chú ý của giới phần cứng.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/17/apple-now-sells-iphone-duo-repair-parts/",
-      "source_title": "Apple Now Sells DIY Repair Parts for iPhone Duo",
+      "hot_reason": "Mở rộng khả năng của Google Wallet với tính năng lưu trữ giấy tờ tùy thân quan trọng, hướng tới thay thế ví vật lý.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/google-wallet-social-security-number-credential-apk-teardown-3736528/",
+      "source_title": "Google Wallet is preparing digital Social Security cards that show your benefits",
       "related_urls": [
-        "https://9to5mac.com/2026/11/17/apple-now-selling-iphone-duo-replacement-parts-and-tools/"
+        "https://9to5google.com/2026/11/18/google-wallet-may-soon-be-able-to-store-your-social-security-card/"
       ],
       "signals": {
         "outlets": [
-          "9to5Mac",
-          "MacRumors"
+          "9to5Google",
+          "Android Authority"
         ],
         "techmeme": false,
         "hn_points": 0,
