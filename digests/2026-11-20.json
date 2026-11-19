@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T04:54:03.151242+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Google cập nhật Gemini trên Mac để điều khiển trực tiếp các ứng dụng",
+      "summary_vi": "Google vừa mở rộng năng lực của Gemini trên máy Mac, cho phép AI sử dụng các tệp, trang web và ứng dụng trên máy để tự động xử lý tác vụ ngầm trong khi người dùng làm việc khác.",
+      "hot_level": 5,
+      "hot_reason": "Có 6 trang công nghệ hàng đầu cùng đưa tin về tính năng AI can thiệp trực tiếp vào máy tính Mac.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/",
+      "source_title": "Google's Gemini Can Now Control Apps on Your Mac",
+      "related_urls": [
+        "https://www.androidauthority.com/gemini-mac-computer-use-3737396/",
+        "https://9to5google.com/2026/11/19/gemini-mac-computer-use/",
+        "https://9to5google.com/2026/11/19/gemini-mac-computer-use/",
+        "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "9to5Mac",
+          "Android Authority",
+          "MacRumors",
+          "TechCrunch",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 11.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Anthropic chính thức chào sàn Nasdaq với mức định giá vượt kỳ vọng",
+      "summary_vi": "Cổ phiếu Anthropic đạt mốc 111 USD khi bắt đầu giao dịch trên sàn Nasdaq, cao hơn 33% so với mức giá IPO 83 USD và huy động được hơn 80 tỷ USD vốn mới.",
+      "hot_level": 4,
+      "hot_reason": "Sự kiện IPO chấn động giới AI toàn cầu và đang thịnh hành trên Google Trends Việt Nam.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "source_title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 676,
+        "trends": [
+          "anthropic (VN, ~500 lượt tìm)"
+        ],
+        "score": 7.7
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Lỗ hổng Java nghiêm trọng đe dọa hàng triệu hệ thống bị thực thi mã từ xa",
+      "summary_vi": "Một lỗi tối ưu hóa trong phần mềm Java phổ biến khiến hàng triệu dịch vụ, thiết bị và website đối mặt nguy cơ bị tấn công thực thi mã từ xa chỉ bằng chuỗi ký tự lặp lại.",
+      "hot_level": 4,
+      "hot_reason": "Lỗ hổng bảo mật diện rộng cực kỳ nguy hiểm, thu hút gần 1.500 điểm trên Hacker News.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/critical-java-vulnerability-puts-millions-of-sites-services-and-devices-at-risk-of-remote-code-execution-triggers-with-64-as-and-an-sign-openjdk-optimization-bug-lets-an-attacker-trigger-it-just-by-inputting-repeated-text",
+      "source_title": "Critical Java vulnerability puts millions of sites, services, and devices at risk of remote code execution",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 1480,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Tòa án Anh buộc chính phủ công khai lệnh yêu cầu Apple mở 'cửa hậu'",
+      "summary_vi": "Tòa án tại Anh đã bác bỏ yêu cầu giữ bí mật của Bộ Nội vụ và buộc phải công khai lệnh từng yêu cầu Apple can thiệp để truy cập dữ liệu người dùng được mã hóa.",
+      "hot_level": 4,
+      "hot_reason": "Cuộc chiến pháp lý lớn liên quan đến bảo mật và quyền riêng tư của Apple được cộng đồng chú ý mạnh.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+      "source_title": "UK government forced to disclose secret Apple backdoor order",
+      "related_urls": [
+        "https://www.macrumors.com/2026/11/19/uk-loses-secrecy-fight-over-apple-backdoor-order/"
+      ],
+      "signals": {
+        "outlets": [
+          "MacRumors",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 385,
+        "trends": [],
+        "score": 6.85
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Apple có thể hủy bỏ kế hoạch ra mắt iMac màn hình OLED",
+      "summary_vi": "Báo cáo chuỗi cung ứng cho biết Apple đang cân nhắc hoãn hoặc hủy bỏ dòng iMac dùng tấm nền OLED do chi phí sản xuất màn hình quá đắt đỏ kèm nhu cầu thị trường không đạt kỳ vọng.",
+      "hot_level": 3,
+      "hot_reason": "Thông tin rò rỉ quan trọng về kế hoạch phần cứng Mac của Apple được nhiều nguồn xác nhận.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/19/apple-may-cancel-oled-imac/",
+      "source_title": "Apple May Cancel OLED iMac",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/19/oled-imac-plans-may-be-cancelled-by-apple-for-two-reasons/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Tin đồn iPhone 20 Pro sẽ mang khung viền titan trở lại",
+      "summary_vi": "Sau khi đổi sang dùng khung nhôm trên thế hệ tiền nhiệm, nguồn tin rò rỉ cho biết Apple có thể sẽ đưa chất liệu titan quay lại trên các mẫu iPhone Pro kỷ niệm 20 năm.",
+      "hot_level": 3,
+      "hot_reason": "Thông tin thiết kế thế hệ iPhone tương lai luôn thu hút sự quan tâm lớn của độc giả Việt Nam.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/iphone_20_pro_may_bring_back_titanium-news-75535.php",
+      "source_title": "iPhone 20 Pro may bring back titanium",
+      "related_urls": [
+        "https://www.neowin.net/news/apple-might-bring-back-titanium-frames-for-iphone-20-pro-leaker-claims/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "GSMArena",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 2.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Meta bán và cho thuê hơn 150 bộ phim 3D trên kính thực tế ảo Quest",
+      "summary_vi": "Người dùng kính thực tế ảo Meta Quest 3 và Quest 3S hiện đã có thể mua hoặc thuê hơn 150 bộ phim 3D thông qua ứng dụng TV để trải nghiệm không gian điện ảnh tại gia.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng giải trí mới hấp dẫn cho hệ sinh thái kính thực tế ảo phổ biến nhất hiện nay.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+      "source_title": "Meta now sells 3D movies on Quest VR headsets",
+      "related_urls": [
+        "https://www.engadget.com/2322428/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Thiết bị trợ lý AI Meta Muse Charm lộ giá bán dự kiến 300 USD",
+      "summary_vi": "Thiết bị phần cứng chuyên dụng có màn hình tích hợp trợ lý Muse AI do Mark Zuckerberg giới thiệu dự kiến sẽ được bán ra với mức giá 300 USD.",
+      "hot_level": 3,
+      "hot_reason": "Sản phẩm phần cứng AI tiêu dùng mới của Meta thu hút sự chú ý của giới công nghệ.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "source_title": "Meta’s Muse Charm might cost $300",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "The Verge"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Google đưa thẳng thanh trò chuyện AI lên giao diện trang chủ tìm kiếm",
+      "summary_vi": "Google vừa cập nhật trang chủ tìm kiếm với thanh bên có thể thu gọn, giúp người dùng dễ dàng theo dõi và tiếp tục các đoạn hội thoại AI trực tiếp ngay tại trang web chính.",
+      "hot_level": 3,
+      "hot_reason": "Thay đổi giao diện và thói quen sử dụng trên công cụ tìm kiếm phổ biến nhất tại Việt Nam.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "source_title": "Google is putting AI chats right on the homepage",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Google áp dụng quy định xác thực nhà phát triển khi cài ứng dụng ngoài trên toàn cầu",
+      "summary_vi": "Kể từ tháng 1 năm sau, Google sẽ triển khai trên toàn cầu chính sách yêu cầu xác thực bắt buộc đối với nhà phát triển nếu muốn phân phối tệp cài đặt ngoài trên Android.",
+      "hot_level": 3,
+      "hot_reason": "Thay đổi lớn tác động trực tiếp đến quyền tự do cài đặt file APK của đông đảo người dùng Android.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/android-sideloading-rules-developer-verification-global-3737188/",
+      "source_title": "Android’s controversial sideloading rules go global in January",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    }
+  ]
+}
