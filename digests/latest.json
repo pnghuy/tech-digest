@@ -1,113 +1,68 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T04:54:03.151242+07:00",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T04:53:57.649807+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Google cập nhật Gemini trên Mac để điều khiển trực tiếp các ứng dụng",
-      "summary_vi": "Google vừa mở rộng năng lực của Gemini trên máy Mac, cho phép AI sử dụng các tệp, trang web và ứng dụng trên máy để tự động xử lý tác vụ ngầm trong khi người dùng làm việc khác.",
+      "title_vi": "Signal chặn chụp ảnh màn hình mặc định để ngăn chặn AI",
+      "summary_vi": "Ứng dụng nhắn tin bảo mật Signal tự động chặn chụp ảnh màn hình để bảo vệ quyền riêng tư người dùng khỏi các tác nhân AI như Siri và Gemini.",
       "hot_level": 5,
-      "hot_reason": "Có 6 trang công nghệ hàng đầu cùng đưa tin về tính năng AI can thiệp trực tiếp vào máy tính Mac.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/",
-      "source_title": "Google's Gemini Can Now Control Apps on Your Mac",
+      "hot_reason": "Tính năng bảo mật mới của một ứng dụng nhắn tin phổ biến, trực tiếp chống lại AI, thu hút sự quan tâm lớn về quyền riêng tư công nghệ.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/",
+      "source_title": "Signal now blocks screenshots by default to stymie AI agents",
       "related_urls": [
-        "https://www.androidauthority.com/gemini-mac-computer-use-3737396/",
-        "https://9to5google.com/2026/11/19/gemini-mac-computer-use/",
-        "https://9to5google.com/2026/11/19/gemini-mac-computer-use/",
-        "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+        "https://9to5mac.com/2026/11/20/signal-now-blocks-screenshots-on-iphone-to-stop-siri-ai-from-seeing-chats/",
+        "https://www.androidauthority.com/signal-blocks-gemini-siri-ai-private-messages-3737647/"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
           "9to5Mac",
           "Android Authority",
-          "MacRumors",
-          "TechCrunch",
-          "The Verge"
+          "Engadget"
         ],
         "techmeme": false,
         "hn_points": 0,
-        "trends": [],
-        "score": 11.0
-      }
-    },
-    {
-      "rank": 2,
-      "title_vi": "Anthropic chính thức chào sàn Nasdaq với mức định giá vượt kỳ vọng",
-      "summary_vi": "Cổ phiếu Anthropic đạt mốc 111 USD khi bắt đầu giao dịch trên sàn Nasdaq, cao hơn 33% so với mức giá IPO 83 USD và huy động được hơn 80 tỷ USD vốn mới.",
-      "hot_level": 4,
-      "hot_reason": "Sự kiện IPO chấn động giới AI toàn cầu và đang thịnh hành trên Google Trends Việt Nam.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "source_title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "TechCrunch"
-        ],
-        "techmeme": false,
-        "hn_points": 676,
-        "trends": [
-          "anthropic (VN, ~500 lượt tìm)"
-        ],
-        "score": 7.7
-      }
-    },
-    {
-      "rank": 3,
-      "title_vi": "Lỗ hổng Java nghiêm trọng đe dọa hàng triệu hệ thống bị thực thi mã từ xa",
-      "summary_vi": "Một lỗi tối ưu hóa trong phần mềm Java phổ biến khiến hàng triệu dịch vụ, thiết bị và website đối mặt nguy cơ bị tấn công thực thi mã từ xa chỉ bằng chuỗi ký tự lặp lại.",
-      "hot_level": 4,
-      "hot_reason": "Lỗ hổng bảo mật diện rộng cực kỳ nguy hiểm, thu hút gần 1.500 điểm trên Hacker News.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/critical-java-vulnerability-puts-millions-of-sites-services-and-devices-at-risk-of-remote-code-execution-triggers-with-64-as-and-an-sign-openjdk-optimization-bug-lets-an-attacker-trigger-it-just-by-inputting-repeated-text",
-      "source_title": "Critical Java vulnerability puts millions of sites, services, and devices at risk of remote code execution",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "Tom's Hardware"
-        ],
-        "techmeme": false,
-        "hn_points": 1480,
         "trends": [],
         "score": 5.0
       }
     },
     {
-      "rank": 4,
-      "title_vi": "Tòa án Anh buộc chính phủ công khai lệnh yêu cầu Apple mở 'cửa hậu'",
-      "summary_vi": "Tòa án tại Anh đã bác bỏ yêu cầu giữ bí mật của Bộ Nội vụ và buộc phải công khai lệnh từng yêu cầu Apple can thiệp để truy cập dữ liệu người dùng được mã hóa.",
-      "hot_level": 4,
-      "hot_reason": "Cuộc chiến pháp lý lớn liên quan đến bảo mật và quyền riêng tư của Apple được cộng đồng chú ý mạnh.",
+      "rank": 2,
+      "title_vi": "Apple đang phát triển tác nhân AI có khả năng lập trình và sử dụng ứng dụng",
+      "summary_vi": "Apple được cho là đang phát triển một tác nhân AI có thể thực hiện nhiều tác vụ trên máy tính Mac của người dùng, bao gồm lập trình, sử dụng ứng dụng và duyệt web.",
+      "hot_level": 5,
+      "hot_reason": "Tin tức lớn về tham vọng AI của Apple, một thương hiệu hàng đầu tại Việt Nam, cạnh tranh trực tiếp với các mô hình AI tiên tiến khác.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
-      "source_title": "UK government forced to disclose secret Apple backdoor order",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source_title": "Apple may be developing its own AI agent that runs your Mac",
       "related_urls": [
-        "https://www.macrumors.com/2026/11/19/uk-loses-secrecy-fight-over-apple-backdoor-order/"
+        "https://www.gsmarena.com/apple_reportedly_developing_an_ai_agent_that_can_code_and_use_apps-news-75557.php",
+        "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/"
       ],
       "signals": {
         "outlets": [
+          "GSMArena",
           "MacRumors",
           "TechCrunch"
         ],
         "techmeme": false,
-        "hn_points": 385,
+        "hn_points": 0,
         "trends": [],
-        "score": 6.85
+        "score": 5.0
       }
     },
     {
-      "rank": 5,
-      "title_vi": "Apple có thể hủy bỏ kế hoạch ra mắt iMac màn hình OLED",
-      "summary_vi": "Báo cáo chuỗi cung ứng cho biết Apple đang cân nhắc hoãn hoặc hủy bỏ dòng iMac dùng tấm nền OLED do chi phí sản xuất màn hình quá đắt đỏ kèm nhu cầu thị trường không đạt kỳ vọng.",
-      "hot_level": 3,
-      "hot_reason": "Thông tin rò rỉ quan trọng về kế hoạch phần cứng Mac của Apple được nhiều nguồn xác nhận.",
+      "rank": 3,
+      "title_vi": "Lộ diện mô hình thử nghiệm iPhone Air 2 và iPhone 18",
+      "summary_vi": "Những hình ảnh mô hình thử nghiệm mới đã tiết lộ thiết kế được cho là của iPhone Air 2 và iPhone 18, cho thấy iPhone Air 2 có cụm camera kép mới.",
+      "hot_level": 5,
+      "hot_reason": "Thông tin rò rỉ về thiết kế iPhone luôn tạo ra làn sóng chú ý lớn, đặc biệt khi liên quan đến các mẫu iPhone mới của Apple.",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/19/apple-may-cancel-oled-imac/",
-      "source_title": "Apple May Cancel OLED iMac",
+      "url": "https://www.macrumors.com/2026/11/20/iphone-air-2-and-iphone-18-dummy-models/",
+      "source_title": "First Look at iPhone Air 2 and iPhone 18 Revealed By Dummy Models",
       "related_urls": [
-        "https://9to5mac.com/2026/11/19/oled-imac-plans-may-be-cancelled-by-apple-for-two-reasons/"
+        "https://9to5mac.com/2026/11/20/iphone-air-2-dual-camera-system/"
       ],
       "signals": {
         "outlets": [
@@ -121,44 +76,92 @@
       }
     },
     {
-      "rank": 6,
-      "title_vi": "Tin đồn iPhone 20 Pro sẽ mang khung viền titan trở lại",
-      "summary_vi": "Sau khi đổi sang dùng khung nhôm trên thế hệ tiền nhiệm, nguồn tin rò rỉ cho biết Apple có thể sẽ đưa chất liệu titan quay lại trên các mẫu iPhone Pro kỷ niệm 20 năm.",
-      "hot_level": 3,
-      "hot_reason": "Thông tin thiết kế thế hệ iPhone tương lai luôn thu hút sự quan tâm lớn của độc giả Việt Nam.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/iphone_20_pro_may_bring_back_titanium-news-75535.php",
-      "source_title": "iPhone 20 Pro may bring back titanium",
+      "rank": 4,
+      "title_vi": "WhatsApp tăng giới hạn thành viên nhóm chat lên 1.500 người",
+      "summary_vi": "WhatsApp hiện cho phép các nhóm chat có tới 1.500 thành viên trên iPhone và Android, tăng từ giới hạn trước đó là 1.024 người.",
+      "hot_level": 4,
+      "hot_reason": "WhatsApp là ứng dụng nhắn tin cực kỳ phổ biến tại Việt Nam, việc tăng giới hạn thành viên nhóm chat ảnh hưởng trực tiếp đến trải nghiệm của đông đảo người dùng.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2322717/whatsapps-group-chats-can-now-have-up-to-1500-members/",
+      "source_title": "WhatsApp's group chats can now have up to 1,500 members",
       "related_urls": [
-        "https://www.neowin.net/news/apple-might-bring-back-titanium-frames-for-iphone-20-pro-leaker-claims/?utm_source=rss"
+        "https://www.macrumors.com/2026/11/20/whatsapp-raises-group-chat-limit-to-1500-members/",
+        "https://9to5mac.com/2026/11/19/whatsapp-is-raising-group-chat-limit-to-1500-participants/"
       ],
       "signals": {
         "outlets": [
-          "GSMArena",
+          "9to5Mac",
+          "Engadget",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Ứng dụng ChatGPT trên di động được thiết kế lại, thêm tab Dots",
+      "summary_vi": "OpenAI đang làm mới giao diện ứng dụng ChatGPT trên di động để người dùng truy cập nhanh hơn vào các tính năng thường dùng, bao gồm một tab Dots chuyên dụng mới.",
+      "hot_level": 4,
+      "hot_reason": "ChatGPT và OpenAI là những cái tên nóng nhất trong lĩnh vực AI, mọi thay đổi về giao diện hay tính năng đều được cộng đồng công nghệ quan tâm.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/openai-is-giving-the-chatgpt-mobile-app-a-major-redesign/?utm_source=rss",
+      "source_title": "OpenAI is giving the ChatGPT mobile app a major redesign",
+      "related_urls": [
+        "https://www.androidauthority.com/chatgpt-app-redesign-rollout-3737931/"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
           "Neowin"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 2.0
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Google ngừng ứng dụng Nest và Google Assistant trên loa thông minh vào năm 2027",
+      "summary_vi": "Google sẽ chính thức loại bỏ ứng dụng Nest và Google Assistant trên các loa và màn hình thông minh vào năm 2027, thay thế hoàn toàn bằng Google Home.",
+      "hot_level": 4,
+      "hot_reason": "Thông báo về việc ngừng hỗ trợ các sản phẩm và dịch vụ cốt lõi của Google luôn gây chú ý, ảnh hưởng đến người dùng nhà thông minh.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/20/nest-app-google-assistant/",
+      "source_title": "Google retiring Nest app and Google Assistant on speakers, displays in 2027",
+      "related_urls": [
+        "https://www.androidauthority.com/nest-app-deadline-3737880/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
       }
     },
     {
       "rank": 7,
-      "title_vi": "Meta bán và cho thuê hơn 150 bộ phim 3D trên kính thực tế ảo Quest",
-      "summary_vi": "Người dùng kính thực tế ảo Meta Quest 3 và Quest 3S hiện đã có thể mua hoặc thuê hơn 150 bộ phim 3D thông qua ứng dụng TV để trải nghiệm không gian điện ảnh tại gia.",
-      "hot_level": 3,
-      "hot_reason": "Tính năng giải trí mới hấp dẫn cho hệ sinh thái kính thực tế ảo phổ biến nhất hiện nay.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-      "source_title": "Meta now sells 3D movies on Quest VR headsets",
+      "title_vi": "Điện thoại Samsung Galaxy dòng A dự kiến tăng giá 19%",
+      "summary_vi": "Theo báo cáo, chi phí bộ nhớ tăng cao sẽ khiến các thiết bị Galaxy dòng A tầm trung của Samsung trở nên đắt đỏ hơn vào năm tới, có thể tăng tới 19%.",
+      "hot_level": 4,
+      "hot_reason": "Samsung là thương hiệu điện thoại hàng đầu tại Việt Nam, thông tin về việc tăng giá của dòng sản phẩm phổ biến như Galaxy A có tác động lớn đến người tiêu dùng.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/20/samsungs-value-galaxy-devices-to-get-more-expensive/",
+      "source_title": "Expect Samsung’s good-value Galaxy devices to get more expensive, report says",
       "related_urls": [
-        "https://www.engadget.com/2322428/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app/"
+        "https://www.gsmarena.com/samsungs_mobile_repair_vans_have_fixed_over_50000_galaxy_devices_in_europe-news-75550.php"
       ],
       "signals": {
         "outlets": [
-          "Engadget",
-          "The Verge"
+          "9to5Google",
+          "GSMArena"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -168,62 +171,71 @@
     },
     {
       "rank": 8,
-      "title_vi": "Thiết bị trợ lý AI Meta Muse Charm lộ giá bán dự kiến 300 USD",
-      "summary_vi": "Thiết bị phần cứng chuyên dụng có màn hình tích hợp trợ lý Muse AI do Mark Zuckerberg giới thiệu dự kiến sẽ được bán ra với mức giá 300 USD.",
-      "hot_level": 3,
-      "hot_reason": "Sản phẩm phần cứng AI tiêu dùng mới của Meta thu hút sự chú ý của giới công nghệ.",
+      "title_vi": "Nhà toán học của Anthropic tuyên bố giải quyết giả thuyết Riemann với Claude",
+      "summary_vi": "Một nhà toán học tại Anthropic tuyên bố đã chứng minh giả thuyết Riemann, một trong những bài toán toán học khó nhất thế giới, với sự trợ giúp của AI Claude.",
+      "hot_level": 4,
+      "hot_reason": "Một bước đột phá lớn của AI trong việc giải quyết các vấn đề khoa học phức tạp, cho thấy khả năng ngày càng tăng của các mô hình ngôn ngữ lớn.",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "source_title": "Meta’s Muse Charm might cost $300",
-      "related_urls": [],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source_title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "related_urls": [
+        "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed"
+      ],
       "signals": {
         "outlets": [
-          "The Verge"
+          "The Verge",
+          "Tom's Hardware"
         ],
-        "techmeme": true,
+        "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 4.0
+        "score": 3.0
       }
     },
     {
       "rank": 9,
-      "title_vi": "Google đưa thẳng thanh trò chuyện AI lên giao diện trang chủ tìm kiếm",
-      "summary_vi": "Google vừa cập nhật trang chủ tìm kiếm với thanh bên có thể thu gọn, giúp người dùng dễ dàng theo dõi và tiếp tục các đoạn hội thoại AI trực tiếp ngay tại trang web chính.",
-      "hot_level": 3,
-      "hot_reason": "Thay đổi giao diện và thói quen sử dụng trên công cụ tìm kiếm phổ biến nhất tại Việt Nam.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "source_title": "Google is putting AI chats right on the homepage",
-      "related_urls": [],
+      "title_vi": "Google tăng cường khả năng của Gemini trong ứng dụng Mac để thực hiện tác vụ lặp",
+      "summary_vi": "Ứng dụng Gemini của Google trên Mac giờ đây có thể sử dụng máy tính của bạn để liệt kê các mục trên eBay, tăng tốc các tác vụ sáng tạo và điền biểu mẫu.",
+      "hot_level": 4,
+      "hot_reason": "Sự cải tiến mạnh mẽ khả năng tự động hóa và hỗ trợ năng suất của AI trên nền tảng Mac, một tin tức quan trọng đối với người dùng công nghệ.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2322728/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/",
+      "source_title": "Google boosts Gemini's ability to do 'repetitive tasks' on its Mac app",
+      "related_urls": [
+        "https://www.neowin.net/news/gemini-app-for-mac-can-now-handle-your-repetitive-multi-step-tasks/?utm_source=rss"
+      ],
       "signals": {
         "outlets": [
-          "The Verge"
+          "Engadget",
+          "Neowin"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 1.0
+        "score": 3.0
       }
     },
     {
       "rank": 10,
-      "title_vi": "Google áp dụng quy định xác thực nhà phát triển khi cài ứng dụng ngoài trên toàn cầu",
-      "summary_vi": "Kể từ tháng 1 năm sau, Google sẽ triển khai trên toàn cầu chính sách yêu cầu xác thực bắt buộc đối với nhà phát triển nếu muốn phân phối tệp cài đặt ngoài trên Android.",
-      "hot_level": 3,
-      "hot_reason": "Thay đổi lớn tác động trực tiếp đến quyền tự do cài đặt file APK của đông đảo người dùng Android.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/android-sideloading-rules-developer-verification-global-3737188/",
-      "source_title": "Android’s controversial sideloading rules go global in January",
-      "related_urls": [],
+      "title_vi": "Mô hình AI của OpenAI giúp AMD cải thiện thiết kế GPU hàng đầu tới 14% PPA",
+      "summary_vi": "Các mô hình AI của OpenAI đang giúp AMD thiết kế chip hiệu quả hơn, với việc cải thiện tới 14% về điện năng, hiệu suất và diện tích (PPA) trên các thiết kế GPU hàng đầu của hãng.",
+      "hot_level": 4,
+      "hot_reason": "AI trực tiếp ảnh hưởng đến thiết kế phần cứng, đặc biệt là chip GPU/CPU, là một xu hướng công nghệ lớn, cho thấy sự tích hợp sâu rộng của AI vào sản xuất.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-helped-amd-improve-its-upcoming-flagship-gpu-design-by-14-percent-ppa-gpt-models-also-helping-lisa-sus-outfit-boost-its-new-cpus",
+      "source_title": "OpenAI's AI models boost AMD's upcoming flagship GPU design by up to 14% in PPA",
+      "related_urls": [
+        "https://wccftech.com/openai-models-deliver-up-to-14-ppa-gains-on-amd-flagship-gpu-designs-with-some-changes-already-sent-to-manufacturing/"
+      ],
       "signals": {
         "outlets": [
-          "Android Authority"
+          "Tom's Hardware",
+          "Wccftech"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 1.0
+        "score": 3.0
       }
     }
   ]
