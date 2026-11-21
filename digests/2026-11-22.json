@@ -1,0 +1,211 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T04:53:50.167593+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "SEC điều tra Nvidia về các vấn đề kế toán sau khi CEO Jensen Huang từ chức",
+      "summary_vi": "Ủy ban Chứng khoán và Giao dịch Mỹ (SEC) đang tiến hành điều tra các quy trình kế toán tại Nvidia theo các nguồn tin từ Reuters. Động thái này diễn ra ngay sau sự việc cựu CEO Jensen Huang bất ngờ từ chức gây chấn động giới công nghệ.",
+      "hot_level": 5,
+      "hot_reason": "Sự cố pháp lý nghiêm trọng tại hãng chip lớn nhất thế giới thu hút sự chú ý cực lớn của giới công nghệ toàn cầu",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-being-investigated-by-the-sec-for-accounting-issues-says-report/",
+      "source_title": "NVIDIA Being Investigated By The SEC For Accounting Issues, Says Report",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 300,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Tổng Chưởng lý California gửi trát triệu tập Nvidia vì lo ngại mối quan hệ với Trung Quốc",
+      "summary_vi": "Tổng Chưởng lý California Rob Bonta đã gửi trát triệu tập Nvidia do lo ngại công ty và cựu CEO Jensen Huang có dấu hiệu lừa dối nhà đầu tư. Cơ quan chức năng đang đặt nghi vấn lớn về các mối liên hệ giữa cựu lãnh đạo hãng chip này với phía Trung Quốc.",
+      "hot_level": 4,
+      "hot_reason": "Diễn biến nóng liên quan đến rắc rối điều tra chuỗi cung ứng và chính trị quốc tế của Nvidia",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "source_title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "TechCrunch"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Microsoft chuẩn bị khai tử ứng dụng To Do",
+      "summary_vi": "Microsoft vừa thông báo sẽ sớm đóng cửa ứng dụng ghi chú công việc To Do trong thời gian tới. Quyết định này chính thức chấm dứt di sản của ứng dụng Wunderlist trước đây mà không hề có phần mềm thực sự thay thế.",
+      "hot_level": 4,
+      "hot_reason": "Ứng dụng phổ biến nhiều người dùng tại Việt Nam bị khai tử và đang lọt top Google Trends VN",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/20/microsoft-to-do-shut-down-wunderlist/",
+      "source_title": "Microsoft is shutting down the ‘To Do’ app that replaced Wunderlist, with no real replacement",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Google"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [
+          "real (VN, ~500 lượt tìm)"
+        ],
+        "score": 2.7
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Motorola công bố danh sách smartphone được nâng cấp Android 17",
+      "summary_vi": "Motorola vừa phát hành danh sách mới các thiết bị đủ điều kiện cập nhật lên hệ điều hành Android 17. Động thái này nhằm hoàn thiện danh sách chính thức sau khi bản công bố trước đó của hãng bị gỡ bỏ vì thiếu sót.",
+      "hot_level": 4,
+      "hot_reason": "Thông tin nâng cấp hệ điều hành Android phiên bản mới cho danh sách smartphone luôn được người dùng quan tâm",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/motorola_smartphone_android_17_update_list-news-75558.php",
+      "source_title": "Motorola shares a new list of smartphones eligible for Android 17 update",
+      "related_urls": [
+        "https://9to5google.com/2026/11/20/motorola-confirms-list-of-devices-getting-android-17-updates/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 2.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Samsung thử nghiệm giao diện thông báo giống Dynamic Island trên One UI 9.5",
+      "summary_vi": "Samsung đang phát triển thay đổi giao diện Live Notifications trên bản cập nhật One UI 9.5 để mang lại trải nghiệm tương tự Dynamic Island của Apple. Thay vì dạng viên thuốc nhỏ trên thanh trạng thái, tính năng này sẽ có thiết kế trực quan và sinh động hơn.",
+      "hot_level": 4,
+      "hot_reason": "Giao diện One UI của Samsung rất phổ biến tại Việt Nam và tính năng tương tự Dynamic Island gây nhiều tò mò",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/samsung_redesigned_live_notifications_one_ui_9_5-news-75583.php",
+      "source_title": "Samsung testing Apple's Dynamic Island-style Live Notifications in One UI 9.5",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Lộ thông số chip Intel Nova Lake-H 16 nhân dành cho laptop thế hệ mới",
+      "summary_vi": "Bảng thông số rò rỉ của bộ xử lý di động Intel Nova Lake-H tiết lộ vi điều khiển sở hữu 16 nhân cùng xung nhịp Turbo đạt 4,8 GHz. Chip thuộc dòng Core Ultra Series 4 này đi kèm bộ nhớ đệm 18 MB, hỗ trợ RAM DDR5-8000 và có mức TDP chỉ 25W.",
+      "hot_level": 3,
+      "hot_reason": "Rò rỉ thông số kiến trúc chip CPU laptop thế hệ mới của Intel thu hút người yêu phần cứng máy tính",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/intel-core-ultra-4-series-16-core-nova-lake-mobile-processor-specifications-leaked/",
+      "source_title": "Intel’s 16-Core Nova Lake-H Leaked Spec Sheet Lists 4.8 GHz Turbo, 18 MB Cache, DDR5-8000 Memory, And A 25W TDP For Core Ultra Series 4 Laptops",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Cơ sở dữ liệu tội phạm quốc gia của FBI bị tấn công mạng",
+      "summary_vi": "Cục Điều tra Liên bang Mỹ (FBI) đang điều tra một vụ tấn công mạng nhắm vào Trung tâm Thông tin Tội phạm Quốc gia. Vụ việc vi phạm dữ liệu quy mô lớn này cũng đã nhận được sự quan tâm và lên tiếng từ cựu Tổng thống Trump.",
+      "hot_level": 3,
+      "hot_reason": "Sự cố an ninh mạng nghiêm trọng liên quan đến cơ quan điều tra hàng đầu thế giới",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "source_title": "Trump says reported FBI database hack is ‘not good’",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 161,
+        "trends": [],
+        "score": 2.61
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Google Gemini hỗ trợ tạo ảnh GIF bằng AI cho cả tài khoản miễn phí",
+      "summary_vi": "Google vừa triển khai tính năng tạo ảnh động GIF trực tiếp bên trong trợ lý Gemini để tăng sức cạnh tranh với ChatGPT. Điểm đáng chú ý là công cụ này được cung cấp hoàn toàn miễn phí cho mọi đối tượng người dùng.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng AI tạo ảnh động hữu ích trên nền tảng Gemini tiếp cận được đông đảo người dùng phổ thông",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/google-follows-chatgpt-with-ai-generated-gifs-in-gemini-available-even-to-free-users/?utm_source=rss",
+      "source_title": "Google follows ChatGPT with AI-generated GIFs in Gemini, available even to free users",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Hãng bán dẫn Rapidus gặp khó với bộ nhớ SRAM 2nm, nguy cơ trễ hẹn sản xuất",
+      "summary_vi": "Startup bán dẫn Rapidus của Nhật Bản đang gặp nhiều trở ngại trong việc chế tạo bộ nhớ SRAM trên tiến trình 2nm. Dù đã thử nghiệm thành công bóng bán dẫn GAA, khó khăn trong việc tích hợp khiến mục tiêu sản xuất hàng loạt vào năm 2027 đứng trước rủi ro lớn.",
+      "hot_level": 3,
+      "hot_reason": "Cuộc đua tiến trình chip 2nm toàn cầu là đề tài công nghệ phần cứng rất được theo dõi",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors",
+      "source_title": "Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Google làm mới giao diện camera của ứng dụng Gemini trên Android",
+      "summary_vi": "Google vừa cập nhật giao diện chụp ảnh tích hợp ngay trong ứng dụng Gemini dành cho hệ điều hành Android. Thiết kế mới giúp người dùng thao tác đưa ảnh trực tiếp vào câu lệnh nhanh chóng và mượt mà hơn trước.",
+      "hot_level": 3,
+      "hot_reason": "Cập nhật ứng dụng AI phổ biến từ Google trên smartphone Android",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/21/gemini-camera-redesign/",
+      "source_title": "Gemini app rolls out very slick camera redesign on Android",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Google"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    }
+  ]
+}
