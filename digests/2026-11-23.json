@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T04:54:03.609380+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Rò rỉ giao diện màn hình khóa mới cho iPhone Duo với nhiều widget hơn",
+      "summary_vi": "Bản dựng thử nghiệm nội bộ của Apple cho thấy giao diện màn hình khóa của iPhone Duo có thể bổ sung thêm một cột tiện ích dọc độc lập. Thiết kế này giúp tối ưu hóa không gian hiển thị cho thiết bị gập hai màn hình của hãng.",
+      "hot_level": 4,
+      "hot_reason": "Tin rò rỉ về dòng iPhone Duo màn hình gập mới của Apple luôn thu hút lượng độc giả công nghệ Việt Nam rất lớn.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/",
+      "source_title": "iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Driver sửa lỗi 621.35 của Nvidia vẫn chưa khắc phục triệt để tình trạng làm hại SSD",
+      "summary_vi": "Bản driver hotfix GeForce 621.35 mới nhất của Nvidia được phát hiện vẫn ghi dữ liệu quá mức lên ổ SSD ngay cả khi máy tính Windows ở trạng thái nghỉ. Một số người dùng ghi nhận dung lượng ghi tự động lên đến hàng chục GB chỉ sau một đêm.",
+      "hot_level": 4,
+      "hot_reason": "Sự cố driver card đồ họa Nvidia ảnh hưởng trực tiếp đến tuổi thọ phần cứng của đông đảo người dùng PC.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/nvidia-62135-driver-fails-to-fix-ssd-degradation-even-on-an-idle-windows-pc/?utm_source=rss",
+      "source_title": "Nvidia 621.35 driver fails to fix SSD degradation even on an idle Windows PC",
+      "related_urls": [
+        "https://wccftech.com/nvidia-geforce-hotfix-driver-621-35-reportedly-fails-to-fully-fix-excessive-ssd-writes/"
+      ],
+      "signals": {
+        "outlets": [
+          "Neowin",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "Apple dự kiến ra mắt iPhone 18e, iPhone 18 và loạt MacBook mới vào đầu năm tới",
+      "summary_vi": "Theo nhà báo Mark Gurman, Apple đang lên kế hoạch giới thiệu mẫu iPhone 18e, iPhone 18 cùng các dòng MacBook Neo và MacBook Air mới vào khoảng tháng 2 hoặc tháng 3. Bản cập nhật cho dòng iPad tiêu chuẩn cũng nằm trong danh sách ra mắt đợt này.",
+      "hot_level": 4,
+      "hot_reason": "Lộ trình ra mắt các dòng iPhone giá tốt và MacBook thế hệ mới nhận được sự quan tâm đặc biệt từ người tiêu dùng.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/22/new-apple-products-february-or-march/",
+      "source_title": "Apple Reportedly Plans to Release These Products in February or March",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "TSMC dừng cung cấp chip 16nm và 14nm cho các công ty Trung Quốc theo quy định mới từ Mỹ",
+      "summary_vi": "TSMC được cho là đã tạm ngừng giao hàng các dòng chip xử lý sử dụng tiến trình 16nm và 14nm cho các nhà thiết kế Trung Quốc. Động thái này diễn ra sau khi cơ quan quản lý Mỹ thắt chặt quy định giám sát xuất khẩu bán dẫn đối với cả các tiến trình cũ.",
+      "hot_level": 3,
+      "hot_reason": "Căng thẳng bán dẫn và cấm vận công nghệ chip luôn là đề tài vĩ mô nóng được cộng đồng công nghệ theo dõi sát sao.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips",
+      "source_title": "TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Microsoft công bố công nghệ ghép nhiều PC qua cổng USB4 để chạy mô hình AI",
+      "summary_vi": "Tính năng mới trên Windows 11 hỗ trợ RDMA qua giao tiếp USB4 giúp kết nối bộ nhớ và sức mạnh GPU của nhiều máy tính lại với nhau. Giải pháp này giúp giảm độ trễ tới 4 lần khi vận hành các mô hình AI dung lượng lớn ngay tại máy cục bộ.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng mới đột phá của Windows 11 biến dàn PC phổ thông thành cụm xử lý AI nội bộ mạnh mẽ.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/microsoft-unveils-rdma-over-usb4-for-windows-11-combining-multiple-pcs-to-run-massive-ai-models-with-up-to-4x-lower-latency/",
+      "source_title": "Microsoft Unveils RDMA Over USB4 For Windows 11, Combining Multiple PCs To Run Massive AI Models With Up To 4X Lower Latency",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Apple cắt giảm nhân sự mảng Siri cũ nhưng tiếp tục duy trì nhóm phát triển AI mới",
+      "summary_vi": "Đợt cắt giảm nhân sự vừa qua của Apple chủ yếu tác động đến đội ngũ phụ trách hạ tầng Siri đời cũ thay vì các hệ thống AI hiện đại. Dù vậy, Apple vẫn đang đối mặt với nhiều thách thức để bắt kịp các đối thủ trợ lý ảo trên thị trường.",
+      "hot_level": 3,
+      "hot_reason": "Biến động nhân sự và chiến lược trí tuệ nhân tạo của Apple đối với trợ lý Siri được độc giả quan tâm.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/",
+      "source_title": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Elon Musk cho biết máy tính AI4 của Tesla đội giá gấp đôi do chi phí bộ nhớ tăng cao",
+      "summary_vi": "Giám đốc điều hành Tesla chia sẻ rằng chi phí linh kiện của hệ thống máy tính tự hành AI4 trên xe đã tăng gấp đôi. Nguyên nhân chính đến từ sự leo thang giá cả của các loại chip nhớ RAM và bộ nhớ lưu trữ thời gian gần đây.",
+      "hot_level": 3,
+      "hot_reason": "Ảnh hưởng của khủng hoảng giá linh kiện nhớ lên phần cứng tự hành AI của các hãng xe điện lớn.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/elon-musk-says-teslas-ai4-computer-now-costs-twice-as-much-due-to-memory-and-storage-price-hikes/",
+      "source_title": "Elon Musk Blames Memory And Storage Price Hikes For Doubling Tesla’s AI4 Computer Costs, Says It “Costs Twice As Much”",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Lộ diện hình ảnh thực tế và thông số kỹ thuật của vivo S70 Pro",
+      "summary_vi": "Hình ảnh trên tay cùng bảng cấu hình của vivo S70 Pro vừa rò rỉ trên mạng với nhiều cải tiến phần cứng đáng chú ý. Thiết bị này dự kiến sẽ được phân phối ra thị trường quốc tế dưới tên gọi vivo V90 Pro.",
+      "hot_level": 3,
+      "hot_reason": "vivo là thương hiệu smartphone phổ biến tại Việt Nam và dòng V-series luôn có lượng tìm kiếm cao.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/vivo_s70_pro_v90_pro_leaks_with_live_photo_and_basic_specs_sheet-news-75582.php",
+      "source_title": "vivo S70 Pro/V90 Pro leaks with live photo and basic specs sheet",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Bệnh nhân thử nghiệm Neuralink điều khiển tay cầm chơi game GTA 6 bằng sóng não",
+      "summary_vi": "Người tham gia thử nghiệm cấy ghép chip não Neuralink đã có thể điều khiển trực tiếp tựa game phức tạp như GTA 6 mà không cần dùng công cụ phụ trợ. Hệ thống giao diện não bộ đã chuyển đổi các tín hiệu suy nghĩ ngón tay và bàn tay thành thao tác điều khiển tay cầm PS5.",
+      "hot_level": 3,
+      "hot_reason": "Bước tiến công nghệ giao diện não máy tính BCI kết hợp cùng trò chơi bom tấn rất thu hút người đọc.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/neuralink-trial-participant-ditches-mouth-stick-to-play-gta-6-with-his-mind-brain-computer-interface-maps-imagined-ring-finger-taps-and-hand-slides-to-a-playstation-5-controller",
+      "source_title": "Neuralink trial participant ditches mouth stick to play GTA 6 with his mind",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Card đồ họa chơi game Lushan của Moore Threads có thể trang bị bộ nhớ VRAM kỷ lục 64GB",
+      "summary_vi": "Moore Threads vừa hé lộ mẫu GPU chơi game Lushan với thông tin trang bị bộ nhớ VRAM lên tới 64GB, gấp đôi mức dung lượng của RTX 5090. Hãng tuyên bố hiệu năng dựng hình và ray tracing sẽ cải thiện vượt trội so với thế hệ tiền nhiệm.",
+      "hot_level": 3,
+      "hot_reason": "Mức dung lượng VRAM kỷ lục trên card đồ họa phổ thông tạo nhiều sự tò mò trong giới yêu phần cứng PC.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/moore-threads-next-lushan-gaming-gpu-could-pack-a-record-64gb-of-vram-doubles-the-rtx-5090s-32gb-lofty-claims-of-15x-gaming-and-50x-ray-tracing-over-mtt-s80",
+      "source_title": "Moore Threads' next 'Lushan' gaming GPU could pack a record 64GB of VRAM",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    }
+  ]
+}
