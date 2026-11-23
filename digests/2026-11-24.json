@@ -1,0 +1,243 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T04:53:47.432982+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Jensen Huang trở lại vị trí CEO Nvidia giữa làn sóng ủng hộ và tranh cãi",
+      "summary_vi": "Jensen Huang đã được phục chức CEO tại Nvidia và nhận được sự hoan nghênh từ Elon Musk cùng nhân viên công ty sau vụ bê bối. Ông cho biết sẽ là một CEO tốt hơn trong nhiệm kỳ thứ hai.",
+      "hot_level": 5,
+      "hot_reason": "Tin tức cực kỳ nóng về CEO của công ty chip AI hàng đầu thế giới, gây chấn động toàn ngành và thu hút sự chú ý của 10 trang công nghệ lớn cùng bình luận Hacker News cao ngất.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "source_title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "related_urls": [
+        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
+        "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+        "https://wccftech.com/nvidia-employees-give-reinstated-ceo-jensen-a-heros-reception-at-endeavor-hq/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Android Authority",
+          "Ars Technica",
+          "MacRumors",
+          "Neowin",
+          "PCWorld",
+          "TechCrunch",
+          "The Verge",
+          "Tom's Hardware",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 1698,
+        "trends": [],
+        "score": 23.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Jensen Huang sẽ điều trần công khai trước Thượng viện Mỹ vào ngày 3/12",
+      "summary_vi": "Sau khi được phục chức CEO Nvidia, Jensen Huang được lên lịch điều trần công khai trước Thượng viện Mỹ vào ngày 3/12. Buổi điều trần diễn ra theo yêu cầu lưỡng đảng về mối quan hệ của ông với điệp viên Trung Quốc bị tình nghi.",
+      "hot_level": 4,
+      "hot_reason": "Diễn biến tiếp theo rất quan trọng của sự kiện Jensen Huang, cho thấy mức độ nghiêm trọng và ảnh hưởng chính trị của vụ việc.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2325655/nvidia-jensen-huang-will-testify-publlicly-before-senators-on-december-3/",
+      "source_title": "NVIDIA's Jensen Huang will testify publicly before senators on December 3",
+      "related_urls": [
+        "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "TechCrunch"
+        ],
+        "techmeme": true,
+        "hn_points": 1698,
+        "trends": [],
+        "score": 10.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "iPhone 18e lộ thiết kế camera mới, iPhone Air 2 có hai camera",
+      "summary_vi": "Các rò rỉ mới cho thấy iPhone 18e sẽ có cụm camera thiết kế lại, đồng thời xác nhận iPhone Air 2 sẽ được trang bị ống kính camera thứ hai.",
+      "hot_level": 4,
+      "hot_reason": "Thông tin rò rỉ về iPhone luôn thu hút lượng lớn độc giả Việt Nam, đặc biệt là các thay đổi về thiết kế và cấu hình camera.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/",
+      "source_title": "New leaks reveal the iPhone 18e will have a redesigned camera plateau",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Engadget"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Samsung có thể chuyển dòng Galaxy Watch sang chu kỳ ra mắt hai năm một lần",
+      "summary_vi": "Một báo cáo mới từ Hàn Quốc cho biết Samsung có thể bỏ qua việc ra mắt dòng Galaxy Watch mới vào năm tới và chuyển sang chu kỳ hai năm một lần. Điều này do chi phí linh kiện tăng cao và nhu cầu smartwatch giảm.",
+      "hot_level": 3,
+      "hot_reason": "Thay đổi lớn trong chiến lược sản phẩm của Samsung, một thương hiệu rất phổ biến tại Việt Nam, ảnh hưởng trực tiếp đến người dùng smartwatch.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587.php",
+      "source_title": "Samsung may shift Galaxy Watch to a two-year launch cycle",
+      "related_urls": [
+        "https://www.neowin.net/news/samsung-galaxy-watch-10-skipping-2027-release-due-to-rising-costs/?utm_source=rss",
+        "https://9to5google.com/2026/11/23/samsung-galaxy-watch-10-new-schedule-report/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "GSMArena",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Chế độ AI của Google Search tích hợp Drive và Wallet để phản hồi cá nhân hóa hơn",
+      "summary_vi": "Chế độ AI trên Google Search hiện có thể truy cập vào dữ liệu từ Google Drive và Wallet để cung cấp các phản hồi cá nhân hóa hơn cho người dùng. Điều này tận dụng lượng lớn dữ liệu người dùng đã có trong hệ sinh thái của Google.",
+      "hot_level": 3,
+      "hot_reason": "Google tích hợp AI sâu rộng hơn vào các dịch vụ cốt lõi, đặc biệt là Search, ảnh hưởng đến trải nghiệm hàng ngày của hàng tỷ người dùng.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "source_title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "related_urls": [
+        "https://9to5google.com/2026/11/23/ai-mode-wallet-gemini/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "Các bang kiện SpaceX vì Grok AI tạo ra hình ảnh lạm dụng trẻ em và ảnh nhạy cảm trả thù",
+      "summary_vi": "Hai bang của Mỹ đã kiện SpaceX để ngăn Grok tạo ra hình ảnh lạm dụng tình dục trẻ em và ảnh nhạy cảm trả thù. Các tổng chưởng lý cho rằng Grok vẫn đang tạo ra nội dung bất hợp pháp, bất chấp khẳng định của X rằng mọi đầu ra đều được sàng lọc.",
+      "hot_level": 3,
+      "hot_reason": "Vụ kiện liên quan đến đạo đức AI và nội dung nhạy cảm của một sản phẩm từ công ty của Elon Musk, thu hút sự quan tâm lớn từ dư luận và các nhà quản lý.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "source_title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "related_urls": [
+        "https://www.engadget.com/2325111/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes/"
+      ],
+      "signals": {
+        "outlets": [
+          "Ars Technica",
+          "Engadget"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Cựu tổng thống Trump được cho là đã can thiệp vào cuộc họp hội đồng quản trị Nvidia để ủng hộ Jensen Huang trở lại",
+      "summary_vi": "Cựu tổng thống Trump được cho là đã gọi điện vào cuộc họp hội đồng quản trị Nvidia để vận động cho việc Jensen Huang quay trở lại công ty. Ông nói đã \"thuyết phục\" họ và bảo vệ sự trở lại của Huang, viện dẫn tổng chưởng lý Hoa Kỳ rằng không có bằng chứng về hành vi sai trái.",
+      "hot_level": 3,
+      "hot_reason": "Thông tin về sự can thiệp chính trị trực tiếp vào quyết định nhân sự của một tập đoàn công nghệ lớn, thêm kịch tính cho câu chuyện Jensen Huang.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "source_title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "TechCrunch"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 4.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Samsung ra mắt màn hình chơi game Odyssey G6 G60H đầu tiên trên thế giới với tốc độ làm tươi 1100Hz",
+      "summary_vi": "Samsung Odyssey G6 G60H là màn hình chơi game đầu tiên trên thế giới đạt tốc độ làm tươi 1100Hz, mặc dù tốc độ này chỉ đạt được ở chế độ HD. Màn hình này hỗ trợ chế độ kép và công nghệ hiển thị chuyển động mới.",
+      "hot_level": 3,
+      "hot_reason": "Sản phẩm đầu tiên trên thế giới với tốc độ làm tươi siêu cao, là bước đột phá đáng chú ý trong công nghệ màn hình, thu hút game thủ và người đam mê công nghệ.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2325384/samsung-odyssey-g6-g60h-is-the-worlds-first-1100hz-gaming-monitor/",
+      "source_title": "The Samsung Odyssey G6 G60H is the world's first 1,100Hz gaming monitor",
+      "related_urls": [
+        "https://www.neowin.net/news/samsung-launches-insane-odyssey-g6-monitor-with-1100hz-refresh-rate/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Ứng dụng Threads sẽ sớm có phiên bản dành cho iPad",
+      "summary_vi": "Christopher Clare, trưởng bộ phận thiết kế của Threads, thông báo rằng ứng dụng Threads sẽ sớm có hỗ trợ iPad. Điều này có nghĩa là ứng dụng sẽ tận dụng tối đa màn hình lớn của iPad thay vì chạy ở chế độ phóng to.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng được chờ đợi từ lâu cho một nền tảng mạng xã hội lớn, sẽ cải thiện trải nghiệm người dùng đáng kể trên thiết bị iPad.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/23/threads-is-getting-an-ipad-app/",
+      "source_title": "Threads is Getting an iPad App",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/23/threads-app-for-ipad-launching-very-soon/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Nothing Ear (note) là tai nghe có khả năng ghi âm và chuyển đổi giọng nói thành văn bản bằng AI",
+      "summary_vi": "Sản phẩm AI mới của Nothing là Ear (note), một bộ tai nghe cùng hộp sạc tích hợp micro có thể ghi âm và chuyển đổi cuộc trò chuyện thành văn bản. Ứng dụng đi kèm giúp quản lý các bản ghi, bản chép lời và nội dung do AI tạo ra.",
+      "hot_level": 3,
+      "hot_reason": "Sản phẩm phần cứng mới từ thương hiệu Nothing đang lên, tích hợp AI làm trung tâm, thể hiện xu hướng công nghệ mới trong thiết bị đeo.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "source_title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+      "related_urls": [
+        "https://9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "The Verge"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    }
+  ]
+}
