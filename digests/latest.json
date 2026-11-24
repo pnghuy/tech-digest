@@ -1,102 +1,50 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T04:53:47.432982+07:00",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T04:54:23.952480+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Jensen Huang trở lại vị trí CEO Nvidia giữa làn sóng ủng hộ và tranh cãi",
-      "summary_vi": "Jensen Huang đã được phục chức CEO tại Nvidia và nhận được sự hoan nghênh từ Elon Musk cùng nhân viên công ty sau vụ bê bối. Ông cho biết sẽ là một CEO tốt hơn trong nhiệm kỳ thứ hai.",
+      "title_vi": "Tidal tuyên bố cấm hoàn toàn nhạc do AI tạo ra và sẽ xóa hàng chục triệu bài hát",
+      "summary_vi": "Nền tảng phát nhạc trực tuyến Tidal sẽ chính thức cấm nhạc do AI tạo ra từ ngày 9/12, dự kiến xóa khoảng 29 triệu bài hát khỏi kho nhạc và từ chối hàng chục nghìn bài mới mỗi ngày.",
       "hot_level": 5,
-      "hot_reason": "Tin tức cực kỳ nóng về CEO của công ty chip AI hàng đầu thế giới, gây chấn động toàn ngành và thu hút sự chú ý của 10 trang công nghệ lớn cùng bình luận Hacker News cao ngất.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-      "source_title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "hot_reason": "Động thái cứng rắn và tiên phong của nền tảng streaming âm nhạc trước làn sóng nội dung AI tạo sinh",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "source_title": "Tidal will start banning AI-generated music next month",
       "related_urls": [
-        "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-returns-to-applause-from-employees-at-nvidia-hq-some-employees-reportedly-disgruntled-by-return-saying-this-is-the-worst-outcome",
-        "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-        "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-        "https://wccftech.com/nvidia-employees-give-reinstated-ceo-jensen-a-heros-reception-at-endeavor-hq/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "Android Authority",
-          "Ars Technica",
-          "MacRumors",
-          "Neowin",
-          "PCWorld",
-          "TechCrunch",
-          "The Verge",
-          "Tom's Hardware",
-          "Wccftech"
-        ],
-        "techmeme": false,
-        "hn_points": 1698,
-        "trends": [],
-        "score": 23.0
-      }
-    },
-    {
-      "rank": 2,
-      "title_vi": "Jensen Huang sẽ điều trần công khai trước Thượng viện Mỹ vào ngày 3/12",
-      "summary_vi": "Sau khi được phục chức CEO Nvidia, Jensen Huang được lên lịch điều trần công khai trước Thượng viện Mỹ vào ngày 3/12. Buổi điều trần diễn ra theo yêu cầu lưỡng đảng về mối quan hệ của ông với điệp viên Trung Quốc bị tình nghi.",
-      "hot_level": 4,
-      "hot_reason": "Diễn biến tiếp theo rất quan trọng của sự kiện Jensen Huang, cho thấy mức độ nghiêm trọng và ảnh hưởng chính trị của vụ việc.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2325655/nvidia-jensen-huang-will-testify-publlicly-before-senators-on-december-3/",
-      "source_title": "NVIDIA's Jensen Huang will testify publicly before senators on December 3",
-      "related_urls": [
-        "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+        "https://www.neowin.net/news/tidal-bans-ai-generated-music-from-its-platform/?utm_source=rss",
+        "https://www.engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely/"
       ],
       "signals": {
         "outlets": [
           "Engadget",
-          "TechCrunch"
-        ],
-        "techmeme": true,
-        "hn_points": 1698,
-        "trends": [],
-        "score": 10.0
-      }
-    },
-    {
-      "rank": 3,
-      "title_vi": "iPhone 18e lộ thiết kế camera mới, iPhone Air 2 có hai camera",
-      "summary_vi": "Các rò rỉ mới cho thấy iPhone 18e sẽ có cụm camera thiết kế lại, đồng thời xác nhận iPhone Air 2 sẽ được trang bị ống kính camera thứ hai.",
-      "hot_level": 4,
-      "hot_reason": "Thông tin rò rỉ về iPhone luôn thu hút lượng lớn độc giả Việt Nam, đặc biệt là các thay đổi về thiết kế và cấu hình camera.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/",
-      "source_title": "New leaks reveal the iPhone 18e will have a redesigned camera plateau",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "Engadget"
+          "Neowin",
+          "The Verge"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 307,
         "trends": [],
-        "score": 1.0
+        "score": 8.07
       }
     },
     {
-      "rank": 4,
-      "title_vi": "Samsung có thể chuyển dòng Galaxy Watch sang chu kỳ ra mắt hai năm một lần",
-      "summary_vi": "Một báo cáo mới từ Hàn Quốc cho biết Samsung có thể bỏ qua việc ra mắt dòng Galaxy Watch mới vào năm tới và chuyển sang chu kỳ hai năm một lần. Điều này do chi phí linh kiện tăng cao và nhu cầu smartwatch giảm.",
-      "hot_level": 3,
-      "hot_reason": "Thay đổi lớn trong chiến lược sản phẩm của Samsung, một thương hiệu rất phổ biến tại Việt Nam, ảnh hưởng trực tiếp đến người dùng smartwatch.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587.php",
-      "source_title": "Samsung may shift Galaxy Watch to a two-year launch cycle",
+      "rank": 2,
+      "title_vi": "Meta đưa trợ lý AI Muse tích hợp trực tiếp vào tin nhắn Instagram",
+      "summary_vi": "Meta bắt đầu triển khai trợ lý AI Muse vào tính năng nhắn tin Instagram tại một số quốc gia, giúp người dùng tương tác trực tiếp mà không cần chuyển đổi ứng dụng.",
+      "hot_level": 4,
+      "hot_reason": "Tính năng AI mới được đưa thẳng vào ứng dụng mạng xã hội hàng đầu với lượng người dùng đông đảo tại Việt Nam",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "source_title": "Meta brings its Muse AI assistant directly into Instagram DMs",
       "related_urls": [
-        "https://www.neowin.net/news/samsung-galaxy-watch-10-skipping-2027-release-due-to-rising-costs/?utm_source=rss",
-        "https://9to5google.com/2026/11/23/samsung-galaxy-watch-10-new-schedule-report/"
+        "https://www.neowin.net/news/metas-muse-ai-assistant-is-coming-to-instagram-dms/?utm_source=rss",
+        "https://www.engadget.com/2326663/meta-is-bringing-muse-to-instagram/"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
-          "GSMArena",
-          "Neowin"
+          "Engadget",
+          "Neowin",
+          "TechCrunch"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -105,21 +53,69 @@
       }
     },
     {
-      "rank": 5,
-      "title_vi": "Chế độ AI của Google Search tích hợp Drive và Wallet để phản hồi cá nhân hóa hơn",
-      "summary_vi": "Chế độ AI trên Google Search hiện có thể truy cập vào dữ liệu từ Google Drive và Wallet để cung cấp các phản hồi cá nhân hóa hơn cho người dùng. Điều này tận dụng lượng lớn dữ liệu người dùng đã có trong hệ sinh thái của Google.",
-      "hot_level": 3,
-      "hot_reason": "Google tích hợp AI sâu rộng hơn vào các dịch vụ cốt lõi, đặc biệt là Search, ảnh hưởng đến trải nghiệm hàng ngày của hàng tỷ người dùng.",
+      "rank": 3,
+      "title_vi": "Anthropic ra mắt Claude Ship giúp AI tự động duyệt và sửa lỗi code trên GitHub",
+      "summary_vi": "Bộ công cụ mới Claude Ship của Anthropic cho phép các tác nhân AI tự động xem xét, khắc phục lỗi và phê duyệt các pull request theo quy chuẩn của đội ngũ phát triển.",
+      "hot_level": 4,
+      "hot_reason": "Bước tiến lớn trong tự động hóa lập trình đến từ hãng phát triển mô hình Claude danh tiếng",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "source_title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source_title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "related_urls": [
-        "https://9to5google.com/2026/11/23/ai-mode-wallet-gemini/"
+        "https://www.neowin.net/news/anthropics-new-claude-ship-agents-automatically-fix-and-approve-github-pull-requests/?utm_source=rss",
+        "https://9to5mac.com/2026/11/23/anthropic-launches-new-claude-ship-feature-for-builders/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "Neowin",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Nvidia tung bản cập nhật driver khẩn cấp sửa triệt để lỗi ghi đè gây hỏng ổ SSD",
+      "summary_vi": "Nvidia phát hành bản driver GeForce Game Ready 621.40 nhằm khắc phục hoàn toàn sự cố ghi dữ liệu quá mức vào ổ SSD mà bản hotfix trước đó chưa xử lý được.",
+      "hot_level": 4,
+      "hot_reason": "Sự cố phần mềm ảnh hưởng trực tiếp đến tuổi thọ phần cứng của đông đảo game thủ và người dùng card Nvidia",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-driver-621-40-whql-fixes-excessive-ssd-writes/",
+      "source_title": "NVIDIA Releases Game Ready Driver 621.40 As A Hotfix For The Hotfix 621.35 Version To Finally Fix The Excessive Writes Bug Plaguing SSDs",
+      "related_urls": [
+        "https://www.neowin.net/news/nvidias-geforce-62140-driver-tries-again-to-stop-excessive-ssd-writes/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "Neowin",
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Lộ diện máy chơi game cầm tay Lenovo Legion Go Beam chạy Android và hỗ trợ stream từ PC",
+      "summary_vi": "Dữ liệu rò rỉ cho thấy thiết bị cầm tay Legion Go Beam của Lenovo sẽ sử dụng hệ điều hành Android cùng màn hình tốc độ làm tươi cao thay vì chạy hệ điều hành Windows như trước.",
+      "hot_level": 4,
+      "hot_reason": "Sản phẩm phần cứng mới từ thương hiệu laptop gaming quen thuộc tại thị trường Việt Nam",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/lenovo-legion-go-beam-3738970/",
+      "source_title": "Lenovo Legion Go Beam gaming handheld leaks with Android support and PC streaming",
+      "related_urls": [
+        "https://9to5google.com/2026/11/24/lenovo-legion-go-beam-leak/"
       ],
       "signals": {
         "outlets": [
           "9to5Google",
-          "TechCrunch"
+          "Android Authority"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -129,81 +125,15 @@
     },
     {
       "rank": 6,
-      "title_vi": "Các bang kiện SpaceX vì Grok AI tạo ra hình ảnh lạm dụng trẻ em và ảnh nhạy cảm trả thù",
-      "summary_vi": "Hai bang của Mỹ đã kiện SpaceX để ngăn Grok tạo ra hình ảnh lạm dụng tình dục trẻ em và ảnh nhạy cảm trả thù. Các tổng chưởng lý cho rằng Grok vẫn đang tạo ra nội dung bất hợp pháp, bất chấp khẳng định của X rằng mọi đầu ra đều được sàng lọc.",
+      "title_vi": "Apple sắp ra mắt phiên bản màu đỏ Product(RED) cho AirPods Max 2 và HomePod mini 2",
+      "summary_vi": "Apple dự kiến sẽ công bố loạt sản phẩm mang màu đỏ đặc trưng bao gồm AirPods Max 2 và HomePod mini 2 nhân ngày Thế giới phòng chống AIDS vào đầu tháng 12.",
       "hot_level": 3,
-      "hot_reason": "Vụ kiện liên quan đến đạo đức AI và nội dung nhạy cảm của một sản phẩm từ công ty của Elon Musk, thu hút sự quan tâm lớn từ dư luận và các nhà quản lý.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
-      "source_title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "related_urls": [
-        "https://www.engadget.com/2325111/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes/"
-      ],
-      "signals": {
-        "outlets": [
-          "Ars Technica",
-          "Engadget"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
-      "rank": 7,
-      "title_vi": "Cựu tổng thống Trump được cho là đã can thiệp vào cuộc họp hội đồng quản trị Nvidia để ủng hộ Jensen Huang trở lại",
-      "summary_vi": "Cựu tổng thống Trump được cho là đã gọi điện vào cuộc họp hội đồng quản trị Nvidia để vận động cho việc Jensen Huang quay trở lại công ty. Ông nói đã \"thuyết phục\" họ và bảo vệ sự trở lại của Huang, viện dẫn tổng chưởng lý Hoa Kỳ rằng không có bằng chứng về hành vi sai trái.",
-      "hot_level": 3,
-      "hot_reason": "Thông tin về sự can thiệp chính trị trực tiếp vào quyết định nhân sự của một tập đoàn công nghệ lớn, thêm kịch tính cho câu chuyện Jensen Huang.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-      "source_title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-      "related_urls": [],
-      "signals": {
-        "outlets": [
-          "TechCrunch"
-        ],
-        "techmeme": true,
-        "hn_points": 0,
-        "trends": [],
-        "score": 4.0
-      }
-    },
-    {
-      "rank": 8,
-      "title_vi": "Samsung ra mắt màn hình chơi game Odyssey G6 G60H đầu tiên trên thế giới với tốc độ làm tươi 1100Hz",
-      "summary_vi": "Samsung Odyssey G6 G60H là màn hình chơi game đầu tiên trên thế giới đạt tốc độ làm tươi 1100Hz, mặc dù tốc độ này chỉ đạt được ở chế độ HD. Màn hình này hỗ trợ chế độ kép và công nghệ hiển thị chuyển động mới.",
-      "hot_level": 3,
-      "hot_reason": "Sản phẩm đầu tiên trên thế giới với tốc độ làm tươi siêu cao, là bước đột phá đáng chú ý trong công nghệ màn hình, thu hút game thủ và người đam mê công nghệ.",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2325384/samsung-odyssey-g6-g60h-is-the-worlds-first-1100hz-gaming-monitor/",
-      "source_title": "The Samsung Odyssey G6 G60H is the world's first 1,100Hz gaming monitor",
-      "related_urls": [
-        "https://www.neowin.net/news/samsung-launches-insane-odyssey-g6-monitor-with-1100hz-refresh-rate/?utm_source=rss"
-      ],
-      "signals": {
-        "outlets": [
-          "Engadget",
-          "Neowin"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
-      "rank": 9,
-      "title_vi": "Ứng dụng Threads sẽ sớm có phiên bản dành cho iPad",
-      "summary_vi": "Christopher Clare, trưởng bộ phận thiết kế của Threads, thông báo rằng ứng dụng Threads sẽ sớm có hỗ trợ iPad. Điều này có nghĩa là ứng dụng sẽ tận dụng tối đa màn hình lớn của iPad thay vì chạy ở chế độ phóng to.",
-      "hot_level": 3,
-      "hot_reason": "Tính năng được chờ đợi từ lâu cho một nền tảng mạng xã hội lớn, sẽ cải thiện trải nghiệm người dùng đáng kể trên thiết bị iPad.",
+      "hot_reason": "Dòng phụ kiện âm thanh cao cấp của Apple luôn thu hút sự quan tâm lớn từ cộng đồng iFan",
       "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/23/threads-is-getting-an-ipad-app/",
-      "source_title": "Threads is Getting an iPad App",
+      "url": "https://www.macrumors.com/2026/11/24/apple-to-release-four-red-products/",
+      "source_title": "Apple to Release Four (RED) Products by Next Week",
       "related_urls": [
-        "https://9to5mac.com/2026/11/23/threads-app-for-ipad-launching-very-soon/"
+        "https://9to5mac.com/2026/11/24/leaks-say-apple-has-four-special-edition-products-launching-next-week-in-red/"
       ],
       "signals": {
         "outlets": [
@@ -217,21 +147,89 @@
       }
     },
     {
-      "rank": 10,
-      "title_vi": "Nothing Ear (note) là tai nghe có khả năng ghi âm và chuyển đổi giọng nói thành văn bản bằng AI",
-      "summary_vi": "Sản phẩm AI mới của Nothing là Ear (note), một bộ tai nghe cùng hộp sạc tích hợp micro có thể ghi âm và chuyển đổi cuộc trò chuyện thành văn bản. Ứng dụng đi kèm giúp quản lý các bản ghi, bản chép lời và nội dung do AI tạo ra.",
+      "rank": 7,
+      "title_vi": "Honor ra mắt toàn cầu Magic 9 Pro Max hợp tác cùng hãng máy quay phim ARRI",
+      "summary_vi": "Honor chính thức đưa mẫu flagship Magic 9 Pro Max ra thị trường quốc tế với cấu hình đỉnh cao và hệ thống camera hợp tác phát triển cùng thương hiệu điện ảnh ARRI.",
       "hot_level": 3,
-      "hot_reason": "Sản phẩm phần cứng mới từ thương hiệu Nothing đang lên, tích hợp AI làm trung tâm, thể hiện xu hướng công nghệ mới trong thiết bị đeo.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-      "source_title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+      "hot_reason": "Flagship đầu bảng sở hữu hợp tác quang học mới gây chú ý trong giới nhiếp ảnh di động",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/24/the-honor-magic-9-pro-max-is-making-its-global-debut-today-with-huge-preorder-bonuses/",
+      "source_title": "The Honor Magic 9 Pro Max is making its global debut today with huge preorder bonuses",
       "related_urls": [
-        "https://9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser/"
+        "https://www.gsmarena.com/honor_magic9_pro_max-review-3014.php",
+        "https://www.gsmarena.com/honor_magic9_pro_max_begins_its_global_rollout_with_malaysia-news-75594.php"
       ],
       "signals": {
         "outlets": [
           "9to5Google",
-          "The Verge"
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Google Gemini bổ sung tuỳ chọn giữ lại lịch sử chat nhưng tắt quyền huấn luyện AI",
+      "summary_vi": "Bản cập nhật quyền riêng tư mới trên Gemini cho phép người dùng lưu lại nhật ký hội thoại mà vẫn có thể ngăn Google dùng dữ liệu đó để đào tạo mô hình trí tuệ nhân tạo.",
+      "hot_level": 3,
+      "hot_reason": "Thay đổi chính sách quan trọng liên quan trực tiếp đến bảo mật dữ liệu người dùng Gemini",
+      "source": "9to5Mac",
+      "url": "https://9to5google.com/2026/11/24/gemini-history-ai-training/",
+      "source_title": "New Gemini setting lets you keep chat history, but turn off AI training [U]",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "9to5Mac"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Spotify gặp sự cố gián đoạn khiến hàng loạt tài khoản bị văng ra ngoài",
+      "summary_vi": "Sự cố kỹ thuật diện rộng vừa xảy ra với Spotify khiến hàng nghìn người dùng không thể đăng nhập và nhầm tưởng tài khoản cá nhân đã bị tấn công hoặc khóa.",
+      "hot_level": 3,
+      "hot_reason": "Nền tảng nghe nhạc trực tuyến phổ biến bậc nhất bị lỗi đăng nhập gây hoang mang cho người dùng",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/spotify-outage-login-issues-3738825/",
+      "source_title": "Spotify outage locks thousands of users out of accounts with widespread login failures (Updated)",
+      "related_urls": [
+        "https://www.neowin.net/news/spotify-users-report-outage-as-login-and-app-issues-hit/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "Android Authority",
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Google Meet chính thức mở tính năng gọi video 1080p miễn phí cho toàn bộ người dùng",
+      "summary_vi": "Google quyết định đưa độ phân giải Full HD 1080p thành tiêu chuẩn mặc định trên nền tảng web cho tất cả tài khoản cá nhân thay vì chỉ giới hạn trong gói trả phí Workspace.",
+      "hot_level": 3,
+      "hot_reason": "Công cụ họp trực tuyến quốc dân nâng cấp chất lượng hình ảnh miễn phí cho tất cả mọi người",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/11/23/google-meet-web-makes-1080p-streaming-free/",
+      "source_title": "Google Meet unlocks 1080p video streaming for all accounts on web",
+      "related_urls": [
+        "https://www.neowin.net/news/google-meet-brings-1080p-hd-video-to-free-users/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Google",
+          "Neowin"
         ],
         "techmeme": false,
         "hn_points": 0,
