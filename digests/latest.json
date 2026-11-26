@@ -1,220 +1,123 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T04:53:57.247693+07:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T04:54:13.569094+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "WhatsApp chính thức bổ sung tính năng lên lịch gửi tin nhắn",
-      "summary_vi": "Người dùng ứng dụng nhắn tin WhatsApp với hơn 3 tỷ tài khoản hiện đã có thể hẹn giờ gửi tin nhắn trước từ 10 phút đến 14 ngày cho cả cuộc trò chuyện cá nhân lẫn nhóm.",
+      "title_vi": "Nvidia dừng giao máy chủ và chip AI tới 4 nước Đông Nam Á",
+      "summary_vi": "Nvidia đã yêu cầu các đối tác tạm ngừng chuyển giao máy chủ và chip AI tới Malaysia, Singapore, Thái Lan và Indonesia. Quyết định diễn ra khi Mỹ siết chặt kiểm soát xuất khẩu nhằm ngăn chặn các nhà phát triển Trung Quốc tiếp cận hạ tầng điện toán đám mây tại khu vực.",
       "hot_level": 5,
-      "hot_reason": "Tính năng được người dùng mong chờ từ lâu trên ứng dụng nhắn tin phổ biến toàn cầu với 6 trang báo lớn đồng loạt đưa tin.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
-      "source_title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+      "hot_reason": "Sự kiện cấm vận công nghệ lớn ảnh hưởng trực tiếp tới khu vực Đông Nam Á và chuỗi cung ứng chip AI toàn cầu.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source_title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "related_urls": [
-        "https://www.macrumors.com/2026/11/25/whatsapp-finally-adds-scheduled-messages/",
-        "https://www.neowin.net/news/you-can-now-schedule-messages-ahead-of-time-in-whatsapp-chats/?utm_source=rss",
-        "https://9to5google.com/2026/11/25/whatsapp-officially-adds-scheduled-messages-and-the-rollout-is-scheduled-too/",
-        "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/"
+        "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+        "https://www.tomshardware.com/tech-industry/policy/nvidia-stops-ai-gpu-shipments-to-southeast-asia-report-claims-data-centers-in-singapore-other-countries-in-trouble-as-commerce-department-requires-cloud-providers-to-obtain-export-license",
+        "https://www.neowin.net/news/nvidia-reportedly-halts-ai-server-shipments-to-four-southeast-asian-countries/?utm_source=rss"
       ],
       "signals": {
         "outlets": [
-          "9to5Google",
           "Engadget",
-          "MacRumors",
           "Neowin",
           "TechCrunch",
-          "The Verge"
+          "Tom's Hardware"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 11.0
+        "score": 7.0
       }
     },
     {
       "rank": 2,
-      "title_vi": "FCC cấp phép cho SpaceX phóng tới 1 triệu vệ tinh làm trung tâm dữ liệu AI",
-      "summary_vi": "Ủy ban Truyền thông Liên bang Mỹ (FCC) đã phê duyệt kế hoạch triển khai tới 1 triệu vệ tinh trang bị chip AI của SpaceX thuộc dự án Starmind nhằm xây dựng các trung tâm dữ liệu ngoài không gian.",
+      "title_vi": "Apple dự kiến làm mới hoàn toàn hệ thống thông báo trên iOS 28",
+      "summary_vi": "Nguồn tin rò rỉ cho biết Apple đang chuẩn bị cuộc đại tu hệ thống thông báo trên iPhone thông qua bản cập nhật iOS 28 ra mắt vào năm sau. Động thái này nhằm cạnh tranh với các tính năng sắp xếp thông báo thông minh vừa xuất hiện trên Android.",
       "hot_level": 4,
-      "hot_reason": "Bước tiến công nghệ quy mô khổng lồ của SpaceX được Techmeme và các trang công nghệ hàng đầu quan tâm.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "source_title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "hot_reason": "Tin đồn nâng cấp hệ điều hành iOS của Apple luôn nhận được sự quan tâm rất lớn từ người dùng Việt Nam.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/26/ios-28-to-revamp-iphone-notifications-per-report/",
+      "source_title": "iOS 28 to ‘revamp’ iPhone notifications, per report",
       "related_urls": [
-        "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
-      ],
-      "signals": {
-        "outlets": [
-          "TechCrunch",
-          "The Verge"
-        ],
-        "techmeme": true,
-        "hn_points": 52,
-        "trends": [],
-        "score": 6.52
-      }
-    },
-    {
-      "rank": 3,
-      "title_vi": "Microsoft kích hoạt 'Báo động đỏ' sau sự cố sập mạng tồi tệ nhất lịch sử",
-      "summary_vi": "Sự cố gián đoạn dịch vụ Microsoft 365 vừa qua khiến hơn 80% máy chủ của công ty bị mất kết nối tại thời điểm đỉnh điểm, buộc nội bộ Microsoft phải phát lệnh khẩn cấp để xử lý quy trình vận hành.",
-      "hot_level": 4,
-      "hot_reason": "Sự cố hạ tầng đám mây chấn động ảnh hưởng đến hàng triệu người dùng và doanh nghiệp toàn cầu.",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/global-microsoft-outage-forces-internal-code-red-response-at-redmond/?utm_source=rss",
-      "source_title": "Global Microsoft outage forces internal \"Code Red\" response at Redmond",
-      "related_urls": [
-        "https://9to5mac.com/2026/11/25/microsoft-declares-a-code-red-in-response-to-worst-ever-outage/"
+        "https://www.gsmarena.com/apple_reportedly_revamping_notifications_once_again_with_ios_28-news-75646.php",
+        "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/"
       ],
       "signals": {
         "outlets": [
           "9to5Mac",
-          "Neowin"
-        ],
-        "techmeme": false,
-        "hn_points": 252,
-        "trends": [],
-        "score": 5.52
-      }
-    },
-    {
-      "rank": 4,
-      "title_vi": "1Password bị xâm nhập hệ thống nhưng dữ liệu mật khẩu người dùng vẫn an toàn",
-      "summary_vi": "Ứng dụng quản lý mật khẩu 1Password xác nhận bị tấn công sau khi tài khoản doanh nghiệp của một nhân viên bị xâm phạm, làm lộ tên và email khách hàng nhưng kho dữ liệu mật khẩu vẫn được bảo đảm an toàn tuyệt đối.",
-      "hot_level": 4,
-      "hot_reason": "Sự cố bảo mật liên quan trực tiếp đến ứng dụng quản lý mật khẩu phổ biến với hàng triệu người dùng.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/25/1password-security-breach/",
-      "source_title": "1Password Security Breach: What Was Accessed and What Wasn't",
-      "related_urls": [
-        "https://www.neowin.net/news/after-security-breach-1password-says-hackers-got-customer-data-but-vaults-are-safe/?utm_source=rss",
-        "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
-      ],
-      "signals": {
-        "outlets": [
-          "MacRumors",
-          "Neowin",
-          "TechCrunch"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 5.0
-      }
-    },
-    {
-      "rank": 5,
-      "title_vi": "Tòa án Mỹ kết tội Huawei đánh cắp bí mật thương mại",
-      "summary_vi": "Bồi thẩm đoàn tại Mỹ vừa tuyên phạt Huawei có tội ở 10 trên 12 tội danh, bao gồm âm mưu đánh cắp bí mật thương mại từ các đối tác viễn thông Mỹ, gian lận ngân hàng và vi phạm lệnh trừng phạt.",
-      "hot_level": 4,
-      "hot_reason": "Diễn biến pháp lý lớn tác động mạnh mẽ đến cục diện công nghệ và chính sách toàn cầu đối với Huawei.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/us_court_finds_huawei_gealty_of_stealing_trade_secrets-news-75637.php",
-      "source_title": "US court finds Huawei guilty of stealing trade secrets",
-      "related_urls": [
-        "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
-        "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/"
-      ],
-      "signals": {
-        "outlets": [
-          "Ars Technica",
-          "Engadget",
-          "GSMArena"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 5.0
-      }
-    },
-    {
-      "rank": 6,
-      "title_vi": "Claude cho phép cài đặt các tiện ích Artifacts thành ứng dụng máy tính",
-      "summary_vi": "Anthropic phát hành tính năng mới cho Claude, cho phép người dùng biến các sản phẩm tạo ra từ Artifacts như bảng điều khiển hay công cụ tương tác thành ứng dụng độc lập trên macOS và Windows.",
-      "hot_level": 4,
-      "hot_reason": "Tính năng AI thực tế rất hữu ích cho người dùng công cụ AI hàng đầu hiện nay.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
-      "source_title": "Claude Now Lets You Install Artifacts as Desktop Apps",
-      "related_urls": [
-        "https://www.neowin.net/news/anthropic-now-allows-users-to-convert-their-claude-artifacts-as-mac-and-windows-apps/?utm_source=rss",
-        "https://9to5mac.com/2026/11/24/anthropic-just-gave-claude-users-a-new-way-to-make-mac-apps/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
-          "MacRumors",
-          "Neowin"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 5.0
-      }
-    },
-    {
-      "rank": 7,
-      "title_vi": "Rò rỉ thông số 7 vi xử lý Intel Nova Lake-S Core Ultra 4000 dành cho máy tính bàn",
-      "summary_vi": "Tài liệu rò rỉ hé lộ dải vi xử lý máy tính để bàn Intel Core Ultra 4000 thế hệ mới, nổi bật với mẫu Core Ultra 9 4970K BFC sở hữu 28 nhân, xung nhịp Turbo 5.5 GHz và bộ nhớ đệm LLC lên tới 144 MB.",
-      "hot_level": 3,
-      "hot_reason": "Thông tin cấu hình chi tiết về thế hệ CPU desktop tiếp theo của Intel thu hút cộng đồng phần cứng PC.",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/pc-components/cpus/7-new-intel-nova-lake-s-core-ultra-4000-series-cpus-detailed-in-new-leak-lineup-includes-5-5ghz-ultra-9-4970k-bfc-ahead-of-the-expected-february-2027-release",
-      "source_title": "7 new Intel Nova Lake-S Core Ultra 4000-series CPUs detailed in new leak",
-      "related_urls": [
-        "https://wccftech.com/intel-core-ultra-9-4970k-bfc-reportedly-gets-5-5-ghz-turbo-clock-alongside-144-mb-llc-cache/"
-      ],
-      "signals": {
-        "outlets": [
-          "Tom's Hardware",
-          "Wccftech"
-        ],
-        "techmeme": false,
-        "hn_points": 0,
-        "trends": [],
-        "score": 3.0
-      }
-    },
-    {
-      "rank": 8,
-      "title_vi": "Nguồn tin xác nhận Apple đã chạy thử nghiệm macOS trên iPad từ lâu",
-      "summary_vi": "Theo chuyên gia Mark Gurman của Bloomberg, Apple từ lâu đã có các nguyên mẫu iPad chạy hệ điều hành macOS nội bộ, tuy nhiên hãng hiện vẫn chưa có kế hoạch thương mại hóa việc đưa macOS lên dòng máy tính bảng này.",
-      "hot_level": 3,
-      "hot_reason": "Chủ đề chạy macOS trên phần cứng iPad luôn được cộng đồng người dùng Apple cực kỳ mong đợi và thảo luận sôi nổi.",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/11/25/apple-has-ipads-running-macos-internally/",
-      "source_title": "Apple Has iPads Running macOS Internally, Says Gurman",
-      "related_urls": [
-        "https://9to5mac.com/2026/11/25/apple-has-ipads-running-macos-already-but-dont-get-too-excited/"
-      ],
-      "signals": {
-        "outlets": [
-          "9to5Mac",
+          "GSMArena",
           "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 3.0
+        "score": 5.0
       }
     },
     {
-      "rank": 9,
-      "title_vi": "Samsung Galaxy Z TriFold 2 lộ tên mã và kế hoạch phân phối giới hạn",
-      "summary_vi": "Sau khi thế hệ đầu tiên chỉ ra mắt hạn chế rồi ngừng sản xuất, thông tin rò rỉ cho thấy Samsung vẫn đang tiếp tục phát triển Galaxy Z TriFold 2 màn hình gập ba với số lượng bán ra thị trường tiếp tục bị giới hạn.",
-      "hot_level": 3,
-      "hot_reason": "Thiết bị màn hình gập ba cao cấp thế hệ tiếp theo của Samsung nhận được nhiều sự quan tâm của giới công nghệ.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/samsung_galaxy_z_trifold2_codename_and_availability_details_leak-news-75630.php",
-      "source_title": "Samsung Galaxy Z Trifold2 codename and availability details leak",
+      "rank": 3,
+      "title_vi": "OpenAI cảnh báo người dùng ChatGPT trả phí sẽ nhanh chạm giới hạn sử dụng",
+      "summary_vi": "OpenAI thông báo gộp hai trải nghiệm Chat và Work vào một bộ đếm hạn mức duy nhất. Thay đổi này khiến những người dùng thường xuyên của các gói ChatGPT trả phí có thể chạm mốc giới hạn sớm hơn trước.",
+      "hot_level": 4,
+      "hot_reason": "ChatGPT có lượng người dùng trả phí đông đảo và việc thắt chặt hạn mức sử dụng ảnh hưởng trực tiếp tới công việc của họ.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source_title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "related_urls": [
-        "https://www.androidauthority.com/galaxy-z-trifold-2-codename-global-launch-leak-3739313/"
+        "https://www.neowin.net/news/paying-chatgpt-users-will-hit-gpt-62-limits-faster-after-openai-fixes-a-launch-mistake/?utm_source=rss"
       ],
       "signals": {
         "outlets": [
-          "Android Authority",
-          "GSMArena"
+          "Neowin",
+          "TechCrunch"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Nhân viên Rockstar Games bỏ phiếu bác bỏ đề xuất thành lập công đoàn",
+      "summary_vi": "Các nhà phát triển dự án Grand Theft Auto VI tại Rockstar Games đã bỏ phiếu không thông qua thỏa thuận công nhận công đoàn. Trong số 1.544 nhân viên tham gia bỏ phiếu, chỉ có 25% đưa ra ý kiến đồng thuận.",
+      "hot_level": 4,
+      "hot_reason": "Vấn đề nội bộ tại studio phát triển bom tấn GTA 6 nhận được sự chú ý đặc biệt từ cộng đồng công nghệ và game thủ.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+      "source_title": "GTA VI developers vote against unionization",
+      "related_urls": [
+        "https://wccftech.com/grand-theft-auto-vi-rockstar-workers-reject-union-recognition/",
+        "https://www.engadget.com/2329177/workers-gta-6-studio-rockstar-games-vote-against-union-recognition/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "The Verge",
+          "Wccftech"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 8.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Mạng xã hội X bổ sung tính năng quản lý của phụ huynh sau 20 năm",
+      "summary_vi": "Nền tảng X của Elon Musk vừa bổ sung tính năng kiểm soát dành cho phụ huynh có con trong độ tuổi thanh thiếu niên. Công cụ này cho phép cha mẹ quản lý nội dung xuất hiện trên bảng tin của con cái nhưng cần sự đồng ý từ tài khoản của trẻ.",
+      "hot_level": 3,
+      "hot_reason": "Bản cập nhật lớn liên quan đến bảo vệ người dùng vị thành niên trên nền tảng mạng xã hội phổ biến X.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "source_title": "X finally gets parental controls after 20 years",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/26/x-finally-gets-six-parental-controls-for-teen-accounts-but-kids-must-consent/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "TechCrunch"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -223,18 +126,98 @@
       }
     },
     {
-      "rank": 10,
-      "title_vi": "Windows 11 sắp chạy mượt hơn nhờ cắt giảm lượng RAM tiêu thụ từ các ứng dụng hệ thống",
-      "summary_vi": "Tại hội nghị Ignite, Microsoft cho biết đang tối ưu hóa mạnh mẽ để giảm mức chiếm dụng bộ nhớ RAM của các ứng dụng tích hợp sẵn như Defender và OneDrive, giúp cải thiện đáng kể tốc độ cho các máy tính Windows 11.",
+      "rank": 6,
+      "title_vi": "AMD ra mắt công nghệ RT-MLAS giảm 92% bộ nhớ Ray Tracing trên card RX 9070",
+      "summary_vi": "AMD giới thiệu công nghệ RT-MLAS giúp cấu trúc gia tốc dò tia xử lý nhanh hơn tới 3,7 lần trên Radeon RX 9070. Giải pháp mới cắt giảm đến 92% dung lượng bộ nhớ dành cho cấu trúc phân tầng BVH trong các tác vụ ray tracing thời gian thực.",
       "hot_level": 3,
-      "hot_reason": "Cải thiện trực tiếp hiệu năng và trải nghiệm đa nhiệm cho đông đảo người dùng máy tính chạy Windows 11.",
-      "source": "PCWorld",
-      "url": "https://www.pcworld.com/article/3297540/microsofts-own-programmes-are-using-up-the-computers-memory-the-problem-is-now-being-fixed.html",
-      "source_title": "Your Windows 11 PC is getting a speed boost thanks to major RAM cuts",
+      "hot_reason": "Cải tiến kiến trúc đồ họa quan trọng cho card màn hình thế hệ mới rất thu hút giới đam mê phần cứng PC.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/amds-new-rt-mlas-technology-slashes-ray-tracing-bvh-memory-usage-by-92-delivers-up-to-3-7x-faster-rebuilds-on-radeon-rx-9070/",
+      "source_title": "AMD’s New RT-MLAS Technology Slashes Ray Tracing BVH Memory Usage By 92%, Delivers Up To 3.7X Faster Rebuilds On Radeon RX 9070",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "PCWorld"
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Xiaomi 17 Ultra bản quốc tế bắt đầu nhận bản cập nhật HyperOS 4",
+      "summary_vi": "Xiaomi đã chính thức triển khai bản cập nhật hệ điều hành HyperOS 4 cho mẫu máy cao cấp Xiaomi 17 Ultra trên toàn cầu. Động thái này diễn ra sau đợt chậm trễ ngắn so với lịch trình dự kiến ban đầu.",
+      "hot_level": 3,
+      "hot_reason": "Bản nâng cấp phần mềm cho flagship đầu bảng của Xiaomi, thương hiệu rất được ưa chuộng tại Việt Nam.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/global_xiaomi_17_ultra_starts_receiving_hyperos_4-news-75656.php",
+      "source_title": "Global Xiaomi 17 Ultra starts receiving HyperOS 4",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Samsung phát triển giải pháp đám mây riêng tư cho Galaxy AI",
+      "summary_vi": "Dữ liệu bóc tách từ bản cập nhật One UI 9.5 Beta 1 hé lộ khung hệ thống có tên SPAC của Samsung. Nền tảng này sẽ xử lý các yêu cầu Galaxy AI trên đám mây dưới dạng ẩn danh tương tự giải pháp điện toán đám mây riêng của Apple.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng mới liên quan đến quyền riêng tư và công nghệ AI trên các dòng điện thoại thông minh Galaxy.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-5-spac-private-cloud-galaxy-ai-apk-teardown-3739743/",
+      "source_title": "Exclusive: Samsung is working on a private cloud for Galaxy AI, and it could look a lot like Apple’s",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Samsung đưa loạt tính năng sức khỏe của Galaxy Watch 9 lên các thế hệ cũ",
+      "summary_vi": "Samsung bắt đầu cập nhật các tính năng theo dõi sức khỏe vốn chỉ có trên Galaxy Watch 9 xuống những mẫu smartwatch đời trước. Ngay cả người dùng các phiên bản cũ như Galaxy Watch 4 cũng được hỗ trợ đợt nâng cấp này.",
+      "hot_level": 3,
+      "hot_reason": "Tin vui mang lại giá trị sử dụng trực tiếp cho đông đảo người dùng đồng hồ thông minh Samsung.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/galaxy-watch-9-health-features-older-watches-3740608/",
+      "source_title": "Samsung is bringing Galaxy Watch 9 health features to older Galaxy Watches",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Phát hiện mã độc cửa sau cài sẵn trên 220.000 thiết bị Android",
+      "summary_vi": "Nghiên cứu từ Kaspersky ghi nhận mã độc cửa sau có tên Keenadu đã được cài sẵn trên 220.000 thiết bị Android trong 10 tháng đầu năm 2026. Phần mềm độc hại này có khả năng tự động hiển thị quảng cáo gian lận và tải thêm các tệp tin nguy hiểm về máy.",
+      "hot_level": 3,
+      "hot_reason": "Sự cố bảo mật quy mô lớn đe dọa trực tiếp đến sự an toàn của người dùng hệ sinh thái Android.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/backdoor-malware-found-preinstalled-on-220000-android-devices-study-finds/?utm_source=rss",
+      "source_title": "Backdoor malware found preinstalled on 220,000 Android devices, study finds",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Neowin"
         ],
         "techmeme": false,
         "hn_points": 0,

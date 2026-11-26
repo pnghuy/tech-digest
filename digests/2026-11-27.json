@@ -1,0 +1,229 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T04:54:13.569094+07:00",
+  "items": [
+    {
+      "rank": 1,
+      "title_vi": "Nvidia dừng giao máy chủ và chip AI tới 4 nước Đông Nam Á",
+      "summary_vi": "Nvidia đã yêu cầu các đối tác tạm ngừng chuyển giao máy chủ và chip AI tới Malaysia, Singapore, Thái Lan và Indonesia. Quyết định diễn ra khi Mỹ siết chặt kiểm soát xuất khẩu nhằm ngăn chặn các nhà phát triển Trung Quốc tiếp cận hạ tầng điện toán đám mây tại khu vực.",
+      "hot_level": 5,
+      "hot_reason": "Sự kiện cấm vận công nghệ lớn ảnh hưởng trực tiếp tới khu vực Đông Nam Á và chuỗi cung ứng chip AI toàn cầu.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source_title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "related_urls": [
+        "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+        "https://www.tomshardware.com/tech-industry/policy/nvidia-stops-ai-gpu-shipments-to-southeast-asia-report-claims-data-centers-in-singapore-other-countries-in-trouble-as-commerce-department-requires-cloud-providers-to-obtain-export-license",
+        "https://www.neowin.net/news/nvidia-reportedly-halts-ai-server-shipments-to-four-southeast-asian-countries/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "Neowin",
+          "TechCrunch",
+          "Tom's Hardware"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 7.0
+      }
+    },
+    {
+      "rank": 2,
+      "title_vi": "Apple dự kiến làm mới hoàn toàn hệ thống thông báo trên iOS 28",
+      "summary_vi": "Nguồn tin rò rỉ cho biết Apple đang chuẩn bị cuộc đại tu hệ thống thông báo trên iPhone thông qua bản cập nhật iOS 28 ra mắt vào năm sau. Động thái này nhằm cạnh tranh với các tính năng sắp xếp thông báo thông minh vừa xuất hiện trên Android.",
+      "hot_level": 4,
+      "hot_reason": "Tin đồn nâng cấp hệ điều hành iOS của Apple luôn nhận được sự quan tâm rất lớn từ người dùng Việt Nam.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/26/ios-28-to-revamp-iphone-notifications-per-report/",
+      "source_title": "iOS 28 to ‘revamp’ iPhone notifications, per report",
+      "related_urls": [
+        "https://www.gsmarena.com/apple_reportedly_revamping_notifications_once_again_with_ios_28-news-75646.php",
+        "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "GSMArena",
+          "MacRumors"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 3,
+      "title_vi": "OpenAI cảnh báo người dùng ChatGPT trả phí sẽ nhanh chạm giới hạn sử dụng",
+      "summary_vi": "OpenAI thông báo gộp hai trải nghiệm Chat và Work vào một bộ đếm hạn mức duy nhất. Thay đổi này khiến những người dùng thường xuyên của các gói ChatGPT trả phí có thể chạm mốc giới hạn sớm hơn trước.",
+      "hot_level": 4,
+      "hot_reason": "ChatGPT có lượng người dùng trả phí đông đảo và việc thắt chặt hạn mức sử dụng ảnh hưởng trực tiếp tới công việc của họ.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source_title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "related_urls": [
+        "https://www.neowin.net/news/paying-chatgpt-users-will-hit-gpt-62-limits-faster-after-openai-fixes-a-launch-mistake/?utm_source=rss"
+      ],
+      "signals": {
+        "outlets": [
+          "Neowin",
+          "TechCrunch"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 5.0
+      }
+    },
+    {
+      "rank": 4,
+      "title_vi": "Nhân viên Rockstar Games bỏ phiếu bác bỏ đề xuất thành lập công đoàn",
+      "summary_vi": "Các nhà phát triển dự án Grand Theft Auto VI tại Rockstar Games đã bỏ phiếu không thông qua thỏa thuận công nhận công đoàn. Trong số 1.544 nhân viên tham gia bỏ phiếu, chỉ có 25% đưa ra ý kiến đồng thuận.",
+      "hot_level": 4,
+      "hot_reason": "Vấn đề nội bộ tại studio phát triển bom tấn GTA 6 nhận được sự chú ý đặc biệt từ cộng đồng công nghệ và game thủ.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+      "source_title": "GTA VI developers vote against unionization",
+      "related_urls": [
+        "https://wccftech.com/grand-theft-auto-vi-rockstar-workers-reject-union-recognition/",
+        "https://www.engadget.com/2329177/workers-gta-6-studio-rockstar-games-vote-against-union-recognition/"
+      ],
+      "signals": {
+        "outlets": [
+          "Engadget",
+          "The Verge",
+          "Wccftech"
+        ],
+        "techmeme": true,
+        "hn_points": 0,
+        "trends": [],
+        "score": 8.0
+      }
+    },
+    {
+      "rank": 5,
+      "title_vi": "Mạng xã hội X bổ sung tính năng quản lý của phụ huynh sau 20 năm",
+      "summary_vi": "Nền tảng X của Elon Musk vừa bổ sung tính năng kiểm soát dành cho phụ huynh có con trong độ tuổi thanh thiếu niên. Công cụ này cho phép cha mẹ quản lý nội dung xuất hiện trên bảng tin của con cái nhưng cần sự đồng ý từ tài khoản của trẻ.",
+      "hot_level": 3,
+      "hot_reason": "Bản cập nhật lớn liên quan đến bảo vệ người dùng vị thành niên trên nền tảng mạng xã hội phổ biến X.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "source_title": "X finally gets parental controls after 20 years",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/26/x-finally-gets-six-parental-controls-for-teen-accounts-but-kids-must-consent/"
+      ],
+      "signals": {
+        "outlets": [
+          "9to5Mac",
+          "TechCrunch"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 3.0
+      }
+    },
+    {
+      "rank": 6,
+      "title_vi": "AMD ra mắt công nghệ RT-MLAS giảm 92% bộ nhớ Ray Tracing trên card RX 9070",
+      "summary_vi": "AMD giới thiệu công nghệ RT-MLAS giúp cấu trúc gia tốc dò tia xử lý nhanh hơn tới 3,7 lần trên Radeon RX 9070. Giải pháp mới cắt giảm đến 92% dung lượng bộ nhớ dành cho cấu trúc phân tầng BVH trong các tác vụ ray tracing thời gian thực.",
+      "hot_level": 3,
+      "hot_reason": "Cải tiến kiến trúc đồ họa quan trọng cho card màn hình thế hệ mới rất thu hút giới đam mê phần cứng PC.",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/amds-new-rt-mlas-technology-slashes-ray-tracing-bvh-memory-usage-by-92-delivers-up-to-3-7x-faster-rebuilds-on-radeon-rx-9070/",
+      "source_title": "AMD’s New RT-MLAS Technology Slashes Ray Tracing BVH Memory Usage By 92%, Delivers Up To 3.7X Faster Rebuilds On Radeon RX 9070",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Wccftech"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 7,
+      "title_vi": "Xiaomi 17 Ultra bản quốc tế bắt đầu nhận bản cập nhật HyperOS 4",
+      "summary_vi": "Xiaomi đã chính thức triển khai bản cập nhật hệ điều hành HyperOS 4 cho mẫu máy cao cấp Xiaomi 17 Ultra trên toàn cầu. Động thái này diễn ra sau đợt chậm trễ ngắn so với lịch trình dự kiến ban đầu.",
+      "hot_level": 3,
+      "hot_reason": "Bản nâng cấp phần mềm cho flagship đầu bảng của Xiaomi, thương hiệu rất được ưa chuộng tại Việt Nam.",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/global_xiaomi_17_ultra_starts_receiving_hyperos_4-news-75656.php",
+      "source_title": "Global Xiaomi 17 Ultra starts receiving HyperOS 4",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "GSMArena"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 8,
+      "title_vi": "Samsung phát triển giải pháp đám mây riêng tư cho Galaxy AI",
+      "summary_vi": "Dữ liệu bóc tách từ bản cập nhật One UI 9.5 Beta 1 hé lộ khung hệ thống có tên SPAC của Samsung. Nền tảng này sẽ xử lý các yêu cầu Galaxy AI trên đám mây dưới dạng ẩn danh tương tự giải pháp điện toán đám mây riêng của Apple.",
+      "hot_level": 3,
+      "hot_reason": "Tính năng mới liên quan đến quyền riêng tư và công nghệ AI trên các dòng điện thoại thông minh Galaxy.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-5-spac-private-cloud-galaxy-ai-apk-teardown-3739743/",
+      "source_title": "Exclusive: Samsung is working on a private cloud for Galaxy AI, and it could look a lot like Apple’s",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 9,
+      "title_vi": "Samsung đưa loạt tính năng sức khỏe của Galaxy Watch 9 lên các thế hệ cũ",
+      "summary_vi": "Samsung bắt đầu cập nhật các tính năng theo dõi sức khỏe vốn chỉ có trên Galaxy Watch 9 xuống những mẫu smartwatch đời trước. Ngay cả người dùng các phiên bản cũ như Galaxy Watch 4 cũng được hỗ trợ đợt nâng cấp này.",
+      "hot_level": 3,
+      "hot_reason": "Tin vui mang lại giá trị sử dụng trực tiếp cho đông đảo người dùng đồng hồ thông minh Samsung.",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/galaxy-watch-9-health-features-older-watches-3740608/",
+      "source_title": "Samsung is bringing Galaxy Watch 9 health features to older Galaxy Watches",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Android Authority"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 10,
+      "title_vi": "Phát hiện mã độc cửa sau cài sẵn trên 220.000 thiết bị Android",
+      "summary_vi": "Nghiên cứu từ Kaspersky ghi nhận mã độc cửa sau có tên Keenadu đã được cài sẵn trên 220.000 thiết bị Android trong 10 tháng đầu năm 2026. Phần mềm độc hại này có khả năng tự động hiển thị quảng cáo gian lận và tải thêm các tệp tin nguy hiểm về máy.",
+      "hot_level": 3,
+      "hot_reason": "Sự cố bảo mật quy mô lớn đe dọa trực tiếp đến sự an toàn của người dùng hệ sinh thái Android.",
+      "source": "Neowin",
+      "url": "https://www.neowin.net/news/backdoor-malware-found-preinstalled-on-220000-android-devices-study-finds/?utm_source=rss",
+      "source_title": "Backdoor malware found preinstalled on 220,000 Android devices, study finds",
+      "related_urls": [],
+      "signals": {
+        "outlets": [
+          "Neowin"
+        ],
+        "techmeme": false,
+        "hn_points": 0,
+        "trends": [],
+        "score": 1.0
+      }
+    }
+  ]
+}
