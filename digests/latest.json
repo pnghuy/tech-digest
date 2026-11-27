@@ -1,123 +1,109 @@
 {
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T04:54:13.569094+07:00",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T04:54:25.374394+07:00",
   "items": [
     {
       "rank": 1,
-      "title_vi": "Nvidia dừng giao máy chủ và chip AI tới 4 nước Đông Nam Á",
-      "summary_vi": "Nvidia đã yêu cầu các đối tác tạm ngừng chuyển giao máy chủ và chip AI tới Malaysia, Singapore, Thái Lan và Indonesia. Quyết định diễn ra khi Mỹ siết chặt kiểm soát xuất khẩu nhằm ngăn chặn các nhà phát triển Trung Quốc tiếp cận hạ tầng điện toán đám mây tại khu vực.",
+      "title_vi": "OpenAI kiện ngược Apple vi phạm bí mật thương mại và đe dọa chuỗi cung ứng",
+      "summary_vi": "OpenAI đã đệ đơn kiện ngược Apple với cáo buộc đánh cắp bí mật thương mại và đe dọa các nhà cung ứng linh kiện thiết bị mới của hãng. Động thái này đẩy mâu thuẫn pháp lý giữa hai gã khổng lồ công nghệ lên nấc thang mới.",
       "hot_level": 5,
-      "hot_reason": "Sự kiện cấm vận công nghệ lớn ảnh hưởng trực tiếp tới khu vực Đông Nam Á và chuỗi cung ứng chip AI toàn cầu.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "source_title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "hot_reason": "Cuộc chiến pháp lý trực tiếp giữa hai thế lực AI và di động lớn nhất thế giới thu hút sự chú ý cực lớn",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/",
+      "source_title": "OpenAI countersues Apple, alleging trade secret theft and supplier threats",
       "related_urls": [
-        "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
-        "https://www.tomshardware.com/tech-industry/policy/nvidia-stops-ai-gpu-shipments-to-southeast-asia-report-claims-data-centers-in-singapore-other-countries-in-trouble-as-commerce-department-requires-cloud-providers-to-obtain-export-license",
-        "https://www.neowin.net/news/nvidia-reportedly-halts-ai-server-shipments-to-four-southeast-asian-countries/?utm_source=rss"
+        "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/"
       ],
       "signals": {
         "outlets": [
-          "Engadget",
-          "Neowin",
-          "TechCrunch",
-          "Tom's Hardware"
+          "9to5Mac",
+          "Engadget"
         ],
-        "techmeme": false,
+        "techmeme": true,
         "hn_points": 0,
         "trends": [],
-        "score": 7.0
+        "score": 6.0
       }
     },
     {
       "rank": 2,
-      "title_vi": "Apple dự kiến làm mới hoàn toàn hệ thống thông báo trên iOS 28",
-      "summary_vi": "Nguồn tin rò rỉ cho biết Apple đang chuẩn bị cuộc đại tu hệ thống thông báo trên iPhone thông qua bản cập nhật iOS 28 ra mắt vào năm sau. Động thái này nhằm cạnh tranh với các tính năng sắp xếp thông báo thông minh vừa xuất hiện trên Android.",
-      "hot_level": 4,
-      "hot_reason": "Tin đồn nâng cấp hệ điều hành iOS của Apple luôn nhận được sự quan tâm rất lớn từ người dùng Việt Nam.",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/11/26/ios-28-to-revamp-iphone-notifications-per-report/",
-      "source_title": "iOS 28 to ‘revamp’ iPhone notifications, per report",
-      "related_urls": [
-        "https://www.gsmarena.com/apple_reportedly_revamping_notifications_once_again_with_ios_28-news-75646.php",
-        "https://www.macrumors.com/2026/11/25/rumor-ios-28-to-revamp-notifications/"
-      ],
+      "title_vi": "Hệ thống đám mây của Không quân Mỹ bị tin tặc xâm nhập",
+      "summary_vi": "Các tin tặc đã xâm nhập thành công vào hạ tầng điện toán đám mây trọng yếu của Không quân Mỹ và sự cố được phát hiện trong đợt nâng cấp hệ thống gần đây. Vụ việc làm dấy lên lo ngại về nguy cơ rò rỉ dữ liệu quân sự nhạy cảm.",
+      "hot_level": 5,
+      "hot_reason": "Sự cố an ninh mạng nghiêm trọng nhắm vào hạ tầng quân sự thu hút thảo luận lớn trên thế giới",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems/",
+      "source_title": "Hackers reportedly infiltrated the Air Force's cloud systems",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "9to5Mac",
-          "GSMArena",
-          "MacRumors"
+          "Engadget"
         ],
-        "techmeme": false,
-        "hn_points": 0,
+        "techmeme": true,
+        "hn_points": 287,
         "trends": [],
-        "score": 5.0
+        "score": 6.87
       }
     },
     {
       "rank": 3,
-      "title_vi": "OpenAI cảnh báo người dùng ChatGPT trả phí sẽ nhanh chạm giới hạn sử dụng",
-      "summary_vi": "OpenAI thông báo gộp hai trải nghiệm Chat và Work vào một bộ đếm hạn mức duy nhất. Thay đổi này khiến những người dùng thường xuyên của các gói ChatGPT trả phí có thể chạm mốc giới hạn sớm hơn trước.",
+      "title_vi": "Phát hiện chip cấm NVIDIA được lắp đặt tại trung tâm dữ liệu ở Trung Quốc",
+      "summary_vi": "Báo cáo điều tra cho thấy các hệ thống máy chủ rack chứa chip GB300 vốn thuộc diện hạn chế của NVIDIA đã xuất hiện tại một trung tâm dữ liệu ở Trung Quốc. Nguồn gốc thiết bị được truy vết liên quan đến chuỗi cung ứng của Gigabyte Technology.",
       "hot_level": 4,
-      "hot_reason": "ChatGPT có lượng người dùng trả phí đông đảo và việc thắt chặt hạn mức sử dụng ảnh hưởng trực tiếp tới công việc của họ.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "source_title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "related_urls": [
-        "https://www.neowin.net/news/paying-chatgpt-users-will-hit-gpt-62-limits-faster-after-openai-fixes-a-launch-mistake/?utm_source=rss"
-      ],
+      "hot_reason": "Diễn biến nóng về cấm vận chip bán dẫn AI và việc rò rỉ phần cứng NVIDIA sang Trung Quốc",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
+      "source_title": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
+      "related_urls": [],
       "signals": {
         "outlets": [
-          "Neowin",
-          "TechCrunch"
+          "Engadget"
         ],
         "techmeme": true,
         "hn_points": 0,
         "trends": [],
-        "score": 5.0
+        "score": 4.0
       }
     },
     {
       "rank": 4,
-      "title_vi": "Nhân viên Rockstar Games bỏ phiếu bác bỏ đề xuất thành lập công đoàn",
-      "summary_vi": "Các nhà phát triển dự án Grand Theft Auto VI tại Rockstar Games đã bỏ phiếu không thông qua thỏa thuận công nhận công đoàn. Trong số 1.544 nhân viên tham gia bỏ phiếu, chỉ có 25% đưa ra ý kiến đồng thuận.",
+      "title_vi": "Samsung phát triển chế độ thị giác AI mới cho ứng dụng camera Galaxy S27",
+      "summary_vi": "Samsung đang xây dựng chế độ Vision hỗ trợ AI tương tự Siri trên iOS cùng tính năng chụp chân dung tự động cho ứng dụng máy ảnh One UI 9.5. Các tính năng tân tiến này dự kiến sẽ chính thức cập bến trên dòng flagship Galaxy S27.",
       "hot_level": 4,
-      "hot_reason": "Vấn đề nội bộ tại studio phát triển bom tấn GTA 6 nhận được sự chú ý đặc biệt từ cộng đồng công nghệ và game thủ.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
-      "source_title": "GTA VI developers vote against unionization",
+      "hot_reason": "Nâng cấp tính năng camera AI trực tiếp trên dòng Galaxy S tiếp theo rất được người dùng Việt Nam chú ý",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-5-camera-vision-mode-auto-portrait-apk-teardown-3740793/",
+      "source_title": "Samsung is building a Siri-style Vision mode for its Camera app, along with Auto portrait",
       "related_urls": [
-        "https://wccftech.com/grand-theft-auto-vi-rockstar-workers-reject-union-recognition/",
-        "https://www.engadget.com/2329177/workers-gta-6-studio-rockstar-games-vote-against-union-recognition/"
+        "https://www.engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/"
       ],
       "signals": {
         "outlets": [
-          "Engadget",
-          "The Verge",
-          "Wccftech"
+          "Android Authority",
+          "Engadget"
         ],
-        "techmeme": true,
+        "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 8.0
+        "score": 3.0
       }
     },
     {
       "rank": 5,
-      "title_vi": "Mạng xã hội X bổ sung tính năng quản lý của phụ huynh sau 20 năm",
-      "summary_vi": "Nền tảng X của Elon Musk vừa bổ sung tính năng kiểm soát dành cho phụ huynh có con trong độ tuổi thanh thiếu niên. Công cụ này cho phép cha mẹ quản lý nội dung xuất hiện trên bảng tin của con cái nhưng cần sự đồng ý từ tài khoản của trẻ.",
-      "hot_level": 3,
-      "hot_reason": "Bản cập nhật lớn liên quan đến bảo vệ người dùng vị thành niên trên nền tảng mạng xã hội phổ biến X.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
-      "source_title": "X finally gets parental controls after 20 years",
+      "title_vi": "ChatGPT trên Android sắp có thể gọi điện, nhắn tin và đọc màn hình thay người dùng",
+      "summary_vi": "Bản cập nhật ứng dụng ChatGPT cho Android vừa hé lộ các đoạn mã cho phép trợ lý AI thực hiện cuộc gọi, gửi tin nhắn SMS và quan sát màn hình. Tính năng này giúp ChatGPT cạnh tranh trực tiếp vai trò trợ lý mặc định với Google Gemini trên hệ sinh thái Android.",
+      "hot_level": 4,
+      "hot_reason": "Bước tiến lớn biến ChatGPT thành trợ lý thông minh toàn năng can thiệp sâu vào hệ thống Android",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/chatgpt-android-call-text-view-screen-3740765/",
+      "source_title": "ChatGPT is eyeing Gemini’s job on Android, with ability to make calls, send texts, and more",
       "related_urls": [
-        "https://9to5mac.com/2026/11/26/x-finally-gets-six-parental-controls-for-teen-accounts-but-kids-must-consent/"
+        "https://www.gsmarena.com/chatgpt_for_android_could_soon_make_calls_and_send_texts-news-75677.php"
       ],
       "signals": {
         "outlets": [
-          "9to5Mac",
-          "TechCrunch"
+          "Android Authority",
+          "GSMArena"
         ],
         "techmeme": false,
         "hn_points": 0,
@@ -127,73 +113,79 @@
     },
     {
       "rank": 6,
-      "title_vi": "AMD ra mắt công nghệ RT-MLAS giảm 92% bộ nhớ Ray Tracing trên card RX 9070",
-      "summary_vi": "AMD giới thiệu công nghệ RT-MLAS giúp cấu trúc gia tốc dò tia xử lý nhanh hơn tới 3,7 lần trên Radeon RX 9070. Giải pháp mới cắt giảm đến 92% dung lượng bộ nhớ dành cho cấu trúc phân tầng BVH trong các tác vụ ray tracing thời gian thực.",
-      "hot_level": 3,
-      "hot_reason": "Cải tiến kiến trúc đồ họa quan trọng cho card màn hình thế hệ mới rất thu hút giới đam mê phần cứng PC.",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/amds-new-rt-mlas-technology-slashes-ray-tracing-bvh-memory-usage-by-92-delivers-up-to-3-7x-faster-rebuilds-on-radeon-rx-9070/",
-      "source_title": "AMD’s New RT-MLAS Technology Slashes Ray Tracing BVH Memory Usage By 92%, Delivers Up To 3.7X Faster Rebuilds On Radeon RX 9070",
-      "related_urls": [],
+      "title_vi": "WhatsApp thử nghiệm tính năng mua và cài đặt eSIM du lịch trực tiếp trong ứng dụng",
+      "summary_vi": "WhatsApp đang phát triển công cụ eSIM du lịch cho phép người dùng tìm kiếm, mua và kích hoạt dữ liệu di động quốc tế ngay trên ứng dụng mà không cần đổi app. Tính năng này đem lại sự tiện lợi lớn cho những người thường xuyên di chuyển giữa các quốc gia.",
+      "hot_level": 4,
+      "hot_reason": "Tính năng mới cực kỳ thực tế và tiện dụng cho hàng tỷ người dùng ứng dụng nhắn tin WhatsApp",
+      "source": "GSMArena",
+      "url": "https://www.gsmarena.com/whatsapp_could_soon_introduce_a_travel_esim_feature-news-75661.php",
+      "source_title": "WhatsApp could soon introduce a travel eSIM feature",
+      "related_urls": [
+        "https://www.neowin.net/news/youll-soon-be-able-to-buy-and-install-travel-e-sims-on-whatsapp/?utm_source=rss"
+      ],
       "signals": {
         "outlets": [
-          "Wccftech"
+          "GSMArena",
+          "Neowin"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 1.0
+        "score": 3.0
       }
     },
     {
       "rank": 7,
-      "title_vi": "Xiaomi 17 Ultra bản quốc tế bắt đầu nhận bản cập nhật HyperOS 4",
-      "summary_vi": "Xiaomi đã chính thức triển khai bản cập nhật hệ điều hành HyperOS 4 cho mẫu máy cao cấp Xiaomi 17 Ultra trên toàn cầu. Động thái này diễn ra sau đợt chậm trễ ngắn so với lịch trình dự kiến ban đầu.",
-      "hot_level": 3,
-      "hot_reason": "Bản nâng cấp phần mềm cho flagship đầu bảng của Xiaomi, thương hiệu rất được ưa chuộng tại Việt Nam.",
-      "source": "GSMArena",
-      "url": "https://www.gsmarena.com/global_xiaomi_17_ultra_starts_receiving_hyperos_4-news-75656.php",
-      "source_title": "Global Xiaomi 17 Ultra starts receiving HyperOS 4",
-      "related_urls": [],
+      "title_vi": "Rò rỉ iPhone 20 Pro sử dụng khung viền titan in 3D",
+      "summary_vi": "Nguồn tin rò rỉ từ chuỗi cung ứng cho biết Apple có thể áp dụng rộng rãi công nghệ in 3D kim loại titan cho khung viền của thế hệ iPhone 20 Pro. Đột phá này hứa hẹn tối ưu trọng lượng và độ bền cấu trúc của thân máy.",
+      "hot_level": 4,
+      "hot_reason": "Tin đồn công nghệ phần cứng và vật liệu mới trên thế hệ iPhone tương lai luôn thu hút tương tác cao",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/27/iphone-20-pro-3d-printed-titanium-frame/",
+      "source_title": "iPhone 20 Pro Rumored to Feature 3D-Printed Titanium Frame",
+      "related_urls": [
+        "https://9to5mac.com/2026/11/26/sketchy-suggestion-of-ceramic-iphone-20-pro/"
+      ],
       "signals": {
         "outlets": [
-          "GSMArena"
+          "9to5Mac",
+          "MacRumors"
         ],
         "techmeme": false,
         "hn_points": 0,
         "trends": [],
-        "score": 1.0
+        "score": 3.0
       }
     },
     {
       "rank": 8,
-      "title_vi": "Samsung phát triển giải pháp đám mây riêng tư cho Galaxy AI",
-      "summary_vi": "Dữ liệu bóc tách từ bản cập nhật One UI 9.5 Beta 1 hé lộ khung hệ thống có tên SPAC của Samsung. Nền tảng này sẽ xử lý các yêu cầu Galaxy AI trên đám mây dưới dạng ẩn danh tương tự giải pháp điện toán đám mây riêng của Apple.",
+      "title_vi": "Google sắp công khai địa chỉ của các nhà phát triển ứng dụng Android",
+      "summary_vi": "Google chuẩn bị công bố công khai thông tin nhận dạng và địa chỉ của các lập trình viên Android nhằm tuân thủ quy định pháp lý mới của châu Âu. Chính sách này đang vấp phải nhiều phản ứng gay gắt từ cộng đồng phát triển phần mềm vì lo ngại quyền riêng tư.",
       "hot_level": 3,
-      "hot_reason": "Tính năng mới liên quan đến quyền riêng tư và công nghệ AI trên các dòng điện thoại thông minh Galaxy.",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/samsung-one-ui-9-5-spac-private-cloud-galaxy-ai-apk-teardown-3739743/",
-      "source_title": "Exclusive: Samsung is working on a private cloud for Galaxy AI, and it could look a lot like Apple’s",
+      "hot_reason": "Chính sách gây tranh cãi lớn ảnh hưởng trực tiếp tới cộng đồng lập trình viên Android toàn cầu",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/",
+      "source_title": "Google will soon share Android developers' addresses publicly",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "Android Authority"
+          "Engadget"
         ],
         "techmeme": false,
-        "hn_points": 0,
+        "hn_points": 172,
         "trends": [],
-        "score": 1.0
+        "score": 1.72
       }
     },
     {
       "rank": 9,
-      "title_vi": "Samsung đưa loạt tính năng sức khỏe của Galaxy Watch 9 lên các thế hệ cũ",
-      "summary_vi": "Samsung bắt đầu cập nhật các tính năng theo dõi sức khỏe vốn chỉ có trên Galaxy Watch 9 xuống những mẫu smartwatch đời trước. Ngay cả người dùng các phiên bản cũ như Galaxy Watch 4 cũng được hỗ trợ đợt nâng cấp này.",
+      "title_vi": "Samsung để dành hơn 30 tính năng Galaxy AI độc quyền cho Galaxy S27",
+      "summary_vi": "Dữ liệu bóc tách từ One UI 9.5 cho thấy Samsung đang phân nhánh phiên bản Galaxy AI mới với hơn 30 tính năng độc quyền dành riêng cho Galaxy S27. Các thế hệ trước như Galaxy S26 sẽ không nhận được những nâng cấp trí tuệ nhân tạo chuyên sâu này.",
       "hot_level": 3,
-      "hot_reason": "Tin vui mang lại giá trị sử dụng trực tiếp cho đông đảo người dùng đồng hồ thông minh Samsung.",
+      "hot_reason": "Thông tin quan trọng về giới hạn nâng cấp tính năng AI giữa các thế hệ máy flagship Samsung",
       "source": "Android Authority",
-      "url": "https://www.androidauthority.com/galaxy-watch-9-health-features-older-watches-3740608/",
-      "source_title": "Samsung is bringing Galaxy Watch 9 health features to older Galaxy Watches",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-galaxy-ai-features-20271-one-ui-9-5-apk-teardown-3740860/",
+      "source_title": "Samsung is holding back these 30+ Galaxy AI features for the Galaxy S27",
       "related_urls": [],
       "signals": {
         "outlets": [
@@ -207,17 +199,17 @@
     },
     {
       "rank": 10,
-      "title_vi": "Phát hiện mã độc cửa sau cài sẵn trên 220.000 thiết bị Android",
-      "summary_vi": "Nghiên cứu từ Kaspersky ghi nhận mã độc cửa sau có tên Keenadu đã được cài sẵn trên 220.000 thiết bị Android trong 10 tháng đầu năm 2026. Phần mềm độc hại này có khả năng tự động hiển thị quảng cáo gian lận và tải thêm các tệp tin nguy hiểm về máy.",
+      "title_vi": "macOS 27.3 bổ sung thêm ba tính năng mới cho máy tính Mac vào tháng tới",
+      "summary_vi": "Apple dự kiến phát hành bản cập nhật macOS 27.3 song hành cùng iOS 27.3 vào tháng sau với ba tính năng bổ sung đáng chú ý cho hệ sinh thái Mac. Bản cập nhật tập trung nâng cao trải nghiệm làm việc và tính liên kết hệ thống cho người dùng.",
       "hot_level": 3,
-      "hot_reason": "Sự cố bảo mật quy mô lớn đe dọa trực tiếp đến sự an toàn của người dùng hệ sinh thái Android.",
-      "source": "Neowin",
-      "url": "https://www.neowin.net/news/backdoor-malware-found-preinstalled-on-220000-android-devices-study-finds/?utm_source=rss",
-      "source_title": "Backdoor malware found preinstalled on 220,000 Android devices, study finds",
+      "hot_reason": "Cập nhật hệ điều hành macOS chính thức từ Apple được nhiều người dùng máy tính Mac quan tâm",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/27/macos-27-3-adds-three-new-features-to-your-mac-heres-whats-coming/",
+      "source_title": "macOS 27.3 adds three new Mac features, here’s what’s coming",
       "related_urls": [],
       "signals": {
         "outlets": [
-          "Neowin"
+          "9to5Mac"
         ],
         "techmeme": false,
         "hn_points": 0,
